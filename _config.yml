@@ -1,0 +1,39 @@
+# Site settings
+title: Sustainability Science
+description: Resources for research and teaching in sustainability science
+url: "https://sustainabilityscience.org"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections for blog posts
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "blog/_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "course"
+    values:
+      layout: "course"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .DS_Store

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="blog-index">
+  <header class="blog-header">
+    <h1>The Sustainability Theorist</h1>
+    <p class="description">Essays on the conceptual foundations of sustainability science.</p>
+  </header>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.excerpt %}
+      <p class="excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  
+  {% if site.posts.size == 0 %}
+  <p><em>Posts coming soon.</em></p>
+  {% endif %}
+</div>

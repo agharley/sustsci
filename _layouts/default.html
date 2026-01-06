@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
+      <ul class="nav-links">
+        <li><a href="{{ '/course/' | relative_url }}" {% if page.url contains '/course' %}class="active"{% endif %}>Course</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>The Sustainability Theorist</a></li>
+        <li><a href="{{ '/keeping-up/' | relative_url }}" {% if page.url contains '/keeping-up' %}class="active"{% endif %}>Keeping Up</a></li>
+        <li><a href="{{ '/c4sd/' | relative_url }}" {% if page.url contains '/c4sd' %}class="active"{% endif %}>C4SD</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="site-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>© {{ 'now' | date: "%Y" }} Alicia Harley & William C. Clark</p>
+      <p>
+        <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> |
+        <a href="https://github.com/agharley/sustainabilityscience.org">View on GitHub</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
