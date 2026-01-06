@@ -2,7 +2,7 @@
 title: Sustainability Science
 description: Resources for research and teaching in sustainability science
 url: "https://sustainabilityscience.org"
-baseurl: ""
+baseurl: "/sustsci"
 
 # Build settings
 markdown: kramdown
