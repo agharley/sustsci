@@ -188,11 +188,71 @@ a:hover {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 var(--spacing) 4rem;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
+/* Full-width stacked cards with images */
+.section-card-full {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.section-card-full:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.section-card-full .card-image {
+  width: 200px;
+  min-height: 160px;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--color-bg-alt);
+}
+
+/* Placeholder colors for sections without images yet */
+.placeholder-course {
+  background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
+}
+
+.placeholder-theorist {
+  background: linear-gradient(135deg, #744210 0%, #975a16 100%);
+}
+
+.placeholder-keeping-up {
+  background: linear-gradient(135deg, #22543d 0%, #276749 100%);
+}
+
+.section-card-full .card-content {
+  padding: 1.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section-card-full h2 {
+  font-size: 1.35rem;
+  margin: 0 0 0.75rem;
+  color: var(--color-heading);
+}
+
+.section-card-full p {
+  color: var(--color-text-light);
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Old card style - keep for potential future use */
 .section-card {
   background: var(--color-bg);
   border: 1px solid var(--color-border);
@@ -480,7 +540,12 @@ a:hover {
     font-size: 2rem;
   }
   
-  .landing-sections {
+  .section-card-full {
     grid-template-columns: 1fr;
+  }
+  
+  .section-card-full .card-image {
+    width: 100%;
+    min-height: 120px;
   }
 }
