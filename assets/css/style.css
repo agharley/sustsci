@@ -1,6 +1,6 @@
 /* ==========================================================================
    Sustainability Science - Main Stylesheet
-   Clean, academic aesthetic - restored original layout
+   Clean, academic aesthetic with refined course layout
    ========================================================================== */
 
 /* CSS Variables */
@@ -15,7 +15,8 @@
   --color-link-hover: #1a4f72;
   --color-bg: #ffffff;
   --color-bg-alt: #f8f9fa;
-  --color-border: #e1e4e8;
+  --color-border: #e9ecef;
+  --color-border-light: #f0f2f4;
   --color-accent: #27ae60;
   
   --max-width: 1200px;
@@ -77,7 +78,7 @@ a:hover {
    ========================================================================== */
 
 .site-header {
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border-light);
   padding: 0.75rem 0;
   background: var(--color-bg);
   position: sticky;
@@ -184,7 +185,7 @@ a:hover {
 .section-card-full {
   display: flex;
   background: var(--color-bg);
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--color-border-light);
   border-radius: 6px;
   overflow: hidden;
   text-decoration: none;
@@ -245,7 +246,7 @@ a:hover {
   max-width: var(--content-width);
   margin: 0 auto;
   padding: 2rem var(--spacing);
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border-light);
 }
 
 .landing-about p {
@@ -263,7 +264,7 @@ a:hover {
    ========================================================================== */
 
 .site-footer {
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border-light);
   background: var(--color-bg-alt);
   padding: 1.5rem 0;
 }
@@ -320,7 +321,7 @@ a:hover {
   margin: 1.5rem auto;
   padding: 1.5rem 2rem;
   background: var(--color-bg);
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--color-border-light);
   border-radius: 4px;
 }
 
@@ -355,7 +356,7 @@ a:hover {
 
 .post-list li {
   padding: 1.25rem 0;
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border-light);
 }
 
 .post-list li:first-child {
@@ -411,7 +412,7 @@ a:hover {
 
 .post-footer {
   padding-top: 1.5rem;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border-light);
 }
 
 .post-footer a {
@@ -420,10 +421,16 @@ a:hover {
 }
 
 /* ==========================================================================
-   COURSE LAYOUT
+   COURSE LAYOUT - BANNER
    ========================================================================== */
 
-/* Course Banner */
+.course-site {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Course Banner Base */
 .course-banner {
   background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
   background-color: #0a1628;
@@ -449,48 +456,60 @@ a:hover {
   opacity: 0.9;
 }
 
-/* Medium banner for course home */
-.course-banner-medium {
-  padding: 2rem 1.5rem;
+/* Large banner for course home */
+.course-banner-large {
+  padding: 5rem 1.5rem;
 }
 
-.course-banner-medium h1 {
-  font-size: 2rem;
+.course-banner-large h1 {
+  font-size: 2.75rem;
 }
 
-.course-banner-medium p {
-  font-size: 1.1rem;
+.course-banner-large p {
+  font-size: 1.25rem;
 }
 
 /* Small banner for unit pages */
 .course-banner-small {
-  padding: 0.75rem 1.5rem;
+  padding: 0.6rem 1.5rem;
 }
 
-.course-banner-small h1 {
-  font-size: 1rem;
+.course-banner-small .course-banner-inner {
+  text-align: left;
+}
+
+.banner-home-link {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
   font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.5);
 }
 
-.course-banner-small p {
-  display: none;
+.banner-home-link:hover {
+  color: #fff;
+  text-decoration: underline;
 }
 
-/* Course Header */
-.course-header {
+/* ==========================================================================
+   COURSE LAYOUT - NAV BAR
+   ========================================================================== */
+
+.course-nav-bar {
   background: var(--color-bg);
-  border-bottom: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border-light);
   padding: 0.5rem 1.5rem;
 }
 
-.course-header-inner {
+.course-nav-bar-inner {
   max-width: var(--max-width);
   margin: 0 auto;
 }
 
 .course-back-link {
   font-family: var(--font-sans);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   color: var(--color-text-light);
 }
 
@@ -498,87 +517,257 @@ a:hover {
   color: var(--color-link);
 }
 
-/* Course Container */
-.course-container {
+/* ==========================================================================
+   COURSE LAYOUT - TWO COLUMN (Content + Sidebar)
+   ========================================================================== */
+
+.course-layout {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  gap: 3rem;
+  flex: 1;
+}
+
+.course-content {
+  flex: 1;
+  min-width: 0;
   max-width: var(--content-width);
-  margin: 1.5rem auto;
-  padding: 1.5rem 2rem;
-  background: var(--color-bg);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
 }
 
-/* Course Navigation */
-.course-nav {
-  margin: 1.5rem 0;
-  padding: 1rem;
-  background: var(--color-bg-alt);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
+.course-content h1:first-child {
+  margin-top: 0;
 }
 
-.course-nav h3 {
-  font-size: 0.85rem;
+/* ==========================================================================
+   COURSE LAYOUT - SIDEBAR
+   ========================================================================== */
+
+.course-sidebar {
+  width: 260px;
+  flex-shrink: 0;
+}
+
+.sidebar-nav {
+  position: sticky;
+  top: 1.5rem;
+}
+
+.sidebar-section {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.sidebar-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.sidebar-heading {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--color-text-light);
   margin: 0 0 0.75rem 0;
-  border-bottom: none;
-  padding-bottom: 0;
 }
 
-.course-nav-section {
-  margin-bottom: 1rem;
-}
-
-.course-nav-section:last-child {
-  margin-bottom: 0;
-}
-
-.course-nav-title {
+.sidebar-link {
+  display: block;
   font-family: var(--font-sans);
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: var(--color-text);
-  margin-bottom: 0.4rem;
-}
-
-.course-nav-links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.course-nav-links li {
-  margin-bottom: 0.2rem;
-}
-
-.course-nav-links a {
   font-size: 0.85rem;
   color: var(--color-text-light);
+  padding: 0.25rem 0;
+  text-decoration: none;
 }
 
-.course-nav-links a:hover,
-.course-nav-links a.active {
+.sidebar-link:hover {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.sidebar-link.active {
+  color: var(--color-heading);
+  font-weight: 600;
+}
+
+/* Sidebar Parts */
+.sidebar-part {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-part-title {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-text);
+  padding: 0.3rem 0;
+  text-decoration: none;
+}
+
+.sidebar-part-title:hover {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.sidebar-part-title.active {
+  color: var(--color-link);
+  font-weight: 600;
+}
+
+/* Sidebar Units (within expanded parts) */
+.sidebar-units {
+  list-style: none;
+  margin: 0.25rem 0 0.5rem 0;
+  padding: 0 0 0 0.75rem;
+  border-left: 2px solid var(--color-border-light);
+}
+
+.sidebar-units li {
+  margin: 0;
+}
+
+.sidebar-units a {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+  padding: 0.2rem 0 0.2rem 0.5rem;
+  text-decoration: none;
+}
+
+.sidebar-units a:hover {
   color: var(--color-link);
 }
 
-/* Course Footer */
-.course-footer {
+.sidebar-units a.active {
+  color: var(--color-heading);
+  font-weight: 600;
+}
+
+/* ==========================================================================
+   COURSE LAYOUT - PDF DOWNLOAD BUTTON
+   ========================================================================== */
+
+.unit-pdf-download {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border-light);
+}
+
+.pdf-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.1rem;
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.pdf-button:hover {
+  background: #eef1f4;
+  border-color: #d0d7de;
+  color: var(--color-heading);
+  text-decoration: none;
+}
+
+.pdf-icon {
+  font-size: 1rem;
+  opacity: 0.7;
+}
+
+/* ==========================================================================
+   COURSE LAYOUT - UNIT FOOTER
+   ========================================================================== */
+
+.course-unit-footer {
   margin-top: 2rem;
   padding-top: 1rem;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border-light);
   font-family: var(--font-sans);
   font-size: 0.8rem;
   color: var(--color-text-light);
 }
 
-.course-footer a {
+.course-unit-footer a {
   color: var(--color-text-light);
 }
 
-.course-footer p {
-  margin: 0.2rem 0;
+.course-unit-footer p {
+  margin: 0;
+}
+
+/* ==========================================================================
+   COURSE LAYOUT - HOME PAGE FOOTER (Full)
+   ========================================================================== */
+
+.course-home-container {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem var(--spacing);
+  flex: 1;
+}
+
+.course-home-container h1:first-child {
+  margin-top: 0;
+}
+
+.course-footer-full {
+  border-top: 1px solid var(--color-border-light);
+  background: var(--color-bg-alt);
+  padding: 2rem var(--spacing);
+  margin-top: auto;
+}
+
+.course-footer-inner {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+}
+
+.course-footer-inner p {
+  margin: 0.4rem 0;
+}
+
+.course-footer-inner a {
+  color: var(--color-link);
+}
+
+.footer-free {
+  margin-bottom: 1rem !important;
+}
+
+.footer-copyright {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.footer-contact {
+  margin-top: 1rem !important;
+}
+
+.footer-links {
+  margin-top: 1rem !important;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border-light);
+}
+
+.footer-sep {
+  margin: 0 0.75rem;
+  color: var(--color-border);
 }
 
 /* ==========================================================================
@@ -595,13 +784,13 @@ a:hover {
 .section-card {
   padding: 1.25rem;
   background: var(--color-bg-alt);
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--color-border-light);
   border-radius: 4px;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 
 .section-card:hover {
-  border-color: #c8d1d9;
+  border-color: #d0d7de;
   box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 }
 
@@ -631,22 +820,22 @@ a:hover {
 /* Colored card variants */
 .section-card.card-course {
   background: #e8f4f8;
-  border-color: #c5dce6;
+  border-color: #d4e5ec;
 }
 
 .section-card.card-blog {
   background: #fef9e7;
-  border-color: #e6dbb8;
+  border-color: #ede4c8;
 }
 
 .section-card.card-keeping {
   background: #f0f7f0;
-  border-color: #c3dcc3;
+  border-color: #d4e5d4;
 }
 
 .section-card.card-c4sd {
   background: #f5f0fa;
-  border-color: #d4c4e8;
+  border-color: #e0d4eb;
 }
 
 /* Sub-page cards */
@@ -656,50 +845,6 @@ a:hover {
 
 .section-card.card-sub h3 {
   font-size: 1rem;
-}
-
-/* ==========================================================================
-   EARTH BANNER (for sub-pages with banner)
-   ========================================================================== */
-
-.earth-banner {
-  background: url('/sustsci/assets/images/earth-at-night.jpg') center/cover no-repeat;
-  background-color: #0a1628;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.earth-banner-inner {
-  text-align: center;
-  color: #fff;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
-  padding: 0 1.5rem;
-}
-
-.earth-banner h1 {
-  margin: 0;
-  color: #fff;
-  font-weight: 600;
-}
-
-.earth-banner p {
-  margin: 0.4rem 0 0 0;
-  font-family: var(--font-sans);
-  opacity: 0.9;
-}
-
-.earth-banner-small {
-  height: 100px;
-  padding: 0.75rem;
-}
-
-.earth-banner-small h1 {
-  font-size: 1.4rem;
-}
-
-.earth-banner-small p {
-  font-size: 0.95rem;
 }
 
 /* ==========================================================================
@@ -716,7 +861,7 @@ table {
 th, td {
   padding: 0.6rem 0.8rem;
   text-align: left;
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--color-border-light);
 }
 
 th {
@@ -744,23 +889,6 @@ th {
   margin-bottom: 1.25rem;
 }
 
-.pdf-link {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  background: var(--color-link);
-  color: #fff;
-  border-radius: 4px;
-  font-family: var(--font-sans);
-  font-size: 0.85rem;
-  text-decoration: none;
-  margin-top: 1rem;
-}
-
-.pdf-link:hover {
-  background: var(--color-link-hover);
-  text-decoration: none;
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -771,7 +899,7 @@ img {
 blockquote {
   margin: 1.25rem 0;
   padding: 0.75rem 1.25rem;
-  border-left: 3px solid #c8d1d9;
+  border-left: 3px solid #d0d7de;
   background: var(--color-bg-alt);
   color: var(--color-text-light);
   font-style: italic;
@@ -783,7 +911,7 @@ blockquote p:last-child {
 
 hr {
   border: none;
-  border-top: 1px solid var(--color-border);
+  border-top: 1px solid var(--color-border-light);
   margin: 1.5rem 0;
 }
 
@@ -805,9 +933,24 @@ sup {
    RESPONSIVE
    ========================================================================== */
 
+@media (max-width: 900px) {
+  .course-layout {
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .course-sidebar {
+    width: 100%;
+    order: -1;
+  }
+  
+  .sidebar-nav {
+    position: static;
+  }
+}
+
 @media (max-width: 800px) {
-  .page-container,
-  .course-container {
+  .page-container {
     margin: 1rem;
     padding: 1rem 1.25rem;
   }
@@ -844,12 +987,16 @@ sup {
     min-height: 100px;
   }
   
-  .course-banner-medium {
-    padding: 1.5rem 1rem;
+  .course-banner-large {
+    padding: 3rem 1rem;
   }
   
-  .course-banner-medium h1 {
-    font-size: 1.6rem;
+  .course-banner-large h1 {
+    font-size: 2rem;
+  }
+  
+  .course-layout {
+    padding: 1.5rem 1rem;
   }
 }
 
@@ -857,13 +1004,16 @@ sup {
 @media print {
   .site-header,
   .site-footer,
-  .course-header,
-  .course-nav {
+  .course-nav-bar,
+  .course-sidebar {
     display: none;
   }
   
-  .page-container,
-  .course-container {
+  .course-layout {
+    display: block;
+  }
+  
+  .page-container {
     border: none;
     margin: 0;
     padding: 0;

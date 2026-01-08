@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course</title>
+  <meta name="description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <link rel="icon" type="image/png" href="{{ '/course/images/favicon.png' | relative_url }}">
+  
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course">
+  <meta property="og:description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course">
+  <meta name="twitter:description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <meta name="twitter:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  
+  <!-- Canonical -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body class="course-site">
+  <!-- Large Earth at Night Hero for Course Home -->
+  <header class="course-banner course-banner-large">
+    <div class="course-banner-inner">
+      <h1>Sustainable Development</h1>
+      <p>A course linking science with practice</p>
+    </div>
+  </header>
+
+  <div class="course-layout">
+    <!-- Main Content -->
+    <main class="course-home-container">
+      {{ content }}
+    </main>
+
+    <!-- Right Sidebar TOC -->
+    <aside class="course-sidebar">
+      <nav class="sidebar-nav">
+        <div class="sidebar-section">
+          <a href="{{ '/course/about/' | relative_url }}" class="sidebar-link">About the Course</a>
+          <a href="{{ '/course/creators/' | relative_url }}" class="sidebar-link">Course Creators</a>
+        </div>
+
+        <div class="sidebar-section">
+          <h4 class="sidebar-heading">Course Structure</h4>
+          
+          <div class="sidebar-part">
+            <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title">Part 0: Introduction</a>
+          </div>
+          
+          <div class="sidebar-part">
+            <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title">Part I: Conceptual Challenge</a>
+          </div>
+          
+          <div class="sidebar-part">
+            <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title">Part II: The Anthropocene</a>
+          </div>
+          
+          <div class="sidebar-part">
+            <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title">Part III: Capacities</a>
+          </div>
+          
+          <div class="sidebar-part">
+            <a href="{{ '/course/part-4-next-steps/' | relative_url }}" class="sidebar-part-title">Part IV: What's Next</a>
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <h4 class="sidebar-heading">Course Library</h4>
+          <a href="{{ '/course/course-library/teaching-cases/' | relative_url }}" class="sidebar-link">Teaching Cases</a>
+          <a href="{{ '/course/course-library/learning-games/' | relative_url }}" class="sidebar-link">Learning Games</a>
+          <a href="{{ '/course/course-library/readings/' | relative_url }}" class="sidebar-link">Readings</a>
+        </div>
+      </nav>
+    </aside>
+  </div>
+
+  <footer class="course-footer-full">
+    <div class="course-footer-inner">
+      <p class="footer-free"><em>All materials are free to download and share.</em></p>
+      
+      <p class="footer-copyright">© Alicia Harley & William C. Clark, 2025.</p>
+      
+      <p>This material is Open Access and made available under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY 4.0) license</a>.</p>
+      
+      <p>In addition, the authors grant to the President and Fellows of Harvard College a nonexclusive, irrevocable, worldwide license to exercise any and all rights under copyright relating to this material, reproduced in any medium, provided that the material is not sold for a profit.</p>
+      
+      <p class="footer-contact">For questions, contact <a href="https://scholar.harvard.edu/aharley">Alicia G. Harley</a>: <a href="mailto:alicia_harley@hks.harvard.edu">alicia_harley@hks.harvard.edu</a></p>
+      
+      <p class="footer-links">
+        <a href="https://github.com/agharley/sustsci">View source on GitHub</a>
+        <span class="footer-sep">·</span>
+        <a href="{{ '/' | relative_url }}">← sustainabilityscience.org</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
