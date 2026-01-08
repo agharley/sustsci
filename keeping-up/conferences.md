@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conferences
+description: Curated list of academic conferences relevant to sustainability science research, with dates, locations, and submission deadlines.
 ---
 
 # Conferences

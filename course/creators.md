@@ -1,0 +1,69 @@
+---
+layout: course-unit
+title: Course Creators
+---
+
+# Course Creators
+
+This open-access course represents over two decades of collaborative teaching and learning about sustainable development. We—William Clark and Alicia Harley—have worked together at [Harvard's Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program) to develop an approach that moves beyond the traditional silos of environmental science, economics, and policy to offer an integrated framework for understanding and advancing sustainability.
+
+We created this course because we believe that understanding sustainability requires both rigorous analytical frameworks and deep engagement with real-world complexity. Over years of teaching undergraduate, graduate, and executive students, we've learned that the most effective approach combines generalizable theory with place-based case studies that reveal how context shapes both challenges and solutions.
+
+Our motivation for making this course open access and freely available stems from the conviction that the opportunity to learn about the latest work in sustainability should not be confined to those with access to elite institutions. And that the opportunity to teach about that work should not be confined to educators trained in the multiple disciplines that the field involves. The challenges facing our planet require diverse perspectives, local knowledge, and global collaboration. By sharing these materials openly, we hope to contribute to a growing community of sustainability advocates—from students to policymakers to community organizers—who are working to bend the curve of development toward a more just and sustainable future.
+
+This course emerged from extensive collaboration with colleagues and students who have challenged us to continually refine our approach. We're grateful to all who have contributed to making these materials clearer, more relevant, and more actionable. We thank Harvard University and Italy's Ministry for Environment, Land and Sea for financial support. We offer the course now to all in the spirit of continued collaboration and learning.
+
+---
+
+<div class="creator-bio">
+  <div class="bio-text">
+    <p><a href="https://harley.scholars.harvard.edu/"><strong>Alicia Harley</strong></a> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.</p>
+  </div>
+  <div class="bio-image">
+    <img src="/course/images/alicia-harley.jpg" alt="Alicia Harley">
+  </div>
+</div>
+
+<div class="creator-bio">
+  <div class="bio-text">
+    <p><a href="https://www.hks.harvard.edu/faculty/william-clark"><strong>William Clark</strong></a> is the Harvey Brooks Research Professor of International Science, Public Policy and Human Development at Harvard Kennedy School. His research focuses on sustainability science and how knowledge can be harnessed for sustainable development.</p>
+  </div>
+  <div class="bio-image">
+    <img src="/course/images/bill-clark.jpg" alt="William Clark">
+  </div>
+</div>
+
+<style>
+.creator-bio {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.bio-text {
+  flex: 1;
+}
+
+.bio-image {
+  flex: 0 0 200px;
+}
+
+.bio-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  .creator-bio {
+    flex-direction: column;
+  }
+  
+  .bio-image {
+    flex: 0 0 auto;
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+</style>

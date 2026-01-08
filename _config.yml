@@ -1,8 +1,20 @@
 # Site settings
 title: Sustainability Science
-description: Resources for research and teaching in sustainability science
-url: "https://sustainabilityscience.org"
+description: A resource for sustainability science research and teaching. Currently supported by Harvard Kennedy School's Sustainability Science Program.
+url: "https://agharley.github.io"
 baseurl: "/sustsci"
+
+# Author info (for SEO)
+author:
+  name: Alicia C. Harley & William C. Clark
+
+# Social (for Open Graph)
+social:
+  name: Sustainability Science Program
+  
+# Plugins
+plugins:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown

@@ -3,25 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  <title>{{ site.title }} | Resources for Research and Teaching</title>
+  <meta name="description" content="{{ site.description }}">
   
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
-  <meta property="og:description" content="{{ page.description | default: site.description }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
-  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
   <meta name="twitter:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
   
   <!-- Canonical -->
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -32,19 +32,29 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
-      <nav class="site-nav">
-        <a href="{{ '/course/' | relative_url }}" {% if page.url contains '/course' %}class="active"{% endif %}>Course</a>
-        <a href="{{ '/c4sd/' | relative_url }}" {% if page.url contains '/c4sd' %}class="active"{% endif %}>C4SD</a>
-        <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a>
-        <a href="{{ '/keeping-up/' | relative_url }}" {% if page.url contains '/keeping-up' %}class="active"{% endif %}>Keeping Up</a>
-      </nav>
+  <!-- Earth at Night Banner (large, first) -->
+  <header class="earth-banner earth-banner-large">
+    <div class="earth-banner-inner">
+      <h1>Sustainability Science</h1>
+      <p>Resources for research and teaching on sustainable development</p>
     </div>
   </header>
 
-  {{ content }}
+  <nav class="site-header">
+    <div class="site-header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
+      <nav class="site-nav">
+        <a href="{{ '/course/' | relative_url }}">Course</a>
+        <a href="{{ '/c4sd/' | relative_url }}">C4SD</a>
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        <a href="{{ '/keeping-up/' | relative_url }}">Keeping Up</a>
+      </nav>
+    </div>
+  </nav>
+
+  <main class="page-container">
+    {{ content }}
+  </main>
 
   <footer class="site-footer">
     <p>© {{ 'now' | date: "%Y" }} <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> & William C. Clark</p>

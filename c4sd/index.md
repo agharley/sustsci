@@ -1,37 +1,33 @@
 ---
-layout: page
+layout: page-banner
 title: Capacity Building for Sustainable Development
+subtitle: C4SD Research Project
+description: The C4SD research project explores six strategic capacities for sustainable development through empirical research and practitioner dialogue.
 ---
 
-The C4SD research project explores what it takes to build the capacities societies need to pursue sustainable development. Our work identifies six strategic capacities, examines how they develop (or fail to develop) in practice, and explores how practitioners and scholars can strengthen them.
+The Capacity Building for Sustainable Development (C4SD) research project investigates the strategic capacities needed to advance sustainable development.
 
-## The Six Capacities
+Building on the framework developed in [Clark & Harley (2020)](https://doi.org/10.1146/annurev-environ-012220-010134), the project focuses on six capacities:
 
-Building on two decades of research in sustainability science, we argue that the pursuit of sustainable development requires strengthening societal capacities to:
-
-1. **Promote equity** — within and across generations
-2. **Measure progress** — toward goals that matter
-3. **Adapt to shocks** — while maintaining core functions
-4. **Transform pathways** — when adaptation isn't enough
-5. **Govern cooperatively** — across scales and sectors
-6. **Link knowledge with action** — bridging research and practice
-
-These capacities are developed in detail in Clark & Harley (2020), "[Sustainability Science: Toward a Synthesis](https://doi.org/10.1146/annurev-environ-012420-043621)."
-
-## Seminar Series
-
-We convene regular seminar series bringing together researchers and practitioners to explore capacity building in specific domains.
-
-**Spring 2026: Building Capacity in Global Food Systems**  
-*Details coming soon*
-
-**Spring 2025: Capacities for Sustainable Development**  
-Our inaugural series featured three speakers per session exploring each of the six capacities. Sessions drew 100-300 attendees and are archived [here](#).
-
-## Research
-
-Our empirical research focuses on agricultural innovation systems in South Asia, examining how capacities develop in the context of technologies like drip irrigation and solar irrigation across Bangladesh, India, Nepal, and Pakistan.
+- **Promoting equity** among people and generations
+- **Measuring progress** toward sustainability goals
+- **Adapting** to shocks and stresses
+- **Transforming** development pathways
+- **Governing cooperatively** across scales
+- **Linking knowledge with action**
 
 ---
 
-*C4SD is led by [Alicia Harley](https://aliciaharley.com) in collaboration with [William C. Clark](https://www.hks.harvard.edu/faculty/william-clark) through the [Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program) at Harvard Kennedy School.*
+## Current Work
+
+*Content coming soon.*
+
+---
+
+## Seminars
+
+*Information about the C4SD seminar series will be posted here.*
+
+---
+
+For more information, visit the [Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program) at Harvard Kennedy School.

@@ -1,322 +1,507 @@
-/* ==========================================================================
-   Sustainability Science - Main Stylesheet
-   Clean, academic aesthetic inspired by aliciaharley.com
-   ========================================================================== */
+/* ============================================
+   Sustainability Science
+   Clean academic aesthetic
+   ============================================ */
 
-/* CSS Variables */
+/* --- CSS Variables --- */
 :root {
-  --font-serif: 'Source Serif 4', Georgia, serif;
-  --font-sans: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
-  
-  --color-text: #2c3e50;
-  --color-text-light: #5a6c7d;
-  --color-heading: #1a252f;
-  --color-link: #2874a6;
-  --color-link-hover: #1a4f72;
+  --color-text: #2d3436;
+  --color-text-light: #636e72;
+  --color-accent: #1e6bb8;
+  --color-accent-hover: #155a8a;
+  --color-border: #c8d1d9;
+  --color-border-strong: #9aa5ad;
   --color-bg: #ffffff;
-  --color-bg-alt: #f8f9fa;
-  --color-border: #e1e4e8;
-  --color-accent: #27ae60;
-  
-  --max-width: 1200px;
-  --content-width: 720px;
-  --spacing: 1.5rem;
+  --color-bg-subtle: #f8f9fa;
+  --color-card-course: #e8f4f8;
+  --color-card-blog: #fef9e7;
+  --color-card-keeping: #f0f7f0;
+  --color-card-c4sd: #f5f0fa;
+  --font-serif: 'Source Serif 4', 'Georgia', serif;
+  --font-sans: 'Source Sans 3', 'Helvetica Neue', sans-serif;
+  --max-width: 740px;
+  --max-width-wide: 960px;
 }
 
-/* Reset & Base */
+/* --- Base Reset --- */
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
 html {
-  font-size: 18px;
-  scroll-behavior: smooth;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   margin: 0;
+  padding: 0;
   font-family: var(--font-serif);
   font-size: 1rem;
   line-height: 1.7;
   color: var(--color-text);
-  background: var(--color-bg);
+  background: var(--color-bg-subtle);
 }
 
-/* Typography */
+/* --- Typography --- */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
   font-weight: 600;
-  color: var(--color-heading);
   line-height: 1.3;
+  color: var(--color-text);
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
-h1 { font-size: 2.25rem; }
-h2 { font-size: 1.75rem; }
-h3 { font-size: 1.35rem; }
-h4 { font-size: 1.15rem; }
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.4rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
 
 p {
-  margin: 0 0 1.25rem;
+  margin: 0 0 1.25rem 0;
 }
 
 a {
-  color: var(--color-link);
+  color: var(--color-accent);
   text-decoration: none;
-  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: var(--color-link-hover);
   text-decoration: underline;
 }
 
-/* Header */
-.site-header {
-  border-bottom: 1px solid var(--color-border);
-  padding: 1rem 0;
-  background: var(--color-bg);
-  position: sticky;
-  top: 0;
-  z-index: 100;
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 4px solid var(--color-border-strong);
+  background: var(--color-bg-subtle);
+  color: var(--color-text-light);
+  font-style: italic;
 }
 
-.site-nav {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 var(--spacing);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 1rem;
+blockquote p:last-child {
+  margin-bottom: 0;
 }
 
-.site-title {
-  font-family: var(--font-serif);
-  font-size: 1.35rem;
-  font-weight: 600;
-  color: var(--color-heading);
-  text-decoration: none;
+hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2rem 0;
 }
 
-.site-title:hover {
-  color: var(--color-link);
-  text-decoration: none;
+ul, ol {
+  margin: 0 0 1.25rem 0;
+  padding-left: 1.5rem;
 }
 
-.nav-links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  gap: 2rem;
-  flex-wrap: wrap;
+li {
+  margin-bottom: 0.4rem;
 }
 
-.nav-links a {
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+}
+
+/* --- Links as buttons --- */
+.btn, a.btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: var(--color-accent);
+  color: #fff;
+  border-radius: 4px;
   font-family: var(--font-sans);
-  font-size: 0.95rem;
-  color: var(--color-text-light);
+  font-size: 0.9rem;
+  font-weight: 500;
   text-decoration: none;
-  padding: 0.25rem 0;
-  border-bottom: 2px solid transparent;
-  transition: all 0.2s ease;
+  transition: background 0.2s;
 }
 
-.nav-links a:hover,
-.nav-links a.active {
-  color: var(--color-heading);
-  border-bottom-color: var(--color-accent);
+.btn:hover, a.btn:hover {
+  background: var(--color-accent-hover);
   text-decoration: none;
 }
 
-/* Main Content */
-.site-content {
-  min-height: calc(100vh - 200px);
-}
+/* ============================================
+   MAIN SITE LAYOUT (non-course pages)
+   ============================================ */
 
-/* Page Layout */
-.page-content {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 3rem var(--spacing);
-}
-
-.page-header {
-  margin-bottom: 2.5rem;
-}
-
-.page-header h1 {
-  margin: 0 0 0.5rem;
-}
-
-.subtitle {
-  font-size: 1.15rem;
-  color: var(--color-text-light);
-  margin: 0;
-}
-
-/* Landing Page */
-.landing-hero {
-  background-image: linear-gradient(rgba(10, 20, 35, 0.45), rgba(10, 20, 35, 0.55)), 
-                    url('../images/earth-at-night.jpg');
-  background-size: cover;
-  background-position: center 40%;
-  padding: 5rem var(--spacing);
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.landing-hero h1 {
-  font-size: 2.75rem;
-  margin-bottom: 1rem;
-  color: #ffffff;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-}
-
-.landing-hero .tagline {
-  font-size: 1.25rem;
-  color: rgba(255, 255, 255, 0.9);
-  max-width: 600px;
-  margin: 0 auto;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
-}
-
-.landing-sections {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 var(--spacing) 4rem;
+/* --- Earth at Night Banner --- */
+.earth-banner {
+  background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
+  background-color: #0a1628;
   display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-/* Full-width stacked cards with images */
-.section-card-full {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  background: var(--color-bg);
-  border: 1px solid var(--color-border);
-  border-radius: 8px;
-  overflow: hidden;
-  text-decoration: none;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-
-.section-card-full:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
-  text-decoration: none;
-}
-
-.section-card-full .card-image {
-  width: 280px;
-  min-height: 200px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: var(--color-bg-alt);
-}
-
-/* Placeholder colors for sections without images yet */
-.placeholder-course {
-  background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
-}
-
-.placeholder-theorist {
-  background: linear-gradient(135deg, #744210 0%, #975a16 100%);
-}
-
-.placeholder-keeping-up {
-  background: linear-gradient(135deg, #22543d 0%, #276749 100%);
-}
-
-.section-card-full .card-content {
-  padding: 1.5rem 2rem;
-  display: flex;
-  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 
-.section-card-full h2 {
-  font-size: 1.35rem;
-  margin: 0 0 0.75rem;
-  color: var(--color-heading);
+.earth-banner-inner {
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
+  padding: 0 2rem;
 }
 
-.section-card-full p {
-  color: var(--color-text-light);
+.earth-banner h1 {
   margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.6;
+  color: #fff;
+  font-weight: 600;
 }
 
-/* Old card style - keep for potential future use */
-.section-card {
-  background: var(--color-bg);
-  border: 1px solid var(--color-border);
-  border-radius: 8px;
+.earth-banner p {
+  margin: 0.5rem 0 0 0;
+  font-family: var(--font-sans);
+  opacity: 0.9;
+}
+
+/* Large banner for main landing page */
+.earth-banner-large {
+  height: 320px;
   padding: 2rem;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.section-card:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transform: translateY(-2px);
+.earth-banner-large h1 {
+  font-size: 3rem;
 }
 
-.section-card h2 {
-  font-size: 1.35rem;
-  margin: 0 0 0.75rem;
+.earth-banner-large p {
+  font-size: 1.3rem;
 }
 
-.section-card h2 a {
-  color: var(--color-heading);
+/* Small banner for sub-landing pages */
+.earth-banner-small {
+  height: 120px;
+  padding: 1rem;
 }
 
-.section-card h2 a:hover {
-  color: var(--color-link);
+.earth-banner-small h1 {
+  font-size: 1.6rem;
+}
+
+.earth-banner-small p {
+  font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+  .earth-banner-large {
+    height: 240px;
+  }
+  .earth-banner-large h1 {
+    font-size: 2rem;
+  }
+  .earth-banner-large p {
+    font-size: 1.1rem;
+  }
+  .earth-banner-small {
+    height: 100px;
+  }
+  .earth-banner-small h1 {
+    font-size: 1.4rem;
+  }
+}
+
+/* --- Site Header --- */
+.site-header {
+  background: var(--color-bg);
+  border-bottom: 2px solid var(--color-border);
+  padding: 1rem 2rem;
+}
+
+.site-header-inner {
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-family: var(--font-sans);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-text);
   text-decoration: none;
+  margin-right: auto;
 }
 
-.section-card p {
+.site-title:hover {
+  text-decoration: none;
+  color: var(--color-accent);
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+  margin-left: 3rem;
+}
+
+.site-nav a {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
   color: var(--color-text-light);
-  margin: 0;
-  font-size: 0.95rem;
+  text-decoration: none;
+  padding-bottom: 2px;
 }
 
-.landing-about {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 3rem var(--spacing);
-  border-top: 1px solid var(--color-border);
+.site-nav a:hover,
+.site-nav a.active {
+  color: var(--color-text);
+  border-bottom: 2px solid var(--color-accent);
 }
 
-.landing-about p {
-  color: var(--color-text-light);
-  font-size: 0.95rem;
+/* --- Page Container (bordered) --- */
+.page-container {
+  max-width: var(--max-width);
+  margin: 2.5rem auto;
+  padding: 2.5rem 3rem;
+  background: var(--color-bg);
+  border: 2px solid var(--color-border);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
 
-/* Blog */
-.blog-index {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 3rem var(--spacing);
+@media (max-width: 800px) {
+  .page-container {
+    margin: 1.5rem 1rem;
+    padding: 1.5rem 1.5rem;
+  }
 }
 
-.blog-header {
-  margin-bottom: 3rem;
+/* --- Page Header --- */
+.page-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-border);
 }
 
-.blog-header h1 {
+.page-header h1 {
   margin-bottom: 0.5rem;
 }
 
-.blog-header .description {
-  color: var(--color-text-light);
+.page-subtitle {
+  font-family: var(--font-sans);
   font-size: 1.1rem;
+  color: var(--color-text-light);
+  margin: 0;
+}
+
+/* --- Site Footer --- */
+.site-footer {
+  max-width: var(--max-width);
+  margin: 0 auto 2.5rem;
+  padding: 1.5rem 0;
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  border-top: 1px solid var(--color-border);
+}
+
+.site-footer a {
+  color: var(--color-text-light);
+}
+
+.site-footer a:hover {
+  color: var(--color-accent);
+}
+
+/* ============================================
+   COURSE LAYOUT (self-contained)
+   ============================================ */
+
+/* --- Course Earth at Night Banner --- */
+.course-banner {
+  background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
+  background-color: #0a1628;
+  text-align: center;
+}
+
+.course-banner-inner {
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+}
+
+.course-banner h1 {
+  margin: 0 0 0.25rem 0;
+  color: #fff;
+  font-weight: 600;
+}
+
+.course-banner p {
+  margin: 0;
+  font-family: var(--font-sans);
+  opacity: 0.9;
+}
+
+/* Medium banner for course home */
+.course-banner-medium {
+  padding: 2.5rem 2rem;
+}
+
+.course-banner-medium h1 {
+  font-size: 2.2rem;
+}
+
+.course-banner-medium p {
+  font-size: 1.15rem;
+}
+
+/* Small banner for unit pages */
+.course-banner-small {
+  padding: 1rem 2rem;
+}
+
+.course-banner-small h1 {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.course-banner-small p {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .course-banner-medium {
+    padding: 2rem 1.5rem;
+  }
+  .course-banner-medium h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* --- Course Header (minimal) --- */
+.course-header {
+  background: var(--color-bg);
+  border-bottom: 2px solid var(--color-border);
+  padding: 0.75rem 2rem;
+}
+
+.course-header-inner {
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+}
+
+.course-back-link {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+}
+
+.course-back-link:hover {
+  color: var(--color-accent);
+}
+
+/* --- Course Container (bordered) --- */
+.course-container {
+  max-width: var(--max-width);
+  margin: 2.5rem auto;
+  padding: 2.5rem 3rem;
+  background: var(--color-bg);
+  border: 2px solid var(--color-border);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+@media (max-width: 800px) {
+  .course-container {
+    margin: 1.5rem 1rem;
+    padding: 1.5rem 1.5rem;
+  }
+}
+
+/* --- Course Navigation Sidebar --- */
+.course-nav {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--color-bg-subtle);
+  border: 2px solid var(--color-border);
+  border-radius: 4px;
+}
+
+.course-nav h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-light);
+  margin: 0 0 1rem 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.course-nav-section {
+  margin-bottom: 1.25rem;
+}
+
+.course-nav-section:last-child {
+  margin-bottom: 0;
+}
+
+.course-nav-title {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+
+.course-nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.course-nav-links li {
+  margin-bottom: 0.3rem;
+}
+
+.course-nav-links a {
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+}
+
+.course-nav-links a:hover,
+.course-nav-links a.active {
+  color: var(--color-accent);
+}
+
+/* --- Course Footer --- */
+.course-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+}
+
+.course-footer a {
+  color: var(--color-text-light);
+}
+
+.course-footer p {
+  margin: 0.3rem 0;
+}
+
+/* ============================================
+   BLOG LAYOUT
+   ============================================ */
+
+.post-meta {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  margin-bottom: 2rem;
 }
 
 .post-list {
@@ -326,227 +511,212 @@ a:hover {
 }
 
 .post-list li {
-  padding: 1.5rem 0;
+  padding: 1.25rem 0;
   border-bottom: 1px solid var(--color-border);
 }
 
-.post-list li:first-child {
-  padding-top: 0;
+.post-list li:last-child {
+  border-bottom: none;
 }
 
-.post-list h2 {
-  font-size: 1.35rem;
-  margin: 0 0 0.5rem;
+.post-list-title {
+  font-family: var(--font-sans);
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
 }
 
-.post-list h2 a {
-  color: var(--color-heading);
+.post-list-title a {
+  color: var(--color-text);
 }
 
-.post-list .post-meta {
+.post-list-title a:hover {
+  color: var(--color-accent);
+}
+
+.post-list-meta {
   font-family: var(--font-sans);
   font-size: 0.85rem;
   color: var(--color-text-light);
-  margin-bottom: 0.5rem;
 }
 
-.post-list .excerpt {
-  margin: 0;
-  color: var(--color-text-light);
-}
+/* ============================================
+   KEEPING UP / SECTION PAGES
+   ============================================ */
 
-/* Blog Post */
-.blog-post {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding: 3rem var(--spacing);
-}
-
-.post-header {
-  margin-bottom: 2.5rem;
-}
-
-.post-header h1 {
-  margin: 0 0 0.75rem;
-}
-
-.post-header .post-meta {
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  color: var(--color-text-light);
-}
-
-.post-content {
-  margin-bottom: 3rem;
-}
-
-.post-footer {
-  padding-top: 2rem;
-  border-top: 1px solid var(--color-border);
-}
-
-.post-footer a {
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-}
-
-/* Course Layout */
-.course-container {
+.section-grid {
   display: grid;
-  grid-template-columns: 280px 1fr;
-  max-width: var(--max-width);
-  margin: 0 auto;
-  min-height: calc(100vh - 200px);
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
 
-.course-sidebar {
-  background: var(--color-bg-alt);
-  border-right: 1px solid var(--color-border);
-  padding: 2rem 1.5rem;
-  position: sticky;
-  top: 60px;
-  height: calc(100vh - 60px);
-  overflow-y: auto;
+.section-card {
+  padding: 1.75rem;
+  background: var(--color-bg-subtle);
+  border: 2px solid var(--color-border);
+  border-radius: 6px;
+  transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-.course-nav {
+.section-card:hover {
+  border-color: var(--color-border-strong);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.section-card h3 {
+  font-size: 1.15rem;
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.section-card p {
+  font-size: 0.95rem;
+  color: var(--color-text-light);
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.section-card a.card-link {
+  display: block;
+  margin-top: 1rem;
   font-family: var(--font-sans);
   font-size: 0.9rem;
+  font-weight: 500;
 }
 
-.course-home {
-  display: block;
-  font-weight: 600;
-  margin-bottom: 1.5rem;
-  color: var(--color-heading);
+/* Colored card variants */
+.section-card.card-course {
+  background: var(--color-card-course);
+  border-color: #b8d4e3;
 }
 
-.course-nav details {
-  margin-bottom: 0.75rem;
+.section-card.card-blog {
+  background: var(--color-card-blog);
+  border-color: #e6dbb8;
 }
 
-.course-nav summary {
-  cursor: pointer;
-  font-weight: 600;
-  color: var(--color-heading);
-  padding: 0.5rem 0;
-  list-style: none;
+.section-card.card-keeping {
+  background: var(--color-card-keeping);
+  border-color: #c3dcc3;
 }
 
-.course-nav summary::-webkit-details-marker {
-  display: none;
+.section-card.card-c4sd {
+  background: var(--color-card-c4sd);
+  border-color: #d4c4e8;
 }
 
-.course-nav summary::before {
-  content: "▸ ";
-  font-size: 0.8rem;
+/* Sub-page cards (smaller) */
+.section-card.card-sub {
+  padding: 1.25rem 1.5rem;
 }
 
-.course-nav details[open] summary::before {
-  content: "▾ ";
+.section-card.card-sub h3 {
+  font-size: 1.05rem;
 }
 
-.course-nav ul {
-  list-style: none;
-  padding: 0 0 0 1rem;
-  margin: 0.25rem 0 0.5rem;
+/* ============================================
+   TABLES
+   ============================================ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
 }
 
-.course-nav li {
-  margin: 0.25rem 0;
+th, td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border: 1px solid var(--color-border);
 }
 
-.course-nav ul a {
-  color: var(--color-text-light);
-  display: block;
-  padding: 0.25rem 0;
-}
-
-.course-nav ul a:hover {
-  color: var(--color-link);
-}
-
-.course-content {
-  padding: 3rem;
-  max-width: var(--content-width);
-}
-
-.course-header {
-  margin-bottom: 2rem;
-}
-
-.course-header h1 {
-  margin: 0;
-}
-
-/* Footer */
-.site-footer {
-  border-top: 1px solid var(--color-border);
-  background: var(--color-bg-alt);
-  padding: 2rem 0;
-}
-
-.footer-content {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 var(--spacing);
-  text-align: center;
+th {
+  background: var(--color-bg-subtle);
   font-family: var(--font-sans);
+  font-weight: 600;
+}
+
+/* ============================================
+   UTILITIES
+   ============================================ */
+
+.text-center { text-align: center; }
+.text-small { font-size: 0.9rem; }
+.text-muted { color: var(--color-text-light); }
+.mt-0 { margin-top: 0; }
+.mb-0 { margin-bottom: 0; }
+
+/* --- Figure captions --- */
+.figure-caption {
   font-size: 0.85rem;
+  font-style: italic;
   color: var(--color-text-light);
+  text-align: center;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
 }
 
-.footer-content p {
-  margin: 0.25rem 0;
+/* --- PDF download links --- */
+.pdf-link {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: var(--color-accent);
+  color: #fff;
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  text-decoration: none;
+  margin-top: 1.5rem;
 }
 
-.footer-content a {
-  color: var(--color-text-light);
+.pdf-link:hover {
+  background: var(--color-accent-hover);
+  text-decoration: none;
 }
 
-.footer-content a:hover {
-  color: var(--color-link);
-}
-
-/* Responsive */
-@media (max-width: 900px) {
-  .course-container {
-    grid-template-columns: 1fr;
-  }
-  
-  .course-sidebar {
-    position: relative;
-    top: 0;
-    height: auto;
-    border-right: none;
-    border-bottom: 1px solid var(--color-border);
-  }
-}
+/* ============================================
+   RESPONSIVE
+   ============================================ */
 
 @media (max-width: 600px) {
   html {
     font-size: 16px;
   }
   
-  .site-nav {
-    flex-direction: column;
-    align-items: flex-start;
+  .site-header {
+    padding: 1rem;
   }
   
-  .nav-links {
+  .site-header-inner {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .site-nav {
     gap: 1rem;
   }
   
-  .landing-hero h1 {
-    font-size: 2rem;
+  h1 { font-size: 1.6rem; }
+  h2 { font-size: 1.3rem; }
+}
+
+/* --- Print styles --- */
+@media print {
+  .site-header,
+  .site-footer,
+  .course-header,
+  .course-nav {
+    display: none;
   }
   
-  .section-card-full {
-    grid-template-columns: 1fr;
-  }
-  
-  .section-card-full .card-image {
-    width: 100%;
-    min-height: 120px;
+  .page-container,
+  .course-container {
+    border: none;
+    margin: 0;
+    padding: 0;
   }
 }
