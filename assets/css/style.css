@@ -1,324 +1,429 @@
-/* ============================================
-   Sustainability Science
-   Clean academic aesthetic
-   ============================================ */
+/* ==========================================================================
+   Sustainability Science - Main Stylesheet
+   Clean, academic aesthetic - restored original layout
+   ========================================================================== */
 
-/* --- CSS Variables --- */
+/* CSS Variables */
 :root {
-  --color-text: #2d3436;
-  --color-text-light: #636e72;
-  --color-accent: #1e6bb8;
-  --color-accent-hover: #155a8a;
-  --color-border: #c8d1d9;
-  --color-border-strong: #9aa5ad;
+  --font-serif: 'Source Serif 4', Georgia, serif;
+  --font-sans: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  
+  --color-text: #2c3e50;
+  --color-text-light: #5a6c7d;
+  --color-heading: #1a252f;
+  --color-link: #2874a6;
+  --color-link-hover: #1a4f72;
   --color-bg: #ffffff;
-  --color-bg-subtle: #f8f9fa;
-  --color-card-course: #e8f4f8;
-  --color-card-blog: #fef9e7;
-  --color-card-keeping: #f0f7f0;
-  --color-card-c4sd: #f5f0fa;
-  --font-serif: 'Source Serif 4', 'Georgia', serif;
-  --font-sans: 'Source Sans 3', 'Helvetica Neue', sans-serif;
-  --max-width: 740px;
-  --max-width-wide: 960px;
+  --color-bg-alt: #f8f9fa;
+  --color-border: #e1e4e8;
+  --color-accent: #27ae60;
+  
+  --max-width: 1200px;
+  --content-width: 720px;
+  --spacing: 1.5rem;
 }
 
-/* --- Base Reset --- */
+/* Reset & Base */
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
 html {
-  font-size: 17px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+  scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
-  padding: 0;
   font-family: var(--font-serif);
   font-size: 1rem;
   line-height: 1.7;
   color: var(--color-text);
-  background: var(--color-bg-subtle);
+  background: var(--color-bg);
 }
 
-/* --- Typography --- */
+/* Typography */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-weight: 600;
+  color: var(--color-heading);
   line-height: 1.3;
-  color: var(--color-text);
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   margin-bottom: 0.75rem;
 }
 
-h1 { font-size: 2rem; margin-top: 0; }
-h2 { font-size: 1.5rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.4rem; }
-h3 { font-size: 1.25rem; }
-h4 { font-size: 1.1rem; }
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.15rem; }
 
 p {
-  margin: 0 0 1.25rem 0;
+  margin: 0 0 1rem;
 }
 
 a {
-  color: var(--color-accent);
+  color: var(--color-link);
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
+  color: var(--color-link-hover);
   text-decoration: underline;
 }
 
-blockquote {
-  margin: 1.5rem 0;
-  padding: 1rem 1.5rem;
-  border-left: 4px solid var(--color-border-strong);
-  background: var(--color-bg-subtle);
-  color: var(--color-text-light);
-  font-style: italic;
-}
+/* ==========================================================================
+   HEADER & NAV (positioned above Earth hero)
+   ========================================================================== */
 
-blockquote p:last-child {
-  margin-bottom: 0;
-}
-
-hr {
-  border: none;
-  border-top: 1px solid var(--color-border);
-  margin: 2rem 0;
-}
-
-ul, ol {
-  margin: 0 0 1.25rem 0;
-  padding-left: 1.5rem;
-}
-
-li {
-  margin-bottom: 0.4rem;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1.5rem auto;
-}
-
-sup {
-  font-size: 0.75em;
-  line-height: 0;
-}
-
-/* --- Links as buttons --- */
-.btn, a.btn {
-  display: inline-block;
-  padding: 0.6rem 1.2rem;
-  background: var(--color-accent);
-  color: #fff;
-  border-radius: 4px;
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  font-weight: 500;
-  text-decoration: none;
-  transition: background 0.2s;
-}
-
-.btn:hover, a.btn:hover {
-  background: var(--color-accent-hover);
-  text-decoration: none;
-}
-
-/* ============================================
-   MAIN SITE LAYOUT (non-course pages)
-   ============================================ */
-
-/* --- Earth at Night Banner --- */
-.earth-banner {
-  background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
-  background-color: #0a1628;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.earth-banner-inner {
-  text-align: center;
-  color: #fff;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
-  padding: 0 2rem;
-}
-
-.earth-banner h1 {
-  margin: 0;
-  color: #fff;
-  font-weight: 600;
-}
-
-.earth-banner p {
-  margin: 0.5rem 0 0 0;
-  font-family: var(--font-sans);
-  opacity: 0.9;
-}
-
-/* Large banner for main landing page */
-.earth-banner-large {
-  height: 320px;
-  padding: 2rem;
-}
-
-.earth-banner-large h1 {
-  font-size: 3rem;
-}
-
-.earth-banner-large p {
-  font-size: 1.3rem;
-}
-
-/* Small banner for sub-landing pages */
-.earth-banner-small {
-  height: 120px;
-  padding: 1rem;
-}
-
-.earth-banner-small h1 {
-  font-size: 1.6rem;
-}
-
-.earth-banner-small p {
-  font-size: 1rem;
-}
-
-@media (max-width: 600px) {
-  .earth-banner-large {
-    height: 240px;
-  }
-  .earth-banner-large h1 {
-    font-size: 2rem;
-  }
-  .earth-banner-large p {
-    font-size: 1.1rem;
-  }
-  .earth-banner-small {
-    height: 100px;
-  }
-  .earth-banner-small h1 {
-    font-size: 1.4rem;
-  }
-}
-
-/* --- Site Header --- */
 .site-header {
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.75rem 0;
   background: var(--color-bg);
-  border-bottom: 2px solid var(--color-border);
-  padding: 1rem 2rem;
-}
-
-.site-header-inner {
-  max-width: var(--max-width-wide);
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.site-title {
-  font-family: var(--font-sans);
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: var(--color-text);
-  text-decoration: none;
-  margin-right: auto;
-}
-
-.site-title:hover {
-  text-decoration: none;
-  color: var(--color-accent);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .site-nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing);
   display: flex;
-  gap: 1.5rem;
-  margin-left: 3rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
-.site-nav a {
+.site-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-heading);
+  text-decoration: none;
+}
+
+.site-title:hover {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-links li {
+  margin: 0;
+}
+
+.nav-links a {
   font-family: var(--font-sans);
   font-size: 0.9rem;
   color: var(--color-text-light);
   text-decoration: none;
-  padding-bottom: 2px;
+  padding: 0.2rem 0;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
 }
 
-.site-nav a:hover,
-.site-nav a.active {
-  color: var(--color-text);
-  border-bottom: 2px solid var(--color-accent);
+.nav-links a:hover,
+.nav-links a.active {
+  color: var(--color-heading);
+  border-bottom-color: var(--color-accent);
+  text-decoration: none;
 }
 
-/* --- Page Container (bordered) --- */
-.page-container {
+/* ==========================================================================
+   LANDING PAGE HERO (Earth at Night)
+   ========================================================================== */
+
+.landing-hero {
+  background-image: linear-gradient(rgba(10, 20, 35, 0.45), rgba(10, 20, 35, 0.55)), 
+                    url('../images/earth-at-night.jpg');
+  background-size: cover;
+  background-position: center 40%;
+  padding: 4rem var(--spacing);
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.landing-hero h1 {
+  font-size: 2.5rem;
+  margin: 0 0 0.75rem;
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.landing-hero .tagline {
+  font-size: 1.15rem;
+  color: rgba(255, 255, 255, 0.9);
+  max-width: 600px;
+  margin: 0 auto;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+   LANDING PAGE SECTION CARDS (full-width with thumbnails)
+   ========================================================================== */
+
+.landing-sections {
   max-width: var(--max-width);
-  margin: 2.5rem auto;
-  padding: 2.5rem 3rem;
+  margin: 0 auto;
+  padding: 0 var(--spacing) 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.section-card-full {
+  display: flex;
   background: var(--color-bg);
-  border: 2px solid var(--color-border);
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-@media (max-width: 800px) {
-  .page-container {
-    margin: 1.5rem 1rem;
-    padding: 1.5rem 1.5rem;
-  }
+.section-card-full:hover {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+  text-decoration: none;
 }
 
-/* --- Page Header --- */
+.section-card-full .card-image {
+  width: 180px;
+  min-height: 120px;
+  flex-shrink: 0;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--color-bg-alt);
+}
+
+/* Placeholder backgrounds for cards without images */
+.section-card-full .card-image.placeholder-course {
+  background: linear-gradient(135deg, #e8f4f8 0%, #d4e9f0 100%);
+}
+
+.section-card-full .card-image.placeholder-theorist {
+  background: linear-gradient(135deg, #fef9e7 0%, #f8f0d8 100%);
+}
+
+.section-card-full .card-image.placeholder-keeping-up {
+  background: linear-gradient(135deg, #f0f7f0 0%, #e0ede0 100%);
+}
+
+.section-card-full .card-content {
+  flex: 1;
+  padding: 1.25rem 1.5rem;
+}
+
+.section-card-full h2 {
+  font-size: 1.25rem;
+  margin: 0 0 0.5rem;
+  color: var(--color-heading);
+}
+
+.section-card-full p {
+  color: var(--color-text-light);
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* ==========================================================================
+   LANDING ABOUT SECTION
+   ========================================================================== */
+
+.landing-about {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem var(--spacing);
+  border-top: 1px solid var(--color-border);
+}
+
+.landing-about p {
+  color: var(--color-text-light);
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.landing-about p:last-child {
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  background: var(--color-bg-alt);
+  padding: 1.5rem 0;
+}
+
+.footer-content {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing);
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+}
+
+.footer-content p {
+  margin: 0.2rem 0;
+}
+
+.footer-content a {
+  color: var(--color-text-light);
+}
+
+.footer-content a:hover {
+  color: var(--color-link);
+}
+
+/* ==========================================================================
+   PAGE LAYOUT (for non-landing pages)
+   ========================================================================== */
+
+.page-content {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem var(--spacing);
+}
+
 .page-header {
-  margin-bottom: 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--color-border);
+  margin-bottom: 1.5rem;
 }
 
 .page-header h1 {
-  margin-bottom: 0.5rem;
+  margin: 0 0 0.5rem;
 }
 
-.page-subtitle {
-  font-family: var(--font-sans);
+.subtitle {
   font-size: 1.1rem;
   color: var(--color-text-light);
   margin: 0;
 }
 
-/* --- Site Footer --- */
-.site-footer {
-  max-width: var(--max-width);
-  margin: 0 auto 2.5rem;
-  padding: 1.5rem 0;
-  text-align: center;
+/* Page Container (bordered) for sub-pages */
+.page-container {
+  max-width: var(--content-width);
+  margin: 1.5rem auto;
+  padding: 1.5rem 2rem;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+}
+
+/* ==========================================================================
+   BLOG STYLES
+   ========================================================================== */
+
+.blog-index {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem var(--spacing);
+}
+
+.blog-header {
+  margin-bottom: 2rem;
+}
+
+.blog-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.blog-header .description {
+  color: var(--color-text-light);
+  font-size: 1.05rem;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list li {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-list li:first-child {
+  padding-top: 0;
+}
+
+.post-list h2 {
+  font-size: 1.25rem;
+  margin: 0 0 0.4rem;
+}
+
+.post-list h2 a {
+  color: var(--color-heading);
+}
+
+.post-list .post-meta {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+  margin-bottom: 0.4rem;
+}
+
+.post-list .excerpt {
+  margin: 0;
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+}
+
+/* Blog Post */
+.blog-post {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2rem var(--spacing);
+}
+
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-header h1 {
+  margin: 0 0 0.5rem;
+}
+
+.post-header .post-meta {
   font-family: var(--font-sans);
   font-size: 0.85rem;
   color: var(--color-text-light);
+}
+
+.post-content {
+  margin-bottom: 2rem;
+}
+
+.post-footer {
+  padding-top: 1.5rem;
   border-top: 1px solid var(--color-border);
 }
 
-.site-footer a {
-  color: var(--color-text-light);
+.post-footer a {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
 }
 
-.site-footer a:hover {
-  color: var(--color-accent);
-}
+/* ==========================================================================
+   COURSE LAYOUT
+   ========================================================================== */
 
-/* ============================================
-   COURSE LAYOUT (self-contained)
-   ============================================ */
-
-/* --- Course Earth at Night Banner --- */
+/* Course Banner */
 .course-banner {
   background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
   background-color: #0a1628;
@@ -326,7 +431,7 @@ sup {
 }
 
 .course-banner-inner {
-  max-width: var(--max-width-wide);
+  max-width: var(--max-width);
   margin: 0 auto;
   color: #fff;
   text-shadow: 0 2px 10px rgba(0,0,0,0.8);
@@ -346,24 +451,24 @@ sup {
 
 /* Medium banner for course home */
 .course-banner-medium {
-  padding: 2.5rem 2rem;
+  padding: 2rem 1.5rem;
 }
 
 .course-banner-medium h1 {
-  font-size: 2.2rem;
+  font-size: 2rem;
 }
 
 .course-banner-medium p {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
 }
 
 /* Small banner for unit pages */
 .course-banner-small {
-  padding: 1rem 2rem;
+  padding: 0.75rem 1.5rem;
 }
 
 .course-banner-small h1 {
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 500;
 }
 
@@ -371,76 +476,59 @@ sup {
   display: none;
 }
 
-@media (max-width: 600px) {
-  .course-banner-medium {
-    padding: 2rem 1.5rem;
-  }
-  .course-banner-medium h1 {
-    font-size: 1.8rem;
-  }
-}
-
-/* --- Course Header (minimal) --- */
+/* Course Header */
 .course-header {
   background: var(--color-bg);
-  border-bottom: 2px solid var(--color-border);
-  padding: 0.75rem 2rem;
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.5rem 1.5rem;
 }
 
 .course-header-inner {
-  max-width: var(--max-width-wide);
+  max-width: var(--max-width);
   margin: 0 auto;
 }
 
 .course-back-link {
   font-family: var(--font-sans);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--color-text-light);
 }
 
 .course-back-link:hover {
-  color: var(--color-accent);
+  color: var(--color-link);
 }
 
-/* --- Course Container (bordered) --- */
+/* Course Container */
 .course-container {
-  max-width: var(--max-width);
-  margin: 2.5rem auto;
-  padding: 2.5rem 3rem;
+  max-width: var(--content-width);
+  margin: 1.5rem auto;
+  padding: 1.5rem 2rem;
   background: var(--color-bg);
-  border: 2px solid var(--color-border);
+  border: 1px solid var(--color-border);
   border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
 
-@media (max-width: 800px) {
-  .course-container {
-    margin: 1.5rem 1rem;
-    padding: 1.5rem 1.5rem;
-  }
-}
-
-/* --- Course Navigation Sidebar --- */
+/* Course Navigation */
 .course-nav {
-  margin: 2rem 0;
-  padding: 1.5rem;
-  background: var(--color-bg-subtle);
-  border: 2px solid var(--color-border);
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
   border-radius: 4px;
 }
 
 .course-nav h3 {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--color-text-light);
-  margin: 0 0 1rem 0;
+  margin: 0 0 0.75rem 0;
   border-bottom: none;
   padding-bottom: 0;
 }
 
 .course-nav-section {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 .course-nav-section:last-child {
@@ -450,9 +538,9 @@ sup {
 .course-nav-title {
   font-family: var(--font-sans);
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: var(--color-text);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
 }
 
 .course-nav-links {
@@ -462,26 +550,26 @@ sup {
 }
 
 .course-nav-links li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.2rem;
 }
 
 .course-nav-links a {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--color-text-light);
 }
 
 .course-nav-links a:hover,
 .course-nav-links a.active {
-  color: var(--color-accent);
+  color: var(--color-link);
 }
 
-/* --- Course Footer --- */
+/* Course Footer */
 .course-footer {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
   border-top: 1px solid var(--color-border);
   font-family: var(--font-sans);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: var(--color-text-light);
 }
 
@@ -490,84 +578,37 @@ sup {
 }
 
 .course-footer p {
-  margin: 0.3rem 0;
+  margin: 0.2rem 0;
 }
 
-/* ============================================
-   BLOG LAYOUT
-   ============================================ */
-
-.post-meta {
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  color: var(--color-text-light);
-  margin-bottom: 2rem;
-}
-
-.post-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.post-list li {
-  padding: 1.25rem 0;
-  border-bottom: 1px solid var(--color-border);
-}
-
-.post-list li:last-child {
-  border-bottom: none;
-}
-
-.post-list-title {
-  font-family: var(--font-sans);
-  font-size: 1.15rem;
-  font-weight: 600;
-  margin-bottom: 0.25rem;
-}
-
-.post-list-title a {
-  color: var(--color-text);
-}
-
-.post-list-title a:hover {
-  color: var(--color-accent);
-}
-
-.post-list-meta {
-  font-family: var(--font-sans);
-  font-size: 0.85rem;
-  color: var(--color-text-light);
-}
-
-/* ============================================
+/* ==========================================================================
    KEEPING UP / SECTION PAGES
-   ============================================ */
+   ========================================================================== */
 
 .section-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1.5rem;
 }
 
 .section-card {
-  padding: 1.75rem;
-  background: var(--color-bg-subtle);
-  border: 2px solid var(--color-border);
-  border-radius: 6px;
+  padding: 1.25rem;
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 
 .section-card:hover {
-  border-color: var(--color-border-strong);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  border-color: #c8d1d9;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
 }
 
 .section-card h3 {
   font-size: 1.15rem;
   margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.5rem;
   border-bottom: none;
   padding-bottom: 0;
 }
@@ -581,7 +622,7 @@ sup {
 
 .section-card a.card-link {
   display: block;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
   font-family: var(--font-sans);
   font-size: 0.9rem;
   font-weight: 500;
@@ -589,60 +630,104 @@ sup {
 
 /* Colored card variants */
 .section-card.card-course {
-  background: var(--color-card-course);
-  border-color: #b8d4e3;
+  background: #e8f4f8;
+  border-color: #c5dce6;
 }
 
 .section-card.card-blog {
-  background: var(--color-card-blog);
+  background: #fef9e7;
   border-color: #e6dbb8;
 }
 
 .section-card.card-keeping {
-  background: var(--color-card-keeping);
+  background: #f0f7f0;
   border-color: #c3dcc3;
 }
 
 .section-card.card-c4sd {
-  background: var(--color-card-c4sd);
+  background: #f5f0fa;
   border-color: #d4c4e8;
 }
 
-/* Sub-page cards (smaller) */
+/* Sub-page cards */
 .section-card.card-sub {
-  padding: 1.25rem 1.5rem;
+  padding: 1rem 1.25rem;
 }
 
 .section-card.card-sub h3 {
-  font-size: 1.05rem;
+  font-size: 1rem;
 }
 
-/* ============================================
+/* ==========================================================================
+   EARTH BANNER (for sub-pages with banner)
+   ========================================================================== */
+
+.earth-banner {
+  background: url('/sustsci/assets/images/earth-at-night.jpg') center/cover no-repeat;
+  background-color: #0a1628;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.earth-banner-inner {
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
+  padding: 0 1.5rem;
+}
+
+.earth-banner h1 {
+  margin: 0;
+  color: #fff;
+  font-weight: 600;
+}
+
+.earth-banner p {
+  margin: 0.4rem 0 0 0;
+  font-family: var(--font-sans);
+  opacity: 0.9;
+}
+
+.earth-banner-small {
+  height: 100px;
+  padding: 0.75rem;
+}
+
+.earth-banner-small h1 {
+  font-size: 1.4rem;
+}
+
+.earth-banner-small p {
+  font-size: 0.95rem;
+}
+
+/* ==========================================================================
    TABLES
-   ============================================ */
+   ========================================================================== */
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 1.5rem 0;
-  font-size: 0.95rem;
+  margin: 1.25rem 0;
+  font-size: 0.9rem;
 }
 
 th, td {
-  padding: 0.75rem 1rem;
+  padding: 0.6rem 0.8rem;
   text-align: left;
   border: 1px solid var(--color-border);
 }
 
 th {
-  background: var(--color-bg-subtle);
+  background: var(--color-bg-alt);
   font-family: var(--font-sans);
   font-weight: 600;
 }
 
-/* ============================================
+/* ==========================================================================
    UTILITIES
-   ============================================ */
+   ========================================================================== */
 
 .text-center { text-align: center; }
 .text-small { font-size: 0.9rem; }
@@ -650,61 +735,125 @@ th {
 .mt-0 { margin-top: 0; }
 .mb-0 { margin-bottom: 0; }
 
-/* --- Figure captions --- */
 .figure-caption {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-style: italic;
   color: var(--color-text-light);
   text-align: center;
-  margin-top: -1rem;
-  margin-bottom: 1.5rem;
+  margin-top: -0.75rem;
+  margin-bottom: 1.25rem;
 }
 
-/* --- PDF download links --- */
 .pdf-link {
   display: inline-block;
-  padding: 0.6rem 1.2rem;
-  background: var(--color-accent);
+  padding: 0.5rem 1rem;
+  background: var(--color-link);
   color: #fff;
   border-radius: 4px;
   font-family: var(--font-sans);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   text-decoration: none;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 .pdf-link:hover {
-  background: var(--color-accent-hover);
+  background: var(--color-link-hover);
   text-decoration: none;
 }
 
-/* ============================================
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.25rem auto;
+}
+
+blockquote {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1.25rem;
+  border-left: 3px solid #c8d1d9;
+  background: var(--color-bg-alt);
+  color: var(--color-text-light);
+  font-style: italic;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 1.5rem 0;
+}
+
+ul, ol {
+  margin: 0 0 1rem 0;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.3rem;
+}
+
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+}
+
+/* ==========================================================================
    RESPONSIVE
-   ============================================ */
+   ========================================================================== */
+
+@media (max-width: 800px) {
+  .page-container,
+  .course-container {
+    margin: 1rem;
+    padding: 1rem 1.25rem;
+  }
+}
 
 @media (max-width: 600px) {
   html {
     font-size: 16px;
   }
   
-  .site-header {
-    padding: 1rem;
-  }
-  
-  .site-header-inner {
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-  
   .site-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .nav-links {
     gap: 1rem;
   }
   
-  h1 { font-size: 1.6rem; }
-  h2 { font-size: 1.3rem; }
+  .landing-hero h1 {
+    font-size: 2rem;
+  }
+  
+  .landing-hero {
+    padding: 3rem var(--spacing);
+  }
+  
+  .section-card-full {
+    flex-direction: column;
+  }
+  
+  .section-card-full .card-image {
+    width: 100%;
+    min-height: 100px;
+  }
+  
+  .course-banner-medium {
+    padding: 1.5rem 1rem;
+  }
+  
+  .course-banner-medium h1 {
+    font-size: 1.6rem;
+  }
 }
 
-/* --- Print styles --- */
+/* Print styles */
 @media print {
   .site-header,
   .site-footer,

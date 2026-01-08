@@ -33,22 +33,24 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="site-header-inner">
+    <nav class="site-nav">
       <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
-      <nav class="site-nav">
-        <a href="{{ '/course/' | relative_url }}" {% if page.url contains '/course' %}class="active"{% endif %}>Course</a>
-        <a href="{{ '/c4sd/' | relative_url }}" {% if page.url contains '/c4sd' %}class="active"{% endif %}>C4SD</a>
-        <a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Blog</a>
-        <a href="{{ '/keeping-up/' | relative_url }}" {% if page.url contains '/keeping-up' %}class="active"{% endif %}>Keeping Up</a>
-      </nav>
-    </div>
+      <ul class="nav-links">
+        <li><a href="{{ '/course/' | relative_url }}" {% if page.url contains '/course' %}class="active"{% endif %}>Course</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}" {% if page.url contains '/blog' %}class="active"{% endif %}>Theorist</a></li>
+        <li><a href="{{ '/keeping-up/' | relative_url }}" {% if page.url contains '/keeping-up' %}class="active"{% endif %}>Keeping Up</a></li>
+        <li><a href="{{ '/c4sd/' | relative_url }}" {% if page.url contains '/c4sd' %}class="active"{% endif %}>C4SD</a></li>
+      </ul>
+    </nav>
   </header>
 
   {{ content }}
 
   <footer class="site-footer">
-    <p>© {{ 'now' | date: "%Y" }} <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> & William C. Clark</p>
-    <p><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+    <div class="footer-content">
+      <p>© {{ 'now' | date: "%Y" }} <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> & William C. Clark</p>
+      <p><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+    </div>
   </footer>
 </body>
 </html>

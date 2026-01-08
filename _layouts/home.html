@@ -12,13 +12,13 @@
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/images/earth-at-night.jpg' | absolute_url }}">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ site.title }}">
   <meta name="twitter:description" content="{{ site.description }}">
-  <meta name="twitter:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  <meta name="twitter:image" content="{{ '/assets/images/earth-at-night.jpg' | absolute_url }}">
   
   <!-- Canonical -->
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
@@ -32,33 +32,45 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <!-- Earth at Night Banner (large, first) -->
-  <header class="earth-banner earth-banner-large">
-    <div class="earth-banner-inner">
-      <h1>Sustainability Science</h1>
-      <p>Resources for research and teaching on sustainable development</p>
-    </div>
+  <!-- Navigation FIRST (above Earth banner) -->
+  <header class="site-header">
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
+      <ul class="nav-links">
+        <li><a href="{{ '/course/' | relative_url }}">Course</a></li>
+        <li><a href="{{ '/blog/' | relative_url }}">Theorist</a></li>
+        <li><a href="{{ '/keeping-up/' | relative_url }}">Keeping Up</a></li>
+        <li><a href="{{ '/c4sd/' | relative_url }}">C4SD</a></li>
+      </ul>
+    </nav>
   </header>
 
-  <nav class="site-header">
-    <div class="site-header-inner">
-      <a href="{{ '/' | relative_url }}" class="site-title">Sustainability Science</a>
-      <nav class="site-nav">
-        <a href="{{ '/course/' | relative_url }}">Course</a>
-        <a href="{{ '/c4sd/' | relative_url }}">C4SD</a>
-        <a href="{{ '/blog/' | relative_url }}">Blog</a>
-        <a href="{{ '/keeping-up/' | relative_url }}">Keeping Up</a>
-      </nav>
-    </div>
-  </nav>
+  <!-- Earth at Night Hero (below nav) -->
+  <section class="landing-hero">
+    <h1>Sustainability Science</h1>
+    <p class="tagline">Resources for research and teaching on sustainable development</p>
+  </section>
 
-  <main class="page-container">
+  <!-- Section Cards -->
+  <section class="landing-sections">
     {{ content }}
-  </main>
+  </section>
+
+  <!-- About Section -->
+  <section class="landing-about">
+    <p>
+      This site is edited by <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> and <a href="https://www.hks.harvard.edu/faculty/william-clark">William C. Clark</a> as part of the <a href="https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program">Sustainability Science Program</a> at Harvard Kennedy School.
+    </p>
+    <p>
+      The Sustainability Science Program began in 2006 to support research on how interactions between society and nature affect human well-being. Based at Harvard Kennedy School's Mossavar-Rahmani Center for Business and Government, it promotes university-wide, collaborative research projects that aim to meet our needs for water, energy, food, and health while also protecting the planet. For more on the program's history, initiatives, and people, visit the <a href="https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program">SSP page at Harvard Kennedy School</a>.
+    </p>
+  </section>
 
   <footer class="site-footer">
-    <p>© {{ 'now' | date: "%Y" }} <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> & William C. Clark</p>
-    <p><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+    <div class="footer-content">
+      <p>© {{ 'now' | date: "%Y" }} <a href="https://scholar.harvard.edu/aharley">Alicia C. Harley</a> & William C. Clark</p>
+      <p><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
+    </div>
   </footer>
 </body>
 </html>
