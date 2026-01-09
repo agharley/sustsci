@@ -72,8 +72,8 @@
     <aside class="course-sidebar">
       <nav class="sidebar-nav">
         <div class="sidebar-section">
-          <a href="{{ '/course/about/' | relative_url }}" class="sidebar-link {% if page.url contains '/about' %}active{% endif %}">About the Course</a>
-          <a href="{{ '/course/creators/' | relative_url }}" class="sidebar-link {% if page.url contains '/creators' %}active{% endif %}">Course Creators</a>
+          <a href="{{ '/course/about.html' | relative_url }}" class="sidebar-link {% if page.url contains '/about' %}active{% endif %}">About the Course</a>
+          <a href="{{ '/course/creators.html' | relative_url }}" class="sidebar-link {% if page.url contains '/creators' %}active{% endif %}">Course Creators</a>
         </div>
 
         <div class="sidebar-section">
@@ -84,8 +84,8 @@
             <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-0-introduction/' or page.url == '/sustsci/course/part-0-introduction/' %}active{% endif %}">Part 0: Introduction</a>
             {% if page.url contains 'part-0' %}
             <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-0-introduction/unit-0-1-challenges/' | relative_url }}" {% if page.url contains 'unit-0-1' %}class="active"{% endif %}>Unit 0.1: Challenges</a></li>
-              <li><a href="{{ '/course/part-0-introduction/unit-0-2-tragedies/' | relative_url }}" {% if page.url contains 'unit-0-2' %}class="active"{% endif %}>Unit 0.2: Tragedies</a></li>
+              <li><a href="{{ '/course/part-0-introduction/unit-0-1-challenges.html' | relative_url }}" {% if page.url contains 'unit-0-1' %}class="active"{% endif %}>Unit 0.1: Challenges</a></li>
+              <li><a href="{{ '/course/part-0-introduction/unit-0-2-tragedies.html' | relative_url }}" {% if page.url contains 'unit-0-2' %}class="active"{% endif %}>Unit 0.2: Tragedies</a></li>
             </ul>
             {% endif %}
           </div>
@@ -95,11 +95,11 @@
             <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-1-conceptual-challenge/' or page.url == '/sustsci/course/part-1-conceptual-challenge/' %}active{% endif %}">Part I: Conceptual Challenge</a>
             {% if page.url contains 'part-1' %}
             <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-1-framework/' | relative_url }}" {% if page.url contains 'unit-1-1' %}class="active"{% endif %}>Unit 1.1: Framework</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-2-goals/' | relative_url }}" {% if page.url contains 'unit-1-2' %}class="active"{% endif %}>Unit 1.2: Goals</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-3-natural-resources/' | relative_url }}" {% if page.url contains 'unit-1-3' %}class="active"{% endif %}>Unit 1.3: Natural Resources</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources/' | relative_url }}" {% if page.url contains 'unit-1-4' %}class="active"{% endif %}>Unit 1.4: Anthropogenic Resources</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-5-integrated-assessment/' | relative_url }}" {% if page.url contains 'unit-1-5' %}class="active"{% endif %}>Unit 1.5: Integrated Assessment</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-1-framework.html' | relative_url }}" {% if page.url contains 'unit-1-1' %}class="active"{% endif %}>Unit 1.1: Framework</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-2-goals.html' | relative_url }}" {% if page.url contains 'unit-1-2' %}class="active"{% endif %}>Unit 1.2: Goals</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-3-natural-resources.html' | relative_url }}" {% if page.url contains 'unit-1-3' %}class="active"{% endif %}>Unit 1.3: Natural Resources</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources.html' | relative_url }}" {% if page.url contains 'unit-1-4' %}class="active"{% endif %}>Unit 1.4: Anthropogenic Resources</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-5-integrated-assessment.html' | relative_url }}" {% if page.url contains 'unit-1-5' %}class="active"{% endif %}>Unit 1.5: Integrated Assessment</a></li>
             </ul>
             {% endif %}
           </div>
@@ -109,14 +109,14 @@
             <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-2-anthropocene/' or page.url == '/sustsci/course/part-2-anthropocene/' %}active{% endif %}">Part II: The Anthropocene</a>
             {% if page.url contains 'part-2' %}
             <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-1-system-dynamics/' | relative_url }}" {% if page.url contains 'unit-2-1' %}class="active"{% endif %}>Unit 2.1: System Dynamics</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-2-stocks-flows/' | relative_url }}" {% if page.url contains 'unit-2-2' %}class="active"{% endif %}>Unit 2.2: Stocks & Flows</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-3-complexity/' | relative_url }}" {% if page.url contains 'unit-2-3' %}class="active"{% endif %}>Unit 2.3: Complexity</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-4-horizontal-connections/' | relative_url }}" {% if page.url contains 'unit-2-4' %}class="active"{% endif %}>Unit 2.4: Horizontal Connections</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-5-vertical-connections/' | relative_url }}" {% if page.url contains 'unit-2-5' %}class="active"{% endif %}>Unit 2.5: Vertical Connections</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-6-actors-institutions-power/' | relative_url }}" {% if page.url contains 'unit-2-6' %}class="active"{% endif %}>Unit 2.6: Actors & Power</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-7-inequality/' | relative_url }}" {% if page.url contains 'unit-2-7' %}class="active"{% endif %}>Unit 2.7: Inequality</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-8-synthesis/' | relative_url }}" {% if page.url contains 'unit-2-8' %}class="active"{% endif %}>Unit 2.8: Synthesis</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-1-system-dynamics.html' | relative_url }}" {% if page.url contains 'unit-2-1' %}class="active"{% endif %}>Unit 2.1: System Dynamics</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-2-stocks-flows.html' | relative_url }}" {% if page.url contains 'unit-2-2' %}class="active"{% endif %}>Unit 2.2: Stocks & Flows</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-3-complexity.html' | relative_url }}" {% if page.url contains 'unit-2-3' %}class="active"{% endif %}>Unit 2.3: Complexity</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-4-horizontal-connections.html' | relative_url }}" {% if page.url contains 'unit-2-4' %}class="active"{% endif %}>Unit 2.4: Horizontal Connections</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-5-vertical-connections.html' | relative_url }}" {% if page.url contains 'unit-2-5' %}class="active"{% endif %}>Unit 2.5: Vertical Connections</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html' | relative_url }}" {% if page.url contains 'unit-2-6' %}class="active"{% endif %}>Unit 2.6: Actors & Power</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-7-inequality.html' | relative_url }}" {% if page.url contains 'unit-2-7' %}class="active"{% endif %}>Unit 2.7: Inequality</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-8-synthesis.html' | relative_url }}" {% if page.url contains 'unit-2-8' %}class="active"{% endif %}>Unit 2.8: Synthesis</a></li>
             </ul>
             {% endif %}
           </div>
@@ -126,13 +126,13 @@
             <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-3-capacities/' or page.url == '/sustsci/course/part-3-capacities/' %}active{% endif %}">Part III: Capacities</a>
             {% if page.url contains 'part-3' %}
             <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-3-capacities/unit-3-1-capacities/' | relative_url }}" {% if page.url contains 'unit-3-1' %}class="active"{% endif %}>Unit 3.1: Capacities Overview</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-2-equity/' | relative_url }}" {% if page.url contains 'unit-3-2' %}class="active"{% endif %}>Unit 3.2: Equity</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-3-measure/' | relative_url }}" {% if page.url contains 'unit-3-3' %}class="active"{% endif %}>Unit 3.3: Measure</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-4-adapt/' | relative_url }}" {% if page.url contains 'unit-3-4' %}class="active"{% endif %}>Unit 3.4: Adapt</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-5-govern/' | relative_url }}" {% if page.url contains 'unit-3-5' %}class="active"{% endif %}>Unit 3.5: Govern</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-6-knowledge-action/' | relative_url }}" {% if page.url contains 'unit-3-6' %}class="active"{% endif %}>Unit 3.6: Knowledge & Action</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-7-transform/' | relative_url }}" {% if page.url contains 'unit-3-7' %}class="active"{% endif %}>Unit 3.7: Transform</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-1-capacities.html' | relative_url }}" {% if page.url contains 'unit-3-1' %}class="active"{% endif %}>Unit 3.1: Capacities Overview</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-2-equity.html' | relative_url }}" {% if page.url contains 'unit-3-2' %}class="active"{% endif %}>Unit 3.2: Equity</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-3-measure.html' | relative_url }}" {% if page.url contains 'unit-3-3' %}class="active"{% endif %}>Unit 3.3: Measure</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-4-adapt.html' | relative_url }}" {% if page.url contains 'unit-3-4' %}class="active"{% endif %}>Unit 3.4: Adapt</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-5-govern.html' | relative_url }}" {% if page.url contains 'unit-3-5' %}class="active"{% endif %}>Unit 3.5: Govern</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-6-knowledge-action.html' | relative_url }}" {% if page.url contains 'unit-3-6' %}class="active"{% endif %}>Unit 3.6: Knowledge & Action</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-7-transform.html' | relative_url }}" {% if page.url contains 'unit-3-7' %}class="active"{% endif %}>Unit 3.7: Transform</a></li>
             </ul>
             {% endif %}
           </div>
@@ -142,7 +142,7 @@
             <a href="{{ '/course/part-4-next-steps/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-4-next-steps/' or page.url == '/sustsci/course/part-4-next-steps/' %}active{% endif %}">Part IV: What's Next</a>
             {% if page.url contains 'part-4' %}
             <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-4-next-steps/unit-4-1-next-steps/' | relative_url }}" {% if page.url contains 'unit-4-1' %}class="active"{% endif %}>Unit 4.1: Next Steps</a></li>
+              <li><a href="{{ '/course/part-4-next-steps/unit-4-1-next-steps.html' | relative_url }}" {% if page.url contains 'unit-4-1' %}class="active"{% endif %}>Unit 4.1: Next Steps</a></li>
             </ul>
             {% endif %}
           </div>
