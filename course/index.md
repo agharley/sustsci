@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: course-home
 title: Sustainable Development
 show_github: true
 description: Open-access course materials exploring how peoples of an increasingly stressed planet can meet their needs while conserving the planet's life support systems.
@@ -35,9 +35,9 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 ---
 
 _All materials are free to download and share._  
-**[Download/view on GitHub »](https://github.com/agharley/sustainabilityscience.org)**
+**[Download/view on GitHub »](https://github.com/agharley/sustsci)**
 
-© Alicia Harley & William C. Clark, 2025.  
+© Alicia C. Harley & William C. Clark, 2025.  
 This material is Open Access and made available under the [Creative Commons Attribution (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/). In addition, the authors grant to the President and Fellows of Harvard College a nonexclusive, irrevocable, worldwide license to exercise any and all rights under copyright relating to this material, reproduced in any medium, provided that the material is not sold for a profit.
 
 For questions, contact [Alicia G. Harley](https://harley.scholars.harvard.edu/): [alicia_harley@hks.harvard.edu](mailto:alicia_harley@hks.harvard.edu)
