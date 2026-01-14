@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.8: Synthesis"
+pdf: unit-2-8.pdf
 description: "Integrating elements and relationships of nature-society systems into a comprehensive framework for sustainability analysis."
 ---
 

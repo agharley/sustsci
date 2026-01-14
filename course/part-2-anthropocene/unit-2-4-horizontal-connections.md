@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.4: Horizontal Connections"
+pdf: unit-2-4.pdf
 description: "How linkages among places—pollution externalities, trade, migration—affect the pursuit of sustainability across regions."
 ---
 

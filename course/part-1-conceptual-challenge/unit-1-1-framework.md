@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 1.1: A Framework for Sustainability Analysis"
+pdf: unit-1-1.pdf
 description: "Introducing a framework for harnessing science to understand the complexities of social-environmental systems and sustainable development."
 ---
 
@@ -12,7 +13,7 @@ The variety of complex interactions between human development and the natural en
 
 ---
 
-![Matson et al. 2016 Sustainability Framework](../images/matson-2016.jpg)
+![Matson et al. 2016 Sustainability Framework](/course/images/matson-2016.jpg)
 <p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
 Figure 1: A Framework for Sustainability Analysis (Matson et al., 2016)
 </p>

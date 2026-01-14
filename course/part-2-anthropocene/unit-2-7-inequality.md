@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.7: Inequality"
+pdf: unit-2-7.pdf
 description: "How inequality arises and persists in complex adaptive systems, and why it challenges sustainable development equity goals."
 ---
 

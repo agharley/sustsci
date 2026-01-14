@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.5: Capacity to Govern Cooperatively"
+pdf: unit-3-5.pdf
 description: "How can diverse actors with competing interests work together to achieve shared sustainability goals?"
 ---
 

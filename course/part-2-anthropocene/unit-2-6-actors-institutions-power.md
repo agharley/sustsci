@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.6: Actors, Institutions and Power"
+pdf: unit-2-6.pdf
 description: "How the unequal distribution of power among actors and institutional arrangements affects the pursuit of sustainability."
 ---
 

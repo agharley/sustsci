@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 0.1: The Challenge of Sustainable Development"
+pdf: unit-0-1.pdf
 description: "Exploring how human well-being can be improved without degrading the planet life support systems—the great escape meets the great acceleration."
 ---
 

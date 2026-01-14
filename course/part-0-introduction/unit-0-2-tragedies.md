@@ -1,14 +1,15 @@
 ---
 layout: course
 title: "Unit 0.2: Tragedies of the Commons"
+pdf: unit-0-2.pdf
 description: "Why is sustainable development so hard? Using the Fishbanks simulation to explore the dynamics of managing shared resources."
 ---
 
 # Unit 0.2 Tragedies of the Commons: Why is sustainable development so hard?
 
 Managing the dynamics of nature-society interactions for sustainable development is really hard! Nonetheless:  
-    1) It must be done, and  
-    2) We can learn to do it better.  
+1) It must be done, and  
+2) We can learn to do it better.  
 
 Trying out new approaches on simulated nature-society systems is safer and can be more informative than using the real world as a guinea pig. Simulations play a central role in modern research and policy design for sustainable development, and will appear frequently in the readings for this course where we will use them to address questions of public health, climate change, energy systems, biodiversity conservation, etc.
 

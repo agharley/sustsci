@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.4: Capacity to Adapt"
+pdf: unit-3-4.pdf
 description: "How can societies mobilize resources to cope with unexpected shocks and changing conditions on development pathways?"
 ---
 

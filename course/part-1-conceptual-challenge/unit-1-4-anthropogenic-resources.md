@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 1.4: Anthropogenic Resources"
+pdf: unit-1-4.pdf
 description: "How human, manufactured, social, and knowledge capital shape sustainability prospects and interact with natural resources."
 ---
 

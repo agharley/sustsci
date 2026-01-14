@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.7: Capacity to Transform"
+pdf: unit-3-7.pdf
 description: "How can we move beyond isolated actions to shift whole sectors or regions onto more sustainable development pathways?"
 ---
 

@@ -51,6 +51,10 @@
     <main class="course-content">
       {{ content }}
       
+      {% if page.pdf %}
+      <a href="{{ '/course/course-library/unit-guides/' | append: page.pdf | relative_url }}" class="pdf-download-btn" target="_blank">📄 Download Unit Guide (PDF)</a>
+      {% endif %}
+      
       <footer class="course-unit-footer">
         <p>This material is Open Access under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.</p>
       </footer>

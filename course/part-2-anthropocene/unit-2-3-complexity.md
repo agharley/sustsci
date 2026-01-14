@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.3: Complexity"
+pdf: unit-2-3.pdf
 description: "How non-linearities, multiple regimes, and tipping points emerge from the complexity of nature-society systems."
 ---
 

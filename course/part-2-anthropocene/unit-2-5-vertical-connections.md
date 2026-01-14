@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.5: Vertical Connections"
+pdf: unit-2-5.pdf
 description: "How novelty and change propagate across hierarchical levels of the Anthropocene system, from local to global scales."
 ---
 

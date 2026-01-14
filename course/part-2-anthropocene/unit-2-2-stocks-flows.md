@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.2: Stocks and Flows"
+pdf: unit-2-2.pdf
 description: "How stocks, flows, and feedbacks—fundamental properties of systems—shape the dynamics of nature-society interactions."
 ---
 

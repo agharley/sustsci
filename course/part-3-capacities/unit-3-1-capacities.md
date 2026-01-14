@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.1: Capacities for Sustainable Development"
+pdf: unit-3-1.pdf
 description: "What strategic capacities do advocates need to guide development pathways toward sustainability in complex adaptive systems?"
 ---
 

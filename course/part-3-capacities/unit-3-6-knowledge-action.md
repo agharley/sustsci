@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.6: Capacity to Link Knowledge with Action"
+pdf: unit-3-6.pdf
 description: "How can we ensure knowledge about sustainable development is actually utilized in practice and policy?"
 ---
 

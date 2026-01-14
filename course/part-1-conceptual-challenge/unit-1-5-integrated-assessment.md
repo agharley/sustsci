@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 1.5: Integrated Assessment of Resource Trends"
+pdf: unit-1-5.pdf
 description: "Are we consuming too much? Methods for aggregating and assessing whether development trends are sustainable."
 ---
 

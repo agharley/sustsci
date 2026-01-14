@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 1.3: Natural Resources"
+pdf: unit-1-3.pdf
 description: "How do natural resources—land, water, materials, and life—shape the prospects for sustainable development?"
 ---
 

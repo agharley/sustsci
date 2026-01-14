@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 2.1: System Dynamics"
+pdf: unit-2-1.pdf
 description: "How can we analyze interactions of nature and society? Introduction to systems thinking for understanding sustainability dynamics."
 ---
 

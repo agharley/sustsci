@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 1.2: Goals for Sustainable Development"
+pdf: unit-1-2.pdf
 description: "What kind of world do people want? Exploring well-being, equity, and the negotiation of common goals from OECD indices to UN SDGs."
 ---
 

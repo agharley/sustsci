@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.3: Capacity to Measure Progress"
+pdf: unit-3-3.pdf
 description: "What do we know from science and practice about measuring progress toward sustainability goals?"
 ---
 

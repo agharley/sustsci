@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Unit 3.2: Capacity to Promote Equity"
+pdf: unit-3-2.pdf
 description: "How can we promote equitable distribution of resources within and between generations despite power imbalances?"
 ---
 
