@@ -7,6 +7,7 @@ A core element of our strategy for teaching this course has been the crafting of
 ## Available Cases
 
 - [Alaska Salmon Fishery](case-alaska.pdf)
+- [London A Multi-Century Struggle for SustainableDevelopment in an Urban Environment] (case-london.pdf) 
 - [Appalachia Coal Country](case-appalachia.pdf)
 - [London Addendum Case](case-london-addendum.pdf)
 
