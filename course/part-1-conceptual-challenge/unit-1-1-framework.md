@@ -1,7 +1,9 @@
 ---
-layout: course-unit
-title: Unit 1.1 A Framework for Sustainability Analysis
+layout: course
+title: "Unit 1.1: A Framework for Sustainability Analysis"
+description: "Introducing a framework for harnessing science to understand the complexities of social-environmental systems and sustainable development."
 ---
+
 
 
 # Unit 1.1 A Framework for Sustainability Analysis: How can we harness science to understand the complexities of the Anthropocene System?

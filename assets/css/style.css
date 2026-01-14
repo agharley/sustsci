@@ -471,7 +471,7 @@ a:hover {
 
 /* Small banner for unit pages */
 .course-banner-small {
-  padding: 0.6rem 1.5rem;
+  padding: 1.25rem 1.5rem;
 }
 
 .course-banner-small .course-banner-inner {
@@ -480,7 +480,7 @@ a:hover {
 
 .banner-home-link {
   font-family: var(--font-serif);
-  font-size: 0.95rem;
+  font-size: 1.15rem;
   font-weight: 500;
   color: #fff;
   text-decoration: none;

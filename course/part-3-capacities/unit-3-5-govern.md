@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 3.5: Capacity to Govern Cooperatively"
+description: "How can diverse actors with competing interests work together to achieve shared sustainability goals?"
+---
+
 # Unit 3.5 Capacity to Govern Cooperatively: How can we work together to achieve what we cannot achieve alone in the pursuit of sustainability?
 
 Solving sustainability challenges requires diverse actors—often with competing interests and unequal power—to work together, often in the face of deep uncertainty and unexpected change. As we explored in Unit 2.6, governance emerges from the interactions among actors operating within institutional contexts, with power mediating their relationships. What distinguishes governance capacity from these raw elements is the deliberate effort to align these interactions toward collective goals—to create arrangements that enable cooperation despite divergent interests.

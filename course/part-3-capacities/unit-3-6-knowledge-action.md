@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 3.6: Capacity to Link Knowledge with Action"
+description: "How can we ensure knowledge about sustainable development is actually utilized in practice and policy?"
+---
+
 # Unit 3.6 Capacity to Link Knowledge with Action: How can we ensure knowledge to support informed agitation for sustainability is utilized in practice?
 
 Knowledge, we argued in Unit 1.3, is one of the key resources on which society draws to produce well-being. The stock of knowledge capital, like all resources, can be both depleted and augmented through human activities. Scholars and practitioners have built a growing stock of knowledge with the potential to inform action for sustainable development. Yet agitators working on the front lines of sustainability continue to lament the lack of action-oriented knowledge they most need. This gap between what is known about sustainable development and what is actually applied has long been recognized but remains stubbornly persistent.

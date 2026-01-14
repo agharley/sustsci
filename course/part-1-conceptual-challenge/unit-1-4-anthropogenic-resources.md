@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 1.4: Anthropogenic Resources"
+description: "How human, manufactured, social, and knowledge capital shape sustainability prospects and interact with natural resources."
+---
+
 # Unit 1.4 Resources for sustainable development II: How do anthropogenic resources shape the prospects for sustainable development?
 
 The resources directly provided by nature that we discussed in the previous Unit are essential determinants of people’s well-being. But through the course of human development, people have used those natural resources to construct additional resources that are now complementary sources of the goods and services used by people to foster well-being. These “anthropogenic” resources have been the focus of much work on the development of economies and are thus often referred to as “assets” or “capital assets.” For the purposes of sustainability analysis, they may be conveniently grouped as:

@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 1.2: Goals for Sustainable Development"
+description: "What kind of world do people want? Exploring well-being, equity, and the negotiation of common goals from OECD indices to UN SDGs."
+---
+
 # Unit 1.2 Goals for Sustainable Development: What kind of world do people want?
 
 Sustainable development, if it is to have meaning, must be about the development of something. As individuals, we are free to insist that words mean whatever we want them to. But if we want to communicate with—much less cooperate with—others, then shared meanings captured in shared goals are essential. In this class we draw from sustainability scholarship to advance and critique the following propositions about goals for sustainable development:  

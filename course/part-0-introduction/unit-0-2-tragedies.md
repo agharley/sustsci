@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 0.2: Tragedies of the Commons"
+description: "Why is sustainable development so hard? Using the Fishbanks simulation to explore the dynamics of managing shared resources."
+---
+
 # Unit 0.2 Tragedies of the Commons: Why is sustainable development so hard?
 
 Managing the dynamics of nature-society interactions for sustainable development is really hard! Nonetheless:  

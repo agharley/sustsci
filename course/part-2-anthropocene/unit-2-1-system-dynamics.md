@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 2.1: System Dynamics"
+description: "How can we analyze interactions of nature and society? Introduction to systems thinking for understanding sustainability dynamics."
+---
+
 # Unit 2.1 System Dynamics: How can we analyze interactions of nature and society?
 
 Part I of this course presented a largely static view of the relationships among human well-being, nature and society. But sustainable development is ultimately about the dynamics of those relationships – how they change through time. The Fishbanks exercise carried out as a “warm up” for this course in its Unit 0.2 explored the simple dynamics of how one year’s choices about how many boats to build and how many fish to catch changed both the bank accounts of the fishers and the number of fish available for harvest a year hence. More generally, the assessment of resource trends with which we concluded Part I invited us to consider whether society’s current consumption of resources to support its own well-being would leave enough resources for future generations to provide comparable levels of well-being for themselves. Answering these questions about changes in resources through time requires an understanding of how nature and society interact as a system – how the state of each is simultaneously both a consequence and a cause of changes in the other.

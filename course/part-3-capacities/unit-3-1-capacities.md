@@ -1,3 +1,9 @@
+---
+layout: course
+title: "Unit 3.1: Capacities for Sustainable Development"
+description: "What strategic capacities do advocates need to guide development pathways toward sustainability in complex adaptive systems?"
+---
+
 # Unit 3.1 Capacities for sustainable development: What capacities are needed to guide development pathways toward sustainability?
 
 Having explored the conceptual foundations of sustainable development in Part I of this course and examined the properties of the Anthropocene as a complex adaptive system in Part II, we now turn to the practical question of implementation. The pursuit of sustainability is not simply a matter of understanding problems or setting good intentions. It requires the ability to get things done—to connect widespread agreement on the goals of sustainable development with effective action. Yet too often societies fail to act at the speed and scale that many sustainability challenges require. This is at least in part because traditional approaches focus on understanding problems rather than building the practical capacity to act in contexts of uncertainty, competing interests, and inevitable surprises. This unit introduces Part III of the course by asking a fundamental question: What strategic capacities do advocates for sustainable development need in order to successfully guide development pathways toward sustainability?
