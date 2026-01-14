@@ -39,14 +39,126 @@
       <a href="{{ '/course/' | relative_url }}" class="banner-home-link">Sustainable Development: A Course Linking Science with Practice</a>
     </div>
   </header>
-  
-  <nav class="course-nav-bar">
-    <div class="course-nav-bar-inner">
-      <a href="{{ '/course/' | relative_url }}" class="course-back-link">← Course Home</a>
-    </div>
-  </nav>
 
   <div class="course-layout">
+    <!-- Sidebar Navigation (LEFT) -->
+    <aside class="course-sidebar">
+      <nav class="sidebar-nav">
+        
+        <!-- About Section -->
+        <div class="sidebar-section-group">
+          <div class="sidebar-part" data-section="about">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">About the Course</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/about.html' | relative_url }}" {% if page.url contains '/about' %}class="active"{% endif %}>Overview</a></li>
+              <li><a href="{{ '/course/creators.html' | relative_url }}" {% if page.url contains '/creators' %}class="active"{% endif %}>Course Creators</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <!-- Course Units -->
+        <div class="sidebar-section-group">
+          <!-- Part 0 -->
+          <div class="sidebar-part" data-section="part-0">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Part 0: Introduction</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/part-0-introduction/unit-0-1-challenges.html' | relative_url }}" {% if page.url contains 'unit-0-1' %}class="active"{% endif %}>0.1 Challenges</a></li>
+              <li><a href="{{ '/course/part-0-introduction/unit-0-2-tragedies.html' | relative_url }}" {% if page.url contains 'unit-0-2' %}class="active"{% endif %}>0.2 Tragedies</a></li>
+            </ul>
+          </div>
+
+          <!-- Part 1 -->
+          <div class="sidebar-part" data-section="part-1">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Part 1: Conceptual Challenge</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-1-framework.html' | relative_url }}" {% if page.url contains 'unit-1-1' %}class="active"{% endif %}>1.1 Framework</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-2-goals.html' | relative_url }}" {% if page.url contains 'unit-1-2' %}class="active"{% endif %}>1.2 Goals</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-3-natural-resources.html' | relative_url }}" {% if page.url contains 'unit-1-3' %}class="active"{% endif %}>1.3 Natural Resources</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources.html' | relative_url }}" {% if page.url contains 'unit-1-4' %}class="active"{% endif %}>1.4 Anthropogenic Resources</a></li>
+              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-5-integrated-assessment.html' | relative_url }}" {% if page.url contains 'unit-1-5' %}class="active"{% endif %}>1.5 Integrated Assessment</a></li>
+            </ul>
+          </div>
+
+          <!-- Part 2 -->
+          <div class="sidebar-part" data-section="part-2">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Part 2: Anthropocene</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-1-system-dynamics.html' | relative_url }}" {% if page.url contains 'unit-2-1' %}class="active"{% endif %}>2.1 System Dynamics</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-2-stocks-flows.html' | relative_url }}" {% if page.url contains 'unit-2-2' %}class="active"{% endif %}>2.2 Stocks & Flows</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-3-complexity.html' | relative_url }}" {% if page.url contains 'unit-2-3' %}class="active"{% endif %}>2.3 Complexity</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-4-horizontal-connections.html' | relative_url }}" {% if page.url contains 'unit-2-4' %}class="active"{% endif %}>2.4 Horizontal Connections</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-5-vertical-connections.html' | relative_url }}" {% if page.url contains 'unit-2-5' %}class="active"{% endif %}>2.5 Vertical Connections</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html' | relative_url }}" {% if page.url contains 'unit-2-6' %}class="active"{% endif %}>2.6 Actors & Power</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-7-inequality.html' | relative_url }}" {% if page.url contains 'unit-2-7' %}class="active"{% endif %}>2.7 Inequality</a></li>
+              <li><a href="{{ '/course/part-2-anthropocene/unit-2-8-synthesis.html' | relative_url }}" {% if page.url contains 'unit-2-8' %}class="active"{% endif %}>2.8 Synthesis</a></li>
+            </ul>
+          </div>
+
+          <!-- Part 3 -->
+          <div class="sidebar-part" data-section="part-3">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Part 3: Capacities</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/part-3-capacities/unit-3-1-capacities.html' | relative_url }}" {% if page.url contains 'unit-3-1' %}class="active"{% endif %}>3.1 Capacities Overview</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-2-equity.html' | relative_url }}" {% if page.url contains 'unit-3-2' %}class="active"{% endif %}>3.2 Equity</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-3-measure.html' | relative_url }}" {% if page.url contains 'unit-3-3' %}class="active"{% endif %}>3.3 Measure</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-4-adapt.html' | relative_url }}" {% if page.url contains 'unit-3-4' %}class="active"{% endif %}>3.4 Adapt</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-5-govern.html' | relative_url }}" {% if page.url contains 'unit-3-5' %}class="active"{% endif %}>3.5 Govern</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-6-knowledge-action.html' | relative_url }}" {% if page.url contains 'unit-3-6' %}class="active"{% endif %}>3.6 Knowledge & Action</a></li>
+              <li><a href="{{ '/course/part-3-capacities/unit-3-7-transform.html' | relative_url }}" {% if page.url contains 'unit-3-7' %}class="active"{% endif %}>3.7 Transform</a></li>
+            </ul>
+          </div>
+
+          <!-- Part 4 -->
+          <div class="sidebar-part" data-section="part-4">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Part 4: What's Next</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/part-4-next-steps/unit-4-1-next-steps.html' | relative_url }}" {% if page.url contains 'unit-4-1' %}class="active"{% endif %}>4.1 Next Steps</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <!-- Course Library -->
+        <div class="sidebar-section-group">
+          <div class="sidebar-part" data-section="library">
+            <div class="sidebar-part-header">
+              <span class="sidebar-arrow">▸</span>
+              <span class="sidebar-part-title">Course Library</span>
+            </div>
+            <ul class="sidebar-units">
+              <li><a href="{{ '/course/course-library/teaching-cases/' | relative_url }}" {% if page.url contains 'teaching-cases' %}class="active"{% endif %}>Teaching Cases</a></li>
+              <li><a href="{{ '/course/course-library/student-cases/' | relative_url }}" {% if page.url contains 'student-cases' %}class="active"{% endif %}>Student Cases</a></li>
+              <li><a href="{{ '/course/course-library/readings/' | relative_url }}" {% if page.url contains 'readings' %}class="active"{% endif %}>Readings</a></li>
+              <li><a href="{{ '/course/course-library/learning-games/' | relative_url }}" {% if page.url contains 'learning-games' %}class="active"{% endif %}>Learning Games</a></li>
+              <li><a href="{{ '/course/course-library/unit-guides/' | relative_url }}" {% if page.url contains 'unit-guides' %}class="active"{% endif %}>Unit Guides</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </nav>
+    </aside>
+
     <!-- Main Content -->
     <main class="course-content">
       {{ content }}
@@ -59,95 +171,64 @@
         <p>This material is Open Access under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.</p>
       </footer>
     </main>
-
-    <!-- Sidebar TOC -->
-    <aside class="course-sidebar">
-      <nav class="sidebar-nav">
-        <div class="sidebar-section">
-          <a href="{{ '/course/about.html' | relative_url }}" class="sidebar-link {% if page.url contains '/about' %}active{% endif %}">About the Course</a>
-          <a href="{{ '/course/creators.html' | relative_url }}" class="sidebar-link {% if page.url contains '/creators' %}active{% endif %}">Course Creators</a>
-        </div>
-
-        <div class="sidebar-section">
-          <h4 class="sidebar-heading">Course Structure</h4>
-          
-          <!-- Part 0 -->
-          <div class="sidebar-part {% if page.url contains 'part-0' %}expanded{% endif %}">
-            <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-0-introduction/' or page.url == '/sustsci/course/part-0-introduction/' %}active{% endif %}">Part 0: Introduction</a>
-            {% if page.url contains 'part-0' %}
-            <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-0-introduction/unit-0-1-challenges.html' | relative_url }}" {% if page.url contains 'unit-0-1' %}class="active"{% endif %}>Unit 0.1: Challenges</a></li>
-              <li><a href="{{ '/course/part-0-introduction/unit-0-2-tragedies.html' | relative_url }}" {% if page.url contains 'unit-0-2' %}class="active"{% endif %}>Unit 0.2: Tragedies</a></li>
-            </ul>
-            {% endif %}
-          </div>
-
-          <!-- Part I -->
-          <div class="sidebar-part {% if page.url contains 'part-1' %}expanded{% endif %}">
-            <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-1-conceptual-challenge/' or page.url == '/sustsci/course/part-1-conceptual-challenge/' %}active{% endif %}">Part I: Conceptual Challenge</a>
-            {% if page.url contains 'part-1' %}
-            <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-1-framework.html' | relative_url }}" {% if page.url contains 'unit-1-1' %}class="active"{% endif %}>Unit 1.1: Framework</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-2-goals.html' | relative_url }}" {% if page.url contains 'unit-1-2' %}class="active"{% endif %}>Unit 1.2: Goals</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-3-natural-resources.html' | relative_url }}" {% if page.url contains 'unit-1-3' %}class="active"{% endif %}>Unit 1.3: Natural Resources</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources.html' | relative_url }}" {% if page.url contains 'unit-1-4' %}class="active"{% endif %}>Unit 1.4: Anthropogenic Resources</a></li>
-              <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-5-integrated-assessment.html' | relative_url }}" {% if page.url contains 'unit-1-5' %}class="active"{% endif %}>Unit 1.5: Integrated Assessment</a></li>
-            </ul>
-            {% endif %}
-          </div>
-
-          <!-- Part II -->
-          <div class="sidebar-part {% if page.url contains 'part-2' %}expanded{% endif %}">
-            <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-2-anthropocene/' or page.url == '/sustsci/course/part-2-anthropocene/' %}active{% endif %}">Part II: The Anthropocene</a>
-            {% if page.url contains 'part-2' %}
-            <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-1-system-dynamics.html' | relative_url }}" {% if page.url contains 'unit-2-1' %}class="active"{% endif %}>Unit 2.1: System Dynamics</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-2-stocks-flows.html' | relative_url }}" {% if page.url contains 'unit-2-2' %}class="active"{% endif %}>Unit 2.2: Stocks & Flows</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-3-complexity.html' | relative_url }}" {% if page.url contains 'unit-2-3' %}class="active"{% endif %}>Unit 2.3: Complexity</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-4-horizontal-connections.html' | relative_url }}" {% if page.url contains 'unit-2-4' %}class="active"{% endif %}>Unit 2.4: Horizontal Connections</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-5-vertical-connections.html' | relative_url }}" {% if page.url contains 'unit-2-5' %}class="active"{% endif %}>Unit 2.5: Vertical Connections</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html' | relative_url }}" {% if page.url contains 'unit-2-6' %}class="active"{% endif %}>Unit 2.6: Actors & Power</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-7-inequality.html' | relative_url }}" {% if page.url contains 'unit-2-7' %}class="active"{% endif %}>Unit 2.7: Inequality</a></li>
-              <li><a href="{{ '/course/part-2-anthropocene/unit-2-8-synthesis.html' | relative_url }}" {% if page.url contains 'unit-2-8' %}class="active"{% endif %}>Unit 2.8: Synthesis</a></li>
-            </ul>
-            {% endif %}
-          </div>
-
-          <!-- Part III -->
-          <div class="sidebar-part {% if page.url contains 'part-3' %}expanded{% endif %}">
-            <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-3-capacities/' or page.url == '/sustsci/course/part-3-capacities/' %}active{% endif %}">Part III: Capacities</a>
-            {% if page.url contains 'part-3' %}
-            <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-3-capacities/unit-3-1-capacities.html' | relative_url }}" {% if page.url contains 'unit-3-1' %}class="active"{% endif %}>Unit 3.1: Capacities Overview</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-2-equity.html' | relative_url }}" {% if page.url contains 'unit-3-2' %}class="active"{% endif %}>Unit 3.2: Equity</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-3-measure.html' | relative_url }}" {% if page.url contains 'unit-3-3' %}class="active"{% endif %}>Unit 3.3: Measure</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-4-adapt.html' | relative_url }}" {% if page.url contains 'unit-3-4' %}class="active"{% endif %}>Unit 3.4: Adapt</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-5-govern.html' | relative_url }}" {% if page.url contains 'unit-3-5' %}class="active"{% endif %}>Unit 3.5: Govern</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-6-knowledge-action.html' | relative_url }}" {% if page.url contains 'unit-3-6' %}class="active"{% endif %}>Unit 3.6: Knowledge & Action</a></li>
-              <li><a href="{{ '/course/part-3-capacities/unit-3-7-transform.html' | relative_url }}" {% if page.url contains 'unit-3-7' %}class="active"{% endif %}>Unit 3.7: Transform</a></li>
-            </ul>
-            {% endif %}
-          </div>
-
-          <!-- Part IV -->
-          <div class="sidebar-part {% if page.url contains 'part-4' %}expanded{% endif %}">
-            <a href="{{ '/course/part-4-next-steps/' | relative_url }}" class="sidebar-part-title {% if page.url == '/course/part-4-next-steps/' or page.url == '/sustsci/course/part-4-next-steps/' %}active{% endif %}">Part IV: What's Next</a>
-            {% if page.url contains 'part-4' %}
-            <ul class="sidebar-units">
-              <li><a href="{{ '/course/part-4-next-steps/unit-4-1-next-steps.html' | relative_url }}" {% if page.url contains 'unit-4-1' %}class="active"{% endif %}>Unit 4.1: Next Steps</a></li>
-            </ul>
-            {% endif %}
-          </div>
-        </div>
-
-        <div class="sidebar-section">
-          <h4 class="sidebar-heading">Course Library</h4>
-          <a href="{{ '/course/course-library/teaching-cases/' | relative_url }}" class="sidebar-link">Teaching Cases</a>
-          <a href="{{ '/course/course-library/learning-games/' | relative_url }}" class="sidebar-link">Learning Games</a>
-          <a href="{{ '/course/course-library/readings/' | relative_url }}" class="sidebar-link">Readings</a>
-        </div>
-      </nav>
-    </aside>
   </div>
+
+  <!-- JavaScript for expand/collapse -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const currentUrl = window.location.pathname;
+      
+      // Get all sidebar parts
+      const parts = document.querySelectorAll('.sidebar-part');
+      
+      parts.forEach(function(part) {
+        const header = part.querySelector('.sidebar-part-header');
+        const units = part.querySelector('.sidebar-units');
+        const arrow = part.querySelector('.sidebar-arrow');
+        const section = part.dataset.section;
+        
+        // Check if this section should be expanded based on current URL
+        let shouldExpand = false;
+        
+        if (section === 'about' && (currentUrl.includes('/about') || currentUrl.includes('/creators'))) {
+          shouldExpand = true;
+        } else if (section === 'part-0' && currentUrl.includes('part-0')) {
+          shouldExpand = true;
+        } else if (section === 'part-1' && currentUrl.includes('part-1')) {
+          shouldExpand = true;
+        } else if (section === 'part-2' && currentUrl.includes('part-2')) {
+          shouldExpand = true;
+        } else if (section === 'part-3' && currentUrl.includes('part-3')) {
+          shouldExpand = true;
+        } else if (section === 'part-4' && currentUrl.includes('part-4')) {
+          shouldExpand = true;
+        } else if (section === 'library' && currentUrl.includes('course-library')) {
+          shouldExpand = true;
+        }
+        
+        // Set initial state
+        if (shouldExpand) {
+          units.classList.add('expanded');
+          arrow.textContent = '▾';
+        } else {
+          units.classList.remove('expanded');
+          arrow.textContent = '▸';
+        }
+        
+        // Toggle on click
+        header.addEventListener('click', function() {
+          const isExpanded = units.classList.contains('expanded');
+          
+          if (isExpanded) {
+            units.classList.remove('expanded');
+            arrow.textContent = '▸';
+          } else {
+            units.classList.add('expanded');
+            arrow.textContent = '▾';
+          }
+        });
+      });
+    });
+  </script>
 </body>
 </html>
