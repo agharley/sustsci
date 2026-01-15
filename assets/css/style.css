@@ -503,7 +503,10 @@ a:hover {
 
 /* Home banner - taller to show full Earth map */
 .course-banner-home {
-  padding: 5.5rem 1.5rem;
+  background-size: 100% auto;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 6.5rem 1.5rem;
 }
 
 .course-banner-home h1 {
@@ -616,6 +619,27 @@ a:hover {
 
 .library-links a:hover {
   text-decoration: underline;
+}
+
+/* About links on landing page */
+.about-links {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.about-link {
+  color: var(--color-navy);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.05rem;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid var(--color-navy);
+}
+
+.about-link:hover {
+  color: var(--color-navy-dark);
+  border-bottom-color: var(--color-navy-dark);
 }
 
 /* PDF Download Button */
@@ -1080,7 +1104,7 @@ sup {
   }
   
   .course-banner-home {
-    padding: 3.5rem 1rem;
+    padding: 4.5rem 1rem;
   }
   
   .course-banner-home h1 {
@@ -1094,6 +1118,11 @@ sup {
   .library-links {
     flex-direction: column;
     gap: 0.5rem;
+  }
+  
+  .about-links {
+    flex-direction: column;
+    gap: 0.75rem;
   }
   
   .course-layout {

@@ -16,6 +16,11 @@ This course explores how the peoples of an increasingly stressed planet earth ca
 
 The course seeks to understand how these ills can be remedied through collaborative actions and capacity building efforts that support the transition to more just and sustainable pathways of development. It does so via the systematic exposition of a theoretical framework grounded in sustainability science that we then use to analyze a series of in-depth case studies in sustainable development prepared especially for the course.
 
+<div class="about-links">
+  <a href="about.html" class="about-link">About the Course</a>
+  <a href="creators.html" class="about-link">Course Creators</a>
+</div>
+
 ---
 
 ## Course Structure
