@@ -624,6 +624,7 @@ a:hover {
 /* About links on landing page */
 .about-links {
   display: flex;
+  justify-content: center;
   gap: 1.5rem;
   margin-top: 2rem;
 }
