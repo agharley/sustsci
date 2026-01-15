@@ -34,66 +34,23 @@
 </head>
 <body class="course-site">
   <!-- Large Earth at Night Hero for Course Home -->
-  <header class="course-banner course-banner-large">
+  <header class="course-banner course-banner-home">
     <div class="course-banner-inner">
       <h1>Sustainable Development</h1>
       <p>A course linking science with practice</p>
     </div>
   </header>
 
-  <div class="course-layout">
-    <!-- Main Content -->
-    <main class="course-home-container">
-      {{ content }}
-    </main>
-
-    <!-- Right Sidebar TOC -->
-    <aside class="course-sidebar">
-      <nav class="sidebar-nav">
-        <div class="sidebar-section">
-          <a href="{{ '/course/about/' | relative_url }}" class="sidebar-link">About the Course</a>
-          <a href="{{ '/course/creators/' | relative_url }}" class="sidebar-link">Course Creators</a>
-        </div>
-
-        <div class="sidebar-section">
-          <h4 class="sidebar-heading">Course Structure</h4>
-          
-          <div class="sidebar-part">
-            <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title">Part 0: Introduction</a>
-          </div>
-          
-          <div class="sidebar-part">
-            <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title">Part I: Conceptual Challenge</a>
-          </div>
-          
-          <div class="sidebar-part">
-            <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title">Part II: The Anthropocene</a>
-          </div>
-          
-          <div class="sidebar-part">
-            <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title">Part III: Capacities</a>
-          </div>
-          
-          <div class="sidebar-part">
-            <a href="{{ '/course/part-4-next-steps/' | relative_url }}" class="sidebar-part-title">Part IV: What's Next</a>
-          </div>
-        </div>
-
-        <div class="sidebar-section">
-          <h4 class="sidebar-heading">Course Library</h4>
-          <a href="{{ '/course/course-library/teaching-cases/' | relative_url }}" class="sidebar-link">Teaching Cases</a>
-          <a href="{{ '/course/course-library/learning-games/' | relative_url }}" class="sidebar-link">Learning Games</a>
-          <a href="{{ '/course/course-library/readings/' | relative_url }}" class="sidebar-link">Readings</a>
-        </div>
-      </nav>
-    </aside>
-  </div>
+  <!-- Main Content - Full Width, No Sidebar -->
+  <main class="course-home-content">
+    {{ content }}
+  </main>
 
   <footer class="course-footer-full">
     <div class="course-footer-inner">
       <p class="footer-free"><em>All materials are free to download and share.</em></p>
       
-      <p class="footer-copyright">© Alicia Harley & William C. Clark, 2025.</p>
+      <p class="footer-copyright">© Alicia G. Harley & William C. Clark, 2025.</p>
       
       <p>This material is Open Access and made available under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY 4.0) license</a>.</p>
       

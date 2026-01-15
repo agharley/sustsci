@@ -497,6 +497,127 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ==========================================================================
+   COURSE LANDING PAGE - Full Width Layout
+   ========================================================================== */
+
+/* Home banner - taller to show full Earth map */
+.course-banner-home {
+  padding: 5.5rem 1.5rem;
+}
+
+.course-banner-home h1 {
+  font-size: 2.75rem;
+}
+
+.course-banner-home p {
+  font-size: 1.25rem;
+}
+
+/* Full width content container for landing page */
+.course-home-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+/* Challenges list - simple indented paragraphs */
+.challenges-list {
+  margin: 1rem 0 1rem 1.5rem;
+}
+
+.challenges-list p {
+  margin-bottom: 0.75rem;
+}
+
+.challenges-list p:last-child {
+  margin-bottom: 0;
+}
+
+/* Part cards for course structure */
+.part-card {
+  background: #ffffff;
+  border: 1px solid #d0dce8;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.part-card-header {
+  background: var(--color-navy);
+  padding: 0.75rem 1.25rem;
+}
+
+.part-card-header a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.part-card-header a:hover {
+  text-decoration: underline;
+}
+
+.part-card-units {
+  padding: 1rem 1.25rem;
+}
+
+.part-card-units ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.part-card-units li {
+  padding: 0.25rem 0;
+  break-inside: avoid;
+}
+
+.part-card-units a {
+  color: var(--color-navy);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.part-card-units a:hover {
+  text-decoration: underline;
+  color: var(--color-navy-dark);
+}
+
+/* Course Library section on landing page */
+.library-section {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.library-heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-navy);
+  margin-bottom: 1rem;
+}
+
+.library-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+}
+
+.library-links a {
+  color: var(--color-navy);
+  text-decoration: none;
+  font-size: 0.95rem;
+  padding: 0.4rem 0;
+}
+
+.library-links a:hover {
+  text-decoration: underline;
+}
+
 /* PDF Download Button */
 .pdf-download-btn {
   display: inline-block;
@@ -956,6 +1077,23 @@ sup {
   
   .course-banner-large h1 {
     font-size: 2rem;
+  }
+  
+  .course-banner-home {
+    padding: 3.5rem 1rem;
+  }
+  
+  .course-banner-home h1 {
+    font-size: 2rem;
+  }
+  
+  .part-card-units ul {
+    columns: 1;
+  }
+  
+  .library-links {
+    flex-direction: column;
+    gap: 0.5rem;
   }
   
   .course-layout {
