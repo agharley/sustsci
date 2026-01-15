@@ -13,7 +13,7 @@ The variety of complex interactions between human development and the natural en
 
 ---
 
-![Matson et al. 2016 Sustainability Framework](/course/images/matson-2016.jpg)
+![Matson et al. 2016 Sustainability Framework](../images/matson-2016.jpg)
 <p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
 Figure 1: A Framework for Sustainability Analysis (Matson et al., 2016)
 </p>
@@ -58,8 +58,3 @@ Thompson, M. (2021). [The Alaskan Salmon Fishery: Managing Resources in a Global
 
 <sup>1</sup> *Note that in the more recent literature, an equivalent term to the one used in the figure has been introduced: the nature-society system. We will use this more recent terminology going forward, but both mean the same thing—the integrated systems formed by the co-evolution of human societies and the natural environment.*
 
----
-
-<a href="../course-library/unit-guides/unit-1-1.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-📝 Unit 1.1 Reading Guide (PDF)
-</a>
