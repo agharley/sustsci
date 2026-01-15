@@ -67,7 +67,7 @@
           <div class="sidebar-part" data-section="part-0">
             <div class="sidebar-part-header">
               <span class="sidebar-arrow">▸</span>
-              <span class="sidebar-part-title">Part 0: Introduction</span>
+              <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-0-introduction' and page.url contains 'index' %}active{% endif %}">Part 0: Introduction</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/part-0-introduction/unit-0-1-challenges.html' | relative_url }}" {% if page.url contains 'unit-0-1' %}class="active"{% endif %}>0.1 Challenges</a></li>
@@ -79,7 +79,7 @@
           <div class="sidebar-part" data-section="part-1">
             <div class="sidebar-part-header">
               <span class="sidebar-arrow">▸</span>
-              <span class="sidebar-part-title">Part 1: Conceptual Challenge</span>
+              <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-1-conceptual' and page.url contains 'index' %}active{% endif %}">Part 1: Conceptual Challenge</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/part-1-conceptual-challenge/unit-1-1-framework.html' | relative_url }}" {% if page.url contains 'unit-1-1' %}class="active"{% endif %}>1.1 Framework</a></li>
@@ -94,7 +94,7 @@
           <div class="sidebar-part" data-section="part-2">
             <div class="sidebar-part-header">
               <span class="sidebar-arrow">▸</span>
-              <span class="sidebar-part-title">Part 2: Anthropocene</span>
+              <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-2-anthropocene' and page.url contains 'index' %}active{% endif %}">Part 2: Anthropocene</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/part-2-anthropocene/unit-2-1-system-dynamics.html' | relative_url }}" {% if page.url contains 'unit-2-1' %}class="active"{% endif %}>2.1 System Dynamics</a></li>
@@ -112,7 +112,7 @@
           <div class="sidebar-part" data-section="part-3">
             <div class="sidebar-part-header">
               <span class="sidebar-arrow">▸</span>
-              <span class="sidebar-part-title">Part 3: Capacities</span>
+              <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-3-capacities' and page.url contains 'index' %}active{% endif %}">Part 3: Capacities</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/part-3-capacities/unit-3-1-capacities.html' | relative_url }}" {% if page.url contains 'unit-3-1' %}class="active"{% endif %}>3.1 Capacities Overview</a></li>
@@ -129,7 +129,7 @@
           <div class="sidebar-part" data-section="part-4">
             <div class="sidebar-part-header">
               <span class="sidebar-arrow">▸</span>
-              <span class="sidebar-part-title">Part 4: What's Next</span>
+              <a href="{{ '/course/part-4-next-steps/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-4-next' and page.url contains 'index' %}active{% endif %}">Part 4: What's Next</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/part-4-next-steps/unit-4-1-next-steps.html' | relative_url }}" {% if page.url contains 'unit-4-1' %}class="active"{% endif %}>4.1 Next Steps</a></li>
@@ -183,8 +183,8 @@
       
       parts.forEach(function(part) {
         const header = part.querySelector('.sidebar-part-header');
-        const units = part.querySelector('.sidebar-units');
         const arrow = part.querySelector('.sidebar-arrow');
+        const units = part.querySelector('.sidebar-units');
         const section = part.dataset.section;
         
         // Check if this section should be expanded based on current URL
@@ -215,8 +215,27 @@
           arrow.textContent = '▸';
         }
         
-        // Toggle on click
-        header.addEventListener('click', function() {
+        // Toggle on arrow click only
+        arrow.addEventListener('click', function(e) {
+          e.stopPropagation();
+          const isExpanded = units.classList.contains('expanded');
+          
+          if (isExpanded) {
+            units.classList.remove('expanded');
+            arrow.textContent = '▸';
+          } else {
+            units.classList.add('expanded');
+            arrow.textContent = '▾';
+          }
+        });
+        
+        // Also toggle when clicking header area (but not the link)
+        header.addEventListener('click', function(e) {
+          // Don't toggle if clicking on a link
+          if (e.target.tagName === 'A') {
+            return;
+          }
+          
           const isExpanded = units.classList.contains('expanded');
           
           if (isExpanded) {
