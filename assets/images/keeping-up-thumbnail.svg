@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Background - warm cream/parchment -->
+  <rect width="300" height="300" fill="#f5ebe0"/>
+  
+  <!-- Book with page edges -->
+  <!-- Book cover/base -->
+  <path d="M75 215 L150 205 L225 215 L225 220 L150 210 L75 220 Z" fill="#8b7355" opacity="0.4"/>
+  
+  <!-- Left page stack -->
+  <path d="M150 200 Q115 196 80 200 L80 145 Q115 141 150 145 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.4"/>
+  <path d="M150 198 Q117 194 84 198 L84 147 Q117 143 150 147 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.5"/>
+  <path d="M150 196 Q119 192 88 196 L88 149 Q119 145 150 149 Z" fill="none" stroke="#8b6914" stroke-width="1.5" opacity="0.6"/>
+  <!-- Top left page -->
+  <path d="M150 194 Q121 190 92 194 L92 151 Q121 147 150 151 Z" fill="none" stroke="#6b4423" stroke-width="2" opacity="0.85"/>
+  
+  <!-- Right page stack -->
+  <path d="M150 200 Q185 196 220 200 L220 145 Q185 141 150 145 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.4"/>
+  <path d="M150 198 Q183 194 216 198 L216 147 Q183 143 150 147 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.5"/>
+  <path d="M150 196 Q181 192 212 196 L212 149 Q181 145 150 149 Z" fill="none" stroke="#8b6914" stroke-width="1.5" opacity="0.6"/>
+  <!-- Top right page -->
+  <path d="M150 194 Q179 190 208 194 L208 151 Q179 147 150 151 Z" fill="none" stroke="#6b4423" stroke-width="2" opacity="0.85"/>
+  
+  <!-- Book spine -->
+  <line x1="150" y1="151" x2="150" y2="194" stroke="#6b4423" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- Globe above book -->
+  <circle cx="150" cy="90" r="38" fill="none" stroke="#8b5a2b" stroke-width="2" opacity="0.75"/>
+  <!-- Globe meridian -->
+  <ellipse cx="150" cy="90" rx="15" ry="38" fill="none" stroke="#8b5a2b" stroke-width="1.5" opacity="0.45"/>
+  <!-- Globe equator -->
+  <ellipse cx="150" cy="90" rx="38" ry="13" fill="none" stroke="#8b5a2b" stroke-width="1.5" opacity="0.45"/>
+  
+  <!-- Accent dot at globe center - terracotta -->
+  <circle cx="150" cy="90" r="5" fill="#c65d3d" opacity="0.9"/>
+  
+  <!-- Subtle connection from globe to book -->
+  <line x1="150" y1="128" x2="150" y2="151" stroke="#8b5a2b" stroke-width="1" opacity="0.25"/>
+  
+</svg>
