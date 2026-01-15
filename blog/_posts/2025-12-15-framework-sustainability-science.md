@@ -98,7 +98,7 @@ The black line traces a development pathway through this landscape. Notice how i
 
 But look at the future landscape more carefully. The pathway crosses a ridge into a different valley—this represents **transformation**, the rarer crossing from one regime into another. Notice too the small green patch the pathway traverses. This represents an unstable area—would-be transformational changes can falter if they fail to cross fully into a new stable regime. A system might cling to an unstable trajectory for a time before eventually falling back into its original valley.
 
-## A Checklist, Not a Prediction Machine
+## A Checklist, Not a Prediction
 
 I want to emphasize what the framework is not. It is not meant to predict outcomes or serve as a grand theory of everything. The complex adaptive character of the Anthropocene means that development pathways cannot, even in principle, be fully predicted in advance. Innovation, surprise, and the unfolding unknown are permanent features of the system we inhabit.
 
