@@ -6,7 +6,7 @@ description: "Downloadable PDF guides for each unit of the Sustainable Developme
 
 # Unit Guides
 
-This page provides links to all PDFs of the unit guides. It's an easier way to download all PDFs at once. To het to the webpages for each of the units please use the navigation menu on the left. 
+This page provides links to all PDFs of the unit guides. It's an easier way to download all PDFs at once. To navigate to the webpages for each of the units, please use the navigation menu on the left. The final link downloads all unit guides as a single PDF.
 
 ---
 
