@@ -2,7 +2,7 @@
 layout: post
 title: "A Framework for Research in Sustainability Science"
 date: 2025-12-15
-author: Alicia Harley
+author: Alicia G. Harley
 excerpt: "Sustainability science draws from many perspectives—ecology and economics, political science and engineering, indigenous knowledge and systems thinking. This post introduces a framework that synthesizes insights across these traditions into a checklist for analyzing nature-society interactions."
 ---
 
