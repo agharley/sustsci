@@ -1,5 +1,5 @@
 ---
-layout: page-banner
+layout: page-banner-c4sd
 title: Capacity Building for Sustainable Development
 subtitle: C4SD Research Project
 description: The C4SD research project explores six strategic capacities for sustainable development through empirical research and practitioner dialogue.

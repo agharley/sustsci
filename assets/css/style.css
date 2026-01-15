@@ -621,6 +621,23 @@ a:hover {
   text-decoration: underline;
 }
 
+/* C4SD Page Banner */
+.c4sd-banner {
+  width: 100%;
+  max-height: 350px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f5f0e8;
+}
+
+.c4sd-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* About links on landing page */
 .about-links {
   display: flex;

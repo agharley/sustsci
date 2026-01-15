@@ -12,13 +12,13 @@
   <meta property="og:description" content="{{ page.description | default: site.description }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/images/C4SD_main_large-thumbnail.jpg' | absolute_url }}">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
   <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-  <meta name="twitter:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
+  <meta name="twitter:image" content="{{ '/assets/images/C4SD_main_large-thumbnail.jpg' | absolute_url }}">
   
   <!-- Canonical -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
@@ -45,14 +45,13 @@
     </nav>
   </header>
 
-  <!-- Small Earth at Night Banner -->
-  <div class="earth-banner earth-banner-small">
-    <div class="earth-banner-inner">
-      <h1>{{ page.title }}</h1>
-    </div>
+  <!-- C4SD Illustration Banner -->
+  <div class="c4sd-banner">
+    <img src="{{ '/assets/images/C4SD_main_large-thumbnail.jpg' | relative_url }}" alt="Capacities for Sustainable Development illustration">
   </div>
 
   <main class="page-container">
+    <h1 class="page-title">{{ page.title }}</h1>
     {% if page.subtitle %}
     <p class="page-subtitle">{{ page.subtitle }}</p>
     {% endif %}
