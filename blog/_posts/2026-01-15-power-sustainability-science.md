@@ -6,8 +6,6 @@ date: 2026-01-15
 description: "Understanding why unsustainable patterns persist—and how they might be transformed—requires grappling with the uncomfortable reality of power."
 ---
 
-# Why Sustainability Science Needs a Theory of Power
-
 The persistence of the climate crisis, ecological destruction, and grinding poverty in a time of unprecedented wealth share something in common: they are not primarily technical problems awaiting better solutions. They are problems of power.
 
 The pursuit of sustainable development is, at its core, a massively redistributional agenda. It asks those who benefit from current arrangements to accept constraints on their behavior for the sake of others—including people in distant places and future generations who have no seat at the table. It should surprise no one that powerful actors resist such constraints. What should surprise us is how long sustainability science went without seriously examining the mechanisms of that resistance.
@@ -40,7 +38,7 @@ Consider the dynamics: An actor with compulsion power (control over resources) c
 
 John Gaventa mapped these dynamics in his classic study of Appalachian coal country, showing how power and powerlessness reinforce each other across all three dimensions:
 
-![The Three Dimensions of Power](/images/empowerment_gaventa.png)
+![The Three Dimensions of Power](/course/images/empowerment_gaventa.png)
 *Figure: The three dimensions of power and their reinforcing dynamics. Adapted from Gaventa (1980).*
 
 The figure reveals something crucial: when powerful actors begin to lose their grip on one dimension of power, they mobilize their control over the other two to protect their interests until they can reestablish control. The arrows show how each dimension reinforces the others, creating a system that is dynamically stable—not static, but continuously reproducing itself.
