@@ -92,6 +92,6 @@ A methodological contribution showing how to integrate Lukes' framework with Ost
 
 An early and influential effort to bridge institutional analysis with power-centered approaches. Applied to forest policy in Vietnam, Clement shows how the third dimension of power--the shaping of values and beliefs--operates through daily enforcement of social practices. The "politicised IAD" framework she proposes has been widely adopted in subsequent natural resource governance research.
 
-**Gaventa, J. (2006).** [Finding the spaces for change: A power analysis.](https://doi.org/10.1111/j.1759-5436.2006.tb00320.x) *IDS Bulletin* 37(6): 23-33.
+**Gaventa, J. (2006).** [Finding the spaces for change: A power analysis.](https://doi.org/10.1111/j.1759-5436.2006.tb00320.x) *IDS Bulletin* 37: 23-33.
 
 Gaventa extends his earlier empirical work into the "Power Cube"--a practical tool for analyzing how power operates across different spaces (closed, invited, claimed), levels (local to global), and forms (visible, hidden, invisible). While developed primarily for development practitioners, the framework offers sustainability researchers a way to systematically map power relations in multi-level governance contexts.
