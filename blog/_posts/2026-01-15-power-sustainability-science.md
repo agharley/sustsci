@@ -38,7 +38,8 @@ Consider the dynamics: An actor with compulsion power (control over resources) c
 
 John Gaventa mapped these dynamics in his classic study of Appalachian coal country, showing how power and powerlessness reinforce each other across all three dimensions:
 
-![The Three Dimensions of Power](/course/images/empowerment_gaventa.png)
+<img src="{{ '/course/images/empowerment_gaventa.png' | relative_url }}" alt="The three dimensions of power and their reinforcing dynamics">
+
 *Figure: The three dimensions of power and their reinforcing dynamics. Adapted from Gaventa (1980).*
 
 The figure reveals something crucial: when powerful actors begin to lose their grip on one dimension of power, they mobilize their control over the other two to protect their interests until they can reestablish control. The arrows show how each dimension reinforces the others, creating a system that is dynamically stable--not static, but continuously reproducing itself.
