@@ -3,7 +3,7 @@ layout: blog
 title: "Why Sustainability Science Needs a Theory of Power"
 author: Alicia G. Harley
 date: 2026-01-15
-description: "Understanding why unsustainable patterns persist--and how they might be transformed--requires grappling with the uncomfortable reality of power."
+description: "Power shapes why unsustainable patterns persist. A three-dimensional framework for analyzing how power operates—and how it can be contested—in sustainability science."
 ---
 
 The persistence of the climate crisis, ecological destruction, and grinding poverty in a time of unprecedented wealth share something in common: they are not primarily technical problems awaiting better solutions. They are problems of power.
