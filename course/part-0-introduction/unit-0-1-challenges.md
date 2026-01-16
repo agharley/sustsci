@@ -2,7 +2,7 @@
 layout: course
 title: "Unit 0.1: The Challenge of Sustainable Development"
 pdf: unit-0-1.pdf
-description: "Exploring how human well-being can be improved without degrading the planet life support systems—the great escape meets the great acceleration."
+description: "Exploring the challenge of sustainable development: how human well-being can be improved without degrading the planets life support systems."
 ---
 
 # Unit 0.1 The challenge of sustainable development: How can human well-being be improved without degrading the planet’s life support systems?
