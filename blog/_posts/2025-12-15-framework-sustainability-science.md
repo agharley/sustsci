@@ -41,7 +41,7 @@ Think of the framework as a checklist: a set of building blocks that experience 
 
 The framework is best understood visually. Figure 1 synthesizes the key elements and relationships into a single image that deserves careful study.
 
-![Framework for Research in Sustainability Science](/sustsci/course/images/arer-framework.png)
+<img src="{{ '/course/images/arer-framework.png' | relative_url }}" alt="Framework for Research in Sustainability Science">
 *Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020), Annual Review of Environment and Resources.*
 
 Let me walk you through it.
@@ -66,7 +66,7 @@ Notice how these four elements are bound together through relationships of **con
 
 Power—the ability of some actors to affect the beliefs or actions of others—mediates the relationships among the framework's elements.
 
-Power can both constrain and enable what people think and do. It operates through multiple dimensions: the control of resources that allows some actors to compel others; the ability to shape institutional rules and exclude others from decision-making; and the capacity to influence goals, values, and even what counts as legitimate knowledge. Understanding how power differentials reinforce unsustainable development pathways—and how they might be challenged—is increasingly central to sustainability research. (I explore these dynamics more fully in [a separate post on power and sustainability](/sustsci/blog/2026/01/power-sustainability-science/).)
+Power can both constrain and enable what people think and do. It operates through multiple dimensions: the control of resources that allows some actors to compel others; the ability to shape institutional rules and exclude others from decision-making; and the capacity to influence goals, values, and even what counts as legitimate knowledge. Understanding how power differentials reinforce unsustainable development pathways—and how they might be challenged—is increasingly central to sustainability research. (I explore these dynamics more fully in <a href="{{ '/blog/2026/01/power-sustainability-science/' | relative_url }}">a separate post on power and sustainability</a>.)
 
 ## Context Dependence: Multiple Systems in Play
 

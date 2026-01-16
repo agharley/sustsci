@@ -10,7 +10,7 @@ Resources for staying current with developments in sustainability science and re
   <div class="section-card card-sub card-keeping">
     <h3>Conferences</h3>
     <p>Major conferences and meetings relevant to sustainability science.</p>
-    <a href="/sustsci/keeping-up/conferences/" class="card-link">View conferences →</a>
+    <a href="{{ '/keeping-up/conferences/' | relative_url }}" class="card-link">View conferences →</a>
   </div>
   
   <div class="section-card card-sub card-keeping">

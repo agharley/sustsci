@@ -1,3 +1,6 @@
+---
+---
+
 /* ==========================================================================
    Sustainability Science - Main Stylesheet
    Clean, academic aesthetic with refined course layout
@@ -437,7 +440,7 @@ a:hover {
 
 /* Course Banner Base */
 .course-banner {
-  background: url('/sustsci/course/images/NASA_earth_at_night.jpg') center/cover no-repeat;
+  background: url('{{ "/course/images/NASA_earth_at_night.jpg" | relative_url }}') center/cover no-repeat;
   background-color: #0a1628;
   text-align: center;
 }
