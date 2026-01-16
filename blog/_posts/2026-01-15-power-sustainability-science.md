@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Why Sustainability Science Needs a Theory of Power"
-author: Alicia Harley
+author: Alicia G. Harley
 date: 2026-01-15
 description: "Understanding why unsustainable patterns persist--and how they might be transformed--requires grappling with the uncomfortable reality of power."
 ---
