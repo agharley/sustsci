@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <!-- Background - warm cream/parchment -->
+  <rect width="1200" height="300" fill="#f5ebe0"/>
+  
+  <!-- Book with page edges - centered -->
+  <!-- Book cover/base -->
+  <path d="M475 230 L600 215 L725 230 L725 238 L600 223 L475 238 Z" fill="#8b7355" opacity="0.4"/>
+  
+  <!-- Left page stack -->
+  <path d="M600 210 Q550 205 500 210 L500 140 Q550 135 600 140 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.4"/>
+  <path d="M600 207 Q553 202 506 207 L506 143 Q553 138 600 143 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.5"/>
+  <path d="M600 204 Q556 199 512 204 L512 146 Q556 141 600 146 Z" fill="none" stroke="#8b6914" stroke-width="1.5" opacity="0.6"/>
+  <!-- Top left page -->
+  <path d="M600 201 Q559 196 518 201 L518 149 Q559 144 600 149 Z" fill="none" stroke="#6b4423" stroke-width="2" opacity="0.85"/>
+  
+  <!-- Right page stack -->
+  <path d="M600 210 Q650 205 700 210 L700 140 Q650 135 600 140 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.4"/>
+  <path d="M600 207 Q647 202 694 207 L694 143 Q647 138 600 143 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.5"/>
+  <path d="M600 204 Q644 199 688 204 L688 146 Q644 141 600 146 Z" fill="none" stroke="#8b6914" stroke-width="1.5" opacity="0.6"/>
+  <!-- Top right page -->
+  <path d="M600 201 Q641 196 682 201 L682 149 Q641 144 600 149 Z" fill="none" stroke="#6b4423" stroke-width="2" opacity="0.85"/>
+  
+  <!-- Book spine -->
+  <line x1="600" y1="149" x2="600" y2="201" stroke="#6b4423" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- Globe above book -->
+  <circle cx="600" cy="85" r="45" fill="none" stroke="#8b5a2b" stroke-width="2" opacity="0.7"/>
+  <!-- Globe meridian -->
+  <ellipse cx="600" cy="85" rx="18" ry="45" fill="none" stroke="#8b5a2b" stroke-width="1.5" opacity="0.4"/>
+  <!-- Globe equator -->
+  <ellipse cx="600" cy="85" rx="45" ry="15" fill="none" stroke="#8b5a2b" stroke-width="1.5" opacity="0.4"/>
+  
+  <!-- Accent dot at globe center - terracotta -->
+  <circle cx="600" cy="85" r="6" fill="#c65d3d" opacity="0.9"/>
+  
+  <!-- Connection from globe to book -->
+  <line x1="600" y1="130" x2="600" y2="149" stroke="#8b5a2b" stroke-width="1" opacity="0.25"/>
+  
+  <!-- Decorative elements for width -->
+  <!-- Left side - subtle book/page elements -->
+  <path d="M150 180 Q120 175 90 180 L90 130 Q120 125 150 130 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.3"/>
+  <path d="M150 180 Q180 175 210 180 L210 130 Q180 125 150 130 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.3"/>
+  
+  <path d="M320 200 Q295 196 270 200 L270 160 Q295 156 320 160 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.25"/>
+  <path d="M320 200 Q345 196 370 200 L370 160 Q345 156 320 160 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.25"/>
+  
+  <!-- Right side elements -->
+  <path d="M880 200 Q855 196 830 200 L830 160 Q855 156 880 160 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.25"/>
+  <path d="M880 200 Q905 196 930 200 L930 160 Q905 156 880 160 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.25"/>
+  
+  <path d="M1050 180 Q1020 175 990 180 L990 130 Q1020 125 1050 130 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.3"/>
+  <path d="M1050 180 Q1080 175 1110 180 L1110 130 Q1080 125 1050 130 Z" fill="none" stroke="#a08060" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Small terracotta accent dots -->
+  <circle cx="150" cy="120" r="3" fill="#c65d3d" opacity="0.5"/>
+  <circle cx="320" cy="150" r="3" fill="#c65d3d" opacity="0.4"/>
+  <circle cx="880" cy="150" r="3" fill="#c65d3d" opacity="0.4"/>
+  <circle cx="1050" cy="120" r="3" fill="#c65d3d" opacity="0.5"/>
+  
+</svg>

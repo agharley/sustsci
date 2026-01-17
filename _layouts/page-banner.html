@@ -45,12 +45,20 @@
     </nav>
   </header>
 
-  <!-- Small Earth at Night Banner -->
+  <!-- Page Banner -->
+  {% if page.banner_image %}
+  <div class="custom-banner" style="background-image: url('{{ page.banner_image | relative_url }}'); background-size: cover; background-position: center;">
+    <div class="earth-banner-inner">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+  {% else %}
   <div class="earth-banner earth-banner-small">
     <div class="earth-banner-inner">
       <h1>{{ page.title }}</h1>
     </div>
   </div>
+  {% endif %}
 
   <main class="page-container">
     {% if page.subtitle %}

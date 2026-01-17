@@ -1198,3 +1198,47 @@ sup {
     padding: 0;
   }
 }
+
+/* ==========================================================================
+   PAGE BANNERS (for Theorist, Keeping Up, etc.)
+   ========================================================================== */
+
+/* Earth at Night Banner (default for page-banner layout) */
+.earth-banner {
+  background: url('{{ "/course/images/NASA_earth_at_night.jpg" | relative_url }}') center/cover no-repeat;
+  background-color: #0a1628;
+  text-align: center;
+}
+
+.earth-banner-small {
+  padding: 2rem 1.5rem;
+}
+
+.earth-banner-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+}
+
+.earth-banner-inner h1 {
+  margin: 0;
+  color: #fff;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+/* Custom Banner (for pages with banner_image in front matter) */
+.custom-banner {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  background-color: #1a1a1a;
+}
+
+.custom-banner .earth-banner-inner h1 {
+  margin: 0;
+  color: #fff;
+  font-weight: 600;
+  font-size: 2rem;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+}

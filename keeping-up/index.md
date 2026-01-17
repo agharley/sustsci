@@ -2,6 +2,7 @@
 layout: page-banner
 title: Keeping Up with the Field
 description: Resources for staying current with sustainability science—conferences, journals, newsletters, and research networks.
+banner_image: /assets/images/keeping-up-banner.svg
 ---
 
 Resources for staying current with developments in sustainability science and related fields.
