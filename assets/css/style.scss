@@ -1211,7 +1211,7 @@ sup {
 }
 
 .earth-banner-small {
-  padding: 2rem 1.5rem;
+  padding: 4rem 1.5rem;
 }
 
 .earth-banner-inner {
@@ -1231,8 +1231,17 @@ sup {
 /* Custom Banner (for pages with banner_image in front matter) */
 .custom-banner {
   text-align: center;
-  padding: 2rem 1.5rem;
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: #1a1a1a;
+}
+
+.custom-banner .earth-banner-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
 }
 
 .custom-banner .earth-banner-inner h1 {
