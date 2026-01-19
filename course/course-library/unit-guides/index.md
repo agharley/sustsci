@@ -47,3 +47,7 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 ## Part IV: What's Next
 
 - [Unit 4.1: Next Steps](unit-4-1.pdf)
+
+## Consolidated Reading Guides 
+
+- Download consolidated reading guides for entire course here (allunits-sustdev.pdf)
