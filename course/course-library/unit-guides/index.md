@@ -50,4 +50,4 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 
 ## Consolidated Reading Guides 
 
-- [Download consolidated reading guides for entire course here](allunits-sustdev.pdf)
+- [All units](allunits-sustdev.pdf)
