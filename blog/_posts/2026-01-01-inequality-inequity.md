@@ -7,7 +7,7 @@ description: "The words 'inequality' and 'inequity' have become tangled in ways 
 keywords: inequality, inequity, sustainability science, environmental justice, theories of justice, equity frameworks, Rawls, Sen, capabilities approach, intergenerational equity
 categories: [sustainability-theory]
 tags: [inequality, inequity, justice, equity, sustainability-science, methodology]
-image: /assets/images/two-step-framework.png
+image: "{{ site.baseurl }}/assets/images/two-step.png"
 ---
 
 Building coalitions for sustainability requires working across deep differences in how people think about justice—libertarian, capabilities-based, Indigenous, relational. That work gets harder when our terminology is muddled. The words "inequality" and "inequity" have become tangled in ways that obscure rather than clarify. Untangling them turns out to matter practically, not just semantically.
@@ -45,7 +45,7 @@ The deeper question—how the two pairs relate to each other—is where traditio
 
 One source of the current muddle is a viral image. In 2012, Craig Froehle created a simple illustration showing three people of different heights trying to watch a baseball game over a fence (Froehle, 2016). In the "equality" panel, each stands on an identical box; the shortest still cannot see. In the "equity" panel, boxes are redistributed according to need; everyone watches the game.
 
-[FIGURE 1 HERE]
+![Equality vs. Equity illustration showing three people of different heights watching a baseball game]({{ site.baseurl }}/assets/images/adapted_Froehle.png)
 
 *Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Note 1 for the image's evolution.*
 
@@ -103,7 +103,7 @@ The Whitehead/public health tradition asks: *Which inequalities demand action?* 
 
 The DEI tradition asks: *What causes unequal outcomes?* The answer is systemic unfairness—inequity as root cause, inequality as downstream effect. The structure is causal.
 
-[FIGURE 2 HERE]
+![Three Traditions, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.png)
 
 *Figure 2: Three Traditions, Three Different Questions*
 
@@ -189,7 +189,7 @@ Researchers can measure distributions of environmental burdens, resource access,
 
 When inequity is treated as a separate normative judgment rather than a property embedded in certain inequalities, multiple theories of justice can engage the same empirical findings. We can bring Rawlsian frameworks, Sen's capabilities approach, Indigenous conceptions of fairness, or other perspectives to bear on shared data. For a field that works across diverse cultural and political contexts, this flexibility is essential.
 
-[FIGURE 3 HERE]
+![Same Inequality, Different Equity Judgments - air pollution exposure by income with different theories of justice]({{ site.baseurl }}/assets/images/two-step.png)
 
 *Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. The two-step creates space for deliberation about which framework applies and why.*
 
@@ -221,33 +221,33 @@ The goal is not terminological policing but analytical clarity in service of the
 
 Aristotle. *Nicomachean Ethics*, Book V.
 
-Beckert, J. (2022). Durable Wealth: Institutions, Mechanisms, and Practices of Wealth Perpetuation. *Annual Review of Sociology*, 48, 233–255. https://doi.org/10.1146/annurev-soc-030320-115024
+Beckert, J. (2022). Durable Wealth: Institutions, Mechanisms, and Practices of Wealth Perpetuation. *Annual Review of Sociology*, 48, 233–255. [https://doi.org/10.1146/annurev-soc-030320-115024](https://doi.org/10.1146/annurev-soc-030320-115024)
 
-Braveman, P., & Gruskin, S. (2003). Defining equity in health. *Journal of Epidemiology and Community Health*, 57(4), 254–258. https://doi.org/10.1136/jech.57.4.254
+Braveman, P., & Gruskin, S. (2003). Defining equity in health. *Journal of Epidemiology and Community Health*, 57(4), 254–258. [https://doi.org/10.1136/jech.57.4.254](https://doi.org/10.1136/jech.57.4.254)
 
-Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. *Annual Review of Environment and Resources*, 45, 331–386. https://doi.org/10.1146/annurev-environ-012420-043621
+Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. *Annual Review of Environment and Resources*, 45, 331–386. [https://doi.org/10.1146/annurev-environ-012420-043621](https://doi.org/10.1146/annurev-environ-012420-043621)
 
-Froehle, C. (2016, April 14). [The Evolution of an Accidental Meme](https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4). *Medium*.
+Froehle, C. (2016, April 14). The Evolution of an Accidental Meme. *Medium*. [https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4](https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4)
 
-Giang, A., Edwards, M. R., Fletcher, S. M., Gardner-Frolick, R., Gryba, R., Mathias, J.-D., ... & Tessum, C. W. (2024). Equity and modeling in sustainability science: Examples and opportunities throughout the process. *Proceedings of the National Academy of Sciences*, 121(13), e2215688121. https://doi.org/10.1073/pnas.2215688121
+Giang, A., Edwards, M. R., Fletcher, S. M., Gardner-Frolick, R., Gryba, R., Mathias, J.-D., ... & Tessum, C. W. (2024). Equity and modeling in sustainability science: Examples and opportunities throughout the process. *Proceedings of the National Academy of Sciences*, 121(13), e2215688121. [https://doi.org/10.1073/pnas.2215688121](https://doi.org/10.1073/pnas.2215688121)
 
 Jasanoff, S. (2004). *States of Knowledge: The Co-Production of Science and the Social Order*. Routledge.
 
-Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652. https://doi.org/10.1136/jech.56.9.647
+Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652. [https://doi.org/10.1136/jech.56.9.647](https://doi.org/10.1136/jech.56.9.647)
 
-Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. https://doi.org/10.1177/0003122418773775 ([Open access PDF](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf))
+Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. [https://doi.org/10.1177/0003122418773775](https://doi.org/10.1177/0003122418773775) | [Open access](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf)
 
-Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608. https://doi.org/10.1093/ser/mwu011
+Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608. [https://doi.org/10.1093/ser/mwu011](https://doi.org/10.1093/ser/mwu011)
 
-Marx, K. (1875). Critique of the Gotha Programme. ([Full text at Marxists.org](https://www.marxists.org/archive/marx/works/1875/gotha/))
+Marx, K. (1875). Critique of the Gotha Programme. [Full text](https://www.marxists.org/archive/marx/works/1875/gotha/)
 
 Milanovic, B. (2016). *Global Inequality: A New Approach for the Age of Globalization*. Belknap Press of Harvard University Press.
 
 Milanovic, B. (2023). *Visions of Inequality: From the French Revolution to the End of the Cold War*. Belknap Press.
 
-Minow, M. (2021). Equality vs. Equity. *American Journal of Law and Equality*, 1, 167–193. https://doi.org/10.1162/ajle_a_00019
+Minow, M. (2021). Equality vs. Equity. *American Journal of Law and Equality*, 1, 167–193. [https://doi.org/10.1162/ajle_a_00019](https://doi.org/10.1162/ajle_a_00019)
 
-Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. https://doi.org/10.1186/1475-9276-8-40 ([Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40))
+Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. [https://doi.org/10.1186/1475-9276-8-40](https://doi.org/10.1186/1475-9276-8-40) | [Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40)
 
 Pierson, P., & Lamont, M. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
 
@@ -259,16 +259,16 @@ Putnam, H. (2002). *The Collapse of the Fact/Value Dichotomy and Other Essays*. 
 
 Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
 
-Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157. https://doi.org/10.1073/pnas.1706412114 ([Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740652/))
+Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157. [https://doi.org/10.1073/pnas.1706412114](https://doi.org/10.1073/pnas.1706412114) | [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740652/)
 
-Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University. ([Open access PDF](https://ophi.org.uk/sites/default/files/Sen-1979_Equality-of-What.pdf))
+Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University. [Open access](https://ophi.org.uk/sites/default/files/Sen-1979_Equality-of-What.pdf)
 
 Sen, A. (1992). *Inequality Reexamined*. Harvard University Press.
 
-Vallgarda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. https://doi.org/10.1093/eurpub/ckl047
+Vallgarda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. [https://doi.org/10.1093/eurpub/ckl047](https://doi.org/10.1093/eurpub/ckl047)
 
-Whitehead, M. (1992). The Concepts and Principles of Equity and Health. *International Journal of Health Services*, 22(3), 429–445. https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN
+Whitehead, M. (1992). The Concepts and Principles of Equity and Health. *International Journal of Health Services*, 22(3), 429–445. [https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN](https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN)
 
-Willis, R., Curato, N., & Smith, G. (2022). Deliberative democracy and the climate crisis. *WIREs Climate Change*, 13(2), e759. https://doi.org/10.1002/wcc.759
+Willis, R., Curato, N., & Smith, G. (2022). Deliberative democracy and the climate crisis. *WIREs Climate Change*, 13(2), e759. [https://doi.org/10.1002/wcc.759](https://doi.org/10.1002/wcc.759)
 
-Young, I. M. (2006). Responsibility and Global Justice: A Social Connection Model. *Social Philosophy and Policy*, 23(1), 102–130. https://doi.org/10.1017/S0265052506060043
+Young, I. M. (2006). Responsibility and Global Justice: A Social Connection Model. *Social Philosophy and Policy*, 23(1), 102–130. [https://doi.org/10.1017/S0265052506060043](https://doi.org/10.1017/S0265052506060043)
