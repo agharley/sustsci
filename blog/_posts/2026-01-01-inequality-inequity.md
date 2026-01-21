@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Inequality ≠ Inequity: Why the Distinction Matters for Sustainability"
+title: "(In)equality ≠ (In)equity: Why the Distinction Matters for Sustainability"
 date: 2026-01-01
 author: Alicia G. Harley
 description: "The words 'inequality' and 'inequity' have become tangled in ways that obscure rather than clarify. This post untangles three intellectual traditions and proposes a cleaner framework: shared measurement, contested interpretation."
@@ -221,25 +221,25 @@ The goal is not terminological policing but analytical clarity in service of the
 
 Aristotle. *Nicomachean Ethics*, Book V.
 
-Beckert, J. (2022). Durable Wealth Inequality. *Annual Review of Sociology*, 48.
+Beckert, J. (2022). Durable Wealth: Institutions, Mechanisms, and Practices of Wealth Perpetuation. *Annual Review of Sociology*, 48, 233–255. https://doi.org/10.1146/annurev-soc-030320-115024
 
 Braveman, P., & Gruskin, S. (2003). Defining equity in health. *Journal of Epidemiology and Community Health*, 57(4), 254–258. https://doi.org/10.1136/jech.57.4.254
 
 Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. *Annual Review of Environment and Resources*, 45, 331–386. https://doi.org/10.1146/annurev-environ-012420-043621
 
-Froehle, C. (2016, April 14). The Evolution of an Accidental Meme. *Medium*. https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4
+Froehle, C. (2016, April 14). [The Evolution of an Accidental Meme](https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4). *Medium*.
 
 Giang, A., Edwards, M. R., Fletcher, S. M., Gardner-Frolick, R., Gryba, R., Mathias, J.-D., ... & Tessum, C. W. (2024). Equity and modeling in sustainability science: Examples and opportunities throughout the process. *Proceedings of the National Academy of Sciences*, 121(13), e2215688121. https://doi.org/10.1073/pnas.2215688121
 
 Jasanoff, S. (2004). *States of Knowledge: The Co-Production of Science and the Social Order*. Routledge.
 
-Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652.
+Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652. https://doi.org/10.1136/jech.56.9.647
 
-Lamont, M. (2018). Addressing Recognition Gaps. *American Sociological Review*, 83(3). 
+Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. https://doi.org/10.1177/0003122418773775 ([Open access PDF](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf))
 
-Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608.
+Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608. https://doi.org/10.1093/ser/mwu011
 
-Marx, K. (1875). Critique of the Gotha Programme.
+Marx, K. (1875). Critique of the Gotha Programme. ([Full text at Marxists.org](https://www.marxists.org/archive/marx/works/1875/gotha/))
 
 Milanovic, B. (2016). *Global Inequality: A New Approach for the Age of Globalization*. Belknap Press of Harvard University Press.
 
@@ -247,7 +247,7 @@ Milanovic, B. (2023). *Visions of Inequality: From the French Revolution to the 
 
 Minow, M. (2021). Equality vs. Equity. *American Journal of Law and Equality*, 1, 167–193. https://doi.org/10.1162/ajle_a_00019
 
-Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. https://doi.org/10.1186/1475-9276-8-40
+Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. https://doi.org/10.1186/1475-9276-8-40 ([Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40))
 
 Pierson, P., & Lamont, M. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
 
@@ -259,9 +259,9 @@ Putnam, H. (2002). *The Collapse of the Fact/Value Dichotomy and Other Essays*. 
 
 Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
 
-Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157.
+Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157. https://doi.org/10.1073/pnas.1706412114 ([Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740652/))
 
-Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University.
+Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University. ([Open access PDF](https://ophi.org.uk/sites/default/files/Sen-1979_Equality-of-What.pdf))
 
 Sen, A. (1992). *Inequality Reexamined*. Harvard University Press.
 
@@ -271,4 +271,4 @@ Whitehead, M. (1992). The Concepts and Principles of Equity and Health. *Interna
 
 Willis, R., Curato, N., & Smith, G. (2022). Deliberative democracy and the climate crisis. *WIREs Climate Change*, 13(2), e759. https://doi.org/10.1002/wcc.759
 
-Young, I. M. (2006). Responsibility and Global Justice: A Social Connection Model. *Social Philosophy and Policy*, 23(1), 102–130.
+Young, I. M. (2006). Responsibility and Global Justice: A Social Connection Model. *Social Philosophy and Policy*, 23(1), 102–130. https://doi.org/10.1017/S0265052506060043
