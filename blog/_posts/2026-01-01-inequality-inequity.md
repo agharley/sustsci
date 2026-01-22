@@ -30,16 +30,14 @@ The two-step locates normative disagreement where it belongs—in the open, as a
 
 ### A Starting Point: Two Pairs of Concepts
 
-Before examining these sources of confusion, it helps to establish what is and is not contested. We are dealing with two pairs of terms. Within each pair, the inverse relationship is clear:
+Before examining these sources of confusion, it helps to establish what we are working with. We are dealing with two pairs of terms. Within each pair, the terms are grammatical opposites:
 
 - Equality ↔ Inequality: sameness versus difference
 - Equity ↔ Inequity: fairness versus unfairness
 
-Beyond this, agreement breaks down. Different framings use these terms to mean different things.
+But even this apparent simplicity gets complicated. As we will see, philosophers have long used "equality" to debate normative questions about fairness, not just to describe sameness. The linguistic clarity does not map onto conceptual clarity.
 
 What does seem clear is that the pairs can come apart. A distribution might be equal but inequitable (everyone gets the same despite different needs). Or unequal but equitable (people get different amounts for good reason). Equal does not mean equitable. Unequal does not mean inequitable.
-
-The deeper question—how the two pairs relate to each other—is where the confusion originates.
 
 ### The Baseball Fence and the Philosophy Behind It
 
