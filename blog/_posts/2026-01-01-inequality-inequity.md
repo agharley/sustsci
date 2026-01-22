@@ -10,7 +10,7 @@ tags: [inequality, inequity, justice, equity, sustainability-science, methodolog
 image: "{{ site.baseurl }}/assets/images/two-step.png"
 ---
 
-Building coalitions for sustainability requires working across deep differences in how people think about justice—libertarian, capabilities-based, Indigenous, relational. That work gets harder when our terminology is muddled. The words "inequality" and "inequity" have become tangled in ways that obscure rather than clarify. Untangling them turns out to matter practically, not just semantically.
+Building coalitions for sustainability requires working across deep differences in how people think about justice—libertarian, capabilities-based, Indigenous, capabilities-based. That work gets harder when our terminology is muddled. The words "inequality" and "inequity" have become tangled in ways that obscure rather than clarify. Untangling them turns out to matter practically, not just semantically.
 
 The terms are often used interchangeably, or linked causally, or treated as if one is a subset of the other. These framings come from three intellectual traditions asking fundamentally different questions—and merging them creates confusion. This post traces where that confusion comes from and offers a cleaner framework: the two-step. First describe the distribution (inequality), then evaluate whether it's fair (equity or inequity). This framing creates space for people holding different theories of justice to share empirical ground while genuinely deliberating about what fairness requires. We describe the distribution first; we evaluate its fairness second.
 
