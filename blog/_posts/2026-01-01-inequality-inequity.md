@@ -95,6 +95,8 @@ This framing has practical utility for practitioners focused on intervention. Bu
 
 ### Three Traditions, Three Different Questions
 
+The two-step offers a way out of this muddle. But to see why it helps, we need to understand what created the confusion in the first place.
+
 What becomes clear from tracing these threads is that the traditions are not just giving different answers—they are asking fundamentally different questions.
 
 The Froehle/philosophy tradition asks: *What are different conceptions of fairness?* The contrast is between formal and substantive approaches to justice—same treatment versus differentiated treatment aimed at equivalent outcomes. Both are normative positions; the debate is about what equity requires.
@@ -109,13 +111,9 @@ The DEI tradition asks: *What causes unequal outcomes?* The answer is systemic u
 
 These three traditions now circulate together without clarity about which question each was designed to answer. The result is not a coherent synthesis but conceptual muddle. Google's AI overview might assert one day that inequity causes inequality (the DEI framing) and another day that inequities are a subset of inequalities (the Whitehead framing). Froehle's image gets paired with causal claims it never made. Whitehead's criteria get invoked without her careful attention to what "avoidable" and "unfair" actually require. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
 
-#### A terminological proposal
-
 The two-step offers a different approach. Rather than asking which inequalities count as inequities (Whitehead), or asserting that inequity causes inequality (DEI), it proposes a sequence: first describe the distribution, then evaluate whether it is fair. This keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally.
 
-This proposal uses the terms differently than some philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how major institutions and researchers actually proceed.
-
-Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open. The two-step is not a claim about how philosophers have always used these terms. It is a proposal about how we might use them more clearly.
+This proposal uses the terms differently than some philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how major institutions and researchers actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open. The two-step is not a claim about how philosophers have always used these terms. It is a proposal about how we might use them more clearly.
 
 ## The Limits of the Distinction
 
@@ -125,7 +123,7 @@ Michèle Lamont has argued influentially that inequality scholarship has focused
 
 Hilary Putnam argued that the fact-value distinction, however useful, is not metaphysically clean—our choices about what to measure and how to categorize reflect normative commitments all the way down (Putnam, 2002). Science and technology studies has reached similar conclusions empirically: measurement categories and social order are co-produced, each shaping the other (Jasanoff, 2004).
 
-The two-step framework does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry.
+The two-step framework does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry. In practice, this means that when working with recognition concepts, the two-step functions less as a method for separating description from evaluation and more as a reminder to be transparent that one's "description" already carries normative weight.
 
 ## How Careful Practitioners Already Work
 
@@ -157,13 +155,13 @@ Why does this matter for sustainability science specifically?
 
 ### Inequality can emerge without prior injustice
 
-The DEI framing assumes that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence complicate this picture.
+The DEI framing assumes that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence suggest that substantial inequality is an emergent property of the Anthropocene that should be looked upon as the rule, not the exception, for pathways of development (Clark & Harley, 2020).
 
-Marten Scheffer and colleagues (2017) demonstrate that some level of inequality is an emergent property of complex adaptive systems. Imagine identical people foraging on a landscape where resources are unevenly distributed—some patches rich, others barren. Everyone has the same abilities; no one cheats. Yet inequality emerges anyway, because where you happen to start determines what you can harvest, and what you harvest determines where you can go next. Small advantages compound; small disadvantages trap. In a finite world with uneven resources, significant inequality arises from luck alone. Once it exists, inequality tends to be self-reinforcing: incumbent actors seek to fortify their dominant positions of wealth and power (Beckert, 2022), and cultural processes reflect and reproduce inequality (Lamont, Beljean, & Clair, 2014). But these dynamics of consolidation are not required to produce inequality in the first place.
+Marten Scheffer and colleagues (2017) demonstrate this point compellingly. Imagine identical people foraging on a landscape where resources are unevenly distributed—some patches rich, others barren. Everyone has the same abilities; no one cheats. Yet inequality emerges anyway, because where you happen to start determines what you can harvest, and what you harvest determines where you can go next. Small advantages compound; small disadvantages trap. In a finite world with uneven resources, significant inequality arises from luck alone—from heterogeneity and chance, not from anyone's wrongdoing. Once it exists, inequality tends to be self-reinforcing: incumbent actors seek to fortify their dominant positions of wealth and power (Beckert, 2022), and cultural processes reflect and reproduce inequality (Lamont, Beljean, & Clair, 2014). But these dynamics of consolidation are not required to produce inequality in the first place.
 
 Iris Marion Young's work on structural injustice makes a complementary point: injustice can emerge from "normal" processes in which no individual actor does anything wrong. In global apparel supply chains, consumers, retailers, and manufacturers each follow standard market logic—yet the cumulative result is workers laboring under exploitative conditions that no single actor intended or directly caused (Young, 2006). Scheffer shows that inequality can emerge from heterogeneity and chance; Young shows injustice emerging from the normal operation of interconnected institutions. Both complicate the assumption that unequal or unjust outcomes require prior wrongdoing.
 
-This is why the two-step matters methodologically, not just terminologically. If inequality can emerge without prior injustice—through luck, through normal market behavior, through no one's wrongdoing—then we cannot assume every inequality has an upstream inequity waiting to be identified. We need a framework that allows us to describe distributions first, then ask separately whether they constitute inequities we want to address.
+This is why the two-step matters methodologically, not just terminologically. If inequality is the default outcome of complex adaptive systems—emerging from luck, from normal market behavior, from no one's wrongdoing—then we cannot assume every inequality has an upstream inequity waiting to be identified. We need a framework that allows us to describe distributions first, then ask separately whether they constitute inequities we want to address. The two-step provides that framework: it lets us take inequality seriously as an empirical phenomenon worth understanding on its own terms, while preserving space to deliberate about which inequalities are also inequities that demand response.
 
 ### Different theories of justice need common ground
 
