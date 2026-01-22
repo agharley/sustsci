@@ -3,7 +3,7 @@ layout: blog
 title: "(In)equality ≠ (In)equity: Why the Distinction Matters for Sustainability"
 date: 2026-01-01
 author: Alicia G. Harley
-description: "The words 'inequality' and 'inequity' have become tangled in ways that obscure rather than clarify. This post untangles three intellectual traditions and proposes a cleaner framework: describe the distribution first, evaluate its fairness second."
+description: "The words 'inequality' and 'inequity' have become tangled in ways that obscure rather than clarify. This post untangles the sources of that confusion and proposes a cleaner framework: describe the distribution first, evaluate its fairness second."
 keywords: inequality, inequity, sustainability science, environmental justice, theories of justice, equity frameworks, Rawls, Sen, capabilities approach, intergenerational equity
 categories: [sustainability-theory]
 tags: [inequality, inequity, justice, equity, sustainability-science, methodology]
@@ -12,7 +12,7 @@ image: "{{ site.baseurl }}/assets/images/two-step.png"
 
 Building coalitions for sustainability requires working across deep differences in how people think about justice—libertarian, egalitarian, Indigenous, capabilities-based. That work gets harder when our terminology is muddled. The words "inequality" and "inequity" have become tangled in ways that obscure rather than clarify. Untangling them turns out to matter practically, not just semantically.
 
-The terms are often used interchangeably, or linked causally, or treated as if one is a subset of the other. These framings come from three intellectual traditions asking fundamentally different questions—and merging them creates confusion. This post traces where that confusion comes from and offers a cleaner framework: the two-step. First describe the distribution (inequality), then evaluate whether it's fair (equity or inequity). This framing creates space for people holding different theories of justice to share empirical ground while genuinely deliberating about what fairness requires. We describe the distribution first; we evaluate its fairness second.
+The terms are often used interchangeably, or linked causally, or treated as if one is a subset of the other. Some of this confusion traces to scholarly traditions asking different questions; some emerges from how the terms get used in practice. This post traces where that confusion comes from and offers a cleaner framework: the two-step. First describe the distribution (inequality), then evaluate whether it's fair (equity or inequity). This framing creates space for people holding different theories of justice to share empirical ground while genuinely deliberating about what fairness requires. We describe the distribution first; we evaluate its fairness second.
 
 ## The Two-Step Framework
 
@@ -30,16 +30,16 @@ The two-step locates normative disagreement where it belongs—in the open, as a
 
 ### A Starting Point: Two Pairs of Concepts
 
-Before examining the different traditions, it helps to establish what is and is not contested. We are dealing with two pairs of terms. Within each pair, the inverse relationship is clear:
+Before examining these sources of confusion, it helps to establish what is and is not contested. We are dealing with two pairs of terms. Within each pair, the inverse relationship is clear:
 
 - Equality ↔ Inequality: sameness versus difference
 - Equity ↔ Inequity: fairness versus unfairness
 
-Beyond this, agreement breaks down. Different traditions use these terms to mean different things.
+Beyond this, agreement breaks down. Different framings use these terms to mean different things.
 
 What does seem clear is that the pairs can come apart. A distribution might be equal but inequitable (everyone gets the same despite different needs). Or unequal but equitable (people get different amounts for good reason). Equal does not mean equitable. Unequal does not mean inequitable.
 
-The deeper question—how the two pairs relate to each other—is where traditions diverge most sharply.
+The deeper question—how the two pairs relate to each other—is where the confusion originates.
 
 ### The Baseball Fence and the Philosophy Behind It
 
@@ -85,33 +85,31 @@ But the approach also embeds normative judgment into what looks like a measureme
 
 This tradition is closer to the two-step proposed here than it might first appear—it is trying to be explicit about criteria for normative judgment, not hiding them. The difference is that the two-step keeps description and evaluation as separate steps, while the Whitehead tradition embeds evaluation into the category definition. For health policy within a single national context, the embedded approach may work well. Practitioners operating within the same political and legal system often share enough normative common ground that embedding judgments into definitions doesn't foreclose important debates—the debates have, in effect, already been settled for that context. But sustainability science works across cultural contexts where "social disadvantage" is defined differently, engages intergenerational questions where there is no stable social hierarchy to anchor the judgment, and requires collaboration among people holding genuinely different theories of justice. The two-step preserves space for this plurality; a definitionally resolved approach does not.
 
-### The DEI Framing
+### Causal Conflation
 
-A third thread emerges from diversity, equity, and inclusion discourse, particularly as it developed in organizational contexts through the 2010s and 2020s. In this tradition, "equity" became associated with addressing systemic root causes—the institutions, policies, and practices that produce disparities—while "inequality" came to denote the observed disparities themselves. From here, it is a short step to a causal framing: inequity causes inequality. Systemic unfairness produces unequal outcomes; address the root inequity to reduce the downstream inequality.
+A third source of confusion emerges not from any scholarly tradition but from how these terms get used in practice. In policy debates, advocacy, and institutional contexts — corporate diversity programs, government equity frameworks, foundation strategy documents — people often assume a fixed causal relationship between inequality and inequity. Sometimes the assumption runs one direction: systemic unfairness produces unequal outcomes, so inequity causes inequality. Sometimes it runs the other: material deprivation leads to unjust treatment, so inequality causes inequity. Both causal stories can be true in particular cases. The problem arises when either gets generalized into a stable relationship.
 
-Unlike the Froehle image or the Whitehead definition, this framing does not trace to a single text or scholarly debate. It emerged through organizational practice—training materials, DEI frameworks, explainers—and spread through repetition rather than citation. The equation of equity with systemic root causes and inequality with downstream outcomes is now conventional wisdom in many organizational contexts.
+Neither direction generalizes. The relationship is historically and contextually contingent (Hamann et al., 2018). Sometimes inequity causes inequality — discrimination produces unequal outcomes. Sometimes inequality causes inequity — material deprivation leads to unfair treatment. Sometimes they co-evolve, each reinforcing the other. And sometimes inequality emerges with no inequity involved at all — through luck, emergent dynamics, or the heterogeneous distribution of resources in complex systems.
 
-This framing has practical utility for practitioners focused on intervention. But it assumes what should be argued: that all inequalities of concern are produced by upstream inequities, and that the relationship is causal. It leaves no space for inequalities that arise from factors we might not judge unjust—luck, differing choices, emergent dynamics in complex systems—or for deliberation about which inequalities are inequitable and why.
+The two-step sidesteps this tangle. Describe the distribution; evaluate its fairness. The causal story — however layered — is a separate question.
 
-### Three Traditions, Three Different Questions
+### Three Framings, Three Different Questions
 
-The two-step offers a way out of this muddle. But to see why it helps, we need to understand what created the confusion in the first place.
-
-What becomes clear from tracing these threads is that the traditions are not just giving different answers—they are asking fundamentally different questions.
+What becomes clear from tracing these threads is that the framings are not just giving different answers—they are asking fundamentally different questions.
 
 The Froehle/philosophy tradition asks: *What are different conceptions of fairness?* The contrast is between formal and substantive approaches to justice—same treatment versus differentiated treatment aimed at equivalent outcomes. Both are normative positions; the debate is about what equity requires.
 
 The Whitehead/public health tradition asks: *Which inequalities demand action?* The answer is those that are avoidable, unnecessary, and unfair—a subset of all inequalities. The structure is definitional: inequity is a category within inequality, marked by meeting certain criteria.
 
-The DEI tradition asks: *What causes unequal outcomes?* The answer is systemic unfairness—inequity as root cause, inequality as downstream effect. The structure is causal.
+Causal conflation asks: *What causes what?* The answer assumes a fixed relationship—either inequity causes inequality or vice versa. The structure is causal, but the direction varies.
 
-![Three Traditions, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.png)
+![Three Framings, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.png)
 
-*Figure 2: Three Traditions, Three Different Questions*
+*Figure 2: Three Framings, Three Different Questions*
 
-These three traditions now circulate together without clarity about which question each was designed to answer. The result is not a coherent synthesis but conceptual muddle. Google's AI overview might assert one day that inequity causes inequality (the DEI framing) and another day that inequities are a subset of inequalities (the Whitehead framing). Froehle's image gets paired with causal claims it never made. Whitehead's criteria get invoked without her careful attention to what "avoidable" and "unfair" actually require. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
+These framings now circulate together, their boundaries blurred. The result is conceptual muddle. Google's AI overview might assert one day that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Whitehead's criteria get invoked without her careful attention to what "avoidable" and "unfair" actually require. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
 
-The two-step offers a different approach. Rather than asking which inequalities count as inequities (Whitehead), or asserting that inequity causes inequality (DEI), it proposes a sequence: first describe the distribution, then evaluate whether it is fair. This keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally.
+The two-step offers a different approach. Rather than asking which inequalities count as inequities (Whitehead), or assuming a fixed causal relationship (causal conflation), it proposes a sequence: first describe the distribution, then evaluate whether it is fair. This keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally.
 
 This proposal uses the terms differently than some philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how major institutions and researchers actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open. The two-step is not a claim about how philosophers have always used these terms. It is a proposal about how we might use them more clearly.
 
@@ -155,7 +153,7 @@ Why does this matter for sustainability science specifically?
 
 ### Inequality can emerge without prior injustice
 
-The DEI framing assumes that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence suggest that substantial inequality is an emergent property of the Anthropocene that should be looked upon as the rule, not the exception, for pathways of development (Clark & Harley, 2020).
+One common assumption is that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence suggest that substantial inequality is an emergent property of the Anthropocene that should be looked upon as the rule, not the exception, for pathways of development (Clark & Harley, 2020).
 
 Marten Scheffer and colleagues (2017) demonstrate this point compellingly. Imagine identical people foraging on a landscape where resources are unevenly distributed—some patches rich, others barren. Everyone has the same abilities; no one cheats. Yet inequality emerges anyway, because where you happen to start determines what you can harvest, and what you harvest determines where you can go next. Small advantages compound; small disadvantages trap. In a finite world with uneven resources, significant inequality arises from luck alone—from heterogeneity and chance, not from anyone's wrongdoing. Once it exists, inequality tends to be self-reinforcing: incumbent actors seek to fortify their dominant positions of wealth and power (Beckert, 2022), and cultural processes reflect and reproduce inequality (Lamont, Beljean, & Clair, 2014). But these dynamics of consolidation are not required to produce inequality in the first place.
 
@@ -203,7 +201,7 @@ When describing sustainability outcomes, report inequalities as what they are: e
 
 When making claims about inequity, be explicit about the normative work you are doing. Why is this distribution unfair? According to what conception of justice? What would a more equitable distribution look like, and by what criteria? This transparency opens space for genuine deliberation about values rather than obscuring it.
 
-And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author using "inequity" to mean a subset of inequalities (Whitehead)? A cause of inequality (DEI)? A normative judgment applied to a described distribution (the two-step)? The same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion or reveal substantive disagreements worth engaging.
+And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (causal conflation)? Or applying a normative judgment to a described distribution (the two-step)? The same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion or reveal substantive disagreements worth engaging.
 
 The goal is not terminological policing but analytical clarity in service of the hard work of building more sustainable and more just futures.
 
@@ -228,6 +226,8 @@ Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis
 Froehle, C. (2016, April 14). The Evolution of an Accidental Meme. *Medium*. [https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4](https://medium.com/@CRA1G/the-evolution-of-an-accidental-meme-ddc4e139e0e4)
 
 Giang, A., Edwards, M. R., Fletcher, S. M., Gardner-Frolick, R., Gryba, R., Mathias, J.-D., ... & Tessum, C. W. (2024). Equity and modeling in sustainability science: Examples and opportunities throughout the process. *Proceedings of the National Academy of Sciences*, 121(13), e2215688121. [https://doi.org/10.1073/pnas.2215688121](https://doi.org/10.1073/pnas.2215688121)
+
+Hamann, M., Berry, K., Chaigneau, T., Curry, T., Heilmayr, R., Henriksson, P. J. G., ... & Wu, T. (2018). Inequality and the Biosphere. *Annual Review of Environment and Resources*, 43, 61–83. [https://doi.org/10.1146/annurev-environ-102017-025949](https://doi.org/10.1146/annurev-environ-102017-025949)
 
 Jasanoff, S. (2004). *States of Knowledge: The Co-Production of Science and the Social Order*. Routledge.
 
