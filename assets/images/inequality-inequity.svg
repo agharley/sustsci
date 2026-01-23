@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 780">
+  <!-- Background -->
+  <rect width="800" height="780" fill="#ffffff"/>
+  
+  <!-- Main Title -->
+  <text x="400" y="40" font-family="Georgia, serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2c2c2c">Three Framings, Three Different Questions</text>
+  
+  <!-- ==================== FROEHLE (Top) ==================== -->
+  <text x="400" y="85" font-family="Georgia, serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c2c2c">FROEHLE</text>
+  <text x="400" y="108" font-family="Georgia, serif" font-size="14" font-style="italic" text-anchor="middle" fill="#555555">"What does fairness require?"</text>
+  
+  <!-- Table - wider overall -->
+  <rect x="180" y="125" width="440" height="120" fill="none" stroke="#cccccc" stroke-width="1"/>
+  
+  <!-- Header row background -->
+  <rect x="180" y="125" width="440" height="40" fill="#f5f5f5"/>
+  
+  <!-- Row label backgrounds -->
+  <rect x="180" y="165" width="160" height="40" fill="#f5f5f5"/>
+  <rect x="180" y="205" width="160" height="40" fill="#f5f5f5"/>
+  
+  <!-- Row highlights - both are conceptions of fairness, use same color family -->
+  <rect x="340" y="165" width="280" height="40" fill="#e8e4d8" opacity="0.4"/>
+  <rect x="340" y="205" width="280" height="40" fill="#e8e4d8" opacity="0.4"/>
+  
+  <!-- Vertical lines -->
+  <line x1="340" y1="125" x2="340" y2="245" stroke="#cccccc" stroke-width="1"/>
+  <line x1="480" y1="125" x2="480" y2="245" stroke="#cccccc" stroke-width="1"/>
+  
+  <!-- Horizontal lines -->
+  <line x1="180" y1="165" x2="620" y2="165" stroke="#cccccc" stroke-width="1"/>
+  <line x1="180" y1="205" x2="620" y2="205" stroke="#cccccc" stroke-width="1"/>
+  
+  <!-- Header text -->
+  <text x="410" y="152" font-family="Georgia, serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c2c2c">TREATMENT</text>
+  <text x="550" y="152" font-family="Georgia, serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c2c2c">OUTCOME</text>
+  
+  <!-- Row labels - now showing two conceptions of fairness -->
+  <text x="260" y="192" font-family="Georgia, serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#2c2c2c">Formal fairness</text>
+  <text x="260" y="232" font-family="Georgia, serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#2c2c2c">Substantive fairness</text>
+  
+  <!-- Cell values -->
+  <text x="410" y="192" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#555555">same</text>
+  <text x="550" y="192" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#555555">different</text>
+  <text x="410" y="232" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#555555">different</text>
+  <text x="550" y="232" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#555555">same</text>
+  
+  <!-- Froehle explanation - updated to reference viral mislabeling -->
+  <text x="400" y="275" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Froehle's original insight: two conceptions of fairness.</text>
+  <text x="400" y="293" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">The viral "equality vs. equity" labels obscured this.</text>
+  
+  <!-- ==================== Horizontal divider 1 ==================== -->
+  <line x1="100" y1="320" x2="700" y2="320" stroke="#cccccc" stroke-width="1"/>
+  
+  <!-- ==================== WHITEHEAD / WHO (Middle) ==================== -->
+  <text x="400" y="360" font-family="Georgia, serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c2c2c">WHITEHEAD / WHO</text>
+  <text x="400" y="383" font-family="Georgia, serif" font-size="14" font-style="italic" text-anchor="middle" fill="#555555">"Which inequalities demand action?"</text>
+  
+  <!-- Outer box - (In)equality -->
+  <rect x="270" y="405" width="260" height="130" rx="10" fill="#d4e0e8" stroke="#a0b8c4" stroke-width="2"/>
+  <text x="400" y="430" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2c2c2c">(In)equality</text>
+  <text x="400" y="448" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#666666">all observed differences</text>
+  
+  <!-- Inner box - (In)equity -->
+  <rect x="310" y="465" width="180" height="50" rx="8" fill="#e8d4d4" stroke="#c4a0a0" stroke-width="2"/>
+  <text x="400" y="497" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2c2c2c">(In)equity</text>
+  
+  <!-- Whitehead explanation -->
+  <text x="400" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Inequity is a subset of inequality:</text>
+  <text x="400" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">those differences that are avoidable and unjust.</text>
+  
+  <!-- ==================== Horizontal divider 2 ==================== -->
+  <line x1="100" y1="605" x2="700" y2="605" stroke="#cccccc" stroke-width="1"/>
+  
+  <!-- ==================== CAUSAL CONFLATION (Bottom) ==================== -->
+  <text x="400" y="645" font-family="Georgia, serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c2c2c">CAUSAL CONFLATION</text>
+  <text x="400" y="668" font-family="Georgia, serif" font-size="14" font-style="italic" text-anchor="middle" fill="#555555">"What causes what?"</text>
+  
+  <!-- Two boxes with bidirectional arrows -->
+  <!-- Left box - (In)equity -->
+  <rect x="195" y="690" width="130" height="50" rx="8" fill="#e8d4d4" stroke="#c4a0a0" stroke-width="2"/>
+  <text x="260" y="722" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2c2c2c">(In)equity</text>
+  
+  <!-- Right box - (In)equality -->
+  <rect x="475" y="690" width="130" height="50" rx="8" fill="#d4e0e8" stroke="#a0b8c4" stroke-width="2"/>
+  <text x="540" y="722" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2c2c2c">(In)equality</text>
+  
+  <!-- Bidirectional arrows -->
+  <!-- Top arrow: inequity -> inequality -->
+  <line x1="325" y1="705" x2="470" y2="705" stroke="#666666" stroke-width="2"/>
+  <polygon points="470,705 460,700 460,710" fill="#666666"/>
+  
+  <!-- Bottom arrow: inequality -> inequity -->
+  <line x1="475" y1="725" x2="330" y2="725" stroke="#666666" stroke-width="2"/>
+  <polygon points="330,725 340,720 340,730" fill="#666666"/>
+  
+  <!-- Question mark between arrows -->
+  <text x="400" y="720" font-family="Georgia, serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#888888">?</text>
+  
+  <!-- Causal conflation explanation - Option E -->
+  <text x="400" y="760" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Some say inequity causes inequality; some say the reverse.</text>
+  <text x="400" y="778" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Neither is always true — the relationship is historically contingent.</text>
+  
+</svg>
