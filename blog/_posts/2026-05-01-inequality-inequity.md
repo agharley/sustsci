@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "(In)equality ≠ (In)equity: Why the Distinction Matters for Sustainability"
-date: 2026-01-01
+date: 2026-05-01
 author: Alicia G. Harley
 description: "The words 'inequality' and 'inequity' have become tangled in ways that obscure rather than clarify. This post untangles the sources of that confusion and proposes a cleaner framework: describe the distribution first, evaluate its fairness second."
 keywords: inequality, inequity, sustainability science, environmental justice, theories of justice, equity frameworks, Rawls, Sen, capabilities approach, intergenerational equity
