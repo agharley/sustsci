@@ -166,15 +166,15 @@ For intragenerational equity, we can measure how environmental burdens—air pol
 
 For intergenerational equity, the case is even clearer. We can model projected climate impacts on future generations or track the depletion of natural capital over time. But what we owe future generations—the appropriate discount rate, whether natural capital can be substituted with other forms of wealth, how to weigh present needs against future ones—involves deep normative disagreement that cannot be resolved by measurement alone.
 
-### A genuine tradeoff
+###  Tradeoffs with this approach
 
-This is a genuine tradeoff, not a decisive argument. Approaches that embed normative judgment into measurement categories have real mobilizing power. Each January, Oxfam releases a flagship inequality report timed to the World Economic Forum in Davos—reports with titles like "Inequality Inc." that generate global headlines with striking statistics about billionaire wealth. This work matters: it keeps inequality visible in public discourse when it might otherwise fade from view. But Oxfam rarely uses "inequity" at all. Instead, they build the normative judgment directly into "inequality"—framing it as a "choice," as "economic violence," as inherently unjust. The measurement is the indictment.
+I cannot argue that there are not tradeoffs to this two-step approach. Approaches that embed normative judgment into measurement categories have real mobilizing power. Each January, Oxfam releases a flagship inequality report timed to the World Economic Forum in Davos—reports with titles like "Inequality Inc." that generate global headlines with striking statistics about billionaire wealth. This work matters: it keeps inequality visible in public discourse when it might otherwise fade from view. But Oxfam rarely uses "inequity" at all. Instead, they build the normative judgment directly into "inequality"—framing it as a "choice," as "economic violence," as inherently unjust. The measurement is the indictment.
 
-For advocacy aimed at audiences who already share certain commitments, this works. But sustainability science faces a different challenge: building coalitions across people who hold genuinely different theories of justice. For that work, the deliberative space the two-step creates matters more.
+For advocacy aimed at audiences who already share certain commitments, this works. But sustainability science faces a different challenge: building coalitions across people who hold genuinely different theories of justice. For that work, the deliberative space the two-step creates matters more I believe.
 
 ### What the two-step enables
 
-For sustainability science, these distinctions have practical consequences.
+For sustainability science, the two-step approach to conceptualizing (in)equality and (in)equity has important advantages: 
 
 Researchers can measure distributions of environmental burdens, resource access, and adaptive capacity without first having to resolve contested normative questions. The descriptive and evaluative tasks remain connected but distinct. This matters because normative questions are genuinely hard, and waiting to resolve them before doing empirical work would paralyze research.
 
@@ -186,7 +186,7 @@ When inequity is treated as a separate normative judgment rather than a property
 
 The two-step also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined, contested, and justified. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
 
-Finally, coalition-building becomes possible. People who disagree about theories of justice can still collaborate on establishing shared facts. Shared facts do not guarantee productive disagreement, but they make it possible. When we agree on how things are distributed, we can argue meaningfully about what ought to be done. Without common empirical ground, debates about equity become contests between incommensurable frameworks. The two-step provides that ground.
+Finally, coalition-building may be easier with the two-step approach. People who disagree about theories of justice can still collaborate on establishing shared facts. Shared facts do not guarantee productive disagreement, but they make it possible. When we agree on how things are distributed, we can argue meaningfully about what ought to be done. Without common empirical ground, debates about equity become contests between incommensurable frameworks. The two-step provides that common ground.
 
 ## In Practice
 
@@ -196,7 +196,7 @@ When describing sustainability outcomes, report inequalities as what they are: e
 
 When making claims about inequity, be explicit about the normative work you are doing. Why is this distribution unfair? According to what conception of justice? What would a more equitable distribution look like, and by what criteria? This transparency opens space for genuine deliberation about values rather than obscuring it.
 
-And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (causal conflation)? Or applying a normative judgment to a described distribution (the two-step)? The same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion or reveal substantive disagreements worth engaging.
+And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (causal conflation)? Its also worth remembering that the same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion or reveal substantive disagreements worth engaging.
 
 The goal is not terminological policing but analytical clarity in service of the hard work of building more sustainable and more just futures.
 
