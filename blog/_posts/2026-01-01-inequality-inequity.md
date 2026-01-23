@@ -135,9 +135,9 @@ These economists implicitly follow the two-step, though they do not theorize it 
 
 ### Major institutions
 
-The World Bank is careful in its use of these terms. Its Poverty and Inequality Platform tracks distributions using the Gini index and other measures—empirical, descriptive work. When the Bank discusses fairness goals, it tends to use "equity" (as in "equity and inclusion") or talks about "shared prosperity" rather than building normative judgments into the measurement categories themselves. The term "inequity" appears sparingly.
+The UN's Sustainable Development Goals follow a similar pattern. SDG 10 is titled "Reduced Inequalities"—a measurable goal about distributions. When the UN discusses fairness, justice, or what ought to be done, it uses different language: "equity," "inclusion," "leaving no one behind."
 
-The UN's Sustainable Development Goals follow a similar pattern. SDG 10 is titled "Reduced Inequalities"—a measurable goal about distributions. When the UN discusses fairness, justice, or what ought to be done, it uses different language: "equity," "inclusion," "leaving no one behind." The UNDP's Human Development Reports consistently distinguish between measuring inequality (the Inequality-adjusted Human Development Index) and pursuing equity as a normative goal.
+The World Bank is careful in its use of these terms. Its Poverty and Inequality Platform tracks distributions using the Gini index and other measures—empirical, descriptive work. When the Bank discusses fairness goals, it tends to use "equity" (as in "equity and inclusion") or talks about "shared prosperity" rather than building normative judgments into the measurement categories themselves. The term "inequity" appears sparingly.
 
 ### Explicit theorization
 
