@@ -162,7 +162,7 @@ People hold genuinely different theories of justice—libertarian, utilitarian, 
 
 Consider the two dimensions of equity that have been central to sustainability discourse since the Brundtland Commission: intragenerational equity (fairness within the current generation) and intergenerational equity (fairness between current and future generations). Both require the two-step approach.
 
-For intragenerational equity, we can measure how environmental burdens—air pollution exposure, climate vulnerability, access to clean water—are distributed across communities and social groups. But determining whether those distributions are inequitable requires normative argument: Which inequalities arise from injustice? Which reflect other factors? What would a fair distribution look like?
+For intragenerational equity, we can measure how environmental burdens—air pollution exposure, climate vulnerability, access to clean water—are distributed across communities and social groups. But determining whether those distributions are inequitable requires normative argument about what a fair or just distribution would look like or what theories of justice and fairness the actors involved in the situation chose to follow (ideally at least from my perspective through some sort of small-d democratic process. 
 
 For intergenerational equity, the case is even clearer. We can model projected climate impacts on future generations or track the depletion of natural capital over time. But what we owe future generations—the appropriate discount rate, whether natural capital can be substituted with other forms of wealth, how to weigh present needs against future ones—involves deep normative disagreement that cannot be resolved by measurement alone.
 
