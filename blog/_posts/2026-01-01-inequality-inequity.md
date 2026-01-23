@@ -133,11 +133,15 @@ Branko Milanovic's work on global inequality (Milanovic, 2016, 2023) follows the
 
 These economists implicitly follow the two-step, though they do not theorize it as a methodological choice. They measure first, argue about fairness second.
 
-### Major institutions
-
-The UN's Sustainable Development Goals follow a similar pattern. SDG 10 is titled "Reduced Inequalities"—a measurable goal about distributions. When the UN discusses fairness, justice, or what ought to be done, it uses different language: "equity," "inclusion," "leaving no one behind."
+### Major organizations
 
 The World Bank is careful in its use of these terms. Its Poverty and Inequality Platform tracks distributions using the Gini index and other measures—empirical, descriptive work. When the Bank discusses fairness goals, it tends to use "equity" (as in "equity and inclusion") or talks about "shared prosperity" rather than building normative judgments into the measurement categories themselves. The term "inequity" appears sparingly.
+
+Unfortunately, the UN has not achieved similar clarity. While SDG 10 is titled "Reduced Inequalities" and uses measurable indicators, the UN has not worked out the relationship between inequality, equality, and equity. A 2017 UN System framework document illustrates the confusion:
+
+> "This publication sets out a conceptual framework that includes equality (the imperative of moving towards substantive equality of opportunity and outcomes for all groups), non-discrimination (the prohibition of discrimination against individuals and groups on the grounds identified in international human rights treaties) and the broader concept of equity (understood as fairness in the distribution of costs, benefits and opportunities). It addresses both horizontal inequalities (between social groups) and vertical inequalities (e.g. income)... Intergenerational equity is also addressed, as are inequalities among countries." (UN System Chief Executives Board, 2017)
+
+Equality, equity, and non-discrimination appear as three parallel normative frameworks with near-circular definitions. "Inequalities" are things these frameworks "address," but there is no separation between empirical description and normative evaluation. This is precisely the muddle that a two-step framework would help resolve. 
 
 ### Explicit theorization
 
@@ -257,6 +261,8 @@ Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Ine
 Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University. [Open access](https://ophi.org.uk/sites/default/files/Sen-1979_Equality-of-What.pdf)
 
 Sen, A. (1992). *Inequality Reexamined*. Harvard University Press.
+
+UN System Chief Executives Board for Coordination. (2017). *Leaving No One Behind: The UN System Shared Framework for Action*. United Nations. [https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf](https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf)
 
 Vallgarda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. [https://doi.org/10.1093/eurpub/ckl047](https://doi.org/10.1093/eurpub/ckl047)
 
