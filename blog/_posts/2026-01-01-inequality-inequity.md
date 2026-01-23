@@ -145,7 +145,7 @@ Equality, equity, and non-discrimination appear as three parallel normative fram
 
 ### Explicit theorization
 
-Some scholars have made this implicit distinction explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, I have argued with William Clark (Clark & Harley, 2020) for the two-step as a methodological commitment—first characterize the distribution, then evaluate it against normative criteria. Giang and colleagues (2024) present a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness without requiring consensus on which normative position is correct.
+Some scholars have made the this implicit distinction explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, William Clark and I (Clark & Harley, 2020) also argued for this conceptual distinction: (in)equality as "a positive or descriptive concept referring to the distribution of assets or freedoms among actors," and (in)equity as "a normative concept referring to the qualities of justness and fairness." Giang and colleagues (2024) present a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness without requiring consensus on which normative position is correct.
 
 
 ## Why This Matters for Sustainability Science
