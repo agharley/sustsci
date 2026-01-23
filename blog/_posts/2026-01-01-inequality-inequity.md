@@ -20,7 +20,7 @@ The core idea is simple.
 
 **(In)equality is a descriptive concept.** It refers to measured distributions—of income, resources, health outcomes, environmental burdens, capabilities. Inequalities can be observed, quantified, and compared without yet making any judgment about their fairness.
 
-**(In)equity is a normative concept.** It involves a judgment that some distribution is unfair or unjust—and making that judgment requires bringing a theory of justice to bear on the empirical facts. Crucially, people hold different and sometimes incompatible theories: what counts as unfair depends on whether you emphasize equal outcomes, equal opportunity, procedural fairness, sufficiency, desert, or relational equality.
+**(In)equity is a normative concept.** It involves a judgment that some distribution is unfair or unjust—and making that judgment requires bringing a theory of justice to bear on the empirical facts. Crucially, people hold different and sometimes incompatible theories: what counts as unfair depends on whether you emphasize equal outcomes, equal opportunity, procedural fairness, sufficiency, or relational equality.
 
 The same empirical inequality might be judged equitable or inequitable depending on the normative framework applied. A society with significant income inequality might be judged fair by a libertarian who emphasizes procedural justice and unfair by an egalitarian who emphasizes outcomes. The inequality is the same; the equity judgments differ.
 
