@@ -101,7 +101,7 @@ The Whitehead/public health tradition asks: *Which inequalities demand action?* 
 
 Causal conflation asks: *What causes what?* The answer assumes a fixed relationship—either inequity causes inequality or vice versa. The structure is causal, but the direction varies.
 
-![Three Framings, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.png)
+![Three Framings, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.svg)
 
 *Figure 2: Three Framings, Three Different Questions*
 
