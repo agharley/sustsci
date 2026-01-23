@@ -141,7 +141,7 @@ The UN's Sustainable Development Goals follow a similar pattern. SDG 10 is title
 
 ### Explicit theorization
 
-Some scholars have made this implicit distinction explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, I have argued with William Clark (Clark & Harley, 2020) for the two-step as a methodological commitment—first characterize the distribution, then evaluate it against normative criteria. Giang and colleagues (2024) apply this approach in environmental modeling, showing how it enables collaboration among researchers holding different theories of justice.
+Some scholars have made this implicit distinction explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, I have argued with William Clark (Clark & Harley, 2020) for the two-step as a methodological commitment—first characterize the distribution, then evaluate it against normative criteria. Giang and colleagues (2024) present a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness without requiring consensus on which normative position is correct.
 
 The pattern is broader than any single tradition. What the explicit theorization offers is not a new practice but a name for what careful work already does—and a framework for understanding why it matters.
 
