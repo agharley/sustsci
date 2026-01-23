@@ -129,7 +129,7 @@ The two-step is not a new invention. It appears most clearly in work on material
 
 Thomas Piketty's influential work on capital and inequality (Piketty, 2014, 2020) and the ongoing research of the World Inequality Lab use "inequality" consistently as an empirical, descriptive category. They measure income shares, wealth distributions, and carbon emissions by decile. When they move to normative territory—arguing for progressive taxation, wealth redistribution, or climate equity—they make those arguments explicitly rather than building them into their measurement categories. The term "inequity" rarely appears; the work proceeds by describing distributions and then making arguments about what justice requires.
 
-Branko Milanovic's work on global inequality (Milanovic, 2016, 2023) follows the same pattern: meticulous empirical measurement of distributions across and within countries, followed by explicit normative arguments about the "citizenship premium," migration policy, and what justice demands in an unequal world.
+Branko Milanovic's work on global inequality (Milanovic, 2016, 2023) follows the same pattern: meticulous empirical measurement of distributions across and within countries, with analysis of mechanisms like the 'citizenship premium' and migration that shape these patterns. Like his peers, Milanovic explicitly avoids normative arguments about what justice demands, stating that his work is 'indifferent to normative views regarding inequality' (2023).
 
 These economists implicitly follow the two-step, though they do not theorize it as a methodological choice. They measure first, argue about fairness second.
 
