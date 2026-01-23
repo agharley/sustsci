@@ -73,7 +73,7 @@ Froehle captured a real debate about fairness; the later re-labeling implied a c
 
 ### The Public Health Tradition: Whitehead and the WHO
 
-A second source of confusion comes from public health. In 1992, Margaret Whitehead published an influential paper, originally a background document for the World Health Organization, that defined health inequities as health inequalities that are "avoidable, unnecessary, and unfair" (Whitehead, 1992). This definition became canonical—cited over five thousand times and still the default starting point for health equity scholarship worldwide.
+A second source of confusion comes from public health. In 1992, Margaret Whitehead published an influential paper, originally a background document for the World Health Organization, that defined health inequities as health inequalities that are "avoidable, unnecessary, and unfair" (Whitehead, 1992). This definition became canonical—cited over five thousand times and still the default starting point for health equity scholarship.
 
 The Whitehead framing treats inequity as a subset of inequality: all health inequities are health inequalities, but only those that meet certain criteria—avoidable, unnecessary, unfair—count as inequities. The question becomes which inequalities belong in this subset.
 
