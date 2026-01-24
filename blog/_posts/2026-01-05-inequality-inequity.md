@@ -131,7 +131,6 @@ Thomas Piketty's influential work on capital and inequality (Piketty, 2014, 2020
 
 Branko Milanovic's work on global inequality (Milanovic, 2016, 2023) follows the same pattern: meticulous empirical measurement of distributions across and within countries, with analysis of mechanisms like the 'citizenship premium' and migration that shape these patterns. Like his peers, Milanovic explicitly avoids normative arguments about what justice demands, stating that his work is 'indifferent to normative views regarding inequality' (2023).
 
-These economists implicitly follow the two-step, though they do not theorize it as a methodological choice. They measure first, argue about fairness second.
 
 ### Major organizations
 
