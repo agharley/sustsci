@@ -182,39 +182,37 @@ I cannot argue that there are not tradeoffs to this two-step approach. Approache
 
 For advocacy aimed at audiences who already share certain commitments, this works. But sustainability science faces a different challenge: building coalitions across people who hold genuinely different theories of justice. For that work, the deliberative space the two-step creates matters more I believe.
 
-### What the two-step enables
+### Advantages of the two-step approach to (in)equality and (in)equity
 
 For sustainability science, the two-step approach to conceptualizing (in)equality and (in)equity has important advantages: 
 
 Researchers can measure distributions of environmental burdens, resource access, and adaptive capacity without first having to resolve contested normative questions. The descriptive and evaluative tasks remain connected but distinct. This matters because normative questions are genuinely hard, and waiting to resolve them before doing empirical work would paralyze research.
 
-When inequity is treated as a separate normative judgment rather than a property embedded in certain inequalities, multiple theories of justice can engage the same empirical findings. We can bring Rawlsian frameworks, Sen's capabilities approach, Indigenous conceptions of fairness, or other perspectives to bear on shared data. For a field that works across diverse cultural and political contexts, this flexibility is essential.
+When inequity is treated as a separate normative judgment rather than a property embedded in certain inequalities, multiple theories of justice can engage the same empirical findings. For a field that works across diverse cultural and political contexts, this flexibility is essential.
 
 ![Same Inequality, Different Equity Judgments - air pollution exposure by income with different theories of justice]({{ site.baseurl }}/assets/images/two-step.png)
 
 *Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. The two-step creates space for deliberation about which framework applies and why.*
 
-The two-step also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined, contested, and justified. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
+The two-step also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined and contested. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
 
-Finally, coalition-building may be easier with the two-step approach. People who disagree about theories of justice can still collaborate on establishing shared facts. Shared facts do not guarantee productive disagreement, but they make it possible. When we agree on how things are distributed, we can argue meaningfully about what ought to be done. Without common empirical ground, debates about equity become contests between incommensurable frameworks. The two-step provides that common ground.
+Finally, coalition-building may be easier with the two-step approach. People who disagree about theories of justice can still collaborate on establishing shared facts. 
 
-## In Practice
-
-What does this mean for how we work?
+## Using the two-step in practice
 
 When describing sustainability outcomes, report inequalities as what they are: empirical findings about distributions. Who has access to clean water? How are climate risks distributed across populations? What are the patterns in environmental health burdens? These are questions that can be answered with data, and the answers do not require first settling contested normative debates.
 
 When making claims about inequity, be explicit about the normative work you are doing. Why is this distribution unfair? According to what conception of justice? What would a more equitable distribution look like, and by what criteria? This transparency opens space for genuine deliberation about values rather than obscuring it.
 
-And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (causal conflation)? Its also worth remembering that the same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion or reveal substantive disagreements worth engaging.
+And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (which may be valid in a given context but is almost certainly not generalizable)? Its also worth remembering that the same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion.
 
-The goal is not terminological policing but analytical clarity in service of the hard work of building more sustainable and more just futures.
+The goal is not terminological policing but analytical clarity in service of the intra- and inter-generational justice that sustainability science supports. 
 
 ---
 
 ## Notes
 
-**Note 1:** Froehle's original image was posted to Google+ in December 2012. The panels were labeled "equality to a conservative" and "equality to a liberal." Later adaptations—not by Froehle—first relabeled them as "Equality" and "Fairness," then as "Equality" and "Equity." Froehle's own retrospective (2016) traces these mutations with bemusement but does not engage the terminological question directly, because the image was never about the relationship between (in)equality and (in)equity. It was about normative contestation over what equality means. The "Equality vs. Equity" version became by far the most widely circulated.
+**Note 1:** Froehle's original image was posted to Google+ in December 2012. The panels were labeled "equality to a conservative" and "equality to a liberal." Later adaptations—not by Froehle—first relabeled them as "Equality" and "Fairness," then as "Equality" and "Equity." Froehle's own retrospective (2016) traces these mutations with bemusement but does not engage the terminological question directly, because the image was never about the relationship between (in)equality and (in)equity. It was about normative contestation over how different groups (in this case political parties) understand fairness. That said the "Equality vs. Equity" version is the one that went viral and therefore had this enormous influence on popular understanding of these terms. 
 
 ---
 
