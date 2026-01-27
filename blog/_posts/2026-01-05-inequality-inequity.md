@@ -36,12 +36,12 @@ The two-step locates normative disagreement where it belongs—in the open, as a
 
 ### A Starting Point: Two Pairs of Concepts
 
-Before examining these sources of confusion, it helps to establish what we are working with. We are dealing with two pairs of terms. Within each pair, the terms are grammatical opposites:
+Before examining these sources of confusion, it helps to establish what we are working with. We are dealing with two pairs of terms appear to be grammatical opposites:
 
 - Equality ↔ Inequality: sameness versus difference
 - Equity ↔ Inequity: fairness versus unfairness
 
-But even this apparent simplicity gets complicated. As we will see, philosophers have long used "equality" to debate normative questions about fairness, not just to describe sameness so while things may at first pass seem linguistically intuitive, the historical use of these terms even in careful scholarship is anything but.  
+But this apparent grammatical simplicity hides a mountain of disagreement. As we will see, philosophers have long used "equality" to debate normative questions about fairness, not just to describe sameness. So while things may at first pass seem linguistically intuitive, the historical use of these terms even in careful scholarship is anything but.  
 
 What does seem clear (I think) is that the pairs can come apart. A distribution might be equal but inequitable (everyone gets the same despite different needs). Or unequal but equitable (people get different amounts for good reason). Equal does not mean equitable. Unequal does not mean inequitable. But even this argument is sometimes muddled in practice especially when the words are treated interchangeably. 
 
