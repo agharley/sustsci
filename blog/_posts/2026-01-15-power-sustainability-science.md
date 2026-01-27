@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Why Sustainability Science Needs a Theory of Power"
+title: "Towards a Theory of Power for Sustainability Science"
 author: Alicia G. Harley
 date: 2026-01-15
 description: "Power shapes why unsustainable patterns persist. A three-dimensional framework for analyzing how power operates—and how it can be contested—in sustainability science."
@@ -10,7 +10,7 @@ The persistence of the climate crisis, ecological destruction, and grinding pove
 
 The pursuit of sustainable development is, at its core, a massively redistributional agenda. It asks those who benefit from current arrangements to accept constraints on their behavior for the sake of others--including people in distant places and future generations who have no seat at the table. It should surprise no one that powerful actors resist such constraints. What should surprise us is how long sustainability science went without seriously examining the mechanisms of that resistance.
 
-## The Missing Variable
+## Power in Sustainability Science
 
 Early sustainability science largely sidestepped questions of power. We developed sophisticated frameworks for understanding ecosystems, elegant models of resource dynamics, and increasingly nuanced theories of institutional design. We could explain *how* systems worked but struggled to explain *why* unsustainable patterns persisted despite widespread knowledge of their harms. When we encountered resistance to change, we fell back on vague gestures toward "political will" or "implementation challenges."
 
