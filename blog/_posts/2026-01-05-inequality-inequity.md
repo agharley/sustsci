@@ -12,7 +12,7 @@ image: "{{ site.baseurl }}/assets/images/two-step.png"
 
 Strengthening the ability of sustainability science to grapple with issues of (in)equality and (in)equity requires working across deep differences in how people think about justice and fairness. Different philosophical traditions (e.g., libertarian, egalitarian, capabilities-based) come down differently on these questions. As do different religious and moral traditions. From the perspective of sustainability science, we are not here necessarily to adjudicate the ‘right’ answer to the question of what a fair or just distribution looks like, but as a field practically engaged with both intra- and inter-generational justice, we must find a way to talk about these concepts with as much clarity as possible. 
 
-This work gets even harder when we fail to use consistent terminology and even worse when our terminology by virtue of the interdisciplinary nature of our field has been tangled that we often do not know how others understand the terms we are using for (in)equality and (in)equity. Untangling the meanings of these two terms and thinking through a pathway to using them consistently in our scholarship is well worth a try. Here is my own first stab at figuring this out. 
+This work gets harder when we fail to use consistent terminology and even worse when our terminology by virtue of the interdisciplinary nature of our field has been tangled that we often do not know how others understand the terms we are using for (in)equality and (in)equity. Untangling the meanings of these two terms and thinking through a pathway to using them consistently in our scholarship is well worth a try. Here is my own first stab at figuring this out. 
 
 In both the scholarship sustainability science draws on, as well as in formal writing on sustainable development from sources as varied as the UN system, international NGOs and corporate sustainability programs, the terms in(equality) and (in)equity are often used interchangeably, or linked causally, or treated as if one is a subset of the other. Some of this confusion traces to scholarly traditions asking different questions and some emerges from how the terms get used in practice. 
 
@@ -30,7 +30,7 @@ The core idea is simple.
 
 The same empirical inequality might be judged equitable or inequitable depending on the normative framework applied. A society with significant income inequality might be judged fair by a libertarian who emphasizes procedural justice and unfair by an egalitarian who emphasizes outcomes. The inequality is the same; the equity judgments differ.
 
-The two-step locates normative disagreement where it belongs—in the open, as a site of deliberation—rather than hiding it inside measurement categories. This matters for sustainability science because we work across contexts where theories of justice genuinely diverge. When we agree on the facts of a distribution, we can argue meaningfully about what justice requires. Without common empirical ground, debates about equity become contests between incommensurable frameworks.
+The two-step locates normative disagreement where it belongs—in the open, as a site of deliberation—rather than hiding it inside measurement categories. This matters for sustainability science because we work across contexts where theories of justice genuinely diverge.
 
 ## Why the Confusion Exists
 
@@ -41,13 +41,13 @@ Before examining these sources of confusion, it helps to establish what we are w
 - Equality ↔ Inequality: sameness versus difference
 - Equity ↔ Inequity: fairness versus unfairness
 
-But even this apparent simplicity gets complicated. As we will see, philosophers have long used "equality" to debate normative questions about fairness, not just to describe sameness. The linguistic clarity does not map onto conceptual clarity.
+But even this apparent simplicity gets complicated. As we will see, philosophers have long used "equality" to debate normative questions about fairness, not just to describe sameness so while things may at first pass seem linguistically intuitive, the historical use of these terms even in careful scholarship is anything but.  
 
-What does seem clear is that the pairs can come apart. A distribution might be equal but inequitable (everyone gets the same despite different needs). Or unequal but equitable (people get different amounts for good reason). Equal does not mean equitable. Unequal does not mean inequitable.
+What does seem clear (I think) is that the pairs can come apart. A distribution might be equal but inequitable (everyone gets the same despite different needs). Or unequal but equitable (people get different amounts for good reason). Equal does not mean equitable. Unequal does not mean inequitable. But even this argument is sometimes muddled in practice especially when the words are treated interchangeably. 
 
 ### The Baseball Fence and the Philosophy Behind It
 
-One source of the current muddle is a viral image. In 2012, Craig Froehle created a simple illustration showing three people of different heights trying to watch a baseball game over a fence (Froehle, 2016). In the "equality" panel, each stands on an identical box; the shortest still cannot see. In the "equity" panel, boxes are redistributed according to need; everyone watches the game.
+One important source of the current muddle that I run into a lot is a viral image. In 2012, Craig Froehle created a simple illustration showing three people of different heights trying to watch a baseball game over a fence (Froehle, 2016). In the "equality" panel, each stands on an identical box; the shortest still cannot see. In the "equity" panel, boxes are redistributed according to need; everyone watches the game.
 
 ![Equality vs. Equity illustration showing three people of different heights watching a baseball game]({{ site.baseurl }}/assets/images/adapted_Froehle.png)
 
