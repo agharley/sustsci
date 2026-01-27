@@ -99,23 +99,21 @@ The two-step sidesteps this tangle. Describe the distribution; evaluate its fair
 
 ### Three Framings, Three Different Questions
 
-What becomes clear from tracing these threads is that the framings are not just giving different answers—they are asking fundamentally different questions.
+Tracing these threads it's clear that these different framings are actually asking fundamentally different questions.
 
-The Froehle/philosophy tradition asks: *What are different conceptions of fairness?* The contrast is between formal and substantive approaches to justice—same treatment versus differentiated treatment aimed at equivalent outcomes. Both are normative positions; the debate is about what equity requires.
+The Froehle/philosophy tradition asks: *What are different conceptions of fairness?* The contrast is between formal and substantive approaches to justice—same treatment versus differentiated treatment aimed at equivalent outcomes. 
 
-The Whitehead/public health tradition asks: *Which inequalities demand action?* The answer is those that are avoidable, unnecessary, and unfair—a subset of all inequalities. The structure is definitional: inequity is a category within inequality, marked by meeting certain criteria.
+The Whitehead/public health tradition asks: *Which inequalities demand action?* The answer is those that are avoidable, unnecessary, and unfair. Inequity becomes a category within inequality, marked by meeting certain criteria.
 
-Causal conflation asks: *What causes what?* The answer assumes a fixed relationship—either inequity causes inequality or vice versa. The structure is causal, but the direction varies.
+Causal conflation asks: *What causes what?* The answer assumes a fixed relationship—either inequity causes inequality or vice versa—but no one seems sure which.
 
 ![Three Framings, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.svg)
 
 *Figure 2: Three Framings, Three Different Questions*
 
-These framings now circulate together, their boundaries blurred. The result is conceptual muddle. Google's AI overview might assert one day that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Whitehead's criteria get invoked without her careful attention to what "avoidable" and "unfair" actually require. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
+These framings are all in circulation leaving a tangled muddle of confusion for anyone trying to quickly write a report or develop a research project that engages issues of distribution, justice and fairness. The result is often conceptual muddle. Ive been googling the relationship between inequality and inequity now for several weeks and Google's AI overview is constantly shifting slightly. One day the AI overview might assert that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
 
-The two-step offers a different approach. Rather than asking which inequalities count as inequities (Whitehead), or assuming a fixed causal relationship (causal conflation), it proposes a sequence: first describe the distribution, then evaluate whether it is fair. This keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally.
-
-This proposal uses the terms differently than many philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how many researchers and some major institutions actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open. The two-step is not a claim about how philosophers have always used these terms. It is a proposal about how we might use them more clearly.
+The two-step approach I'm advocating here keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally. This approach uses the terms differently than many philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how many researchers and some major institutions actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open.  It's a proposal about how we might use these terms more clearly, not a claim about how philosophers have always used them."
 
 ## The Limits of the Distinction
 
