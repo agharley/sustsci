@@ -22,7 +22,7 @@ This post traces where that confusion comes from and argues for a cleaner framew
 
 ## The Two-Step Framework
 
-The core idea is simple.
+My proposal which as I said before is neither entirely original nor rocket science, is a way to clearly distinguish important work that is descriptive of the world as it is, for the normative work of deliberating on the world as it *should* be.  
 
 **(In)equality is a descriptive concept.** It refers to measured distributions—of income, resources, health outcomes, environmental burdens, capabilities. Inequalities can be observed, quantified, and compared without yet making any judgment about their fairness.
 
@@ -53,7 +53,7 @@ One important source of the current muddle that I run into a lot is a viral imag
 
 *Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Note 1 for the image's evolution.*
 
-The image has been reproduced, adapted, and critiqued countless times. Its virality taught a generation to distinguish equality as identical treatment from equity as differentiated treatment aimed at equivalent outcomes. The image does capture something real: an important philosophical debate about what fairness requires. But it does not capture a relationship between equality and equity as concepts. Understanding both what the image gets right and where it misleads requires tracing a longer philosophical lineage.
+The virality of this image taught a generation to distinguish equality as identical treatment from equity as differentiated treatment aimed at equivalent outcomes. The image does capture something real: an important philosophical debate about what fairness requires. But it does not capture a relationship between equality and equity as concepts. Understanding both what the image gets right and where it misleads requires tracing a longer philosophical lineage.
 
 #### A long debate about fairness
 
