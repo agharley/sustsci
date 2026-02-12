@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Terms & Definitions
-description: A glossary of key terms and definitions used in sustainability science.
+title: "Terms & Definitions in Sustainability Science"
+description: "A glossary of key terms and definitions used in sustainability science, including capital assets, complex adaptive systems, equity, governance, power, resilience, and more. Adapted from Clark and Harley (2020)."
+keywords: sustainability science glossary, sustainability science definitions, capital assets, complex adaptive systems, equity sustainability, governance sustainable development, power sustainability science, resilience, adaptation, transformation, inclusive wealth, co-production, Anthropocene System, Clark Harley 2020
 permalink: /keeping-up/terms/
 ---
 
