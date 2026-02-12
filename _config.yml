@@ -2,7 +2,7 @@
 title: Sustainability Science
 description: A resource for sustainability science research and teaching. Currently supported by Harvard Kennedy School's Sustainability Science Program.
 url: "https://agharley.github.io"
-baseurl: "/sustsci"
+baseurl: ""
 
 # Author info (for SEO)
 author:
