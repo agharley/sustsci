@@ -15,6 +15,12 @@ Resources for staying current with developments in sustainability science and re
   </div>
   
   <div class="section-card card-sub card-keeping">
+    <h3>Terms & Definitions</h3>
+    <p>A glossary of key terms and definitions used in sustainability science.</p>
+    <a href="{{ '/keeping-up/terms/' | relative_url }}" class="card-link">View terms →</a>
+  </div>
+  
+  <div class="section-card card-sub card-keeping">
     <h3>Journals</h3>
     <p>Key journals publishing sustainability science research.</p>
     <p class="text-muted text-small" style="margin-top: 0.5rem;">Coming soon</p>
