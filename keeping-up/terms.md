@@ -6,9 +6,7 @@ keywords: sustainability science glossary, sustainability science definitions, c
 permalink: /keeping-up/terms/
 ---
 
-# Terms & Definitions in Sustainability Science
-
-<p class="text-muted text-small">Adapted from: Clark, William C., and Alicia G. Harley. 2020. "Sustainability Science: Toward a Synthesis." <em>Annual Review of Environment and Resources</em> 45:331–86. <a href="https://doi.org/10.1146/annurev-environ-012420-043621">https://doi.org/10.1146/annurev-environ-012420-043621</a></p>
+A glossary of key terms and definitions used in sustainability science.
 
 ---
 
@@ -99,4 +97,4 @@ permalink: /keeping-up/terms/
 
 ---
 
-*Adapted from Clark and Harley (2020), [Sustainability Science: Toward a Synthesis](https://doi.org/10.1146/annurev-environ-012420-043621), Annual Review of Environment and Resources*
+*Adapted from: Clark, William C., and Alicia G. Harley. 2020. "Sustainability Science: Toward a Synthesis." Annual Review of Environment and Resources 45:331–86. [https://doi.org/10.1146/annurev-environ-012420-043621](https://doi.org/10.1146/annurev-environ-012420-043621)*
