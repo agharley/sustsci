@@ -1,7 +1,7 @@
 # Site settings
 title: Sustainability Science
 description: A resource for sustainability science research and teaching. Currently supported by Harvard Kennedy School's Sustainability Science Program.
-url: "https://agharley.github.io"
+url: "https://sustainabilityscience.org"
 baseurl: ""
 
 # Author info (for SEO)
@@ -24,7 +24,7 @@ highlighter: rouge
 collections:
   posts:
     output: true
-    permalink: /blog/:year/:month/:title/
+    permalink: /theorist/:year/:month/:title/
 
 # Default front matter
 defaults:
@@ -34,7 +34,7 @@ defaults:
     values:
       layout: "page"
   - scope:
-      path: "blog/_posts"
+      path: "theorist/_posts"
       type: "posts"
     values:
       layout: "post"
