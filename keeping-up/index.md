@@ -9,15 +9,15 @@ Resources for staying current with developments in sustainability science and re
 
 <div class="section-grid">
   <div class="section-card card-sub card-keeping">
-    <h3>Conferences</h3>
-    <p>Major conferences and meetings relevant to sustainability science.</p>
-    <a href="{{ '/keeping-up/conferences/' | relative_url }}" class="card-link">View conferences →</a>
-  </div>
-  
-  <div class="section-card card-sub card-keeping">
     <h3>Terms & Definitions</h3>
     <p>A glossary of key terms and definitions used in sustainability science.</p>
     <a href="{{ '/keeping-up/terms/' | relative_url }}" class="card-link">View terms →</a>
+  </div>
+  
+  <div class="section-card card-sub card-keeping">
+    <h3>Conferences</h3>
+    <p>Major conferences and meetings relevant to sustainability science.</p>
+    <a href="{{ '/keeping-up/conferences/' | relative_url }}" class="card-link">View conferences →</a>
   </div>
   
   <div class="section-card card-sub card-keeping">
