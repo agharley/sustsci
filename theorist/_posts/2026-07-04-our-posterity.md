@@ -27,9 +27,9 @@ Recognizing what we owe Posterity is only the beginning. The institutions for ac
 
 **Note 1:** [Jefferson to Madison, 6 September 1789](https://founders.archives.gov/documents/Madison/01-12-02-0248) and [Madison to Jefferson, 4 February 1790](https://founders.archives.gov/documents/Madison/01-13-02-0020), in *Founders Online*, National Archives. Madison's reply put the obligation in terms of accounts: all that was needed, he wrote, was "to see that the debits against \[the living\] do not exceed the advances made by \[the dead\]."
 
-**Note 2:** Delivered before the Rochester Ladies' Anti-Slavery Society, 5 July 1852; [full text](https://nmaahc.si.edu/explore/stories/nations-story-what-slave-fourth-july). Douglass turned the nation's founding holiday against it, measuring the promise of American liberty against the fact of American slavery.
+**Note 2:** Delivered before the Rochester Ladies' Anti-Slavery Society, 5 July 1852; [full text](https://nmaahc.si.edu/explore/stories/nations-story-what-slave-fourth-july).
 
-**Note 3:** See also Shklar (1991), who argues that the meaning of American citizenship has been defined by the struggle of the excluded to win inclusion; Allen (2014), reading the founding documents as a standing commitment to equality that the excluded have had to make real; and Foner (2019), tracing how the Reconstruction amendments enshrined the post-emancipation expansion of equal citizenship.
+**Note 3:** See also Allen (2014), reading the founding documents as a standing commitment to equality that the excluded have had to make real, and Foner (2019), tracing how the Reconstruction amendments enshrined the post-emancipation expansion of equal citizenship.
 
 **Note 4:** Inclusive wealth, which grew out of welfare economics and capital theory, is the per capita social value of the full array of resource stocks, natural and anthropogenic, that make up a society's productive base. What is valued is not the quantity of these stocks but their social value: what they can contribute as means to creating wellbeing. A development path conserves inclusive wealth when that value does not decline over time, so that each generation passes on at least as much as it inherited. Because many different bundles of resources can meet this criterion, one asset may be drawn down as another is built up, as long as what is created is worth at least as much as what is given up. That worth is measured not by an asset's market price but by its shadow value, what it adds to wellbeing; for some resources, scarce or irreplaceable, that value runs so high that nothing built in their place can make up the loss.
 
@@ -58,8 +58,6 @@ Hoffer, P. C. (2013). *For Ourselves and Our Posterity: The Preamble to the Fede
 Maastricht Principles on the Human Rights of Future Generations. (2023). Maastricht Centre for Human Rights, Maastricht University.
 
 Sen, A. (1999). *Development as Freedom*. New York: Knopf.
-
-Shklar, J. N. (1991). *American Citizenship: The Quest for Inclusion*. Cambridge, MA: Harvard University Press.
 
 Sikkink, K. (2020). *The Hidden Face of Rights: Toward a Politics of Responsibilities*. New Haven: Yale University Press.
 
