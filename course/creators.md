@@ -17,7 +17,7 @@ This course emerged from extensive collaboration with colleagues and students wh
 
 <div class="creator-bio">
   <div class="bio-text">
-    <p><a href="https://harley.scholars.harvard.edu/"><strong>Alicia Harley</strong></a> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.</p>
+    <p><a href="{{ '/harley/' | relative_url }}"><strong>Alicia Harley</strong></a> is a Senior Research Fellow with the Sustainability Science Program, where she studies how communities build capacity to advance sustainable development, with particular focus on the role of science, technology, and innovation policy.</p>
   </div>
   <div class="bio-image">
     <img src="{{ '/course/images/alicia-harley.jpg' | relative_url }}" alt="Alicia Harley">
