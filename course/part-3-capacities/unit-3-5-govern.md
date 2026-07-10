@@ -59,9 +59,3 @@ Dryzek, J. S. (2016). Institutions for the Anthropocene: Governance in a changin
 Harley, A. G., & Clark, W. C. (2025). [Building Capacity to Govern Cooperatively in Pursuit of Sustainable Development: Lessons from scholarship and practice](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Governance%20Capacity_SSP%20Working%20Paper_Final.pdf) (Nos. 25–06; Sustainability Science Program Working Paper, p. 20). Harvard Kennedy School of Government.  
 Also available in the course library [HERE](../course-library/readings/capacity-govern.pdf).  
 > This working paper synthesizes two decades of research and practice on building governance capacity, examining both why it is essential for sustainability and why it has proven so difficult to do well.
-
----
-
-<a href="../course-library/unit-guides/unit-3-5.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.5 Reading Guide (PDF)
-</a>

@@ -63,9 +63,3 @@ Wyborn, C., Datta, A., Montana, J., Ryan, M., Leith, P., Chaffin, B., Miller, C.
 **f) Read:**  
 Cash, D. W., Clark, W. C., Alcock, F., Dickson, N. M., Eckley, N., Guston, D. H., Jäger, J., & Mitchell, R. B. (2003). Knowledge systems for sustainable development. Proceedings of the National Academy of Sciences, 100(14), 8086–8091. [https://doi.org/10.1073/pnas.1231332100](https://doi.org/10.1073/pnas.1231332100)  
 > The foundational paper on salience, credibility, and legitimacy in knowledge systems.
-
----
-
-<a href="../course-library/unit-guides/unit-3-6.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.6 Reading Guide (PDF)
-</a>

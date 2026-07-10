@@ -166,7 +166,7 @@
       {{ content }}
       
       {% if page.pdf %}
-      <a href="{{ '/course/course-library/unit-guides/' | append: page.pdf | relative_url }}" class="pdf-download-btn" target="_blank">📄 Download Unit Guide (PDF)</a>
+      <a href="{{ '/course/course-library/unit-guides/' | append: page.pdf | relative_url }}" class="pdf-download-btn" target="_blank">{{ page.title | split: ':' | first }} Reading Guide (PDF)</a>
       {% endif %}
       
       <footer class="course-unit-footer">

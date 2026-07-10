@@ -79,9 +79,3 @@ Boston, J. (2017). Governing for the Future: Designing Democratic Institutions f
 **g) Explore:**  
 Sabin Center for Climate Change Law, Columbia Univ. (n.d.). The Climate Litigation Database. Retrieved October 12, 2025, from [https://www.climatecasechart.com](https://www.climatecasechart.com)  
 > For students interested in exploring the wider landscape of climate litigation beyond youth cases, the Sabin Center maintains comprehensive databases tracking over 3,000 climate cases worldwide, including constitutional and human rights cases that address intergenerational equity through various legal strategies.
-
----
-
-<a href="../../course-library/unit-guides/unit-3-2.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.2 Reading Guide (PDF)
-</a>

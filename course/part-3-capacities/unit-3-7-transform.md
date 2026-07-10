@@ -65,9 +65,3 @@ Jasanoff, S., & Kim, S.-H. (2009). Containing the Atom: Sociotechnical Imaginari
 **g) Read:**  
 Kern, F., & Howlett, M. (2009). Implementing transition management as policy reforms: A case study of the Dutch energy sector. Policy Sciences, 42(4), 391–408. [https://doi.org/10.1007/s11077-009-9099-x](https://doi.org/10.1007/s11077-009-9099-x)  
 > This case study explores how the Netherlands attempted to govern energy system transformation through transition management approaches. The authors analyze the practical challenges of implementing transformation governance, including coordination across scales, managing competing interests, and balancing long-term vision with short-term political pressures.
-
----
-
-<a href="../course-library/unit-guides/unit-3-7.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.7 Reading Guide (PDF)
-</a>

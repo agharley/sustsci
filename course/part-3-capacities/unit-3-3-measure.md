@@ -78,9 +78,3 @@ Review "The Capitals Approach" and one case study
 **j) Watch:**  
 Harley, Alicia G. (Director). (2025, February 12). Capacity building to measure progress toward sustainable development [Video recording]. M-RCBG_Harvard. [https://www.youtube.com/watch?v=1cYCqBiBwgg](https://www.youtube.com/watch?v=1cYCqBiBwgg)  
 > This is part of the C4SD Seminar Series, Sustainability Science Program, Harvard Kennedy School. The seminar explores practical challenges and emerging solutions in building capacity to measure sustainable development, with examples from multiple contexts showing how measurement systems can guide action toward sustainability.
-
----
-
-<a href="../course-library/unit-guides/unit-3-3.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.3 Reading Guide (PDF)
-</a>

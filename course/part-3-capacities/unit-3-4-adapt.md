@@ -67,9 +67,3 @@ Nelson, D. R., Adger, W. N., & Brown, K. (2007). Adaptation to environmental cha
 **h) Read:**  
 Kousky, C. (2019). The role of natural disaster insurance in recovery and risk reduction. Annual Review of Resource Economics, 11(1), 399–418. [https://doi.org/10.1146/annurev-resource-100518-094028](https://doi.org/10.1146/annurev-resource-100518-094028)  
 > Examines how insurance mechanisms can both enable and constrain adaptation, exploring the tensions between using insurance for recovery versus risk reduction, and the challenges of making insurance work for vulnerable populations.
-
----
-
-<a href="../course-library/unit-guides/unit-3-4.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.4 Reading Guide (PDF)
-</a>

@@ -60,9 +60,3 @@ United Nations Department of Economic and Social Affairs. (n.d.). Capacity Devel
 **d) Read:**  
 Mazzucato, M., & Kattel, R. (2020). COVID-19 and public-sector capacity. Oxford Review of Economic Policy, 36(Supplement_1), S256–S269. [https://doi.org/10.1093/oxrep/graa031](https://doi.org/10.1093/oxrep/graa031)  
 > This reading looks at the capabilities and capacities that were too often missing from governments' responses to the outbreak of the COVID-19 pandemic. The capacities it focuses on (capacity to adapt and learn; capacity to align public services and citizen needs; capacity to govern resilient production systems; and capacity to govern data and digital platforms) are slightly different from the six capacities we will highlight in Part III of this course. Nevertheless, it is a powerful argument about the importance of capacities in our collective ability to respond to shocks and surprises—a theme central to our understanding of managing under deep uncertainty.
-
----
-
-<a href="../course-library/unit-guides/unit-3-1.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background:#2F5496; color:white; border-radius:5px; text-decoration:none; font-weight:bold; margin-top:24px;">
-Unit 3.1 Reading Guide (PDF)
-</a>
