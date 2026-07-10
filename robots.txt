@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://agharley.github.io/sustsci/sitemap.xml
+Sitemap: https://sustainabilityscience.org/sitemap.xml
