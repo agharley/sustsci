@@ -5,8 +5,6 @@ description: A curated list of established research networks and professional so
 permalink: /keeping-up/networks/
 ---
 
-# Networks
-
 Some of the research networks and professional societies working across sustainability
 science and sustainable development. This list isn't exhaustive — suggestions welcome.
 Organized alphabetically.

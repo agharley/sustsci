@@ -5,8 +5,6 @@ description: Curated list of academic conferences relevant to sustainability sci
 permalink: /keeping-up/conferences/
 ---
 
-# Conferences
-
 A curated list of academic conferences relevant to sustainability science research. Organized alphabetically.
 
 ## Quick Reference
