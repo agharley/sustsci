@@ -1251,3 +1251,81 @@ sup {
   font-size: 2rem;
   text-shadow: 0 2px 10px rgba(0,0,0,0.8);
 }
+
+/* ==========================================================================
+   WIDE PAGE VARIANT + BIO LAYOUT
+   ========================================================================== */
+
+/* Opt-in wider container: set `wide: true` in a page's front matter */
+.page-container--wide {
+  max-width: 1040px;
+}
+
+.page-container--wide .page-content {
+  max-width: none;
+}
+
+/* Bio: photo beside text (photo left, text right) */
+.creator-bio {
+  display: flex;
+  gap: 2.25rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.bio-image {
+  flex: 0 0 250px;
+}
+
+.bio-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+.bio-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.bio-text p:first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 720px) {
+  .creator-bio {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .bio-image {
+    flex: none;
+    max-width: 220px;
+  }
+}
+
+/* Figures inside page content */
+.page-content figure {
+  margin: 2rem auto;
+  max-width: 620px;
+}
+
+.page-content figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+.page-content figcaption {
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: var(--color-text-light);
+  margin-top: 0.6rem;
+}
+
+/* Publications list: tighter, easier to scan */
+.page-content .pubs li {
+  margin-bottom: 0.65rem;
+  line-height: 1.55;
+}

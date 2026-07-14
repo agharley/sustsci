@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main class="page-container">
+<main class="page-container{% if page.wide %} page-container--wide{% endif %}">
   {% if page.title %}
   <header class="page-header">
     <h1>{{ page.title }}</h1>
