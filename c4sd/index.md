@@ -70,10 +70,8 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to measure progress toward sustainable development</h3>
       <div class="capacity-links">
-      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Measurement%20Capacity_SSP%20Working%20Paper.pdf">Working paper 25-01</a>
-      <a href="https://www.youtube.com/watch?v=1cYCqBiBwgg">Seminar</a>
+      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Measurement%20Capacity_SSP%20Working%20Paper.pdf">Working paper 25-01 &rarr;</a>
       </div>
-      <p class="capacity-panel">Carrie Exton (OECD) · Eli Fenichel (Yale) · Mary Ruckelshaus (Natural Capital Project)</p>
     </div>
   </div>
   <div class="capacity-card">
@@ -81,10 +79,8 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to adapt development pathways to protect human well-being in the face of shocks</h3>
       <div class="capacity-links">
-      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Adaptation%20Capacity_SSP%20Working%20Paper_FINAL.pdf">Working paper 25-02</a>
-      <a href="https://www.youtube.com/watch?v=5xtcykI5R3M">Seminar</a>
+      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Adaptation%20Capacity_SSP%20Working%20Paper_FINAL.pdf">Working paper 25-02 &rarr;</a>
       </div>
-      <p class="capacity-panel">Carolyn Kousky (EDF) · Aditi Mukherji (CGIAR) · Claudia Thyme (Insurance Development Forum)</p>
     </div>
   </div>
   <div class="capacity-card">
@@ -92,10 +88,8 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to transform unsustainable development pathways into sustainable ones</h3>
       <div class="capacity-links">
-      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Transform%20Capacity_SSP%20Working%20Paper_Final.pdf">Working paper 25-03</a>
-      <a href="https://youtu.be/d-cmP45EBCA">Seminar</a>
+      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Transform%20Capacity_SSP%20Working%20Paper_Final.pdf">Working paper 25-03 &rarr;</a>
       </div>
-      <p class="capacity-panel">Steve Nicholls (South Africa's Climate Commission) · Chuck Rumsey (Ecotrust Canada) · Amanda Woodrum (ReImagine Appalachia)</p>
     </div>
   </div>
   <div class="capacity-card">
@@ -103,10 +97,8 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to promote equity both within and among generations</h3>
       <div class="capacity-links">
-      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Equity%20Capacity_SSP%20Working%20Paper.pdf">Working paper 25-04</a>
-      <a href="https://youtu.be/rF05Ge6Dssg">Seminar</a>
+      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Equity%20Capacity_SSP%20Working%20Paper.pdf">Working paper 25-04 &rarr;</a>
       </div>
-      <p class="capacity-panel">Nasif Khan (BRAC) · Sharmila Murthy (Northeastern) · Grant Wilson (Earth Law Center)</p>
     </div>
   </div>
   <div class="capacity-card">
@@ -114,10 +106,8 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to govern cooperatively in pursuit of sustainable development</h3>
       <div class="capacity-links">
-      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Governance%20Capacity_SSP%20Working%20Paper_Final.pdf">Working paper 25-06</a>
-      <a href="https://youtu.be/7jJCmSJ-qcg">Seminar</a>
+      <a href="https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Governance%20Capacity_SSP%20Working%20Paper_Final.pdf">Working paper 25-06 &rarr;</a>
       </div>
-      <p class="capacity-panel">Vanessa Adams (Level4International) · Kate Gordon (California Forward) · Robyn McGuckin (WRI)</p>
     </div>
   </div>
   <div class="capacity-card">
@@ -125,11 +115,11 @@ integration across all six remains rare.
     <div class="capacity-body">
       <h3>Capacity to link knowledge with action for sustainability</h3>
       <div class="capacity-links">
-      <a href="https://youtu.be/H8DR_ffFZoU">Seminar</a>
+      <span class="capacity-forthcoming">Working paper forthcoming</span>
       </div>
-      <p class="capacity-panel">Connie Nshemereirwe (Africa Science Leadership Programme) · David Cash (formerly Massachusetts DEP) · Stacy Glass (ChemFORWARD)</p>
     </div>
   </div>
+</div>
 </div>
 
 
@@ -155,12 +145,29 @@ public seminar series.
 
 *Building Capacity for Sustainable Development* is a virtual seminar series pairing scholars
 with practitioners on each of the six capacities. Sessions are free, open to the public, and
-recorded — each is linked from its capacity above.
-[Register for upcoming seminars &rarr;](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program/c4sd-seminar-series)
+recorded. [Register for upcoming seminars &rarr;](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program/c4sd-seminar-series)
+
+**[Measuring progress toward sustainable development](https://www.youtube.com/watch?v=1cYCqBiBwgg)**
+Carrie Exton (OECD) · Eli Fenichel (Yale) · Mary Ruckelshaus (Natural Capital Project)
+
+**[Adapting development pathways in the face of shocks](https://www.youtube.com/watch?v=5xtcykI5R3M)**
+Carolyn Kousky (Environmental Defense Fund) · Aditi Mukherji (CGIAR) · Claudia Thyme (Insurance Development Forum)
+
+**[Transforming unsustainable development pathways](https://youtu.be/d-cmP45EBCA)**
+Steve Nicholls (South Africa's Climate Commission) · Chuck Rumsey (Ecotrust Canada) · Amanda Woodrum (ReImagine Appalachia)
+
+**[Promoting equity within and among generations](https://youtu.be/rF05Ge6Dssg)**
+Nasif Khan (BRAC) · Sharmila Murthy (Northeastern University) · Grant Wilson (Earth Law Center)
+
+**[Governing cooperatively](https://youtu.be/7jJCmSJ-qcg)**
+Vanessa Adams (Level4International) · Kate Gordon (California Forward) · Robyn McGuckin (World Resources Institute)
+
+**[Linking knowledge with action](https://youtu.be/H8DR_ffFZoU)**
+Connie Nshemereirwe (Africa Science Leadership Programme) · David Cash (formerly Massachusetts DEP) · Stacy Glass (ChemFORWARD)
 
 A companion pair of sessions applies the framework to global food systems:
-[measuring progress](https://www.youtube.com/watch?v=Lmh_e21NNiA) (Rachel Gilbert, Tufts; Leigh Winowiecki, CIFOR-ICRAF)
-and [advancing equity](https://www.youtube.com/watch?v=LVozh8q41Zw) (Everlyne Nairesiae, Landesa; Jess Newman, McCain Foods; Simon Winter, Rockefeller Foundation).
+**[measuring progress](https://www.youtube.com/watch?v=Lmh_e21NNiA)** (Rachel Gilbert, Tufts; Leigh Winowiecki, CIFOR-ICRAF)
+and **[advancing equity](https://www.youtube.com/watch?v=LVozh8q41Zw)** (Everlyne Nairesiae, Landesa; Jess Newman, McCain Foods; Simon Winter, Rockefeller Foundation).
 
 <!-- NOTE: no working paper yet on the capacity to link knowledge with action. The HKS
      seminar page currently links the *governance* paper for that session, in error. -->

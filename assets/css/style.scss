@@ -1481,16 +1481,14 @@ sup {
 .capacity-links {
   display: flex;
   gap: 1rem;
-  padding-top: 0.7rem;
-  margin-bottom: 0.7rem;
+  padding-top: 0.75rem;
   border-top: 1px solid var(--color-border-light);
 }
 
-.capacity-panel {
-  font-size: 0.75rem;
-  line-height: 1.5;
+.capacity-forthcoming {
+  font-size: 0.8125rem;
+  font-style: italic;
   color: var(--color-text-light);
-  margin: 0;
 }
 
 .capacity-links a {
@@ -1509,4 +1507,9 @@ sup {
 
 @media (max-width: 560px) {
   .capacity-grid { grid-template-columns: 1fr; gap: 1.25rem; }
+}
+
+/* Seminar list: title line + panelists beneath */
+.page-container-tight > p > strong > a {
+  text-decoration: none;
 }
