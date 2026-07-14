@@ -32,7 +32,7 @@ She is editor of [sustainabilityscience.org]({{ '/' | relative_url }}), an open-
 
 <figure>
   <img src="{{ '/assets/images/C4SD_main_large-thumbnail.jpg' | relative_url }}" alt="The six capacities for sustainable development.">
-  <figcaption>The six capacities for sustainable development: to promote equity, to measure progress, to adapt to shocks and surprises, to transform development pathways, to govern cooperatively, and to link knowledge with action.</figcaption>
+  <figcaption>Vignettes of the six capacities necessary for the pursuit of sustainable development: to promote equity, to measure progress, to adapt to shocks and surprises, to transform development pathways, to govern cooperatively, and to link knowledge with action.</figcaption>
 </figure>
 
 ## Selected publications
