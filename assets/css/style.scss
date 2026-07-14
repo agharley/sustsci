@@ -631,14 +631,25 @@ a:hover {
   justify-content: center;
   align-items: center;
   background: #f5f0e8;
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem;
 }
 
 .c4sd-banner img {
-  max-width: 1000px;
+  max-width: 820px;
   width: 100%;
+  max-height: 300px;
+  object-fit: contain;
   height: auto;
   display: block;
+}
+
+@media (max-width: 700px) {
+  .c4sd-banner {
+    padding: 1rem 0.75rem;
+  }
+  .c4sd-banner img {
+    max-height: 180px;
+  }
 }
 
 /* Tighter content padding for C4SD */
@@ -1369,4 +1380,24 @@ sup {
     position: static;
     max-width: 240px;
   }
+}
+
+/* Figures inside the tight (C4SD) container */
+.page-container-tight figure {
+  margin: 2rem auto;
+  max-width: 520px;
+}
+
+.page-container-tight figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.page-container-tight figcaption {
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: var(--color-text-light);
+  margin-top: 0.5rem;
+  text-align: center;
 }

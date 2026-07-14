@@ -2,66 +2,96 @@
 layout: page-banner-c4sd
 title: Capacity Building for Sustainable Development
 subtitle: The C4SD Research Project
-description: The C4SD project asks what operational capacities are needed to pursue sustainable development, and how change agents can build and maintain them. Research, seminars, and working papers.
+description: The C4SD project asks what capacities are most needed for the effective pursuit of sustainability, and how they are built and maintained. Research, seminars, and working papers.
 ---
 
-What operational skills are most important for the effective pursuit of sustainable
-development? How can change agents find and strengthen them?
+What capacities are most needed for the effective pursuit of sustainability in the face
+of the multiple crises currently facing the Anthropocene system?
 
-Sustainability science has spent decades explaining how nature and society interact.
-Explanation, though, is not the same as capability. **Capacity Building for Sustainable
-Development (C4SD)** starts from the premise that the field's next task is a practical
-one: identifying the capacities that let people actually change those interactions, and
-working out how those capacities are built and maintained over time.
+Taken together, these intertwined crises — climate, pandemics, extinction, inequity, and
+others arising from the increasingly intense interactions between nature and society —
+threaten the implicit promise of sustainability, which has emerged over recent decades as
+one of the most widely shared goals in human history: **that each generation should hand
+on to its successors whatever it takes to allow them to achieve a standard of living at
+least as good as its own, while simultaneously seeking to alleviate poverty and inequity
+within its own time.**
 
-The project combines insights from research and from real-world experience, bringing
-scholars and practitioners into direct conversation. It is led by
-[Alicia Harley]({{ '/harley/' | relative_url }}) and [William C. Clark](https://www.hks.harvard.edu/faculty/william-clark)
-at the [Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program),
-Harvard Kennedy School.
+In the Capacity Building for Sustainable Development (C4SD) research project, we argue
+that advocates for sustainable development should pay greater attention to building a set
+of strategic capacities that empower and enable actors — individuals, communities,
+organizations — to make strategic decisions and to take deliberate and collective action
+in the pursuit of sustainability. By *capacity* we mean both the intention and the ability
+to accomplish a task or achieve an outcome, or more bluntly, the ability to get stuff done.
 
-<figure>
-  <img src="{{ '/assets/images/C4SD_main_large-thumbnail.jpg' | relative_url }}" alt="Vignettes of the six capacities for sustainable development.">
-  <figcaption>Vignettes of the six capacities necessary for the pursuit of sustainable development: to promote equity, to measure progress, to adapt to shocks and surprises, to transform development pathways, to govern cooperatively, and to link knowledge with action.</figcaption>
-</figure>
+Why? Because failure to build, exercise, and improve capacity has too often resulted in a
+**missing middle** — an inability to connect widespread agreement on the goals of
+sustainable development with the scientific understanding of the dynamics of intertwined
+nature-society systems that set the stage on which those goals must be pursued.
+
+## Why now
+
+Three features of today's world make building these capacities particularly urgent.
+
+**The crises are multiplying and intensifying**, threatening the remarkable progress in
+many dimensions of well-being achieved over the last two centuries.
+
+**The threats are interconnected**, as is the nature-society system from which they
+emerge. Efforts to address them one by one become, at best, a Sisyphean nightmare of
+whack-a-mole, and often end up competing with or undermining one another.
+
+**Better assessments and models are necessary but not sufficient.** Nature-society
+interactions are complex adaptive systems in which novelty, uncertainty, and surprise are
+the norm rather than the exception. This virtually guarantees that even the most
+scientifically informed plans will eventually turn out to be incomplete, if not altogether
+wrong. Effective strategies must complement *thinking through* with *acting out* — treating
+interventions as experiments, learning from them, and course-correcting when forecasts
+inevitably go wrong.
 
 ## The six capacities
 
-Building on the framework developed in
-[Clark & Harley (2020)](https://doi.org/10.1146/annurev-environ-012420-043621), the
-project focuses on six strategic capacities. Each is necessary for the pursuit of
-sustainability. None is sufficient on its own.
+Six capacities emerged from decades of research across multiple interdisciplinary — but
+often disparate — research programs focused on what is needed to foster sustainability
+([Clark & Harley 2020](https://doi.org/10.1146/annurev-environ-012420-043621)). Taken
+together, they enable collaborative action for sustainability in the face of uncertainty.
 
-- **Capacity to promote equity** — both within and among generations
-- **Capacity to measure progress** — toward sustainable development
-- **Capacity to adapt** — development pathways, to protect human well-being in the face of shocks
-- **Capacity to transform** — unsustainable development pathways into sustainable ones
-- **Capacity to govern cooperatively** — building and maintaining collaborative relationships
-- **Capacity to link knowledge with action** — ensuring knowledge is both usable and used
+1. **Capacity to measure progress** toward sustainable development
+2. **Capacity to adapt** development pathways to protect human well-being in the face of shocks
+3. **Capacity to transform** unsustainable development pathways into sustainable ones
+4. **Capacity to promote equity** both within and among generations
+5. **Capacity to govern cooperatively** — to build and maintain collaborative relationships in pursuit of sustainability
+6. **Capacity to link knowledge with action** for sustainability
+
+Each is necessary. None is sufficient on its own. And they are interdependent: even
+well-developed capacities in one area — measurement, for example — routinely fall short
+when unsupported by capacities in others, such as governance or equity. Strategic
+integration across all six remains rare.
+
+<figure>
+  <img src="{{ '/course/images/arer-capacities.png' | relative_url }}" alt="An integrated perspective on the six capacities for sustainable development, arranged around the capacities necessary for sustainable development.">
+  <figcaption>An integrated perspective on capacities for sustainable development. Source: <a href="https://doi.org/10.1146/annurev-environ-012420-043621">Clark & Harley (2020)</a>.</figcaption>
+</figure>
 
 ## What we are learning
 
-**From research.** The six capacities are interdependent, and that interdependence is
-where much of the difficulty lies. A well-developed capacity in one area — measurement,
-say — routinely falls short when it is unsupported by others, such as governance or
-equity. Strategic integration across all six remains rare. Research itself is unevenly
-distributed across regions, sectors, and capacities, and the interactions *among* the
-capacities are the least studied of all.
+**From research.** Work on capacity building for sustainability remains unevenly
+distributed across regions, sectors, and capacities. The interactions *among* the
+capacities — how strength or weakness in one shapes the prospects for others — are
+particularly understudied.
 
-**From practice.** Practitioners have been building, testing, and improving these skills
-for decades, often without calling them capacities. Society already knows more than it
-has organized. The gains available from comparing lessons across places and sectors are
-substantial and largely unrealized — and practitioners, in turn, could draw more
-consistently on what scholarship has established.
+**From practice.** Practitioners have been building, testing, and improving these
+capacities for decades. Society already knows more than it has organized: substantial
+gains are available simply from comparing lessons across places and sectors. And
+practitioners, in turn, could draw more consistently on what scholarship has established.
+
+The C4SD project brings these two bodies of experience into direct conversation, through
+interviews with practitioners and scholars at the forefront of the work and through a
+public seminar series.
 
 ## Seminar series
 
-*Building Capacity for Sustainable Development* is a virtual seminar series bringing
-scholars and practitioners together on each of the six capacities. All sessions are
-free, open to the public, and recorded. Chaired by
-[Alicia Harley]({{ '/harley/' | relative_url }}).
-
-### Core capacity seminars
+*Building Capacity for Sustainable Development* is a virtual seminar series pairing
+scholars with practitioners on each of the six capacities. Sessions are free, open to the
+public, and recorded. Chaired by [Alicia Harley]({{ '/harley/' | relative_url }}).
 
 - **[Capacity to measure progress toward sustainable development](https://www.youtube.com/watch?v=1cYCqBiBwgg)** — Carrie Exton (OECD), Eli Fenichel (Yale), Mary Ruckelshaus (Natural Capital Project)
 - **[Capacity to adapt development pathways in the face of shocks](https://www.youtube.com/watch?v=5xtcykI5R3M)** — Carolyn Kousky (Environmental Defense Fund), Aditi Mukherji (CGIAR), Claudia Thyme (Insurance Development Forum)
@@ -70,9 +100,7 @@ free, open to the public, and recorded. Chaired by
 - **[Capacity to govern cooperatively](https://youtu.be/7jJCmSJ-qcg)** — Vanessa Adams (Level4International), Kate Gordon (California Forward), Robyn McGuckin (World Resources Institute)
 - **[Capacity to link knowledge with action](https://youtu.be/H8DR_ffFZoU)** — Connie Nshemereirwe (Africa Science Leadership Programme), David Cash (formerly Massachusetts DEP), Stacy Glass (ChemFORWARD)
 
-### Food systems seminars
-
-A companion pair of sessions applying the framework to global food systems.
+A companion pair of sessions applies the framework to global food systems:
 
 - **[Capacity to measure progress in global food systems](https://www.youtube.com/watch?v=Lmh_e21NNiA)** — Rachel Gilbert (Tufts), Leigh Winowiecki (CIFOR-ICRAF)
 - **[Capacity to advance equity in global food systems](https://www.youtube.com/watch?v=LVozh8q41Zw)** — Everlyne Nairesiae (Landesa), Jess Newman (McCain Foods), Simon Winter (Rockefeller Foundation)
@@ -81,9 +109,9 @@ A companion pair of sessions applying the framework to global food systems.
 
 ## Working papers
 
-Each seminar is grounded in a working paper synthesizing what scholarship and practice
-have established about that capacity. Together they form the foundation of a book in
-progress.
+Each seminar is grounded in a working paper reviewing the state of scholarship on that
+capacity, the history of practice, and the lessons emerging at their interface. Together
+they form the foundation of a book in progress.
 
 - [Building Capacity to Measure Sustainability](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Measurement%20Capacity_SSP%20Working%20Paper.pdf) — Working Paper 25-01
 - [Building Capacity to Adapt Development Pathways to Protect Human Well-being in the Face of Shocks](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Adaptation%20Capacity_SSP%20Working%20Paper_FINAL.pdf) — Working Paper 25-02
@@ -91,13 +119,12 @@ progress.
 - [Building Capacity to Promote Equity within and among Generations](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Equity%20Capacity_SSP%20Working%20Paper.pdf) — Working Paper 25-04
 - [Building Capacity to Govern Cooperatively in Pursuit of Sustainable Development](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Governance%20Capacity_SSP%20Working%20Paper_Final.pdf) — Working Paper 25-06
 
-<!-- NOTE: there is no published working paper on the capacity to link knowledge with
-     action. The HKS seminar page currently links the *governance* paper for that
-     session, which is an error. Add the paper here once it exists. -->
+<!-- NOTE: no working paper yet on the capacity to link knowledge with action. The HKS
+     seminar page currently links the *governance* paper for that session, in error. -->
 
-## Related
+---
 
-- [Clark, W.C. & Harley, A.G. (2020). Sustainability Science: Toward a Synthesis.](https://doi.org/10.1146/annurev-environ-012420-043621) *Annual Review of Environment and Resources* 45: 331–386.
-- [C4SD at Harvard Kennedy School](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program/capacity-building-sustainable-development)
-
-Questions about the project or the seminars? [Email Alicia Harley](mailto:alicia_harley@hks.harvard.edu).
+C4SD is led by [Alicia Harley]({{ '/harley/' | relative_url }}) and
+[William C. Clark](https://www.hks.harvard.edu/faculty/william-clark) at the
+[Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program),
+Harvard Kennedy School. Questions? [Email Alicia Harley](mailto:alicia_harley@hks.harvard.edu).
