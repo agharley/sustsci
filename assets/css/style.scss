@@ -1258,74 +1258,115 @@ sup {
 
 /* Opt-in wider container: set `wide: true` in a page's front matter */
 .page-container--wide {
-  max-width: 1040px;
+  max-width: 1100px;
+  padding: 1.25rem 2rem 2rem;
 }
 
 .page-container--wide .page-content {
   max-width: none;
+  padding: 0.5rem 0 0;
 }
 
-/* Bio: photo beside text (photo left, text right) */
-.creator-bio {
+/* Two-column bio: sticky sidebar (photo + links) beside the main text */
+.bio-layout {
   display: flex;
-  gap: 2.25rem;
+  gap: 2.75rem;
   align-items: flex-start;
-  margin-bottom: 2rem;
 }
 
-.bio-image {
-  flex: 0 0 250px;
+.bio-sidebar {
+  flex: 0 0 280px;
+  position: sticky;
+  top: 1.5rem;
 }
 
-.bio-image img {
+.bio-sidebar img {
   width: 100%;
   height: auto;
   display: block;
   border-radius: 4px;
+  margin-bottom: 1.5rem;
 }
 
-.bio-text {
+.bio-sidebar h2 {
+  font-size: 0.75rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--color-text-light);
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.bio-sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bio-sidebar li {
+  margin-bottom: 0.6rem;
+  font-size: 0.9375rem;
+  line-height: 1.45;
+}
+
+.bio-main {
   flex: 1;
   min-width: 0;
 }
 
-.bio-text p:first-child {
+.bio-main > p:first-child {
   margin-top: 0;
 }
 
-@media (max-width: 720px) {
-  .creator-bio {
-    flex-direction: column;
-    gap: 1.25rem;
-  }
-  .bio-image {
-    flex: none;
-    max-width: 220px;
-  }
+.bio-main p {
+  line-height: 1.62;
+  margin: 0 0 1.15rem;
 }
 
-/* Figures inside page content */
-.page-content figure {
-  margin: 2rem auto;
-  max-width: 620px;
+.bio-main h2 {
+  margin: 2.25rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--color-border);
 }
 
-.page-content figure img {
+.bio-main ul {
+  padding-left: 1.15rem;
+}
+
+.bio-main li {
+  margin-bottom: 0.7rem;
+  line-height: 1.55;
+  font-size: 0.9375rem;
+}
+
+/* Figure inside the bio */
+.bio-main figure {
+  margin: 1.75rem 0;
+}
+
+.bio-main figure img {
   width: 100%;
   height: auto;
   display: block;
   border-radius: 4px;
 }
 
-.page-content figcaption {
-  font-size: 0.875rem;
-  line-height: 1.55;
+.bio-main figcaption {
+  font-size: 0.8125rem;
+  line-height: 1.5;
   color: var(--color-text-light);
-  margin-top: 0.6rem;
+  margin-top: 0.5rem;
 }
 
-/* Publications list: tighter, easier to scan */
-.page-content .pubs li {
-  margin-bottom: 0.65rem;
-  line-height: 1.55;
+@media (max-width: 800px) {
+  .bio-layout {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .bio-sidebar {
+    flex: none;
+    position: static;
+    max-width: 240px;
+  }
 }
