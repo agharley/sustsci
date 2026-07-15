@@ -1593,14 +1593,33 @@ sup {
   border-radius: 6px;
   overflow: hidden;
   background: var(--color-bg);
-  text-decoration: none;
-  color: inherit;
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 
-.case-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-  transform: translateY(-2px);
+.case-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.15s ease;
+}
+
+.case-link:hover .case-thumb img {
+  opacity: 0.9;
+}
+
+.case-link:hover h3 {
+  color: var(--color-link);
+}
+
+.case-info-head {
+  padding: 1rem 1.1rem 0.25rem;
+}
+
+.case-info-head h3 {
+  margin: 0;
+}
+
+.case-info-body {
+  padding: 0 1.1rem 1.2rem;
 }
 
 .case-thumb {
@@ -1626,18 +1645,11 @@ sup {
   border-bottom: 1px solid var(--color-border);
 }
 
-.case-info {
-  padding: 1rem 1.1rem 1.2rem;
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
-.case-info h3 {
+.case-card h3 {
   font-size: 1.05rem;
   line-height: 1.35;
-  margin: 0 0 0.5rem;
   color: var(--color-heading);
+  transition: color 0.15s ease;
 }
 
 .case-desc {
