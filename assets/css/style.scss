@@ -765,6 +765,34 @@ a:hover {
   margin-top: 0;
 }
 
+/* Unit heading: "Unit X.X" eyebrow above a right-sized title */
+.course-content h1.unit-heading {
+  margin-bottom: 1.75rem;
+  line-height: 1.2;
+}
+
+.unit-heading .unit-eyebrow {
+  display: block;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-link);
+  margin-bottom: 0.5rem;
+}
+
+.unit-heading .unit-title {
+  display: block;
+  font-size: 1.9rem;
+  line-height: 1.25;
+  font-weight: 700;
+  color: var(--color-heading);
+}
+
+@media (max-width: 800px) {
+  .unit-heading .unit-title { font-size: 1.55rem; }
+}
+
 /* ==========================================================================
    COURSE LAYOUT - SIDEBAR (LEFT, Collapsible)
    ========================================================================== */
@@ -1512,4 +1540,37 @@ sup {
 /* Seminar list: title line + panelists beneath */
 .page-container-tight > p > strong > a {
   text-decoration: none;
+}
+
+/* ==========================================================================
+   C4SD SEMINAR LIST
+   ========================================================================== */
+
+.seminar-list {
+  max-width: 900px;
+  margin: 1.75rem auto 0;
+}
+
+.seminar-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.seminar-item:last-child {
+  border-bottom: none;
+}
+
+.seminar-title {
+  display: block;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.3rem;
+}
+
+.seminar-panel {
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  color: var(--color-text-light);
+  margin: 0;
 }

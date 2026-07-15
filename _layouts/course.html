@@ -163,6 +163,12 @@
 
     <!-- Main Content -->
     <main class="course-content">
+      {% if page.unit %}
+      <h1 class="unit-heading">
+        <span class="unit-eyebrow">{{ page.unit }}</span>
+        <span class="unit-title">{{ page.unit_title }}</span>
+      </h1>
+      {% endif %}
       {{ content }}
       
       {% if page.pdf %}

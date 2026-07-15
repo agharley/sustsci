@@ -3,9 +3,9 @@ layout: course
 title: "Unit 1.5: Integrated Assessment of Resource Trends"
 pdf: unit-1-5.pdf
 description: "Are we consuming too much? Methods for aggregating and assessing whether development trends are sustainable."
+unit: "Unit 1.5"
+unit_title: "Integrated assessment of resource trends: Are we consuming too much?"
 ---
-
-# Unit 1.5 Integrated assessment of resource trends: Are we consuming too much?
 
 Previous Units argued that resource stocks -- natural and anthropogenic -- can usefully be thought of as the ultimate determinants of sustainable development. And that progress in the pursuit of sustainability goals – cast in terms of non-declining and inclusive social well-being -- should be measured by tracking changes in the aggregate social value or wealth represented by the bundle of all relevant resource stocks.
 

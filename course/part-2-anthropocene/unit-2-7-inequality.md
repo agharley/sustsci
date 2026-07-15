@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.7: Inequality"
 pdf: unit-2-7.pdf
 description: "How inequality arises and persists in complex adaptive systems, and why it challenges sustainable development equity goals."
+unit: "Unit 2.7"
+unit_title: "Inequality: How does inequality arise and persist in complex adaptive systems?"
 ---
-
-# Unit 2.7 Inequality: How does inequality arise and persist in complex adaptive systems?
 
 Rising inequality has emerged as a defining challenge of our era. After declining for much of the 20th century, within-country inequality has surged since 1980 in nearly all regions. Today, the richest 1% of the world's population owns nearly half of all global wealth, while the poorest half of humanity owns just 2%. This extreme inequality directly challenges the foundational vision of sustainable development—the commitment to equitable improvements in well-being both within and across generations.
 

@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.8: Synthesis"
 pdf: unit-2-8.pdf
 description: "Integrating elements and relationships of nature-society systems into a comprehensive framework for sustainability analysis."
+unit: "Unit 2.8"
+unit_title: "Synthesis: How do interactions among the elements and relationships of nature-society systems shape pathways of development in the Anthropocene?"
 ---
-
-# Unit 2.8 Synthesis: How do interactions among the elements and relationships of nature-society systems shape pathways of development in the Anthropocene?
 
 In Unit 1.1, we introduced a simple framework for analyzing nature-society systems. Throughout the rest of Part I of the course, we've explored individual elements of this simple framework in detail: goals for sustainable development (1.2) and resources that constitute the productive base that people can draw on to achieve those goals (1.3-1.5). In Part 2 of the course, we moved beyond this simple framework, exploring system dynamics including stocks and flows (2.1-2.2), nonlinearities and tipping points (2.3), horizontal connections linking places (2.4), vertical connections across levels (2.5), and actors with their institutions and power (2.6). In this unit, we will synthesize the concepts we have studied in part 2 of the course into a more complex version of the framework we introduced in Unit 1.1. This (evolving) framework is not meant to predict outcomes or serve as a grand theory of everything, rather it highlights what researchers have found useful to examine when studying how nature-society interactions unfold in different contexts. In other words, we use the framework as a helpful ‘checklist’ of elements and relationships worth considering when analyzing nature-society interactions—a first step to asking how we might transform nature-society systems onto more sustainable development pathways (something we will turn to in Part 3 of the course).
 

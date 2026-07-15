@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.4: Horizontal Connections"
 pdf: unit-2-4.pdf
 description: "How linkages among places—pollution externalities, trade, migration—affect the pursuit of sustainability across regions."
+unit: "Unit 2.4"
+unit_title: "Horizontal Connections: How do linkages among places – e.g. pollution externalities, trade, and migration – affect the pursuit of sustainability?"
 ---
-
-# Unit 2.4 Horizontal Connections: How do linkages among places – e.g. pollution externalities, trade, and migration – affect the pursuit of sustainability?
 
 The course so far has emphasized two perspectives on sustainable development: one broadly global (e.g., the resource trends of Part I), the other focused on particular places (e.g., our teaching cases for London, Alaska, and Appalachia). With this unit we seek to bridge these two perspectives, acknowledging that local places are connected with one another on a global stage.
 

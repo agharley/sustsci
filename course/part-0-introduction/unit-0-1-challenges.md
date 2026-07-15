@@ -3,9 +3,9 @@ layout: course
 title: "Unit 0.1: The Challenge of Sustainable Development"
 pdf: unit-0-1.pdf
 description: "Exploring the challenge of sustainable development: how human well-being can be improved without degrading the planets life support systems."
+unit: "Unit 0.1"
+unit_title: "The challenge of sustainable development: How can human well-being be improved without degrading the planet’s life support systems?"
 ---
-
-# Unit 0.1 The challenge of sustainable development: How can human well-being be improved without degrading the planet’s life support systems?
 
 The growing concern for making development sustainable has been a response to tensions implicit in two global trends: rapidly increasing human well-being and rapidly increasing environmental degradation. These two trends, taken together, have come to be the perplexing and alarming characterization of what many are now calling the Anthropocene epoch of the planet’s history.
 

@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.3: Complexity"
 pdf: unit-2-3.pdf
 description: "How non-linearities, multiple regimes, and tipping points emerge from the complexity of nature-society systems."
+unit: "Unit 2.3"
+unit_title: "Complexity: How are the dynamics of nature-society systems shaped by their complexity and the non-linearities, multiple regimes and tipping points that emerge from it?"
 ---
-
-# Unit 2.3 Complexity: How are the dynamics of nature-society systems shaped by their complexity and the non-linearities, multiple regimes and tipping points that emerge from it?
 
 Nature-society interactions constitute not only adaptive systems, as discussed in the previous unit, but complex adaptive systems. Three fundamental attributes of nature-society systems have been shown to make them complex adaptive systems rather than just adaptive ones (see Levin et al. 2013 in “Digging Deeper…”):
 

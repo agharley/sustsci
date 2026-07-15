@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.2: Stocks and Flows"
 pdf: unit-2-2.pdf
 description: "How stocks, flows, and feedbacks—fundamental properties of systems—shape the dynamics of nature-society interactions."
+unit: "Unit 2.2"
+unit_title: "Stocks and Flows: How do these fundamental properties of nature-society interactions shape their dynamics as adaptive systems?"
 ---
-
-# Unit 2.2 Stocks and Flows: How do these fundamental properties of nature-society interactions shape their dynamics as adaptive systems?
 
 Part I of the course introduced stocks of resources as the fundamental determinants of sustainable development, and some of the flows through which those stocks are depleted or enhanced by human activity. We began Part II of the course in the previous unit, arguing that stocks, flows, and feedbacks among them are fundamental components of any system, and that seeing them as such can help us understand the dynamics of the nature-society systems central to sustainable development.
 

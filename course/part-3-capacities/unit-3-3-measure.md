@@ -3,9 +3,9 @@ layout: course
 title: "Unit 3.3: Capacity to Measure Progress"
 pdf: unit-3-3.pdf
 description: "What do we know from science and practice about measuring progress toward sustainability goals?"
+unit: "Unit 3.3"
+unit_title: "Capacity to Measure Progress: What do we know from science and practice about what is needed to measure progress toward sustainability?"
 ---
-
-# Unit 3.3 Capacity to Measure Progress: What do we know from science and practice about what is needed to measure progress toward sustainability?
 
 How sustainable development is measured inevitably guides how societies pursue their sustainability goals, yet building coherent measurement systems has proven to be one of the field's most persistent challenges. While the overarching goals of sustainable development have been clearly articulated since the 1980s, conceptually coherent measurement systems for tracking progress toward those goals have lagged significantly behind. This Unit explores what sustainability science has learned about measuring sustainable development—both the conceptual foundations for measurement and the practical challenges of building measurement capacity at scale. Such capacity is essential not only for tracking whether we're making progress, but also for use in evaluating whether proposed interventions are likely to foster sustainable development, signaling when improvements in one context come at the expense of others, and providing a basis for negotiation when sustainability challenges cross boundaries of space and time.
 

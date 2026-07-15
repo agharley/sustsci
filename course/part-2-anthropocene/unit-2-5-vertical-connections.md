@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.5: Vertical Connections"
 pdf: unit-2-5.pdf
 description: "How novelty and change propagate across hierarchical levels of the Anthropocene system, from local to global scales."
+unit: "Unit 2.5"
+unit_title: "Vertical Connections: How does the ubiquitous generation and propagation of novelty in the Anthropocene System affect the pursuit of sustainable development?"
 ---
-
-# Unit 2.5 Vertical Connections: How does the ubiquitous generation and propagation of novelty in the Anthropocene System affect the pursuit of sustainable development?
 
 The previous unit reviewed the ways in which particular places are connected with one another, focusing on horizontal linkages among places at the same hierarchical level (households, firms, communities, states, regions, etc.). We argued that while horizontal connections are ubiquitous in nature-society systems, they are often incomplete, resulting in persistent heterogeneity and individuality of different places in the Anthropocene System, with profound implications for system dynamics.
 

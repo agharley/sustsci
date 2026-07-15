@@ -3,9 +3,9 @@ layout: course
 title: "Unit 3.2: Capacity to Promote Equity"
 pdf: unit-3-2.pdf
 description: "How can we promote equitable distribution of resources within and between generations despite power imbalances?"
+unit: "Unit 3.2"
+unit_title: "Capacity to Promote Equity: How can we promote equitable distribution of the fruits of the earth's resources within and between generations?"
 ---
-
-# Unit 3.2 Capacity to Promote Equity: How can we promote equitable distribution of the fruits of the earth's resources within and between generations?
 
 Equity —the fair distribution of resources within and between generations—stands at the heart of sustainable development. The Brundtland Commission made this clear in 1987, and subsequent international deliberations have reaffirmed this perspective: alleviating poverty among today's most vulnerable while ensuring that efforts to improve well-being today do not undermine the prospects of those seeking it tomorrow.
 

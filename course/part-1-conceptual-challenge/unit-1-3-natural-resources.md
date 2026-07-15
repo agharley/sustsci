@@ -3,9 +3,9 @@ layout: course
 title: "Unit 1.3: Natural Resources"
 pdf: unit-1-3.pdf
 description: "How do natural resources—land, water, materials, and life—shape the prospects for sustainable development?"
+unit: "Unit 1.3"
+unit_title: "Resources for sustainable development I: How do natural resources shape the prospects for sustainable development?"
 ---
-
-# Unit 1.3 Resources for sustainable development I: How do natural resources shape the prospects for sustainable development?
 
 The ultimate determinants of humanity’s ability to achieve sustainability goals are the stocks of resources afforded us by the global nature-society system. The central argument is that the current stock of resources constitutes the “fuel in the tank” or “capital assets” on which each generation can draw to generate a flow of goods and services it can consume in pursuit of its own goals of well-being. The amount of resource or asset stocks we have on hand, like the fuel we might have in our gas tank, thus partially determines our future options. The sustainability question then becomes one of whether each generation is managing the depletions of, and additions to, its stock of resources in such a way that it can hand on an aggregate stock to its successors that is of at least equal value for supporting inclusive well-being as was the stock that generation inherited from its parents.
 

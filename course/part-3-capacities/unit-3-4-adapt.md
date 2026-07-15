@@ -3,9 +3,9 @@ layout: course
 title: "Unit 3.4: Capacity to Adapt"
 pdf: unit-3-4.pdf
 description: "How can societies mobilize resources to cope with unexpected shocks and changing conditions on development pathways?"
+unit: "Unit 3.4"
+unit_title: "Capacity to Adapt: How can societies mobilize resources to cope with unexpected shocks and changing conditions?"
 ---
-
-# Unit 3.4 Capacity to Adapt: How can societies mobilize resources to cope with unexpected shocks and changing conditions?
 
 Adaptation has long been an important focus of research and practice in sustainable development. We define it as the ability to keep a system operating within its current regime and thus on something like its current development pathway in the face of potentially disruptive change. This distinguishes adaptation from transformation (see Unit 3.7), which involves shifting a system into a fundamentally different regime. From a systems perspective, adaptation often involves strengthening feedbacks that are "dampening" or "balancing" to maintain stability, while transformation requires "reinforcing" or "amplifying" feedbacks that push toward new states.
 

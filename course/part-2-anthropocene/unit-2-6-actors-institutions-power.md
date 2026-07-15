@@ -3,9 +3,9 @@ layout: course
 title: "Unit 2.6: Actors, Institutions and Power"
 pdf: unit-2-6.pdf
 description: "How the unequal distribution of power among actors and institutional arrangements affects the pursuit of sustainability."
+unit: "Unit 2.6"
+unit_title: "Actors, Institutions and Power: How does the unequal distribution of power among actors affect the pursuit of sustainability?"
 ---
-
-# Unit 2.6 Actors, Institutions and Power: How does the unequal distribution of power among actors affect the pursuit of sustainability?
 
 The pursuit of sustainable development is a massively redistributional agenda and thus often faces opposition from powerful incumbent interests intent on maintaining the status quo. Understanding development pathways in nature-society systems—with an eye towards fostering more sustainable pathways—requires examining the actors who shape these systems, the institutional arrangements that govern their interactions, and the power dynamics that determine whose interests prevail.
 

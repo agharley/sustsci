@@ -3,11 +3,9 @@ layout: course
 title: "Unit 1.1: A Framework for Sustainability Analysis"
 pdf: unit-1-1.pdf
 description: "Introducing a framework for harnessing science to understand the complexities of social-environmental systems and sustainable development."
+unit: "Unit 1.1"
+unit_title: "A Framework for Sustainability Analysis: How can we harness science to understand the complexities of the Anthropocene System?"
 ---
-
-
-
-# Unit 1.1 A Framework for Sustainability Analysis: How can we harness science to understand the complexities of the Anthropocene System?
 
 The variety of complex interactions between human development and the natural environment make it difficult to identify actions that support the pursuit of sustainability. A growing body of scientific research, however, can help. Part I of this course develops a simple framework you can use for harnessing that research for sustainability analysis. This Unit provides an overview of that framework. Subsequent units expand on it by introducing additional elements and relationships that science has shown to be important in understanding social-environmental systems and shaping decisions in pursuit of sustainability.
 

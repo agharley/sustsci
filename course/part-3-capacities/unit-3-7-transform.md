@@ -3,9 +3,9 @@ layout: course
 title: "Unit 3.7: Capacity to Transform"
 pdf: unit-3-7.pdf
 description: "How can we move beyond isolated actions to shift whole sectors or regions onto more sustainable development pathways?"
+unit: "Unit 3.7"
+unit_title: "Capacity to transform unstainable development pathways: How can we move beyond isolated actions to move whole sectors or regions to more sustainable development pathways?"
 ---
-
-# Unit 3.7 Capacity to transform unstainable development pathways: How can we move beyond isolated actions to move whole sectors or regions to more sustainable development pathways?
 
 Transformative capacity represents the culmination of our exploration of capacities for sustainable development. Of all the capacities, transformation uniquely requires orchestrating multiple other capacities toward a fundamental restructuring of development pathways—from unsustainable to sustainable ones. Transformations are shifts from one regime and its associated development pathways to another. Unlike adaptation (Unit 3.4) which seeks to maintain systems within their current regimes, often through dampening feedbacks, transformation involves fundamentally restructuring systems often through reinforcing or amplifying feedbacks that push toward new states. Sustainability transformations are shifts from regimes associated with unsustainable pathways to alternative regimes where development pathways are provisionally more sustainable—such as shifts from fossil fuel-based to renewable energy systems, or from industrial agriculture to agroecological food systems.
 
