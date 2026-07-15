@@ -1619,7 +1619,23 @@ sup {
 }
 
 .case-info-body {
-  padding: 0 1.1rem 1.2rem;
+  padding: 0.5rem 1.1rem 1.2rem;
+}
+
+.case-author {
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  margin: 0 0 0.6rem;
+}
+
+.case-author a {
+  color: var(--color-text-light);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.case-author a:hover {
+  color: var(--color-link);
 }
 
 .case-thumb {

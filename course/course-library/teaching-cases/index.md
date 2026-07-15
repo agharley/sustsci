@@ -22,9 +22,10 @@ written since that book was published.
   <div class="case-card">
     <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-alaska.pdf' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/alaska.jpg' | relative_url }}" alt="Salmon fishing sailboat at Clark's Point, Bristol Bay, Alaska"></div>
-      <div class="case-info-head"><h3>The Alaska Salmon Fishery</h3></div>
+      <div class="case-info-head"><h3>The Alaskan Salmon Fishery: Managing Resources in a Globalizing World</h3></div>
     </a>
     <div class="case-info-body">
+      <p class="case-author"><a href="https://www.michaelathompson.net/">Michaela Thompson</a></p>
       <p class="case-desc">The Alaskan salmon fishery is often held up as a model of successful, sustainable resource management — one of the few to have avoided catastrophic collapse. This case looks at the harder story beneath that reputation: how a place long seen as a land of inexhaustible resources has navigated globalization, consumption demands, and the long-term challenge of managing extraction.</p>
       <span class="case-credit">Alaska State Library, John E. Thwaites Photograph Collection, J.E. Thwaites, P18-118</span>
     </div>
@@ -33,9 +34,10 @@ written since that book was published.
   <div class="case-card">
     <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-appalachia.pdf' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/appalachia.jpg' | relative_url }}" alt="Child coal miners with mine mules in a West Virginia coal mine, 1908"></div>
-      <div class="case-info-head"><h3>Appalachia: The Struggle for Sustainable Development in a Mineral-Rich Land</h3></div>
+      <div class="case-info-head"><h3>The Struggle for Sustainable Development in Appalachia’s Mineral Rich Mountains</h3></div>
     </a>
     <div class="case-info-body">
+      <p class="case-author">Alicia G. Harley and Hannah Wexner</p>
       <p class="case-desc">This teaching case examines the paradox of poverty amidst plenty, exploring the co-evolving history of nature and society in Central Appalachia from the Native American period to the present. It is a history of inequality and the maldistribution of power — but also a history of resistance and struggle.</p>
       <span class="case-credit">Library of Congress</span>
     </div>
@@ -47,6 +49,7 @@ written since that book was published.
       <div class="case-info-head"><h3>London: A Multi-Century Struggle for Sustainable Development in an Urban Environment</h3></div>
     </a>
     <div class="case-info-body">
+      <p class="case-author">William C. Clark</p>
       <p class="case-desc">Key episodes in the two-thousand-year history of the City of London and its immediate hinterlands — an empirical puzzle for studying how a city and the places around it change over the very long run.</p>
       <span class="case-credit">The Great Fire of London (anon., c. 1675), via Wikimedia Commons — public domain</span>
     </div>
@@ -55,9 +58,10 @@ written since that book was published.
   <div class="case-card">
     <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-london-addendum.pdf' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/london-addendum.jpg' | relative_url }}" alt="West India Docks, London, 1810 — ships from the colonial trade"></div>
-      <div class="case-info-head"><h3>London: Looking Outward (an addendum to the London case)</h3></div>
+      <div class="case-info-head"><h3>Looking Outward: Refocusing Attention on London’s Hinterland</h3></div>
     </a>
     <div class="case-info-body">
+      <p class="case-author">Alicia G. Harley</p>
       <p class="case-desc">A short companion to the London case, about the distant places and resources London relied on as it grew.</p>
       <span class="case-credit">West India Docks (1810), The Met Collection — public domain</span>
     </div>
