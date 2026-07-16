@@ -24,7 +24,7 @@ Hasell, J., Rohenkohl, B., Arriagada, P., Ortiz-Ospina, E., & Roser, M. (2023). 
 > Interactive visualizations and analysis of how global income and wealth inequality have evolved over time.
 
 **b) Read and Explore:**  
-Return to the NetLogo guide you first explored in Unit 2.2 on Stocks and Flows (i.e. Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. Available [HERE](../course-library/netlogo-guide-v2.docx) in the course library.  
+Return to the NetLogo guide you first explored in Unit 2.2 on Stocks and Flows (i.e. Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. Available [HERE](../course-library/learning-games/netlogo-guide-v2.pdf) in the course library.  
 > Review Section 1 “Basic access” and explore Section 5 “NetLogo wealth distribution model.”
 
 **c) Read:**  

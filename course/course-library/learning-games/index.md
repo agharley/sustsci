@@ -13,8 +13,8 @@ Learning-by-doing is a core component of our strategy for this course.   This se
 - **NetLogo Models**
   - 📝 [NetLogo Guide (.pdf)](netlogo-guide-v2.pdf)
   - 📝 [NetLogo Stocks & Flows Guide (.pdf)](netlogo-stocks-flows.pdf)
-  - 🧩 [NetLogo Stock & Flows Model (.nlogo)](Netlogo%20Stock...lows%20v6.nlogo)
-  - 🧩 [NetLogo Wealth Model (.nlogo)](Netlogo%20Wealt...ted%20v3b.nlogo)
+  - 🧩 [NetLogo Stock & Flows Model (.nlogo)](Netlogo%20Stocks%20and%20Flows%20v6.nlogo)
+  - 🧩 [NetLogo Wealth Model (.nlogo)](Netlogo%20Wealth%20Distribution%20Edited%20v3b.nlogo)
 
 - **Paper Folding & Nonlinearity**
   - 📝 [Paper Folding & Nonlinearity Guide (.pdf)](paper-folding-non-linearity.pdf)

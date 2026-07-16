@@ -44,7 +44,7 @@ Read Ch. 3 “Dynamics of social-environmental systems,” pp. 63 (start with �
 > This reading introduces foundational concepts of complexity, regimes, and tipping points in social-environmental systems.
 
 **b) Experiment:**  
-Conduct the paper-folding experiment in non-linear systems described in Clark, W. C., & Harley, A. G. (2025). Non-linear behavior in paper folding. Harvard University. (Unpublished MS, available in Course Library).
+Conduct the paper-folding experiment in non-linear systems described in Clark, W. C., & Harley, A. G. (2025). Non-linear behavior in paper folding. Harvard University. (Unpublished MS, available in Course Library [HERE](../course-library/learning-games/paper-folding-non-linearity.pdf)).
 
 > The experiment offers hands-on experience with non-linear responses in a simple physical system.
 
