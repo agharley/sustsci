@@ -1682,6 +1682,10 @@ sup {
   opacity: 0.8;
 }
 
+.credit-label {
+  font-weight: 600;
+}
+
 @media (max-width: 720px) {
   .case-grid { grid-template-columns: 1fr; }
 }
