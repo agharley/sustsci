@@ -1677,7 +1677,9 @@ sup {
 }
 
 .case-credit {
+  display: block;
   font-size: 0.75rem;
+  line-height: 1.35;
   color: var(--color-text-light);
   opacity: 0.8;
 }
