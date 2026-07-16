@@ -38,7 +38,7 @@ Clark, W. C., & Harley, A. G. (2020). Framework for Research in Sustainability S
 > This video provides an overview of the Framework for Research in Sustainability Science introduced in reading ‘a’ above. It was recorded as part of the introduction to a workshop on sustainability science held by the National Academy of Sciences. The slides used in the presentation are available here.
 
 **c) Review as needed:**  
-Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World. Harvard University. Available [HERE](../teaching-cases/case-alaska.pdf) in the teaching case folder.
+Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World. Harvard University. Available [HERE](../course-library/teaching-cases/case-alaska.pdf) in the teaching case folder.
 
 ---
 

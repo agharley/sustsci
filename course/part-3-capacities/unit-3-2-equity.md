@@ -47,7 +47,7 @@ Our Children's Trust. (n.d.). Juliana v. United States. Retrieved October 12, 20
 Harley, A., & Wexner, H. (2022). The Struggle for Sustainable Development in Appalachia's Mineral Rich Mountains. Sustainability Science Program Working Paper, 2022(1), 65. (Available in Course Library).  
 Read Sections 10-11 (pages 34-47), focusing on how citizen activism confronted the three dimensions of coal company power.  
 > Building on your analysis of power in Appalachia ([unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power/)), these sections examine how marginalized communities have employed empowerment strategies to challenge entrenched interests, from the Pittston strike to contemporary environmental justice movements.  
-> The full PDF is available to download [HERE](../../course-library/teaching-cases/case-appalachia.pdf).
+> The full PDF is available to download [HERE](../course-library/teaching-cases/case-appalachia.pdf).
 
 ---
 
@@ -65,7 +65,7 @@ Read Sections 10-11 (pages 34-47), focusing on how citizen activism confronted t
 
 **d) Read:**  
 Harley, A. G., & Clark, W. C. (2025). [Building Capacity to Promote Equity with and among Generations: Lessons from scholarship and practice](https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/programs/sustsci/files/Equity%20Capacity_SSP%20Working%20Paper.pdf) (Nos. 25—04; Sustainability Science Program Working Paper, pp. 1—19). Harvard Kennedy School of Government.  
-Also available in the course library [HERE](../../course-library/readings/capacity-equity.pdf).  
+Also available in the course library [HERE](../course-library/readings/capacity-equity.pdf).  
 > This working paper provides important background on equity-building strategies across different contexts globally. While academic in style, it offers a useful synthesis of lessons from practice that will inform your analysis of the specific cases.
 
 **e) Read:**  

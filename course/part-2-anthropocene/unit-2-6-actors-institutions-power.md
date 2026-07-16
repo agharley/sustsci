@@ -33,11 +33,11 @@ These three dimensions of power reinforce one another to shape development pathw
 To prepare for this unit, please:
 
 **a) Read:**  
-Harley, A. G. (2025). [A Framework for Thinking about Actors, Institutions, and Power in Nature-Society Systems](../course-library/framework-actors-inst-power.pdf). Harvard University. (Available in Course Library)
+Harley, A. G. (2025). [A Framework for Thinking about Actors, Institutions, and Power in Nature-Society Systems](../course-library/readings/framework-actors-inst-power.pdf). Harvard University. (Available in Course Library)
 
 **b) Read:**  
 Harley, A., & Wexner, H. (2022). [The Struggle for Sustainable Development in Appalachia’s Mineral Rich Mountains](https://www.hks.harvard.edu/sites/default/files/184_AWP_final.pdf). Sustainability Science Program Working Paper, 2022(1), 65.  
-Available [HERE](../teaching-cases/case-appalachia.pdf) in the teaching case folder.
+Available [HERE](../course-library/teaching-cases/case-appalachia.pdf) in the teaching case folder.
 
 ---
 
