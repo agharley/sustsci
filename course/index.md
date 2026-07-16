@@ -104,7 +104,6 @@ The course seeks to understand how these ills can be remedied through collaborat
     <a href="course-library/teaching-cases/">Teaching Cases</a>
     <a href="course-library/student-cases/">Student Cases</a>
     <a href="course-library/learning-games/">Learning Games</a>
-    <a href="course-library/readings/">Readings</a>
     <a href="course-library/unit-guides/">Unit Guides</a>
   </div>
 </div>
