@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "(In)equality ≠ (In)equity: Why the Distinction Matters for Sustainability"
+title: "Inequality vs. Inequity: The Difference and Why It Matters for Sustainability"
 date: 2026-01-05
 author: Alicia G. Harley
-description: "The words 'inequality' and 'inequity' have become tangled in ways that obscure rather than clarify. This post untangles the sources of that confusion and proposes a cleaner framework: describe the distribution first, evaluate its fairness second."
+description: "Inequality and inequity aren't the same thing: one describes a distribution, the other judges whether it's fair. Here's the difference and why it matters."
 keywords: inequality, inequity, sustainability science, environmental justice, theories of justice, equity frameworks, Rawls, Sen, capabilities approach, intergenerational equity
 categories: [sustainability-theory]
 tags: [inequality, inequity, justice, equity, sustainability-science, methodology]
