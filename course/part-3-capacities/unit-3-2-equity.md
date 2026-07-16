@@ -69,11 +69,11 @@ Also available in the course library [HERE](../course-library/readings/capacity-
 > This working paper provides important background on equity-building strategies across different contexts globally. While academic in style, it offers a useful synthesis of lessons from practice that will inform your analysis of the specific cases.
 
 **e) Read:**  
-Chenoweth, E. (2021). Civil resistance: What everyone needs to know. Oxford University Press.  
+Chenoweth, E. (2021). Civil resistance: What everyone needs to know. Oxford University Press. ([publisher](https://global.oup.com/academic/product/civil-resistance-9780190244408))  
 > Analyzes what makes social movements succeed or fail, with implications for building sustained capacity for equity promotion through collective action.
 
 **f) Read:**  
-Boston, J. (2017). Governing for the Future: Designing Democratic Institutions for a Better Tomorrow (First edition). Emerald.  
+Boston, J. (2017). Governing for the Future: Designing Democratic Institutions for a Better Tomorrow (First edition). Emerald. ([publisher](https://www.emerald.com/books/edited-volume/11728/Governing-for-the-Future-Designing-Democratic))  
 > Examines how democratic institutions can be designed to protect future generations' interests, addressing the challenge of "presentist bias" in policy-making and proposing concrete mechanisms for intergenerational equity.
 
 **g) Explore:**  

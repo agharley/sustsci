@@ -59,7 +59,7 @@ Bennett, H. (2017, November 2). Have psychologists found a better way to persuad
 > Accessible introduction to social dominance theory and its implications for sustainability.
 
 **g) Read:**  
-Chancel, L. (2020). Unsustainable inequalities: Social justice and the environment. The Belknap Press of Harvard University Press.  
+Chancel, L. (2020). Unsustainable inequalities: Social justice and the environment. The Belknap Press of Harvard University Press. ([publisher](https://www.hup.harvard.edu/books/9780674984653))  
 > Book-length analysis explicitly connecting inequality to environmental challenges and sustainability—showing how social and ecological inequalities reinforce each other.
 
 **h) Read:**  

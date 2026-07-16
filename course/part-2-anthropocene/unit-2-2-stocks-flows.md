@@ -65,8 +65,8 @@ What simplifications made in the NetLogo climate model might lead you to draw co
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **e) Continue to browse the two classic primers in general systems thinking and modeling originally listed in the “Digging Deeper” section of Unit 2.1:**  
-- Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.  
-- Sterman, J. (2000). *Business dynamics: Systems thinking and modeling for a complex world*. Irwin/McGraw-Hill.
+- Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing. ([publisher](https://www.chelseagreen.com/product/thinking-in-systems/))  
+- Sterman, J. (2000). *Business dynamics: Systems thinking and modeling for a complex world*. Irwin/McGraw-Hill. ([publisher](https://www.mheducation.com/highered/product/business-dynamics-sterman.html))
 
 **f) The NetLogo modeling environment introduced in this unit is much more thoroughly developed in:**  
 Wilensky, U., & Rand, W. (2015). *An introduction to agent-based modeling: Modeling natural, social, and engineered complex systems with NetLogo*. The MIT Press. [https://www.intro-to-abm.com/](https://www.intro-to-abm.com/)  

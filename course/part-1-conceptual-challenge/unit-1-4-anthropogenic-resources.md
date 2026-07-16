@@ -48,7 +48,7 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 
 > This web resource provides data and context on trust and social capital.
 
-- Knowledge capital: Hess, C., & Ostrom, E. (2007). Introduction: An overview of the knowledge commons. In C. Hess & E. Ostrom (Eds.), Understanding Knowledge as a Commons: From Theory to Practice (pp. 3–26). MIT Press.  
+- Knowledge capital: Hess, C., & Ostrom, E. (2007). Introduction: An overview of the knowledge commons. In C. Hess & E. Ostrom (Eds.), Understanding Knowledge as a Commons: From Theory to Practice (pp. 3–26). MIT Press. ([publisher](https://direct.mit.edu/books/edited-volume/3807/Understanding-Knowledge-as-a-CommonsFrom-Theory-to))  
 
 > An introduction to the concept of knowledge capital and how it is managed as a commons.
 
@@ -144,7 +144,7 @@ Edelman. (2024). Why we study Trust. Edelman. [https://www.edelman.com/trust](ht
 ### Knowledge capital
 
 **l) Read:**  
-Conway, G., & Waage, J. (2010). Science and Innovation for Development. UK Collaborative on Development Sciences (UKCDS).  
+Conway, G., & Waage, J. (2010). Science and Innovation for Development. UK Collaborative on Development Sciences (UKCDS). ([free full text](https://www.gov.uk/research-for-development-outputs/science-and-innovation-for-development))  
 
 > This work is dated, but still provides one of the best overall perspectives on the subject.
 

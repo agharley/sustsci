@@ -61,5 +61,5 @@ More extended readings on dynamics of nature-society interactions in the Anthrop
 
 **f) Read:**  
 Here are two classic primers in general systems thinking and modeling that will repay any time you can give to them:  
-- Meadows, D. H. (2008). Thinking in systems: A primer. Chelsea Green Publishing.  
-- Sterman, J. (2000). Business dynamics: Systems thinking and modeling for a complex world. Irwin/McGraw-Hill.
+- Meadows, D. H. (2008). Thinking in systems: A primer. Chelsea Green Publishing. ([publisher](https://www.chelseagreen.com/product/thinking-in-systems/))  
+- Sterman, J. (2000). Business dynamics: Systems thinking and modeling for a complex world. Irwin/McGraw-Hill. ([publisher](https://www.mheducation.com/highered/product/business-dynamics-sterman.html))

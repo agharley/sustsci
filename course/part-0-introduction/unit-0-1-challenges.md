@@ -30,11 +30,11 @@ Steiner, A. (Director). (2020, December). Humanity’s planet-shaping powers—A
 > This is a TED Talk providing insight into humanity's impact on the planet and the future of sustainable development.
 
 **c) Read:**  
-Deaton, A. (2013). The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton University Press. Read Chapter 1: “The wellbeing of the world” (pp. 23-56).  
+Deaton, A. (2013). The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton University Press. ([publisher](https://press.princeton.edu/books/hardcover/9780691153544/the-great-escape)) Read Chapter 1: “The wellbeing of the world” (pp. 23-56).  
 > This reading examines global improvements in health and wealth, and the continuing challenges of inequality.
 
 **d) Read:**  
-McNeill, J. R. (with Engelke, P.). (2016). The Great Acceleration: An Environmental History of the Anthropocene Since 1945. Belknap Press of Harvard University Press. Read “Introduction” (pp. 1-6) and “Conclusion” (pp. 207-211).  
+McNeill, J. R. (with Engelke, P.). (2016). The Great Acceleration: An Environmental History of the Anthropocene Since 1945. Belknap Press of Harvard University Press. ([publisher](https://www.hup.harvard.edu/books/9780674545038)) Read “Introduction” (pp. 1-6) and “Conclusion” (pp. 207-211).  
 > This text investigates the environmental consequences of human activity since 1945.
 
 **e) Explore:**  
@@ -59,9 +59,9 @@ The multigenerational, global challenge of sustainable development takes on diff
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **f) Read further:**  
-Deaton, A. (2013). The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton University Press.  
+Deaton, A. (2013). The Great Escape: Health, Wealth, and the Origins of Inequality. Princeton University Press. ([publisher](https://press.princeton.edu/books/hardcover/9780691153544/the-great-escape))  
 > Additional chapters provide further depth on health, wealth, and inequality globally.
 
 **g) Read further:**  
-McNeill, J. R. (with Engelke, P.). (2016). The Great Acceleration: An Environmental History of the Anthropocene Since 1945. Belknap Press of Harvard University Press.  
+McNeill, J. R. (with Engelke, P.). (2016). The Great Acceleration: An Environmental History of the Anthropocene Since 1945. Belknap Press of Harvard University Press. ([publisher](https://www.hup.harvard.edu/books/9780674545038))  
 > More chapters explore the historical and environmental background of the Anthropocene.

@@ -61,11 +61,11 @@ For the case study of sustainable development that you chose to pursue throughou
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **b) Read:**  
-Johnson, A. E., & Wilkinson, K. K. (Eds.). (2020). All we can save: Truth, courage, and solutions for the climate crisis. One World.  
+Johnson, A. E., & Wilkinson, K. K. (Eds.). (2020). All we can save: Truth, courage, and solutions for the climate crisis. One World. ([publisher](https://www.penguinrandomhouse.com/books/645808/all-we-can-save-by-edited-by-ayana-elizabeth-johnson-and-katharine-k-wilkinson/))  
 > This anthology showcases diverse forms of sustainability leadership through essays, poetry, and art by women leaders across multiple fields—from regenerative agriculture to climate finance to community organizing.
 
 **c) Read:**  
-Solnit, R. (2025). No straight road takes you there: Essays for uneven terrain. Haymarket Books.  
+Solnit, R. (2025). No straight road takes you there: Essays for uneven terrain. Haymarket Books. ([publisher](https://www.haymarketbooks.org/books/2517-no-straight-road-takes-you-there))  
 > Solnit examines how transformative change toward sustainability actually happens—often indirectly, unpredictably, and through accumulated efforts whose impacts only become visible later. Her insights about persistence through apparent failure apply directly to the long-term work of sustainability leadership.
 
 ---

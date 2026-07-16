@@ -56,7 +56,7 @@ Available [HERE](../course-library/teaching-cases/case-appalachia.pdf) in the te
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **c) Read:**  
-Gaventa, J. (1980). Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. University of Illinois Press.  
+Gaventa, J. (1980). Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. University of Illinois Press. ([publisher](https://www.press.uillinois.edu/books/?id=p009853))  
 > This foundational text develops the three-dimensional framework of power through a detailed study of the same Appalachian coal region examined in our case study.
 
 **d) Read:**  

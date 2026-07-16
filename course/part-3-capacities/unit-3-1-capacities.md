@@ -31,7 +31,7 @@ Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis
 > This review synthesizes two decades of sustainability science research and introduces the six-capacities framework that structures Part III of this course. You began this paper in Unit 2.8, where you read pages 331-342 covering the Framework for Research in Sustainability Science. Now complete the paper by reading pages 343-372, which detail the six capacities for sustainable development that will guide Part III of this course.
 
 **b) Read:**  
-Sen, A. (2000). Development as Freedom (1st Anchor Books ed.). Anchor Books.  
+Sen, A. (2000). Development as Freedom (1st Anchor Books ed.). Anchor Books. ([publisher](https://global.oup.com/academic/product/development-as-freedom-9780198297581))  
 > This foundational work introduces Amartya Sen's influential “capabilities” approach, which focuses on expanding individual human capabilities and freedoms. While you read reflect on the differences between how Sen conceptualizes capabilities and how capacities are conceptualized in the readings for this unit.
 
 **c) Explore:**  

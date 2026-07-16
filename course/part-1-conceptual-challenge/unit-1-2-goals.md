@@ -71,11 +71,11 @@ Lintsen, H., Veraart, F., Smits, J.-P., & Grin, J. (2018). Well-being, Sustainab
 > A multidisciplinary investigation of how contemporary peoples’ views of the good life are changing over the century time scales relevant to sustainability. (Note: We hope it is easier to read for those fluent in the original Dutch).
 
 **f) Read:**  
-Kamau, M. (with Chasek, P. S., & O’Connor, D. C.). (2018). Transforming multilateral diplomacy: The inside story of the Sustainable Development Goals. Routledge, Taylor & Francis Group.  
+Kamau, M. (with Chasek, P. S., & O’Connor, D. C.). (2018). Transforming multilateral diplomacy: The inside story of the Sustainable Development Goals. Routledge, Taylor & Francis Group. ([publisher](https://www.routledge.com/Transforming-Multilateral-Diplomacy-The-Inside-Story-of-the-Sustainable/Kamau-Chasek-OConnor/p/book/9780813350868))  
 > An insider's account of the political negotiations behind the UN SDGs, revealing how diverse nations, despite different visions of well-being and sustainability, negotiated the messy compromises needed to create shared global goals.
 
 **g) Read:**  
-Taylor, C. (2024). Cosmic Connections: Poetry in the Age of Disenchantment (1st ed.). Harvard University Press.  
+Taylor, C. (2024). Cosmic Connections: Poetry in the Age of Disenchantment (1st ed.). Harvard University Press. ([publisher](https://www.hup.harvard.edu/books/9780674296084))  
 > Most accounts of well-being or the good life acknowledge that some people (and perhaps humanity more broadly) may include among the constituents important to them not only material ones such as access to housing and water but also more spiritual or subjective ones such as the feeling that one is connected with nature. This work explores how peoples’ experience of such connectedness was gradually lost through the rise of instrumentalist views through impact of the Enlightenment, and how artists of the Romantic era sought to reconnect people and nature. The book can be tough going, but the reward is a final chapter in large part devoted to the writings of Annie Dillard (e.g. her *Pilgrim at Tinker Creek* (1998)). Harper Perennial.
 
 ---
