@@ -46,15 +46,15 @@ Hull, V., & Liu, J. (2018). Telecoupling: A new frontier for global sustainabili
 > This paper discusses many kinds of horizontal connections that matter for sustainable development. Extract from it and your own reflections a checklist of what may be moving from one place to another.
 
 **c) Read:**  
-Harley, A. G. (2021). Looking outward: Refocusing attention on London’s hinterland (Addendum to London: A multi-century struggle for sustainable development in an urban environment) (Course Library for Sustainable Development Course). Harvard University. (Available in Course Library).  
+Harley, A. G. (2021). Looking outward: Refocusing attention on London’s hinterland (Addendum to London: A multi-century struggle for sustainable development in an urban environment) (Course Library for Sustainable Development Course). Harvard University. (Available in Course Library [HERE](../course-library/teaching-cases/case-london-addendum.pdf)).  
 > This paper extends the London case study to explore the city’s “horizontal connections” with the rest of the world, especially resources London drew from around the world to support its growth and recovery.
 
 **d) Review:**  
-Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World. Harvard University. (Available in Course Library pp. 1–25).  
+Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World. Harvard University. (Available in Course Library [HERE](../course-library/teaching-cases/case-alaska.pdf) pp. 1–25).  
 > This case study looks at connections between Alaskan salmon fisheries and the wider world.
 
 **e) Explore:**  
-Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. (Available in the Course Library). Review Section 1 “Basic access” and explore Section 4 “NetLogo fire with connections model” (NetLogo’s title for this model is “Fire simple extension 3”).  
+Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. (Available in the Course Library [HERE](../course-library/learning-games/netlogo-guide-v2.pdf)). Review Section 1 “Basic access” and explore Section 4 “NetLogo fire with connections model” (NetLogo’s title for this model is “Fire simple extension 3”).  
 > The model allows you to explore how more complex connections change system behavior.
 
 ---

@@ -26,7 +26,7 @@ Dasgupta, P., Managi, S., & Kumar, P. (2021). The inclusive wealth index and sus
 > This paper presents the inclusive wealth index approach to sustainability, showing how comprehensive accounting for resources can support sustainability goals.
 
 **c) Review as needed:**  
-Case study for the Alaska Salmon Fishery introduced in Unit 1.1 ([Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World](course-library/case-alaska.md)). Harvard University.  
+Case study for the Alaska Salmon Fishery introduced in Unit 1.1 ([Thompson, M. (2021). The Alaskan Salmon Fishery: Managing Resources in a Globalizing World](../course-library/teaching-cases/case-alaska.pdf)). Harvard University.  
 > This case provides an applied example for considering sustainability assessment approaches.
 
 ---

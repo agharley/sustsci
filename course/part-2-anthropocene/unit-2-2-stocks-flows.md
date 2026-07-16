@@ -35,11 +35,11 @@ Sterman, J. (2002). System Dynamics: Systems Thinking and Modeling for a Complex
 > A foundational overview of systems thinking approaches and the pitfalls of linear thinking in complex systems.
 
 **c) Explore:**  
-Clark, W. C., & Harley, A. G. (2025). *NetLogo Guide for Sustainable Development Course*. Harvard University. (Unpublished manuscript, available in the Course Library). Explore Sections 1 “Basic access” and 2 “NetLogo stocks and flows model.”  
+Clark, W. C., & Harley, A. G. (2025). *NetLogo Guide for Sustainable Development Course*. Harvard University. (Unpublished manuscript, available in the Course Library [HERE](../course-library/learning-games/netlogo-guide-v2.pdf)). Explore Sections 1 “Basic access” and 2 “NetLogo stocks and flows model.”  
 > These sections offer hands-on guidance for using NetLogo to model stocks and flows in sustainability contexts.
 
 **d) Read:**  
-Iler, S., & Clark, W. (2025). *NetLogo: Exploring Stocks and Flows for Climate Change*. Harvard University. 1 pg. (Unpublished manuscript, available in the Course Library).  
+Iler, S., & Clark, W. (2025). *NetLogo: Exploring Stocks and Flows for Climate Change*. Harvard University. 1 pg. (Unpublished manuscript, available in the Course Library [HERE](../course-library/learning-games/netlogo-stocks-flows.pdf)).  
 > A brief walkthrough of the NetLogo stocks and flows model, focusing on climate change dynamics.
 
 ---

@@ -56,7 +56,7 @@ Matson, P. A., Clark, W. C., & Andersson, K. P. (2016). Pursuing Sustainability:
 > Examines the Montreal Protocol as a case of international innovation and vertical connectivity in sustainability.
 
 **e) Review as needed:**  
-Case studies for London and Alaska introduced earlier in the course and available in the Course Library.
+Case studies for [London](../course-library/teaching-cases/case-london.pdf) and [Alaska](../course-library/teaching-cases/case-alaska.pdf) introduced earlier in the course and available in the Course Library.
 
 ---
 

@@ -49,7 +49,7 @@ Conduct the paper-folding experiment in non-linear systems described in Clark, W
 > The experiment offers hands-on experience with non-linear responses in a simple physical system.
 
 **c) Explore:**  
-Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. (Unpublished ms, available in the Course Library).  
+Clark, W. C., & Harley, A. G. (2025). NetLogo Guide for Sustainable Development Course. Harvard University. (Unpublished ms, available in the Course Library [HERE](../course-library/learning-games/netlogo-guide-v2.pdf)).  
 For this Unit, reread Section 1 and explore Section 3 “NetLogo fire model.”  
 With this material, we continue our use of simple models to develop an appreciation of how complex and often unexpected system dynamics can arise from very simple system structures. This fire model captures common elements of the spread of disease, rumors, or innovations.
 

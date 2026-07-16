@@ -38,7 +38,7 @@ Sterman, J., & King, A. (2011). Introduction to Fishbanks (Nos. 11–133; p. 2).
 > This is a two-page summary of essential preparation for the in-class gaming session including the decisions you will need to make in each round of the simulation.
 
 **d) Play:**  
-Please play the Fishbanks simulation solo before class to get the feel of the game. See additional details about how to do this here: Fishbank preparation for Students (in) [Fishbank Instructions for Students](fishbank-instructions-students.md). Then play the Fishbanks simulation as part of a class. (Note: Before you can play as a class, an instructor (or other leader for your class) will have to do some set up, and then run the game. Instructions for the instructor(s) are here: Fishbank preparation for Instructors (in) [Fishbank Instructions for Instructors](fishbank-instructions-instructor.md).  
+Please play the Fishbanks simulation solo before class to get the feel of the game. See additional details about how to do this here: Fishbank preparation for Students (in) [Fishbank Instructions for Students](../course-library/learning-games/fishbanks-students.pdf). Then play the Fishbanks simulation as part of a class. (Note: Before you can play as a class, an instructor (or other leader for your class) will have to do some set up, and then run the game. Instructions for the instructor(s) are here: Fishbank preparation for Instructors (in) [Fishbank Instructions for Instructors](../course-library/learning-games/fishbanks-instructors.pdf).  
 > You must play the game individually before participating in the group simulation. All instructions for both students and instructors are provided in the linked documents.
 
 ---
