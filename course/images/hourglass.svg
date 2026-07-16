@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" role="img" aria-labelledby="hg-title hg-desc">
+  <title id="hg-title">The hourglass method for structuring an interview</title>
+  <desc id="hg-desc">A line drawing of an hourglass. The wide top bulb is labeled "Start broad", the narrow neck is labeled "Get more detailed", and the wide bottom bulb is labeled "Zoom out again".</desc>
+
+  <!-- top and bottom frame bars -->
+  <rect x="128" y="28" width="184" height="12" rx="6" fill="none" stroke="#2c3e50" stroke-width="3"/>
+  <rect x="128" y="340" width="184" height="12" rx="6" fill="none" stroke="#2c3e50" stroke-width="3"/>
+
+  <!-- sand in top bulb -->
+  <path d="M 163 120
+           C 172 158, 200 180, 220 190
+           C 240 180, 268 158, 277 120
+           Z"
+        fill="#2874a6" opacity="0.18"/>
+
+  <!-- falling stream -->
+  <line x1="220" y1="190" x2="220" y2="308" stroke="#2874a6" stroke-width="2.5" opacity="0.45" stroke-dasharray="2 5" stroke-linecap="round"/>
+
+  <!-- sand pile in bottom bulb -->
+  <path d="M 176 328
+           C 196 322, 208 296, 220 288
+           C 232 296, 244 322, 264 328
+           Z"
+        fill="#2874a6" opacity="0.18"/>
+
+  <!-- glass: left side -->
+  <path d="M 146 40
+           C 146 120, 196 160, 214 186
+           C 217 190, 217 192, 214 196
+           C 196 222, 146 260, 146 340"
+        fill="none" stroke="#2c3e50" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- glass: right side -->
+  <path d="M 294 40
+           C 294 120, 244 160, 226 186
+           C 223 190, 223 192, 226 196
+           C 244 222, 294 260, 294 340"
+        fill="none" stroke="#2c3e50" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- leader lines -->
+  <line x1="300" y1="95"  x2="352" y2="95"  stroke="#5a6c7d" stroke-width="1.5"/>
+  <line x1="234" y1="191" x2="352" y2="191" stroke="#5a6c7d" stroke-width="1.5"/>
+  <line x1="300" y1="290" x2="352" y2="290" stroke="#5a6c7d" stroke-width="1.5"/>
+
+  <!-- labels -->
+  <g font-family="'Source Sans 3', -apple-system, sans-serif" fill="#2c3e50">
+    <text x="362" y="90"  font-size="21" font-weight="600">Start broad</text>
+    <text x="362" y="112" font-size="15" fill="#5a6c7d">open-ended questions; let them tell their story</text>
+
+    <text x="362" y="186" font-size="21" font-weight="600">Get more detailed</text>
+    <text x="362" y="208" font-size="15" fill="#5a6c7d">probe your core research questions</text>
+
+    <text x="362" y="285" font-size="21" font-weight="600">Zoom out again</text>
+    <text x="362" y="307" font-size="15" fill="#5a6c7d">broad closing questions; clarify; snowball</text>
+  </g>
+</svg>
