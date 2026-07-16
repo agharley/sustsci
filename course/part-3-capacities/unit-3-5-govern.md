@@ -44,7 +44,7 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **b) Read:**  
-Hardin, G. (1968). The tragedy of the commons. Science, 162, 1243–1248.  
+Hardin, G. (1968). The tragedy of the commons. Science, 162, 1243–1248. ([DOI](https://doi.org/10.1126/science.162.3859.1243))  
 > Influential paper arguing that multiple actors using a resource commons inevitably leads to overexploitation. Important historical context for understanding why Ostrom's work showing alternative pathways was so revolutionary.
 
 **c) Read:**  

@@ -36,15 +36,15 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 
 **b) Read the following brief overviews of the principal anthropogenic resources:**  
 
-- Human capital: Kurzgesagt – In a Nutshell (Producer). (2016). Overpopulation – The Human Explosion Explained [Video recording]. https://www.youtube.com/watch?v=QsBT5EQt348  
+- Human capital: Kurzgesagt – In a Nutshell (Producer). (2016). Overpopulation – The Human Explosion Explained [Video recording]. [https://www.youtube.com/watch?v=QsBT5EQt348](https://www.youtube.com/watch?v=QsBT5EQt348)  
 
 > This video explores population and the dynamics of human capital over time.
 
-- Manufactured capital: Krausmann, F., Wiedenhofer, D., Lauk, C., Haas, W., Tanikawa, H., Fishman, T., Miatto, A., Schandl, H., & Haberl, H. (2017). Global socioeconomic material stocks rise 23-fold over the 20th century and require half of annual resource use. Proceedings of the National Academy of Sciences, 114(8), 1880–1885. https://doi.org/10.1073/pnas.1613773114  
+- Manufactured capital: Krausmann, F., Wiedenhofer, D., Lauk, C., Haas, W., Tanikawa, H., Fishman, T., Miatto, A., Schandl, H., & Haberl, H. (2017). Global socioeconomic material stocks rise 23-fold over the 20th century and require half of annual resource use. Proceedings of the National Academy of Sciences, 114(8), 1880–1885. [https://doi.org/10.1073/pnas.1613773114](https://doi.org/10.1073/pnas.1613773114)  
 
 > This study quantifies the growth of manufactured capital and its impact on global resource use.
 
-- Social capital: Ortiz-Ospina, E., Roser, M., & Arriagada, P. (2024). Trust. Our World in Data. https://ourworldindata.org/trust  
+- Social capital: Ortiz-Ospina, E., Roser, M., & Arriagada, P. (2024). Trust. Our World in Data. [https://ourworldindata.org/trust](https://ourworldindata.org/trust)  
 
 > This web resource provides data and context on trust and social capital.
 
@@ -91,51 +91,51 @@ Think about anthropogenic resources in your own case. First, create a simple tab
 ### Human capital
 
 **c) Read:**  
-Lundborg, P., Nordin, M., & Rooth, D. O. (2018). The intergenerational transmission of human capital: The role of skills and health. Journal of Population Economics, 31(4), Article 4. https://doi.org/10.1007/s00148-018-0702-3  
+Lundborg, P., Nordin, M., & Rooth, D. O. (2018). The intergenerational transmission of human capital: The role of skills and health. Journal of Population Economics, 31(4), Article 4. [https://doi.org/10.1007/s00148-018-0702-3](https://doi.org/10.1007/s00148-018-0702-3)  
 
 > Especially important perspective on how what you get from your parents’ generation shapes your prospects for well-being.
 
 **d) Read:**  
-Jumbri, I. A., Ikeda, S., & Managi, S. (2018). Heterogeneous global health stock and growth: Quantitative evidence from 140 countries, 1990–2100. Archives of Public Health, 76(1), 81. https://doi.org/10.1186/s13690-018-0327-8  
+Jumbri, I. A., Ikeda, S., & Managi, S. (2018). Heterogeneous global health stock and growth: Quantitative evidence from 140 countries, 1990–2100. Archives of Public Health, 76(1), 81. [https://doi.org/10.1186/s13690-018-0327-8](https://doi.org/10.1186/s13690-018-0327-8)  
 
 ---
 
 ### Manufactured capital
 
 **e) Read:**  
-Weisz, H., Suh, S., & Graedel, T. E. (2015). Industrial ecology: The role of manufactured capital in sustainability. Proceedings of the National Academy of Sciences, 112(20), 6260–6264. https://doi.org/10.1073/pnas.1506532112  
+Weisz, H., Suh, S., & Graedel, T. E. (2015). Industrial ecology: The role of manufactured capital in sustainability. Proceedings of the National Academy of Sciences, 112(20), 6260–6264. [https://doi.org/10.1073/pnas.1506532112](https://doi.org/10.1073/pnas.1506532112)  
 
 > A survey of how the physical stuff that society produces does (and does not) affect its prospects for sustainable development.
 
 **f) Read:**  
-Södersten, C.-J., Wood, R., & Wiedmann, T. (2020). The capital load of global material footprints. Resources, Conservation and Recycling, 158, 104811. https://doi.org/10.1016/j.resconrec.2020.104811  
+Södersten, C.-J., Wood, R., & Wiedmann, T. (2020). The capital load of global material footprints. Resources, Conservation and Recycling, 158, 104811. [https://doi.org/10.1016/j.resconrec.2020.104811](https://doi.org/10.1016/j.resconrec.2020.104811)  
 
 > A valuable effort to link two approaches to accounting for the role of manufactured capital in sustainable development: asset stocks and material footprints.
 
 **g) Read:**  
-Krausmann, F., Schandl, H., Eisenmenger, N., Giljum, S., & Jackson, T. (2017). Material flow accounting: Measuring global material use for sustainable development. Annual Review of Environment and Resources, 42(1), 647–675. https://doi.org/10.1146/annurev-environ-102016-060726  
+Krausmann, F., Schandl, H., Eisenmenger, N., Giljum, S., & Jackson, T. (2017). Material flow accounting: Measuring global material use for sustainable development. Annual Review of Environment and Resources, 42(1), 647–675. [https://doi.org/10.1146/annurev-environ-102016-060726](https://doi.org/10.1146/annurev-environ-102016-060726)  
 
 ---
 
 ### Social capital
 
 **h) Read:**  
-Dasgupta, P. (2021). The economics of biodiversity (The Dasgupta Review). HM Treasury. https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review  
+Dasgupta, P. (2021). The economics of biodiversity (The Dasgupta Review). HM Treasury. [https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review)  
 
 > Especially relevant is the chapter on “Laws and norms as social institutions” (Ch. 6, pp 167-187).
 
 **i) Read:**  
-Hamilton, K. E., Helliwell, J. F., & Woolcock, M. (2016). Social capital, trust, and well-being in the evaluation of wealth (No. WPS7707; pp. 1–23). The World Bank. http://documents.worldbank.org/curated/en/249031468195550873/Social-capital-trust-and-well-being-in-the-evaluation-of-wealth  
+Hamilton, K. E., Helliwell, J. F., & Woolcock, M. (2016). Social capital, trust, and well-being in the evaluation of wealth (No. WPS7707; pp. 1–23). The World Bank. [http://documents.worldbank.org/curated/en/249031468195550873/Social-capital-trust-and-well-being-in-the-evaluation-of-wealth](http://documents.worldbank.org/curated/en/249031468195550873/Social-capital-trust-and-well-being-in-the-evaluation-of-wealth)  
 
 > A seminal paper on the links among well-being, trust, and social capital.
 
 **j) Read:**  
-Schlager, E., & Ostrom, E. (1992). Property-Rights Regimes and Natural Resources: A Conceptual Analysis. Land Economics, 68(3), Article 3. https://doi.org/10.2307/3146375  
+Schlager, E., & Ostrom, E. (1992). Property-Rights Regimes and Natural Resources: A Conceptual Analysis. Land Economics, 68(3), Article 3. [https://doi.org/10.2307/3146375](https://doi.org/10.2307/3146375)  
 
 > This reading is especially interesting in light of our experience playing Fishbanks. It studies in detail different varieties of property rights regimes or design (institutional arrangements) and the impact of different property rights regimes on the sustainability of fisheries management in a lobster fishery in Maine.
 
 **k) Read:**  
-Edelman. (2024). Why we study Trust. Edelman. https://www.edelman.com/trust  
+Edelman. (2024). Why we study Trust. Edelman. [https://www.edelman.com/trust](https://www.edelman.com/trust)  
 
 > Read the current “Trust barometer report” and other links on this page to see how strategies for monitoring and building trust have become a part of good business.
 
@@ -149,11 +149,11 @@ Conway, G., & Waage, J. (2010). Science and Innovation for Development. UK Colla
 > This work is dated, but still provides one of the best overall perspectives on the subject.
 
 **m) Read:**  
-Anadon, L. D., Chan, G., Harley, A. G., Matus, K., Moon, S., Murthy, S. L., & Clark, W. C. (2016). Making technological innovation work for sustainable development. Proceedings of the National Academy of Sciences, 113(35), 9682–9690. https://doi.org/10.1073/pnas.1525004113  
+Anadon, L. D., Chan, G., Harley, A. G., Matus, K., Moon, S., Murthy, S. L., & Clark, W. C. (2016). Making technological innovation work for sustainable development. Proceedings of the National Academy of Sciences, 113(35), 9682–9690. [https://doi.org/10.1073/pnas.1525004113](https://doi.org/10.1073/pnas.1525004113)  
 
 > Synthesis of a major project digging into the multiple processes from invention to retirement that go into the making of innovations that serve the public good.
 
 **n) Read:**  
-Roser, M. (2024). Our world in data. https://ourworldindata.org/  
+Roser, M. (2024). Our world in data. [https://ourworldindata.org/](https://ourworldindata.org/)  
 
 > The amazing Our World in Data website has many different datasets that help us understand current trends in knowledge capital. Explore the website “Topics” on “Education and Knowledge” and on “Innovation and Technological Change” to find datasets that address some aspect of knowledge capital you are interested in. Think about whether the data being reported is a stock or a flow measurement for knowledge capital.

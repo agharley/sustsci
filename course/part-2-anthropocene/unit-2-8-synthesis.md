@@ -30,11 +30,11 @@ The pathways of development emerging from these elements and relationships are s
 To prepare for this unit, please:
 
 **a) Read:**  
-Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45, 331–386. https://doi.org/10.1146/annurev-environ-012420-043621  
+Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45, 331–386. [https://doi.org/10.1146/annurev-environ-012420-043621](https://doi.org/10.1146/annurev-environ-012420-043621)  
 > In this review paper we detail our Framework for Research in Sustainability Science (figure 1 above). For this unit, please read pages 331-342 in detail as they are foundational to synthesizing what you have learned thus far in this course and will prepare you well for moving forward into Part 3 of the course. We will read the rest of the paper in the next Unit as we begin to explore the capacities necessary to shift nature-society systems from unsustainable to sustainable pathways of development.
 
 **b) Watch:**  
-Clark, W. C., & Harley, A. G. (2020). Framework for Research in Sustainability Science (video presentation 15 mins). In National Academies of Sciences, Engineering and Medicine (Ed.), Progress Challenges and Opportunities for Sustainability Science A Workshop (p. 15 mins.). National Academies of Science (USA). https://scholar.harvard.edu/files/wclark/files/framework_for_research_in_sustainability_science_nas.mp4  
+Clark, W. C., & Harley, A. G. (2020). Framework for Research in Sustainability Science (video presentation 15 mins). In National Academies of Sciences, Engineering and Medicine (Ed.), Progress Challenges and Opportunities for Sustainability Science A Workshop (p. 15 mins.). National Academies of Science (USA). [https://scholar.harvard.edu/files/wclark/files/framework_for_research_in_sustainability_science_nas.mp4](https://scholar.harvard.edu/files/wclark/files/framework_for_research_in_sustainability_science_nas.mp4)  
 > This video provides an overview of the Framework for Research in Sustainability Science introduced in reading ‘a’ above. It was recorded as part of the introduction to a workshop on sustainability science held by the National Academy of Sciences. The slides used in the presentation are available here.
 
 **c) Review as needed:**  
@@ -66,11 +66,11 @@ c. How might climate-driven shifts affect different communities' inclusive wealt
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **d) Read:**  
-Meyfroidt, P., Roy Chowdhury, R., de Bremond, A., Ellis, E. C., Erb, K.-H., Filatova, T., Garrett, R. D., Grove, J. M., Heinimann, A., Kuemmerle, T., Kull, C. A., Lambin, E. F., Landon, Y., le Polain de Waroux, Y., Messerli, P., Müller, D., Nielsen, J. Ø., Peterson, G. D., Rodriguez García, V., … Verburg, P. H. (2018). Middle-range theories of land system change. Global Environmental Change, 53, 52–67. https://doi.org/10.1016/j.gloenvcha.2018.08.006  
+Meyfroidt, P., Roy Chowdhury, R., de Bremond, A., Ellis, E. C., Erb, K.-H., Filatova, T., Garrett, R. D., Grove, J. M., Heinimann, A., Kuemmerle, T., Kull, C. A., Lambin, E. F., Landon, Y., le Polain de Waroux, Y., Messerli, P., Müller, D., Nielsen, J. Ø., Peterson, G. D., Rodriguez García, V., … Verburg, P. H. (2018). Middle-range theories of land system change. Global Environmental Change, 53, 52–67. [https://doi.org/10.1016/j.gloenvcha.2018.08.006](https://doi.org/10.1016/j.gloenvcha.2018.08.006)  
 > Both of the ‘digging deeper’ papers assigned for this unit address deep questions of the use theories and frameworks in sustainability science. They are meant for students wishing to reflect not just on the synthetic framework we present here, but also on broader questions of types of theories and frameworks that are useful for those interested in furthering the cause of sustainable development. The first paper by Meyfroidt et al. explores how to develop theories that bridge highly context-dependent cases and universal principles—a central challenge in applying frameworks to real-world sustainability problems. The authors discuss different approaches to theorizing about nature-society systems at intermediate levels of abstraction.
 
 **e) Read:**  
-Schlüter, M., Caniglia, G., Orach, K., Bodin, Ö., Magliocca, N., Meyfroidt, P., & Reyers, B. (2022). Why care about theories? Innovative ways of theorizing in sustainability science. Current Opinion in Environmental Sustainability, 54, 101154. https://doi.org/10.1016/j.cosust.2022.101154  
+Schlüter, M., Caniglia, G., Orach, K., Bodin, Ö., Magliocca, N., Meyfroidt, P., & Reyers, B. (2022). Why care about theories? Innovative ways of theorizing in sustainability science. Current Opinion in Environmental Sustainability, 54, 101154. [https://doi.org/10.1016/j.cosust.2022.101154](https://doi.org/10.1016/j.cosust.2022.101154)  
 > The second paper by Schlüter et al. examines how different research approaches—from frameworks to models to empirical studies—can be integrated to better understand the complex causal relationships in nature-society systems. It provides valuable perspective on how the framework presented in this unit relates to other tools for sustainability analysis.
 
 ---

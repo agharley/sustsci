@@ -23,11 +23,11 @@ Read “…” (pp. 52-57, end of first sentence).
 > We will continue to use the Matson et al. book to keep the “big picture” of the pursuit of sustainability in the foreground as we dive into particular topics throughout the course. The material covered in the readings assigned here provides an introduction to how and why “systems thinking” is essential for understanding the dynamics of nature-society systems, and for evaluating the likely consequences of interventions intended to guide those dynamics toward sustainability.
 
 **b) Watch:**  
-Sweeney, L. B. (Director). (n.d.). In a world of systems [YouTube]. Donella Meadows Institute. https://youtu.be/A_BtS008J0k (9 mins.)  
+Sweeney, L. B. (Director). (n.d.). In a world of systems [YouTube]. Donella Meadows Institute. [https://youtu.be/A_BtS008J0k](https://youtu.be/A_BtS008J0k) (9 mins.)  
 > This short video, based on the teachings of the late systems thinking guru Donella Meadows, provides a whimsical and accessible but deep introduction to the topic.
 
 **c) Read:**  
-Sterman, J. (2002). System Dynamics: Systems Thinking and Modeling for a Complex World [Working Paper]. Massachusetts Institute of Technology. Engineering Systems Division. https://dspace.mit.edu/handle/1721.1/102741  
+Sterman, J. (2002). System Dynamics: Systems Thinking and Modeling for a Complex World [Working Paper]. Massachusetts Institute of Technology. Engineering Systems Division. [https://dspace.mit.edu/handle/1721.1/102741](https://dspace.mit.edu/handle/1721.1/102741)  
 > MIT’s Jay Forrester and John Sterman pioneered the application of systems thinking to analysis of complex systems and policies for their management in the 2nd half of the 20th Century. Their motivation was the blunders they found their colleagues and students making in extrapolating linear thinking and single-cause/single-effect analysis to complex real world problems. Their initial applications were to urban design and business management, but later applications extended into the realms of resource management (Sterman is author of the Fishbanks game we explored earlier in the course), climate change and sustainability more broadly. The first sections of this working paper provide an introduction to their approach. Subsequent units of the course will pick up on later sections and applications.
 
 **d) Review:**  

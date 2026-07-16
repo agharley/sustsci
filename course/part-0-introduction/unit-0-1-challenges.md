@@ -38,7 +38,7 @@ McNeill, J. R. (with Engelke, P.). (2016). The Great Acceleration: An Environmen
 > This text investigates the environmental consequences of human activity since 1945.
 
 **e) Explore:**  
-Roser, M. (2024). Our world in data. https://ourworldindata.org/  
+Roser, M. (2024). Our world in data. [https://ourworldindata.org/](https://ourworldindata.org/)  
 > This is an excellent web site with up-to-date trends and analysis. Pick a couple of the environmental trends and a couple of the social trends mentioned in the other readings for this unit and explore them on the “Our World...” web site (see study question I and II.).
 
 ---

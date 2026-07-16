@@ -20,7 +20,7 @@ Research identifies two key mechanisms that reinforce emergent inequalities. Fir
 To prepare for this unit, please:
 
 **a) Explore:**  
-Hasell, J., Rohenkohl, B., Arriagada, P., Ortiz-Ospina, E., & Roser, M. (2023). Economic Inequality. Our World in Data. https://ourworldindata.org/economic-inequality  
+Hasell, J., Rohenkohl, B., Arriagada, P., Ortiz-Ospina, E., & Roser, M. (2023). Economic Inequality. Our World in Data. [https://ourworldindata.org/economic-inequality](https://ourworldindata.org/economic-inequality)  
 > Interactive visualizations and analysis of how global income and wealth inequality have evolved over time.
 
 **b) Read and Explore:**  
@@ -28,10 +28,10 @@ Return to the NetLogo guide you first explored in Unit 2.2 on Stocks and Flows (
 > Review Section 1 “Basic access” and explore Section 5 “NetLogo wealth distribution model.”
 
 **c) Read:**  
-Milanovic, B. (2024). The three eras of global inequality, 1820–2020 with the focus on the past thirty years. World Development, 177, 106516. https://doi.org/10.1016/j.worlddev.2023.106516
+Milanovic, B. (2024). The three eras of global inequality, 1820–2020 with the focus on the past thirty years. World Development, 177, 106516. [https://doi.org/10.1016/j.worlddev.2023.106516](https://doi.org/10.1016/j.worlddev.2023.106516)
 
 **d) Read:**  
-Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. Proceedings of the National Academy of Sciences, 114(50), 13154–13157. https://doi.org/10.1073/pnas.1706412114  
+Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. Proceedings of the National Academy of Sciences, 114(50), 13154–13157. [https://doi.org/10.1073/pnas.1706412114](https://doi.org/10.1073/pnas.1706412114)  
 > Empirical evidence that inequality is a fundamental pattern in both natural and social systems.
 
 ---
@@ -51,11 +51,11 @@ Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Ine
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **e) Read:**  
-Milfont, T. L., Bain, P. G., Kashima, Y., Corral-Verdugo, V., Pasquali, C., Johansson, L.-O., Guan, Y., Gouveia, V. V., Garðarsdóttir, R. B., Doron, G., Bilewicz, M., Utsugi, A., Aragones, J. I., Steg, L., Soland, M., Park, J., Otto, S., Demarque, C., Wagner, C., … Einarsdóttir, G. (2018). On the relation between social dominance orientation and environmentalism: A 25-nation study. Social Psychological and Personality Science, 9(7), 802–814. https://doi.org/10.1177/1948550617722832  
+Milfont, T. L., Bain, P. G., Kashima, Y., Corral-Verdugo, V., Pasquali, C., Johansson, L.-O., Guan, Y., Gouveia, V. V., Garðarsdóttir, R. B., Doron, G., Bilewicz, M., Utsugi, A., Aragones, J. I., Steg, L., Soland, M., Park, J., Otto, S., Demarque, C., Wagner, C., … Einarsdóttir, G. (2018). On the relation between social dominance orientation and environmentalism: A 25-nation study. Social Psychological and Personality Science, 9(7), 802–814. [https://doi.org/10.1177/1948550617722832](https://doi.org/10.1177/1948550617722832)  
 > Academic research showing that more unequal societies tend to value environmental protection less than more equal societies, revealing links between psychological preferences for hierarchy and sustainability challenges.
 
 **f) Read:**  
-Bennett, H. (2017, November 2). Have psychologists found a better way to persuade people to save the planet? The Guardian. https://www.theguardian.com/inequality/2017/nov/02/psychologists-better-way-persuade-people-to-save-planet-environment  
+Bennett, H. (2017, November 2). Have psychologists found a better way to persuade people to save the planet? The Guardian. [https://www.theguardian.com/inequality/2017/nov/02/psychologists-better-way-persuade-people-to-save-planet-environment](https://www.theguardian.com/inequality/2017/nov/02/psychologists-better-way-persuade-people-to-save-planet-environment)  
 > Accessible introduction to social dominance theory and its implications for sustainability.
 
 **g) Read:**  
@@ -63,5 +63,5 @@ Chancel, L. (2020). Unsustainable inequalities: Social justice and the environme
 > Book-length analysis explicitly connecting inequality to environmental challenges and sustainability—showing how social and ecological inequalities reinforce each other.
 
 **h) Read:**  
-Zucman, G. (2019). Global wealth inequality. Annual Review of Economics, 11(1), 109–138. https://doi.org/10.1146/annurev-economics-080218-025852  
+Zucman, G. (2019). Global wealth inequality. Annual Review of Economics, 11(1), 109–138. [https://doi.org/10.1146/annurev-economics-080218-025852](https://doi.org/10.1146/annurev-economics-080218-025852)  
 > Accessible review article synthesizing research on wealth inequality patterns and mechanisms globally.

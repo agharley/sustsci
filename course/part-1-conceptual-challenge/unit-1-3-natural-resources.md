@@ -29,7 +29,7 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 > An introduction to resources (here called “assets”) as the determinants of well-being, and an overview of some of the natural resources most relevant to the pursuit of sustainability. And a fuller version of the Nepal case introduced in Unit 0.1.
 
 **b) Read:**  
-United Nations Environment Programme. (2024). Global Resources Outlook 2024: Bend the Trend – Pathways to a liveable planet as resource use spikes. International Resource Panel. https://www.resourcepanel.org/reports/global-resources-outlook-2024.  
+United Nations Environment Programme. (2024). Global Resources Outlook 2024: Bend the Trend – Pathways to a liveable planet as resource use spikes. International Resource Panel. [https://www.resourcepanel.org/reports/global-resources-outlook-2024](https://www.resourcepanel.org/reports/global-resources-outlook-2024).  
 > The “Summary for Policy Makers” of this massive report can be accessed from the main page listed here. In that Summary, read for this unit pp. 9-18. (We draw on the Summary’s prescriptions for action, pp. 19-29, later in the course). This work summarizes the role of natural resources (land, water and materials) in sustainable development: how they contribute to “provisioning” the food, built environment, mobility and energy that shape social well-being, trends in how their stocks are changing as a result of human use, and what the prospects are for bending those trends in the pursuit of sustainability. (The unfortunate title – which implies that all resources relevant to sustainability are from nature – is symptomatic of the disciplinary silos that still plague sustainability studies. The next unit addresses the complementary anthropogenic resources missing here).
 
 ---
@@ -56,7 +56,7 @@ Your case: Consider the sustainability challenge you're following throughout thi
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **c) Read:**  
-Dasgupta, P. (2021). The economics of biodiversity: The Dasgupta Review. https://royalsociety.org/news-resources/projects/biodiversity/economics-biodiversity/.  
+Dasgupta, P. (2021). The economics of biodiversity: The Dasgupta Review. [https://royalsociety.org/news-resources/projects/biodiversity/economics-biodiversity/](https://royalsociety.org/news-resources/projects/biodiversity/economics-biodiversity/).  
 > Ecosystems are the natural resource addressed in this introduction to an independent, global review commissioned by the UK Treasury in 2019. The author is Partha Dasgupta, one the world’s leading scholars of sustainability. The Review’s focus, despite its name, is on the “life” dimensions of natural resources, i.e. on ecosystems and biodiversity and how these can contribute to sustainable development.
 
 **d) Read:**  

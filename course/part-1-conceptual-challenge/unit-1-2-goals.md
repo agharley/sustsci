@@ -25,11 +25,11 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 > This reading summarizes the argument for framing the overarching goal for sustainable development in terms of social well-being and its equitable distribution within and across generations. The reading focuses on the constituents of social well-being – the multiple dimensions on which people characterize what’s most important for their sense of well-being.
 
 **b) Read and explore:**  
-OECD. (n.d.). OECD Better Life Index. Retrieved July 1, 2024, from https://www.oecdbetterlifeindex.org/.  
+OECD. (n.d.). OECD Better Life Index. Retrieved July 1, 2024, from [https://www.oecdbetterlifeindex.org/](https://www.oecdbetterlifeindex.org/).  
 > How do different people around the world characterize what well-being is for them? The Organization for Economic Co-operation and Development (OECD) has led the way in survey work to provide “bottom-up” answers to this question, grounded in the views of individuals (mostly, it must be said, from the richer parts of the world). This interactive web site provides an entry point to the methods and results of their work. You can use it to explore the constituents of well-being most important to you, and to see how your views about important constituents and their distribution compare with those of other people in other places.
 
 **c) Read:**  
-United Nations. (2021). THE 17 GOALS | Sustainable Development. https://sdgs.un.org/goals  
+United Nations. (2021). THE 17 GOALS | Sustainable Development. [https://sdgs.un.org/goals](https://sdgs.un.org/goals)  
 > A focus on social well-being is not the only way to view the kind of world people want. The United Nations’ Sustainable Development Goals (SDGs) constitute the global community’s most elaborated answer yet to the question of what sustainability should be about. The SDGs emerged from the UN Sustainable Development Summit of September 2015 as the outcome of a multiyear process in which nations, civil society groups, businesses and others negotiated what kind of world they wanted for 2030 and outlined an action agenda for reaching them. The resulting “top down” list of targets is messy (as are the results of most political negotiations) but also reflects a broad and deep consensus of international opinion leaders of a sort rarely seen. To get a sense of that consensus please review this high-level UN website.
 
 ---
@@ -51,7 +51,7 @@ Explore the UN SDG web site assigned as reading ‘c’ for this unit.
 **III. Equity in goals for sustainable development:**  
 In the canonical framing by the World Commission on Environment and Development (the Brundtland Commission), sustainable development must “meet the needs of the present without compromising the ability of future generations to meet their own needs,” thus underscoring the importance of inter-generational equity. Later deliberations made explicit concern – present but implicit in the Brundtland formulation -- for intra-generational equity, i.e. that advances in development for some should not come at the expense of development for others. But characterizing equity is tricky. For practice:
 - Return to the “Our World in Data” segment on changing life expectancy across generations and places that you explored in Unit 0.1 reading ‘e’ on the “Challenge of Sustainable Development.” How do the data presented there support the author’s conclusion that “The world developed from equally poor health in 1800 to great inequality in 1950 and back to more equality today – but equality on a much higher level.”[1] Does his stated conclusion miss anything important about equity apparent in the data?
-- How does the OECD “Better Life…” effort treat equity? (You may find it useful to start here: https://www.oecdbetterlifeindex.org/about/better-life-initiative/#question11). For use in the pursuit of sustainability, what are the strengths and weaknesses of the OECD treatment of equity?
+- How does the OECD “Better Life…” effort treat equity? (You may find it useful to start here: [https://www.oecdbetterlifeindex.org/about/better-life-initiative/#question11](https://www.oecdbetterlifeindex.org/about/better-life-initiative/#question11)). For use in the pursuit of sustainability, what are the strengths and weaknesses of the OECD treatment of equity?
 - How does the UN SDG effort treat equity? (SDG #13 explicitly focuses on some aspects of equity. Dig deeper to see how equity is (or isn’t) treated in the other SDGs). For use in the pursuit of sustainability, what are the strengths and weaknesses of the UN SDG treatment of equity?
 - Would you be OK with a development pathway that resulted in continued increases of inequality but also alleviated the worst depredations of poverty? How about a pathway that involved radical reductions in the consumption that supplies our well-being today in order to assure that future generations still have sufficient resources to pursue their own well-being? How would these pathways “score” on the OECD and UN treatments of sustainability goals? Why?
 
@@ -63,11 +63,11 @@ Finally, imagine that you need to negotiate a goal of sustainable development th
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **d) Read:**  
-van Zanden, J. (2014). How Was Life?: Global Well-being since 1820 (p. 273). OECD. https://www.oecd.org/statistics/how-was-life-9789264214262-en.htm  
+van Zanden, J. (2014). How Was Life?: Global Well-being since 1820 (p. 273). OECD. [https://www.oecd.org/statistics/how-was-life-9789264214262-en.htm](https://www.oecd.org/statistics/how-was-life-9789264214262-en.htm)  
 > A continuation of the OECD project cited in reading ‘b’, but looking at how visions of the good life have changed through time.
 
 **e) Read:**  
-Lintsen, H., Veraart, F., Smits, J.-P., & Grin, J. (2018). Well-being, Sustainability and Social Development: The Netherlands 1850-2050. Springer International Publishing. https://doi.org/10.1007/978-3-319-76696-6  
+Lintsen, H., Veraart, F., Smits, J.-P., & Grin, J. (2018). Well-being, Sustainability and Social Development: The Netherlands 1850-2050. Springer International Publishing. [https://doi.org/10.1007/978-3-319-76696-6](https://doi.org/10.1007/978-3-319-76696-6)  
 > A multidisciplinary investigation of how contemporary peoples’ views of the good life are changing over the century time scales relevant to sustainability. (Note: We hope it is easier to read for those fluent in the original Dutch).
 
 **f) Read:**  
@@ -80,4 +80,4 @@ Taylor, C. (2024). Cosmic Connections: Poetry in the Age of Disenchantment (1st 
 
 ---
 
-[1] Max Roser (2015) - “Life expectancy increased in all countries of the world” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/life-expectancy-increased-in-all-countries-of-the-world' [Online Resource]
+[1] Max Roser (2015) - “Life expectancy increased in all countries of the world” Published online at OurWorldinData.org. Retrieved from: '[https://ourworldindata.org/life-expectancy-increased-in-all-countries-of-the-world'](https://ourworldindata.org/life-expectancy-increased-in-all-countries-of-the-world') [Online Resource]

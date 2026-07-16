@@ -22,7 +22,7 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 > These sections introduce the challenges and methods of aggregating resource trends for sustainability assessment.
 
 **b) Read:**  
-Dasgupta, P., Managi, S., & Kumar, P. (2021). The inclusive wealth index and sustainable development goals. Sustainability Science. https://doi.org/10.1007/s11625-021-00915-0 (4pp)  
+Dasgupta, P., Managi, S., & Kumar, P. (2021). The inclusive wealth index and sustainable development goals. Sustainability Science. [https://doi.org/10.1007/s11625-021-00915-0](https://doi.org/10.1007/s11625-021-00915-0) (4pp)  
 > This paper presents the inclusive wealth index approach to sustainability, showing how comprehensive accounting for resources can support sustainability goals.
 
 **c) Review as needed:**  
@@ -65,15 +65,15 @@ Based on the GED/VA and inclusive wealth approaches discussed in the readings:
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
 **d) Read:**  
-Arrow, K. J., Dasgupta, P., Goulder, L., Daily, G., Ehrlich, P., Heal, G., Levin, S. A., Mäler, K.-G., Schneider, S., Starrett, D., & Walker, B. H. (2004). Are We Consuming Too Much? Journal of Economic Perspectives, 18(3), Article 3.  
+Arrow, K. J., Dasgupta, P., Goulder, L., Daily, G., Ehrlich, P., Heal, G., Levin, S. A., Mäler, K.-G., Schneider, S., Starrett, D., & Walker, B. H. (2004). Are We Consuming Too Much? Journal of Economic Perspectives, 18(3), 147–172. ([open access](https://www.aeaweb.org/articles?id=10.1257/0895330042162377))  
 > This is a classic paper that advanced the “consuming too much” framework that evolved into today’s inclusive wealth work.
 
 **e) Read:**  
-Muller, N. Z., Mendelsohn, R., & Nordhaus, W. D. (2011). Environmental accounting for pollution in the United States economy. American Economic Review, 101(5), 1649–1675.  
+Muller, N. Z., Mendelsohn, R., & Nordhaus, W. D. (2011). Environmental accounting for pollution in the United States economy. American Economic Review, 101(5), 1649–1675. ([DOI](https://doi.org/10.1257/aer.101.5.1649))  
 > An elegant example of the “gross environmental damages” approach to sustainability accounting, expanding on the summary given in reading ‘a’.
 
 **f) Read:**  
-Dasgupta, P. (2021). The economics of biodiversity (The Dasgupta Review). HM Treasury. https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review. For a full exploration of the inclusive wealth approach to sustainability assessment, explore “Sustainability assessment and policy analysis” (Ch. 13, pp. 323-358) and “Accounting prices and inclusive wealth” (Ch. 13*, pp. 359-364).  
+Dasgupta, P. (2021). The economics of biodiversity (The Dasgupta Review). HM Treasury. [https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review](https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review). For a full exploration of the inclusive wealth approach to sustainability assessment, explore “Sustainability assessment and policy analysis” (Ch. 13, pp. 323-358) and “Accounting prices and inclusive wealth” (Ch. 13*, pp. 359-364).  
 > This is one of the most up-to-date expositions on how to better measure progress toward sustainability. Despite its title, it is not just about biodiversity but rather the whole suite of natural and anthropogenic resources addressed in this course. Significantly, it was commissioned – and is being used -- by the UK Treasury.
 
 ---

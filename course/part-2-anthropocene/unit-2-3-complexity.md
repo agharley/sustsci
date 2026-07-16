@@ -82,7 +82,7 @@ Think back to the system dynamics of the Fishbanks game that you played in Unit 
 
 **d) Read:**  
 Levin, S., Xepapadeas, T., Crépin, A.-S., Norberg, J., de Zeeuw, A., Folke, C., Hughes, T., & Arrow, K. (2013).  
-Social-ecological systems as complex adaptive systems: Modeling and policy implications. Environment and Development Economics, 18(2), 111–132.  
+Social-ecological systems as complex adaptive systems: Modeling and policy implications. Environment and Development Economics, 18(2), 111–132. ([DOI](https://doi.org/10.1017/S1355770X12000460))  
 > This paper lays out the fundamentals and practical implications of its title.
 
 **e) Read:**  
