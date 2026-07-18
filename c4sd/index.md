@@ -5,7 +5,7 @@ description: The C4SD project asks what capacities are most needed for the effec
 ---
 
 What capacities are most needed for the effective pursuit of sustainability in the face of
-the multiple crises currently facing the Anthropocene system?
+the multiple crises currently facing the Earth system?
 
 Taken together, these intertwined crises — climate, pandemics, extinction, inequity, and
 others arising from the increasingly intense interactions between nature and society —
@@ -21,11 +21,11 @@ the nature-society system from which they emerge — so efforts to address them 
 become, at best, a Sisyphean nightmare of whack-a-mole, and often end up competing with or
 undermining one another.
 
-The pursuit of sustainability therefore requires a set of strategic capacities. By
-*capacity* we mean both the intention and the ability to accomplish a task or achieve an
-outcome — or, more bluntly, the ability to get stuff done: the abilities that enable
-individuals, communities, and organizations to make good decisions and act together under
-uncertainty. Where those capacities are missing or underdeveloped, agreement on shared goals
+The pursuit of sustainability therefore requires a set of strategic capacities — the
+abilities that let people, communities, and organizations make good decisions and work
+together when the future is uncertain. By *capacity* we mean both the intention and the
+ability to accomplish a task or achieve an outcome — or, more bluntly, the ability to get
+stuff done. Where those capacities are missing or underdeveloped, agreement on shared goals
 and sound science do not translate into progress toward sustainability.
 
 The result is too often a missing middle — an inability to connect widespread agreement on
@@ -34,13 +34,12 @@ nature-society systems on which those goals must be pursued.
 
 ## The six capacities
 
-Sustainability science has spent decades understanding how nature-society systems work. But
-understanding how a system behaves is not the same as knowing how to build the capacity to
-change it — and it is that second question that the C4SD project takes up. Asked this way,
-the answer is remarkably consistent: six strategic capacities, recurring across [the many
-research programs that make up sustainability science](https://doi.org/10.1146/annurev-environ-012420-043621).
-We did not invent them. We reframed them — around what it takes to build and support
-sustainable development, rather than explain it.
+The field of sustainability science has spent the past several decades understanding how
+nature-society systems work and where they may be heading. But understanding how a system
+behaves is not the same as knowing how to build the capacity to change it — and it is that
+second question that the C4SD project takes up. The six capacities are not our invention. We
+arrived at them inductively, synthesizing work across the many, often disparate
+[research programs that make up the field of sustainability science](https://www.annualreviews.org/content/table/10.1146/annurev-environ-012420-043621.t1?fmt=ahah&fullscreen=true&lang=en).
 
 - **The capacity to promote equity**, both within and among generations
 - **The capacity to measure** progress toward sustainable development
@@ -63,6 +62,11 @@ well-developed capacities in one area — measurement, for example — routinely
 unsupported by capacities in others, such as governance or equity. Strategic integration
 across all six remains rare.
 
+For sustainability leaders, that is the practical value of the six capacities: a strategic,
+whole-system view. A way to see which capacities their own work depends on, to notice which
+are being quietly neglected, and to learn from others building the same capacity in very
+different settings.
+
 ## What we are learning
 
 **From research.** The six capacities are not discrete abilities held by individual actors.
@@ -74,11 +78,11 @@ capacity. Capacity has to be developed, and it lives in the relationships, share
 understanding, and arrangements that let people actually use what they have.
 
 Because these capacities cannot be handed over or built by any single actor, they have to be
-developed through the many different kinds of work a society does together — the scientific
-work of building knowledge, the technical work of putting it to use, and the relational and
-political work of making collective action possible. A common and costly failure is an
-imbalance: the visible, technical work gets done while the slower relational and political
-work is neglected.
+developed through the many different kinds of work societies do together — for example, the
+scientific work of building knowledge, the technical work of putting it to use, and the
+relational and political work of making collective action possible. A common and costly
+failure is an imbalance: the visible, technical work gets done while the slower relational
+and political work is neglected.
 
 There is a deeper reason this work cannot be shortcut. Nature-society interactions are
 complex adaptive systems in which novelty, uncertainty, and surprise are the norm rather than
@@ -91,10 +95,12 @@ This work is real, and it is easy to underestimate. Even measurement is not the 
 technical problem it can appear to be. Gross domestic product — arguably a far simpler
 measurement system than most of those proposed for sustainability — took the better part of a
 century of investment in people, institutions, and monitoring before countries could report
-it in comparable terms. Building a measurement system adequate to sustainable development is a
-larger undertaking still. Each of the six capacities must be built the same way: through the
-sustained and deliberate work of many actors, working together toward the shared goal of
-sustainable development.
+it in comparable terms. Building a measurement system adequate to sustainable development is
+a larger undertaking still — and a growing community of researchers and practitioners is now
+doing that work, developing indicators, testing them, and building the institutions to
+sustain them. Each of the six capacities must be built the same way: through the sustained
+and deliberate work of many actors, working together toward the shared goal of sustainable
+development.
 
 **From practice.** Advocates for sustainability have been building, testing, and improving
 these capacities for decades, often without calling them capacities. Society already knows
