@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: "Inequality vs. Inequity: The Difference and Why It Matters for Sustainability"
+title: "(In)equality ≠ (In)equity: Why the Distinction Matters for Sustainability"
+seo_title: "Inequality vs. Inequity: The Difference and Why It Matters for Sustainability"
 date: 2026-01-05
 author: Alicia G. Harley
 description: "Inequality and inequity aren't the same thing: one describes a distribution, the other judges whether it's fair. Here's the difference and why it matters."
@@ -9,6 +10,8 @@ categories: [sustainability-theory]
 tags: [inequality, inequity, justice, equity, sustainability-science, methodology]
 image: "{{ site.baseurl }}/assets/images/two-step.png"
 ---
+
+Inequality and inequity sound alike and are often used interchangeably, but they answer different questions. Inequality is descriptive: it names a gap you can measure, in income, in health, in exposure to pollution. Inequity is a judgment: it says a particular gap is unfair. Not every inequality is inequitable, and deciding which ones are requires a theory of justice, not just better data. Getting this distinction right turns out to matter a great deal for how sustainability science does its work.
 
 Strengthening the ability of sustainability science to grapple with issues of (in)equality and (in)equity requires working across deep differences in how people think about justice and fairness. Different philosophical traditions (e.g., libertarian, egalitarian, capabilities-based) come down differently on these questions. As do different religious and moral traditions. From the perspective of sustainability science, we are not here necessarily to adjudicate the ‘right’ answer to the question of what a fair or just distribution looks like, but as a field practically engaged with both intra- and inter-generational justice, we must find a way to talk about these concepts with as much clarity as possible. 
 
