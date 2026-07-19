@@ -138,7 +138,7 @@ If you read one book, read Weiss. The rest depend on where you are in your proje
 
 **On analyzing what you collect:**
 
-- Kathy Charmaz. 2006. *Constructing Grounded Theory: A Practical Guide to Qualitative Analysis.* How to code interview notes and build theory from them, step by step.
+- Kathy Charmaz. 2006. *Constructing Grounded Theory: A Practical Guide Through Qualitative Analysis.* How to code interview notes and build theory from them, step by step.
 - Barney Glaser and Anselm Strauss. 1967. *The Discovery of Grounded Theory: Strategies for Qualitative Research.* The foundational statement of building theory up from qualitative data—read Charmaz first for the practical version.
 
 ---
