@@ -5,8 +5,6 @@ meta-description: Application-region case studies where you apply the course to 
 
 # Student Cases
 
-<a href="student-cases.pdf" class="pdf-download-btn" target="_blank">Download this page (PDF)</a>
-
 The student cases are where you put the course to work. Each one asks you to take a real region that is already pursuing sustainability and evaluate how it is doing, where it is stuck, and what might help—drawing on everything the course has taught you, and on research you do yourself.
 
 A central challenge in the pursuit of sustainability is how to integrate the general knowledge of core principles with the specific knowledge of local contexts to provide useful guidance for action on the ground. The student cases are where you practice exactly that.
@@ -47,7 +45,7 @@ For the fundamentals of policy writing, we recommend Eugene Bardach's short guid
 
 Expert interviews are the centerpiece of the student cases. They are particularly effective tools for developing a sense of the complexities of your region, and interviews with local experts are especially important for ensuring your recommendations are nuanced and respectful of local context and history. Experts can come from any sector—business, government, non-governmental organizations, academia, and even journalists.
 
-Plan to interview at least two experts as part of your research into the region—and consider interviewing more. A step-by-step [Interview Guide](interview-guide.html) walks you through the full process: why interviews matter, how to identify the right people, how to reach out, and how to prepare for, conduct, and write up a good conversation. And keep this in mind: you will be surprised, if you send a polite and informed email, how many people—even those quite senior in their fields and organizations—are happy to spend fifteen or twenty minutes sharing what they know.
+Plan to interview at least two experts as part of your research into the region—and consider interviewing more. A step-by-step [Interview Guide](interview-guide.html) walks you through the full process: why interviews matter, how to identify the right people, how to reach out, and how to prepare for, conduct, and write up a good conversation. And keep this in mind: you will be surprised, if you send a polite and informed email, how many people—even those quite senior in their fields and organizations—are happy to spend thirty minutes sharing what they know.
 
 ---
 
@@ -60,3 +58,5 @@ Each region will have its own research guide to get you started.
 - Pearl River Delta (Hong Kong) — *coming soon*
 
 We expect to add further regions over time.
+
+<a href="student-cases.pdf" class="pdf-download-btn" target="_blank">Student Cases Guide (PDF)</a>
