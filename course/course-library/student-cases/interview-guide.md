@@ -7,6 +7,8 @@ meta-description: A step-by-step guide to conducting expert interviews for the s
 
 Expert interviews are the centerpiece of the [student cases](./). This guide walks you through the full arc of an interview: deciding why you are doing it, choosing who to talk to, reaching out, preparing, conducting the conversation, and writing it up afterward. It works whether you are taking the course on your own or with a class, and the skills it teaches—preparing for a conversation with someone who knows more than you do, listening well, and turning what you hear into analysis—will serve you far beyond this course.
 
+Prefer a printable version? Download the [one-page interview checklist (PDF)](expert-interview-checklist.pdf) to keep next to your laptop during the call.
+
 ---
 
 ## Why conduct interviews at all?
@@ -59,7 +61,7 @@ Identify the people you want to interview and contact them with a clear, profess
 - Who you are
 - What your project is
 - Why you are reaching out to them specifically
-- How much of their time you are asking for (fifteen to twenty minutes is a reasonable request; many conversations will run longer once they get going)
+- How much of their time you are asking for (thirty minutes is a reasonable request—short enough to say yes to, long enough for a real conversation; many conversations will run longer once they get going, so leave room in your own schedule)
 - How you propose to meet (video call, phone, or in person—use whatever technology your interviewee is most comfortable with)
 
 Reach out earlier in your research rather than later; scheduling always takes longer than you expect. And do not be shy about contacting people who seem out of reach. You will be surprised, if you send a polite and informed email, how many people—even those quite senior in their fields and organizations—are happy to share what they know with a serious student.
@@ -76,7 +78,9 @@ Draw on a range of sources: the person's own website and social media, academic 
 
 If you are working with others, decide roles in advance. We have found that two or (at most) three people is the right number for conducting a video-call interview. Share responsibilities—introductions, note-taking, time-keeping, question-asking—and designate a lead interviewer (which does not mean others cannot also ask questions).
 
-Then prepare a written interview guide. We like to think about interviews, and the guides that structure them, as hourglasses:
+Since most student interviews happen by video call, get the logistics right: test your recording setup in advance; keep your camera on; have your interview guide printed or on a second screen so you are not visibly reading off the call window; and don't rush to fill silences—a beat of quiet often prompts the interviewee to add the most interesting material.
+
+Then prepare a written interview guide. We like to think about interviews, and the guides that structure them, as hourglasses (a variant of the "hourglass sequence" described in Stewart and Cash's classic *Interviewing: Principles and Practices*):
 
 ![The hourglass method: start broad, get more detailed, zoom out again](../../images/hourglass.svg)
 <p class="figure-caption">The hourglass method for structuring an interview.</p>
@@ -105,22 +109,38 @@ Send a thank-you note. This is also a good time to clarify anything that was con
 
 Then write up your notes—within 12 to 24 hours. It is amazing how fast we forget. Your write-up should be rough rather than verbatim, organized question by question, capturing potential quotes and skipping anything that doesn't add value to the research. Put a short summary of key findings at the top: the overarching themes, what most supported or challenged your expectations, and what the biases or blind spots of your interviewee might have been. If you conducted the interview with others, write the notes up together.
 
+### 5. Treat the interview as one source among many
+
+No single interview is the truth. To turn what you heard into quality research, triangulate: check factual claims against documents, data, and your other interviews; weight what you heard by the interviewee's position and incentives—an agency official and a community organizer may describe the same program very differently, and both accounts are data; and when your sources disagree, treat the disagreement itself as a finding to explain, not a problem to smooth over. Your final memo should make clear which claims rest on a single voice and which are corroborated.
+
 ---
 
 ## A note on research ethics
 
-The guidance above covers the norms of respectful expert interviewing: informed participation, the option of anonymity, and approval of direct quotes. If you intend to use your interviews in formal research for publication—rather than for coursework or your own learning—check whether your institution requires human-subjects review before you begin.
+The guidance above covers the norms of respectful expert interviewing: informed participation, the option of anonymity, and approval of direct quotes. If you intend to use your interviews in formal research for publication—rather than for coursework or your own learning—check whether your institution requires human-subjects review before you begin. In the United States this review is conducted by an Institutional Review Board (IRB); coursework interviews generally do not require it, but interviews you intend to publish often do.
 
 ---
 
 ## Further reading on qualitative interview methodology
 
-- Barney Glaser and Anselm Strauss. 1967. *The Discovery of Grounded Theory: Strategies for Qualitative Research.*
-- Kathy Charmaz. 2006. *Constructing Grounded Theory: A Practical Guide to Qualitative Analysis.*
-- Robert Weiss. 1994. *Learning from Strangers: The Art and Method of Qualitative Interview Studies.*
-- Gary Henry. 1990. *Practical Sampling.*
-- Kristin Luker. 2008. *Salsa Dancing into the Social Sciences: Research in an Age of Info-Glut.*
+If you read one book, read Weiss. The rest depend on where you are in your project.
+
+**On conducting interviews:**
+
+- Robert Weiss. 1994. *Learning from Strangers: The Art and Method of Qualitative Interview Studies.* The classic on how to actually ask, listen, and follow up in a qualitative interview. Start here.
+- Kristin Luker. 2008. *Salsa Dancing into the Social Sciences: Research in an Age of Info-Glut.* A witty, practical guide to designing research when you cannot read everything—especially good on framing research questions.
+- Alexander Bogner, Beate Littig, and Wolfgang Menz, eds. 2009. *Interviewing Experts.* The standard scholarly reference on expert interviews specifically—what makes them different from other qualitative interviews and how to handle them.
+
+**On choosing whom (and how many) to interview:**
+
+- Mario Luis Small. 2009. "'How Many Cases Do I Need?' On Science and the Logic of Case Selection in Field-Based Research." *Ethnography* 10(1): 5–38. A short article that will free you from worrying that a handful of interviews is "not enough data."
+- Gary Henry. 1990. *Practical Sampling.* For when you move toward the structured-survey end of the spectrum.
+
+**On analyzing what you collect:**
+
+- Kathy Charmaz. 2006. *Constructing Grounded Theory: A Practical Guide to Qualitative Analysis.* How to code interview notes and build theory from them, step by step.
+- Barney Glaser and Anselm Strauss. 1967. *The Discovery of Grounded Theory: Strategies for Qualitative Research.* The foundational statement of building theory up from qualitative data—read Charmaz first for the practical version.
 
 ---
 
-*This guide was originally developed by Alicia G. Harley and Sam Elghanayan for the Harvard course on which this open course builds.*
+*This guide was originally developed by Alicia G. Harley for the Harvard course on which this open course builds.*
