@@ -53,7 +53,7 @@ Plan to interview at least two experts as part of your research into the region�
 
 Each region will have its own research guide to get you started.
 
-- Uganda — *coming soon*
+- [Uganda](case-uganda.html)
 - Acre, Brazil — *coming soon*
 - Pearl River Delta (Hong Kong) — *coming soon*
 
