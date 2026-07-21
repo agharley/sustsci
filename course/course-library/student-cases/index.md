@@ -83,11 +83,33 @@ For the fundamentals of policy writing, we recommend Eugene Bardach's short guid
 
 Each region has its own research guide to get you started.
 
-- [Uganda](case-uganda.html)
-- [Acre, Brazil](case-acre.html)
-- Pearl River Delta (Hong Kong) — *coming soon*
+<div class="case-grid">
 
-We expect to add further regions over time.
+  <div class="case-card">
+    <a class="case-link" href="{{ '/course/course-library/student-cases/case-uganda.html' | relative_url }}">
+      <div class="case-thumb"><img src="{{ '/assets/images/cases/uganda.jpg' | relative_url }}" alt="Fishing boats and the landing-site market at Lake Victoria, Busabala, Uganda"></div>
+      <div class="case-info-head"><h3>Pursuing Sustainability in Uganda</h3></div>
+    </a>
+    <div class="case-info-body">
+      <p class="case-desc">The East African nation of Uganda aspires to transform itself from a poor, rural society into a modern and prosperous country. The research guide grounds you in its goals, history, well-being, resources, and nature-society dynamics.</p>
+      <span class="case-credit"><span class="credit-label">Image credit:</span> Mpagi Philemon / Unsplash</span>
+    </div>
+  </div>
+
+  <div class="case-card">
+    <a class="case-link" href="{{ '/course/course-library/student-cases/case-acre.html' | relative_url }}">
+      <div class="case-thumb"><img src="{{ '/assets/images/cases/acre.jpg' | relative_url }}" alt="Aerial view of the boundary between rainforest and cleared agricultural land near Rio Branco, Acre, Brazil"></div>
+      <div class="case-info-head"><h3>Pursuing Sustainability in Acre, Brazil</h3></div>
+    </a>
+    <div class="case-info-body">
+      <p class="case-desc">Acre, in the Brazilian Amazon, is where the rubber tappers' movement of Chico Mendes grew into a state government built on "forest citizenship." The research guide grounds you in the state's goals, history, well-being, resources, and its decades-long attempt to build a development path on the standing forest.</p>
+      <span class="case-credit"><span class="credit-label">Image credit:</span> Kate Evans/CIFOR (CC BY-NC-ND 2.0)</span>
+    </div>
+  </div>
+
+</div>
+
+Pearl River Delta (Hong Kong) — *coming soon*. We expect to add further regions over time.
 
 Teaching with these cases? See the [note for instructors](instructor-note.html).
 
