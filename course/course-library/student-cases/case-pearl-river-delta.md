@@ -106,6 +106,7 @@ The region's political institutions have also changed substantially since 2019, 
 4. Al Jazeera. November 19, 2024. ["Hong Kong jails 45 pro-democracy activists in largest security case."](https://www.aljazeera.com/news/2024/11/19/hong-kong-jails-all-45-pro-democracy-activists-in-largest-security-case)
 5. Government of the Hong Kong Special Administrative Region. March 2024. ["Article 23 legislation effective March 23."](https://www.news.gov.hk/eng/2024/03/20240319/20240319_191521_516.html)
 6. South China Morning Post. 2025. ["163,400 Hongkongers arrive in UK under BN(O) visa scheme since 2021."](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3311393/163400-hongkongers-arrive-uk-under-bno-visa-2021)
+
 ---
 
 ## 3. Human Well-Being in the Pearl River Delta
@@ -137,7 +138,7 @@ The ultimate determinants of the region's ability to achieve its sustainability 
 
 **Working definitions of the resource stocks:**
 
-- <u>Natural resources</u>: the foundations of land and water; materials, including hydrocarbons, metals, and other minerals; and life—biomass and biodiversity—together with the ecosystems, climate, and biogeochemical cycles in which they are embedded.
+- <u>Natural resources</u>: the foundations (land and water); materials (hydrocarbons, metals, and other minerals); and life (biomass and biodiversity)—together with the ecosystems, climate, and biogeochemical cycles in which they are embedded.
 - <u>Anthropogenic resources</u>, conventionally grouped as:
   1. *Human capital*: people—their health, education, and numbers—as a means (rather than an end) of sustainable development;
   2. *Manufactured capital* (also called "produced capital"): human-made systems of roads, buildings, ports, machinery, telecom hardware, pharmaceuticals and personal "stuff";
@@ -223,7 +224,7 @@ Take the economic integration between the PRD and Hong Kong as one example. Inte
 
 As economic integration has become more formalized, there have been challenges associated with multi-level governance. Infrastructure construction requires the cooperation and coordination of multiple levels of local governments, the provincial government of Guangdong, the Special Administrative Regions of Hong Kong and Macao, and the central government. For all of these reasons, questions surrounding formal and informal institutions, and how they evolve over time, are important to consider.
 
-When you analyze these governance arrangements, resist the habit of treating "China" as a single actor. Tan (2021) traces how China's entry into the World Trade Organization produced not one response but three distinct state strategies—regulatory, developmental, and directive—adopted roughly in that order by the central, provincial, and local levels of government, so that opening to the world altered politics within the Chinese state rather than producing uniform compliance. Her cases are not drawn from Guangdong, but the framework travels well: when you examine, say, Shenzhen's industrial policy alongside Beijing's, part of the question is which level of the state you are looking at, and which strategy it is pursuing.
+When you analyze these governance arrangements, resist the habit of treating "China" as a single actor. Tan (2021) traces how China's entry into the World Trade Organization produced not one response but three distinct state strategies: regulatory, in which the state writes and enforces impartial rules and lets markets do the allocating; developmental, in which the state steers markets toward chosen industries and technologies through plans and subsidies; and directive, in which the state displaces the market and runs things itself. Central ministries leaned regulatory, provinces developmental, and local governments directive—so opening to the world altered politics within the Chinese state rather than producing uniform compliance. Her cases are not drawn from Guangdong, but the framework travels well: when you examine, say, Shenzhen's industrial policy alongside Beijing's, part of the question is which level of the state you are looking at, and which strategy it is pursuing.
 
 The largest recent changes in the region's institutions are the ones described at the end of Section 2. The national security laws, the electoral overhaul, and the emigration wave are changes in Hong Kong's formal institutions and in the informal networks—professional associations, unions, newspapers, civil-society organizations—through which much of the city's social capital was held; a large number of such organizations disbanded between 2020 and 2022. What these changes mean for the region's pursuit of sustainability is not a question this guide can settle for you, and the sources disagree sharply. Given how contested they are, it is especially important to read the official accounts as well as the critical literature (Section 2 cites both kinds).
 
@@ -255,6 +256,7 @@ The delta's knowledge capital is strongest in applied technology and commerciali
 4. World Intellectual Property Organization. 2025. [Global Innovation Index 2025: Top science and technology clusters.](https://www.wipo.int/en/web/global-innovation-index/2025/innovation-clusters)
 5. Shenzhen Municipal Government. [Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone.](https://www.sz.gov.cn/en_szgov/business/SpecialFunctionalAreas/content/post_11487138.html)
 6. Yeung, Yue-man. 2005. [The Pearl River Delta Mega Urban-region: Internal Dynamics and External Linkages.](https://shkdi.cuhk.edu.hk/wp-content/uploads/pub/OP12.pdf) Hong Kong: Shanghai-Hong Kong Development Institute.
+
 ---
 
 ## 5. Nature-Society System Dynamics: Examples and Sources

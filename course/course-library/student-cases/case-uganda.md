@@ -116,7 +116,7 @@ The ultimate determinants of Uganda's ability to achieve its sustainability goal
 
 **Working definitions of the resource stocks:**
 
-- <u>Natural resources</u>: the foundations of land and water; materials, including hydrocarbons, metals, and other minerals; and life—biomass and biodiversity—together with the ecosystems, climate, and biogeochemical cycles in which they are embedded.
+- <u>Natural resources</u>: the foundations (land and water); materials (hydrocarbons, metals, and other minerals); and life (biomass and biodiversity)—together with the ecosystems, climate, and biogeochemical cycles in which they are embedded.
 - <u>Anthropogenic resources</u>, conventionally grouped as:
   1. *Human capital*: people—their health, education, and numbers—as a means (rather than an end) of sustainable development;
   2. *Manufactured capital* (also called "produced capital"): human-made systems of roads, buildings, ports, machinery, telecom hardware, pharmaceuticals and personal "stuff";
