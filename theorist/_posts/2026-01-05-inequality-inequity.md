@@ -237,7 +237,7 @@ Jasanoff, S. (2004). *States of Knowledge: The Co-Production of Science and the 
 
 Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652. [https://doi.org/10.1136/jech.56.9.647](https://doi.org/10.1136/jech.56.9.647)
 
-Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. [https://doi.org/10.1177/0003122418773775](https://doi.org/10.1177/0003122418773775) | [Open access](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf)
+Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. [https://doi.org/10.1177/0003122418773775](https://doi.org/10.1177/0003122418773775). [Open access](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf)
 
 Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608. [https://doi.org/10.1093/ser/mwu011](https://doi.org/10.1093/ser/mwu011)
 
@@ -249,7 +249,7 @@ Milanovic, B. (2023). *Visions of Inequality: From the French Revolution to the 
 
 Minow, M. (2021). Equality vs. Equity. *American Journal of Law and Equality*, 1, 167–193. [https://doi.org/10.1162/ajle_a_00019](https://doi.org/10.1162/ajle_a_00019)
 
-Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. [https://doi.org/10.1186/1475-9276-8-40](https://doi.org/10.1186/1475-9276-8-40) | [Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40)
+Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. [https://doi.org/10.1186/1475-9276-8-40](https://doi.org/10.1186/1475-9276-8-40). [Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40)
 
 Pierson, P., & Lamont, M. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
 
@@ -261,7 +261,7 @@ Putnam, H. (2002). *The Collapse of the Fact/Value Dichotomy and Other Essays*. 
 
 Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
 
-Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157. [https://doi.org/10.1073/pnas.1706412114](https://doi.org/10.1073/pnas.1706412114) | [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740652/)
+Scheffer, M., van Bavel, B., van de Leemput, I. A., & van Nes, E. H. (2017). Inequality in nature and society. *Proceedings of the National Academy of Sciences*, 114(50), 13154–13157. [https://doi.org/10.1073/pnas.1706412114](https://doi.org/10.1073/pnas.1706412114). [Open access](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740652/)
 
 Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford University. [Open access](https://ophi.org.uk/sites/default/files/Sen-1979_Equality-of-What.pdf)
 
