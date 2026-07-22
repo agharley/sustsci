@@ -26,7 +26,7 @@ Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Gui
 > This book provides the central text for the course, and we will return to it frequently. It is available from most online book sellers and as a (cheaper) e-book from the usual online sources. Note that the four case studies of the pursuit of sustainability introduced in this reading are presented in greater detail in Appendix A of the book.
 
 **b) Watch:**  
-Steiner, A. (Director). (2020, December). Humanity’s planet-shaping powers—And what they mean for the future | TED Talk. United Nations Development Program. (19 min.) Link [here](https://www.ted.com/talks/achim_steiner_humanity_s_planet_shaping_powers_and_what_they_mean_for_the_future?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).  
+Steiner, A. (Director). (2020, December). Humanity’s planet-shaping powers—And what they mean for the future. TED Talk. United Nations Development Program. (19 min.) Link [here](https://www.ted.com/talks/achim_steiner_humanity_s_planet_shaping_powers_and_what_they_mean_for_the_future?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).  
 > This is a TED Talk providing insight into humanity's impact on the planet and the future of sustainable development.
 
 **c) Read:**  
