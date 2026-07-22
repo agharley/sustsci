@@ -7,7 +7,7 @@ meta-description: Application-region case studies where you apply the course to 
 
 The student cases are where you put the course to work. Unit by unit, the course develops a framework for sustainability analysis—the elements of nature-society systems, and the relationships among them, that we have found most important. In the cases, you apply that framework to a real place.
 
-In this assignment, you choose a case and evaluate its pursuit of sustainability, setting out your conclusions in a short policy memo. We have prepared research guides for two cases—Uganda and the Brazilian state of Acre, with more planned—but you can choose nearly any; the guides simply give you a running start on the regions we have covered, and they are linked at the bottom of this page. The one requirement is that your case should be a region.
+In this assignment, you choose a case and evaluate its pursuit of sustainability, setting out your conclusions in a short policy memo. We have prepared research guides for three cases—Uganda, the Brazilian state of Acre, and China's Pearl River Delta, with more planned—but you can choose nearly any; the guides simply give you a running start on the regions we have covered, and they are linked at the bottom of this page. The one requirement is that your case should be a region.
 
 The student case material provided here serves two kinds of readers. If you are working through this course on your own, a case is how you practice applying what you are learning to a real place, and it will give your work through the units a destination. If you are teaching with this material, the cases are a complete applied assignment, ready to use or adapt. (A short note for instructors is linked at the bottom of this page.)
 
@@ -107,9 +107,20 @@ Each region has its own research guide to get you started.
     </div>
   </div>
 
+  <div class="case-card">
+    <a class="case-link" href="{{ '/course/course-library/student-cases/case-pearl-river-delta.html' | relative_url }}">
+      <div class="case-thumb"><img src="{{ '/assets/images/cases/pearl-river-delta.jpg' | relative_url }}" alt="The skyline of Qianhai, Shenzhen, at dusk, with a ferris wheel and Qianhai Bay at left"></div>
+      <div class="case-info-head"><h3>Pursuing Sustainability in the Pearl River Delta</h3></div>
+    </a>
+    <div class="case-info-body">
+      <p class="case-desc">The Pearl River Delta—Hong Kong, Shenzhen, Guangzhou, and their neighbors—grew from farmland into the world's largest urbanized region within a single lifetime. The research guide grounds you in the region's goals, history, well-being, resources, and nature-society dynamics.</p>
+      <span class="case-credit"><span class="credit-label">Image credit:</span> darmau / Unsplash</span>
+    </div>
+  </div>
+
 </div>
 
-Pearl River Delta (Hong Kong) — *coming soon*. We expect to add further regions over time.
+We expect to add further regions over time.
 
 Teaching with these cases? See the [note for instructors](instructor-note.html).
 
