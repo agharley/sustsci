@@ -72,7 +72,7 @@ vi) the capacity to transform unsustainable development pathways to sustainable 
 
 We explore what research in sustainability science can tell us about each of these capacities.
 
-### Part IV: Next Steps: How do leaders catalyze progress in the pursuit of sustainability
+### Part IV: What's Next for the World and for You
 
 The final part of the course consists of a single unit that explores how leaders have built, maintained and utilized the capacities discussed in Part III to promote sustainable development at scale.
 

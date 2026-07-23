@@ -89,11 +89,11 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 <div class="part-card">
   <div class="part-card-header">
-    <a href="part-4-next-steps/">Part IV: What's Next</a>
+    <a href="part-4-whats-next/">Part IV: What's Next for the World and for You</a>
   </div>
   <div class="part-card-units">
     <ul>
-      <li><a href="part-4-next-steps/unit-4-1-next-steps.html">4.1 Next Steps</a></li>
+      <li><a href="part-4-whats-next/unit-4-1-whats-next.html">4.1 What's Next</a></li>
     </ul>
   </div>
 </div>
