@@ -3,29 +3,100 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course</title>
-  <meta name="description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <title>{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} | Sustainable Development Course{% else %}Sustainable Development Course{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: 'Free, open-access course in sustainable development linking science with practice. No enrollment required.' }}">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
   
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course">
-  <meta property="og:description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <meta property="og:title" content="{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} | Sustainable Development Course{% else %}Sustainable Development Course{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: 'Free, open-access course in sustainable development linking science with practice. No enrollment required.' }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
   
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}Sustainable Development Course">
-  <meta name="twitter:description" content="{{ page.description | default: 'Open access course in sustainable development linking science with practice.' }}">
+  <meta name="twitter:title" content="{% if page.seo_title %}{{ page.seo_title }}{% elsif page.title %}{{ page.title }} | Sustainable Development Course{% else %}Sustainable Development Course{% endif %}">
+  <meta name="twitter:description" content="{{ page.description | default: 'Free, open-access course in sustainable development linking science with practice. No enrollment required.' }}">
   <meta name="twitter:image" content="{{ '/course/images/NASA_earth_at_night.jpg' | absolute_url }}">
   
   <!-- Canonical -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
-  
+
+  <!-- Structured data: Course -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Sustainable Development: A Course Linking Science with Practice",
+    "description": "A free, open-access course in sustainable development and sustainability science. Self-guided materials—all course units, teaching cases, student cases, and course games—available at no cost, with no enrollment or account required. Wherever possible the linked readings lean on open-access material, though some books and articles are behind publisher paywalls.",
+    "url": "{{ page.url | absolute_url }}",
+    "provider": {
+      "@type": "Organization",
+      "name": "Sustainability Science Program, Harvard Kennedy School",
+      "url": "{{ site.url }}"
+    },
+    "author": [
+      { "@type": "Person", "name": "Alicia G. Harley" },
+      { "@type": "Person", "name": "William C. Clark" }
+    ],
+    "isAccessibleForFree": true,
+    "inLanguage": "en",
+    "educationalLevel": "Advanced undergraduate, graduate, and professional",
+    "teaches": ["Sustainable development", "Sustainability science", "Complex adaptive systems", "Nature-society systems"],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "category": "Free",
+      "availability": "https://schema.org/InStock"
+    },
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "Online",
+      "courseWorkload": "PT120H"
+    }
+  }
+  </script>
+
+  <!-- Structured data: FAQ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is this sustainable development course free?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The course itself is free and open access: all course units, teaching cases, student cases, and course games are available at no cost under a Creative Commons license. For the linked readings, we have done our best to lean on open-access material and provide links to everything, but some readings—certain books and, more rarely, journal articles—are behind publisher paywalls and would need to be purchased or accessed through a library."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need to enroll or create an account?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. There is no enrollment, registration, or account creation. All course materials are immediately accessible to everyone as a self-guided, open educational resource."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use these materials to teach my own course?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Instructors are welcome to adapt the course units, teaching cases, student cases, and course games for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge."
+        }
+      }
+    ]
+  }
+  </script>
+
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

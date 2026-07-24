@@ -5,7 +5,7 @@ title: Course Creators
 
 # Course Creators
 
-This open-access course represents over two decades of collaborative teaching and learning about sustainable development. We—William Clark and Alicia Harley—have worked together at [Harvard's Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program) to develop an approach that moves beyond the traditional silos of environmental science, economics, and policy to offer an integrated framework for understanding and advancing sustainability.
+This free, open-access course represents over two decades of collaborative teaching and learning about sustainable development. We—William Clark and Alicia Harley—have worked together at [Harvard's Sustainability Science Program](https://www.hks.harvard.edu/centers/mrcbg/programs/sustainability-science-program) to develop an approach that moves beyond the traditional silos of environmental science, economics, and policy to offer an integrated framework for understanding and advancing sustainability.
 
 We created this course because we believe that understanding sustainability requires both rigorous analytical frameworks and deep engagement with real-world complexity. Over years of teaching undergraduate, graduate, and executive students, we've learned that the most effective approach combines generalizable theory with place-based case studies that reveal how context shapes both challenges and solutions.
 

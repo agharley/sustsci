@@ -1,10 +1,11 @@
 ---
 layout: course-home
 title: Sustainable Development
-description: Open-access course materials exploring how peoples of an increasingly stressed planet can meet their needs while conserving the planet's life support systems.
+seo_title: "Free Sustainable Development Course | Open-Access Materials"
+description: Free, open-access sustainable development course materials exploring how peoples of an increasingly stressed planet can meet their needs while conserving the planet's life support systems. No enrollment required.
 ---
 
-This course explores how the peoples of an increasingly stressed planet earth can achieve better lives for themselves, their neighbors, and their posterity. Our focus is on the long-term, large-scale pathways of human development that emerge from the intertwined systems of nature and society that characterize our planet today in what some have called its "Anthropocene" epoch. In particular, we address two pernicious attributes of current development pathways:
+This free, open-access course explores how the peoples of an increasingly stressed planet earth can achieve better lives for themselves, their neighbors, and their posterity. Our focus is on the long-term, large-scale pathways of human development that emerge from the intertwined systems of nature and society that characterize our planet today in what some have called its "Anthropocene" epoch. In particular, we address two pernicious attributes of current development pathways:
 
 <div class="challenges-list" markdown="1">
 
