@@ -108,3 +108,19 @@ The course seeks to understand how these ills can be remedied through collaborat
     <a href="course-library/unit-guides/">Unit Guides</a>
   </div>
 </div>
+
+---
+
+## Frequently Asked Questions
+
+**Is this sustainable development course free?**
+
+Yes. The course itself is free and open access: all course units, teaching cases, student cases, and course games are available at no cost under a Creative Commons license. For the linked readings, we have done our best to lean on open-access material and provide links to everything, but some readings—certain books and, more rarely, journal articles—are behind publisher paywalls and would need to be purchased or accessed through a library.
+
+**Do I need to enroll or create an account?**
+
+No. There is no enrollment, registration, or account creation. All course materials are immediately accessible to everyone as a self-guided, open educational resource.
+
+**Can I use these materials to teach my own course?**
+
+Yes. Instructors are welcome to adapt the course units, teaching cases, student cases, and course games for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge.
