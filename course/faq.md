@@ -30,7 +30,7 @@ description: Answers to common questions about this free, open-access sustainabl
       "name": "Can I use these materials to teach my own course?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Instructors are welcome to adapt the course units, teaching cases, student cases, and course games for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge."
+        "text": "Yes. Instructors are welcome to adapt the full syllabus—course units, teaching cases, student cases, and course games—for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge."
       }
     }
   ]
@@ -49,4 +49,4 @@ No. There is no enrollment, registration, or account creation. All course materi
 
 **Can I use these materials to teach my own course?**
 
-Yes. Instructors are welcome to adapt the course units, teaching cases, student cases, and course games for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge.
+Yes. Instructors are welcome to adapt the full syllabus—course units, teaching cases, student cases, and course games—for their own classrooms under the CC BY-NC-SA 4.0 license, free of charge.

@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "About the Course"
-description: "Overview of the Sustainable Development course—objectives, structure, and how to use these free, open-access materials for self-guided learning or teaching."
+description: "Overview of the Sustainable Development course—objectives, syllabus structure, and how to use these free, open-access materials for self-guided learning or teaching."
 ---
 
 # Overview: 

@@ -26,6 +26,8 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 ## Course Structure
 
+The complete course syllabus—all parts and units—is outlined below.
+
 <div class="part-card">
   <div class="part-card-header">
     <a href="part-0-introduction/">Part 0: Introduction</a>
