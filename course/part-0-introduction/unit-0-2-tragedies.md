@@ -73,7 +73,7 @@ Please play the Fishbanks simulation solo before class to get the feel of the ga
 The next three readings provide insights into recent progress and remaining challenges in managing fisheries for sustainability:
 
 **e) Read:**  
-Worm, B., Hilborn, R., Baum, J. K., Branch, T. A., Collie, J. S., Costello, C., Fogarty, M. J., Fulton, E. A., Hutchings, J. A., Jennings, S., Jensen, O. P., Lotze, H. K., Mace, P. M., McClanahan, T. R., Palumbi, S. R., Parma, A. M., Rikard, D., Rosenberg, A. A., Zeller, D., & Minto, C. (2009). Rebuilding Global Fisheries. Science, 325(5940), 578–585. Link [here](https://doi.org/10.1016/j.marpol.2017.02.003).  
+Worm, B., Hilborn, R., Baum, J. K., Branch, T. A., Collie, J. S., Costello, C., Fogarty, M. J., Fulton, E. A., Hutchings, J. A., Jennings, S., Jensen, O. P., Lotze, H. K., Mace, P. M., McClanahan, T. R., Palumbi, S. R., Parma, A. M., Rikard, D., Rosenberg, A. A., Zeller, D., & Minto, C. (2009). Rebuilding Global Fisheries. Science, 325(5940), 578–585. Link [here](https://doi.org/10.1126/science.1173146). Open access copy [here](https://digitalcommons.uri.edu/gsofacpubs/930).  
 > This paper discusses global efforts to rebuild fisheries, highlighting successes and ongoing challenges in marine resource management.
 
 **f) Read:**  
