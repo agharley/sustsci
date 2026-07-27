@@ -5,8 +5,6 @@ permalink: /accessibility/
 description: "Our commitment to digital accessibility: this site aims to conform to WCAG 2.1 Level AA. Known limitations and how to reach us if something isn't working for you."
 ---
 
-# Accessibility
-
 We want everyone to be able to use this site and its course materials. Sustainabilityscience.org aims to conform to the [Web Content Accessibility Guidelines (WCAG) 2.1, Level AA](https://www.w3.org/WAI/WCAG21/quickref/), the standard adopted by the [Harvard University Digital Accessibility Policy](https://accessibility.huit.harvard.edu/digital-accessibility-policy).
 
 In practice, this means the site is designed to work with screen readers and keyboard navigation, to provide text alternatives for images, to maintain sufficient color contrast, and to remain usable when text is enlarged.
