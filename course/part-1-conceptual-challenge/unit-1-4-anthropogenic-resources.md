@@ -30,7 +30,7 @@ In preparation for class, please:
 **a) Read:**  
 Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press.  
 - Read: Sections on anthropogenic resources (pp. 37-50, top of page)  
-- Read: The case study “London: The struggle for sustainable development in an urban environment” (pp. 143-165). If you don't have the book, this case is also [available in the Course Library](../course-library/teaching-cases/case-london.pdf)  
+- Read: The case study “London: The struggle for sustainable development in an urban environment,” [available in the Course Library](../course-library/teaching-cases/case-london.pdf) (also in Matson et al., pp. 143-165)  
 
 > These readings introduce the principal types of anthropogenic resources and provide a detailed case study of London’s development as shaped by its resource base.
 

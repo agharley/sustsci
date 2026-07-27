@@ -36,7 +36,7 @@ Review 2-3 case studies of mountain communities adapting to climate change, sele
 > As you explore these cases, note what specific resources were mobilized, who led implementation versus who benefited, what barriers were encountered, and whether the interventions built long-term adaptive capacity or provided temporary relief.
 
 **d) Review:**  
-Return to the London teaching case from Unit 1.4, i.e. Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press. “London: The struggle for sustainable development in an urban environment” (pp. 143-165).
+Return to the London teaching case from Unit 1.4, “London: The struggle for sustainable development in an urban environment,” [available in the Course Library](../course-library/teaching-cases/case-london.pdf) (also in Matson et al. 2016, pp. 143-165).
 
 ---
 

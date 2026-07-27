@@ -38,7 +38,7 @@ Analysts seeking to understand and promote sustainability need some organized wa
 To prepare for this unit, please:
 
 **a) Read / review:**  
-Matson, P. A., Clark, W. C., & Andersson, K. P. (2016). Pursuing sustainability: A guide to the science and practice. Princeton University Press. [Read Ch. 3 “Dynamics of social-environmental systems,” pp. 61–63 (“Invisibilities in space and time”). Review case study “London: The struggle for sustainable development in an urban environment,” pp. 143–165.](https://pursuing-sustainability.stanford.edu/)  
+Matson, P. A., Clark, W. C., & Andersson, K. P. (2016). Pursuing sustainability: A guide to the science and practice. Princeton University Press. Read Ch. 3 “Dynamics of social-environmental systems,” pp. 61–63 (“Invisibilities in space and time”). Review case study “London: The struggle for sustainable development in an urban environment,” [available in the Course Library](../course-library/teaching-cases/case-london.pdf) (also in Matson et al., pp. 143–165).  
 > This reading helps you consider how places connect and how those connections can be “invisible” but powerful in shaping sustainability outcomes.
 
 **b) Read:**  

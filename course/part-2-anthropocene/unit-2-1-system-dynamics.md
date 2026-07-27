@@ -31,8 +31,7 @@ Sterman, J. (2002). System Dynamics: Systems Thinking and Modeling for a Complex
 > MIT’s Jay Forrester and John Sterman pioneered the application of systems thinking to analysis of complex systems and policies for their management in the 2nd half of the 20th Century. Their motivation was the blunders they found their colleagues and students making in extrapolating linear thinking and single-cause/single-effect analysis to complex real world problems. Their initial applications were to urban design and business management, but later applications extended into the realms of resource management (Sterman is author of the Fishbanks game we explored earlier in the course), climate change and sustainability more broadly. The first sections of this working paper provide an introduction to their approach. Subsequent units of the course will pick up on later sections and applications.
 
 **d) Review:**  
-Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press.  
-Section on the case study “London: The struggle for sustainable development in an urban environment” (pp. 143-165; originally assigned in Unit 1.4).
+The case study “London: The struggle for sustainable development in an urban environment,” [available in the Course Library](../course-library/teaching-cases/case-london.pdf) (originally assigned in Unit 1.4; also in Matson et al. 2016, pp. 143-165).
 
 ---
 
