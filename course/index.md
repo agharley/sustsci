@@ -20,13 +20,12 @@ The course seeks to understand how these ills can be remedied through collaborat
 <div class="about-links">
   <a href="about.html" class="about-link">About the Course</a>
   <a href="creators.html" class="about-link">Course Creators</a>
+  <a href="sustainable-development-syllabus.pdf" class="about-link">Syllabus (PDF)</a>
 </div>
 
 ---
 
 ## Course Structure
-
-The complete course syllabus—all parts and units—is outlined below.
 
 <div class="part-card">
   <div class="part-card-header">
