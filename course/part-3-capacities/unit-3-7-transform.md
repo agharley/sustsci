@@ -25,7 +25,7 @@ Also available in the course library [HERE](../course-library/readings/capacity-
 > This working paper synthesizes insights from transitions scholarship and contemporary practice, examining what's needed to shift from unsustainable to sustainable development pathways.
 
 **b) Read:**  
-Geels, F. W., Sovacool, B. K., Schwanen, T., & Sorrell, S. (2017). Sociotechnical transitions for deep decarbonization. Science, 357(6357), 1242–1244. [https://doi.org/10.1126/science.aao3760](https://doi.org/10.1126/science.aao3760). An open access copy (the authors’ accepted manuscript, as a Word document) is available [here](https://research.manchester.ac.uk/en/publications/ea4606ce-9291-495b-91d9-d6860a9a4d65).  
+Geels, F. W., Sovacool, B. K., Schwanen, T., & Sorrell, S. (2017). Sociotechnical transitions for deep decarbonization. Science, 357(6357), 1242–1244. [https://doi.org/10.1126/science.aao3760](https://doi.org/10.1126/science.aao3760). An open access copy (the authors’ accepted manuscript, as a Word document) is available [here](https://research.manchester.ac.uk/files/61817248/Geels_et_al_2017_Science_Author_Accepted_Manuscript.docx) (from the [University of Manchester repository](https://research.manchester.ac.uk/en/publications/ea4606ce-9291-495b-91d9-d6860a9a4d65)).  
 > This concise paper broadens findings from the German Energiewende to general lessons for decarbonization, offering an authoritative summary of strategies to support goal-oriented transitions toward a lower carbon future. The authors emphasize "coevolutionary interactions between technologies and societal groups" rather than narrow technological approaches.
 
 **c) Read:**  
