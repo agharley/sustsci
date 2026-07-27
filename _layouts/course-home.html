@@ -72,6 +72,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body class="course-site">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <!-- Large Earth at Night Hero for Course Home -->
   <header class="course-banner course-banner-home">
     <div class="course-banner-inner">
@@ -81,7 +82,7 @@
   </header>
 
   <!-- Main Content - Full Width, No Sidebar -->
-  <main class="course-home-content">
+  <main id="main-content" class="course-home-content">
     {{ content }}
   </main>
 
@@ -101,6 +102,8 @@
         <a href="https://github.com/agharley/sustsci/tree/main/course">View source on GitHub</a>
         <span class="footer-sep">·</span>
         <a href="{{ '/' | relative_url }}">← sustainabilityscience.org</a>
+        <span class="footer-sep">·</span>
+        <a href="{{ '/accessibility/' | relative_url }}">Accessibility</a>
       </p>
     </div>
   </footer>

@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body class="course-site">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <!-- Small Earth at Night Banner -->
   <header class="course-banner course-banner-small">
     <div class="course-banner-inner">
@@ -51,7 +52,7 @@
         <div class="sidebar-section-group">
           <div class="sidebar-part" data-section="about">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <span class="sidebar-part-title">About the Course</span>
             </div>
             <ul class="sidebar-units">
@@ -69,7 +70,7 @@
           <!-- Part 0 -->
           <div class="sidebar-part" data-section="part-0">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <a href="{{ '/course/part-0-introduction/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-0-introduction' and page.url contains 'index' %}active{% endif %}">Part 0: Introduction</a>
             </div>
             <ul class="sidebar-units">
@@ -81,7 +82,7 @@
           <!-- Part 1 -->
           <div class="sidebar-part" data-section="part-1">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <a href="{{ '/course/part-1-conceptual-challenge/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-1-conceptual' and page.url contains 'index' %}active{% endif %}">Part 1: Conceptual Challenge</a>
             </div>
             <ul class="sidebar-units">
@@ -96,7 +97,7 @@
           <!-- Part 2 -->
           <div class="sidebar-part" data-section="part-2">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <a href="{{ '/course/part-2-anthropocene/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-2-anthropocene' and page.url contains 'index' %}active{% endif %}">Part 2: Anthropocene</a>
             </div>
             <ul class="sidebar-units">
@@ -114,7 +115,7 @@
           <!-- Part 3 -->
           <div class="sidebar-part" data-section="part-3">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <a href="{{ '/course/part-3-capacities/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-3-capacities' and page.url contains 'index' %}active{% endif %}">Part 3: Capacities</a>
             </div>
             <ul class="sidebar-units">
@@ -131,7 +132,7 @@
           <!-- Part 4 -->
           <div class="sidebar-part" data-section="part-4">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <a href="{{ '/course/part-4-whats-next/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'part-4-whats-next' and page.url contains 'index' %}active{% endif %}">Part 4: What's Next</a>
             </div>
             <ul class="sidebar-units">
@@ -146,7 +147,7 @@
         <div class="sidebar-section-group">
           <div class="sidebar-part" data-section="library">
             <div class="sidebar-part-header">
-              <span class="sidebar-arrow">▸</span>
+              <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
               <span class="sidebar-part-title">Course Library</span>
             </div>
             <ul class="sidebar-units">
@@ -162,7 +163,7 @@
     </aside>
 
     <!-- Main Content -->
-    <main class="course-content">
+    <main id="main-content" class="course-content">
       {% if page.unit %}
       <h1 class="unit-heading">
         <span class="unit-eyebrow">{{ page.unit }}</span>
@@ -217,10 +218,10 @@
         // Set initial state
         if (shouldExpand) {
           units.classList.add('expanded');
-          arrow.textContent = '▾';
+          arrow.querySelector('[aria-hidden]').textContent = '▾'; arrow.setAttribute('aria-expanded','true');
         } else {
           units.classList.remove('expanded');
-          arrow.textContent = '▸';
+          arrow.querySelector('[aria-hidden]').textContent = '▸'; arrow.setAttribute('aria-expanded','false');
         }
         
         // Toggle on arrow click only
@@ -230,10 +231,10 @@
           
           if (isExpanded) {
             units.classList.remove('expanded');
-            arrow.textContent = '▸';
+            arrow.querySelector('[aria-hidden]').textContent = '▸'; arrow.setAttribute('aria-expanded','false');
           } else {
             units.classList.add('expanded');
-            arrow.textContent = '▾';
+            arrow.querySelector('[aria-hidden]').textContent = '▾'; arrow.setAttribute('aria-expanded','true');
           }
         });
         
@@ -248,10 +249,10 @@
           
           if (isExpanded) {
             units.classList.remove('expanded');
-            arrow.textContent = '▸';
+            arrow.querySelector('[aria-hidden]').textContent = '▸'; arrow.setAttribute('aria-expanded','false');
           } else {
             units.classList.add('expanded');
-            arrow.textContent = '▾';
+            arrow.querySelector('[aria-hidden]').textContent = '▾'; arrow.setAttribute('aria-expanded','true');
           }
         });
       });

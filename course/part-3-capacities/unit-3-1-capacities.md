@@ -14,7 +14,7 @@ As discussed in Part II, development pathways in nature-society systems are comp
 One approach to this challenge that has emerged in recent years focuses on building and maintaining capacities for sustainable development. By capacity we mean both the intention and the ability to accomplish a task or achieve an outcome or, more bluntly, "the ability to get stuff done." This capacity-building approach represents a fundamental shift from asking ‘What’s to be done?’ to ‘How can people build and maintain the collective ability to figure out what to do and then to actually do it?’
 
 ![Six Capacities Necessary for Sustainable Development](../images/arer-capacities.png)
-<p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#2874a6; margin-top:8px;">
 Figure 3: Six Capacities Necessary for Sustainable Development (Clark and Harley, 2020)
 </p>
 

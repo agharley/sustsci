@@ -46,7 +46,7 @@ Geels, F. W., Kern, F., & Clark, W. C. (2023). System transitions research and s
 > Provides an updated account of how promoting transitions toward sustainability requires close attention to vertical connections and, particularly, the generation and propagation of innovation.
 
 **b) Read:**  
-Schot, J., & Geels, F. W. (2008). Strategic niche management and sustainable innovation journeys: Theory, findings, research agenda, and policy. Technology Analysis & Strategic Management, 20(5), 537–554. [https://doi.org/10.1080/09537320802292651](https://doi.org/10.1080/09537320802292651). Open access copy [here](https://research.manchester.ac.uk/en/publications/strategic-niche-management-and-sustainable-innovation-journeys-th/).
+Schot, J., & Geels, F. W. (2008). Strategic niche management and sustainable innovation journeys: Theory, findings, research agenda, and policy. Technology Analysis & Strategic Management, 20(5), 537–554. [https://doi.org/10.1080/09537320802292651](https://doi.org/10.1080/09537320802292651). Open access copy [Open-access copy (University of Manchester)](https://research.manchester.ac.uk/en/publications/strategic-niche-management-and-sustainable-innovation-journeys-th/).
 
 **c) Read:**  
 Anadon, L. D., Chan, G., Harley, A. G., Matus, K., Moon, S., Murthy, S. L., & Clark, W. C. (2016). Making technological innovation work for sustainable development. Proceedings of the National Academy of Sciences, 113(35), 9682–9690. [https://doi.org/10.1073/pnas.1525004113](https://doi.org/10.1073/pnas.1525004113)

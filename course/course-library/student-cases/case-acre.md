@@ -6,7 +6,7 @@ meta-description: A research guide to Acre, Brazil's pursuit of sustainabilityâ€
 # Pursuing Sustainability in Acre: A Research Guide
 
 ![Aerial view of the boundary between rainforest and cleared agricultural land near Rio Branco, Acre, Brazil]({{ '/assets/images/cases/acre.jpg' | relative_url }})
-<p style="font-size:0.85em; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-style:italic; color:#2874a6; margin-top:8px;">
 The forestâ€“pasture boundary near Rio Branco, Acre. Photo: <a href="https://www.flickr.com/photos/cifor-icraf/35035343564">Kate Evans/CIFOR</a> (<a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a>).
 </p>
 

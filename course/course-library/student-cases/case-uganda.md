@@ -6,7 +6,7 @@ meta-description: A research guide to Uganda's pursuit of sustainability—its g
 # Pursuing Sustainability in Uganda: A Research Guide
 
 ![Fishing boats and the landing-site market at Lake Victoria, Busabala, Uganda]({{ '/assets/images/cases/uganda.jpg' | relative_url }})
-<p style="font-size:0.85em; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-style:italic; color:#2874a6; margin-top:8px;">
 A Lake Victoria landing site at Busabala, near Kampala. Photo: <a href="https://unsplash.com/@zeus_007">Mpagi Philemon</a> / <a href="https://unsplash.com/photos/a-couple-of-boats-that-are-sitting-in-the-water-BYoTxq-p2LY">Unsplash</a>
 </p>
 

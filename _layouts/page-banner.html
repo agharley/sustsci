@@ -36,6 +36,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <!-- Navigation FIRST -->
   <header class="site-header">
     <nav class="site-nav">
@@ -65,7 +66,7 @@
   </div>
   {% endif %}
 
-  <main class="page-container">
+  <main id="main-content" class="page-container">
     {% if page.subtitle %}
     <p class="page-subtitle">{{ page.subtitle }}</p>
     {% endif %}

@@ -26,15 +26,15 @@ We will come back to the Fishbanks case, and your explorations of it, frequently
 To prepare for the class, please:
 
 **a) Read:**  
-Meadows, D., Sterman, J., & King, A. (2024). Fishbanks: A Renewable Resource Management Simulation. Link [here](https://mitsloan.mit.edu/teaching-resources-library/fishbanks-a-renewable-resource-management-simulation).  
+Meadows, D., Sterman, J., & King, A. (2024). Fishbanks: A Renewable Resource Management Simulation. Link [Fishbanks at MIT Sloan](https://mitsloan.mit.edu/teaching-resources-library/fishbanks-a-renewable-resource-management-simulation).  
 > This is the home page for the Fishbanks simulation from which you will play the game solo as homework and as a team in class. It is also where you can access reading ‘b’ below.
 
 **b) Watch:**  
-Sterman, J. (Director). (2011). Fishbanks: A renewable resource management simulation: A video introduction [Video recording]. MIT Management Sloan School. Link [here](https://forio.com/simulate/mit/fishbanks/simulation/login.html).  
+Sterman, J. (Director). (2011). Fishbanks: A renewable resource management simulation: A video introduction [Video recording]. MIT Management Sloan School. Link [Fishbanks simulation (login)](https://forio.com/simulate/mit/fishbanks/simulation/login.html).  
 > This video runs about 36 minutes. It provides essential background to how you will play your role in the class simulation. It can be accessed through the main link provided above to the Fishbanks simulation. Scroll down and click on "Play Simulation" and then on the page that opens, look on the right-hand side for the Student menu click "View instructional video".
 
 **c) Read:**  
-Sterman, J., & King, A. (2011). Introduction to Fishbanks (Nos. 11–133; p. 2). MIT Sloan Management. Link [here](https://forio.com/simulate/mit/fishbanks/simulation/downloads/english/Fishbanks%20Introduction.pdf).  
+Sterman, J., & King, A. (2011). Introduction to Fishbanks (Nos. 11–133; p. 2). MIT Sloan Management. Link [Fishbanks simulation (download)](https://forio.com/simulate/mit/fishbanks/simulation/downloads/english/Fishbanks%20Introduction.pdf).  
 > This is a two-page summary of essential preparation for the in-class gaming session including the decisions you will need to make in each round of the simulation.
 
 **d) Play:**  
@@ -73,15 +73,15 @@ Please play the Fishbanks simulation solo before class to get the feel of the ga
 The next three readings provide insights into recent progress and remaining challenges in managing fisheries for sustainability:
 
 **e) Read:**  
-Worm, B., Hilborn, R., Baum, J. K., Branch, T. A., Collie, J. S., Costello, C., Fogarty, M. J., Fulton, E. A., Hutchings, J. A., Jennings, S., Jensen, O. P., Lotze, H. K., Mace, P. M., McClanahan, T. R., Palumbi, S. R., Parma, A. M., Rikard, D., Rosenberg, A. A., Zeller, D., & Minto, C. (2009). Rebuilding Global Fisheries. Science, 325(5940), 578–585. Link [here](https://doi.org/10.1126/science.1173146). Open access copy [here](https://digitalcommons.uri.edu/gsofacpubs/930).  
+Worm, B., Hilborn, R., Baum, J. K., Branch, T. A., Collie, J. S., Costello, C., Fogarty, M. J., Fulton, E. A., Hutchings, J. A., Jennings, S., Jensen, O. P., Lotze, H. K., Mace, P. M., McClanahan, T. R., Palumbi, S. R., Parma, A. M., Rikard, D., Rosenberg, A. A., Zeller, D., & Minto, C. (2009). Rebuilding Global Fisheries. Science, 325(5940), 578–585. Link [Read the article (Science)](https://doi.org/10.1126/science.1173146). Open access copy [Open-access copy (URI Digital Commons)](https://digitalcommons.uri.edu/gsofacpubs/930).  
 > This paper discusses global efforts to rebuild fisheries, highlighting successes and ongoing challenges in marine resource management.
 
 **f) Read:**  
-Hilborn, R., & Costello, C. (2018). The potential for blue growth in marine fish yield, profit and abundance of fish in the ocean. Marine Policy, 87, 350–355. Link [here](https://doi.org/10.1016/j.marpol.2017.02.003).  
+Hilborn, R., & Costello, C. (2018). The potential for blue growth in marine fish yield, profit and abundance of fish in the ocean. Marine Policy, 87, 350–355. Link [Read the article (Marine Policy)](https://doi.org/10.1016/j.marpol.2017.02.003).  
 > This article explores how sustainable management can increase yields, profits, and abundance in marine fisheries.
 
 **g) Read:**  
-Roberts, C., Béné, C., Bennett, N., Boon, J. S., Cheung, W. W. L., Cury, P., Defeo, O., De Jong Cleyndert, G., Froese, R., Gascuel, D., Golden, C. D., Hawkins, J., Hobday, A. J., Jacquet, J., Kemp, P., Lam, M. E., Le Manach, F., Meeuwig, J. J., Micheli, F., … O’Leary, B. C. (2024). Rethinking sustainability of marine fisheries for a fast-changing planet. Npj Ocean Sustainability, 3(1), 41. Link [here](https://doi.org/10.1038/s44183-024-00078-2).  
+Roberts, C., Béné, C., Bennett, N., Boon, J. S., Cheung, W. W. L., Cury, P., Defeo, O., De Jong Cleyndert, G., Froese, R., Gascuel, D., Golden, C. D., Hawkins, J., Hobday, A. J., Jacquet, J., Kemp, P., Lam, M. E., Le Manach, F., Meeuwig, J. J., Micheli, F., … O’Leary, B. C. (2024). Rethinking sustainability of marine fisheries for a fast-changing planet. Npj Ocean Sustainability, 3(1), 41. Link [Read the article (npj Ocean Sustainability)](https://doi.org/10.1038/s44183-024-00078-2).  
 > This recent publication evaluates new approaches to sustainable fisheries in a rapidly changing global environment.
 
 ---

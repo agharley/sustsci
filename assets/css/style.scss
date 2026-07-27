@@ -1691,3 +1691,63 @@ sup {
 @media (max-width: 720px) {
   .case-grid { grid-template-columns: 1fr; }
 }
+
+
+/* ===== Accessibility (WCAG 2.1 AA) ===== */
+
+/* Skip link: hidden until keyboard focus */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  background: var(--color-navy);
+  color: #fff;
+  padding: 0.6rem 1rem;
+  font-family: var(--font-sans);
+  text-decoration: underline;
+}
+.skip-link:focus {
+  left: 0;
+}
+
+/* Visually hidden (screen-reader-only) text */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Sidebar toggle is now a real button; keep its appearance identical */
+button.sidebar-arrow {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  line-height: inherit;
+}
+
+/* Underline links in running text so they are not distinguished by color alone.
+   Navigational components (cards, button rows, sidebars) keep their clean styling. */
+main a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+main .about-links a,
+main .library-links a,
+main .part-card a,
+main .part-card-units a {
+  text-decoration: none;
+}
+main .about-links a:hover,
+main .library-links a:hover,
+main .part-card-units a:hover {
+  text-decoration: underline;
+}

@@ -22,11 +22,11 @@ It has been clear at least since the 1987 report of the Brundtland Commission th
 To prepare for the class, please:
 
 **a) Read:**  
-Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press. Ch. 1, “Pursuing sustainability: An introduction” (pp. 1–13). Link [here](https://assets.press.princeton.edu/chapters/s10777.pdf).  
+Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press. Ch. 1, “Pursuing sustainability: An introduction” (pp. 1–13). Link [Read the chapter (PDF)](https://assets.press.princeton.edu/chapters/s10777.pdf).  
 > This book provides the central text for the course, and we will return to it frequently. It is available from most online book sellers and as a (cheaper) e-book from the usual online sources. Note that the four case studies of the pursuit of sustainability introduced in this reading are presented in greater detail in Appendix A of the book.
 
 **b) Watch:**  
-Steiner, A. (Director). (2020, December). Humanity’s planet-shaping powers—And what they mean for the future. TED Talk. United Nations Development Program. (19 min.) Link [here](https://www.ted.com/talks/achim_steiner_humanity_s_planet_shaping_powers_and_what_they_mean_for_the_future?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).  
+Steiner, A. (Director). (2020, December). Humanity’s planet-shaping powers—And what they mean for the future. TED Talk. United Nations Development Program. (19 min.) Link [Watch the TED talk](https://www.ted.com/talks/achim_steiner_humanity_s_planet_shaping_powers_and_what_they_mean_for_the_future?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).  
 > This is a TED Talk providing insight into humanity's impact on the planet and the future of sustainable development.
 
 **c) Read:**  

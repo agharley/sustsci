@@ -6,7 +6,7 @@ meta-description: A research guide to the Pearl River Delta's pursuit of sustain
 # Pursuing Sustainability in the Pearl River Delta: A Research Guide
 
 ![The skyline of Qianhai, Shenzhen, at dusk, with a ferris wheel and Qianhai Bay at left and construction cranes among the towers]({{ '/assets/images/cases/pearl-river-delta.jpg' | relative_url }})
-<p style="font-size:0.85em; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-style:italic; color:#2874a6; margin-top:8px;">
 Qianhai, Shenzhen, at dusk. In 1979 Shenzhen was a market town of a few tens of thousands of people (Section 2); Qianhai today is a financial district rising on reclaimed land at the mouth of the delta. Photo: <a href="https://unsplash.com/photos/a-view-of-a-city-at-night-with-a-ferris-wheel-in-the-distance-BYPHnneWj3M">darmau</a> / <a href="https://unsplash.com/license">Unsplash</a>.
 </p>
 
@@ -90,7 +90,7 @@ Structural changes in the economic production of the region have also created bo
 
 ![Landsat satellite image of the Pearl River Delta in November 2014, showing nearly continuous built-up land around the estuary]({{ '/assets/images/cases/prd-landsat-2014.jpg' | relative_url }})
 
-<p style="font-size:0.85em; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-style:italic; color:#2874a6; margin-top:8px;">
 The delta seen by Landsat in November 1988 (first image) and November 2014 (second). In 1988 the estuary is still ringed by farmland and fish ponds; by 2014 built-up land is nearly continuous around it. Images: <a href="https://science.nasa.gov/earth/earth-observatory/the-worlds-largest-urban-area-86603/">NASA Earth Observatory</a> (Joshua Stevens), using Landsat data from the U.S. Geological Survey.
 </p>
 

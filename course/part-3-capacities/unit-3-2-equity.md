@@ -21,7 +21,7 @@ This framework (see figure 1) reveals that building capacity to promote equity i
 - **Resource mobilization (countering the first dimension):** Building coalitions and marshaling resources to contest decisions in open arenas; developing the organizational capacity for sustained collective action.
 
 ![The Three Dimensions of Power and Empowerment](../images/empowerment_gaventa.png)
-<p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#4472C4; opacity:0.8; margin-top:8px;">
+<p style="font-size:0.85em; font-weight:bold; font-style:italic; color:#2874a6; margin-top:8px;">
 Figure 4: The Three Dimensions of Power and Empowerment (Adapted from Gaventa, 1980, p. 21)
 </p>
 
