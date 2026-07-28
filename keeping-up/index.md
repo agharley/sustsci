@@ -15,8 +15,8 @@ Resources for staying current with developments in sustainability science and re
   </div>
   
   <div class="section-card card-sub card-keeping">
-    <h3>Curated Research Updates</h3>
-    <p>Featured research selections in sustainability science—papers we loved, updated monthly.</p>
+    <h3>Featured Research</h3>
+    <p>A monthly selection of recent sustainability science publications we loved.</p>
     <a href="{{ '/keeping-up/research/' | relative_url }}" class="card-link">View research →</a>
   </div>
   
