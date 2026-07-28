@@ -14,7 +14,7 @@ In practice, this means the site is designed to work with screen readers and key
 We are actively working through the following, and note them here in the interest of transparency:
 
 - **PDF documents.** The course library contains many PDF documents (teaching cases, unit guides, and game guides). Some of these do not yet have the internal tagging that screen readers rely on. We are remediating them on a rolling basis, prioritizing the most heavily used documents. If you need a specific document in an accessible format in the meantime, contact us and we will prioritize it.
-- **Interactive simulations.** The course's learning games (the Fishbanks simulation and NetLogo models) are visual, interactive tools provided by third parties and are not fully accessible to screen-reader users. The core lessons of each game are also conveyed in the accompanying written guides and debrief readings, which we are happy to help any student or instructor use as an alternative.
+- **Interactive simulations.** The course's learning games (the Fishbanks simulation and NetLogo models) are visual, interactive tools provided by third parties and are not fully accessible to screen-reader users. The ideas each game is designed to teach are also developed in the readings and debrief discussions of the units that use them (Units 0.2, 2.1–2.3, and 2.7). If the games themselves are a barrier for you, contact us.
 - **Linked external content.** Course readings link to many external sites and publishers whose accessibility we do not control.
 
 ## Tell us if something isn't working
