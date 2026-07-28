@@ -5,8 +5,6 @@ description: Featured research selections in sustainability science—papers we 
 permalink: /keeping-up/research/
 ---
 
-## Featured Research: Recent Sustainability Science Publications We Loved
-
 We curate publications in sustainability science that address what we take to be the field's core challenge: understanding and navigating nature-society systems (complex adaptive systems, coupled human-environment dynamics, socio-ecological systems) to enable transformations toward more equitable development pathways for both current and future generations.
 
 Updated monthly.
