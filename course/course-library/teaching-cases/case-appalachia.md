@@ -19,7 +19,7 @@ The case is written to support teaching and learning about sustainable developme
 
 ## Using this case in the course
 
-The Appalachia case is first assigned in [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html) (actors, institutions, and power) — the unit its themes speak to most directly — and returns in [Unit 3.2](/course/part-3-capacities/unit-3-2-equity.html) (the capacity to promote equity) and [Unit 3.7](/course/part-3-capacities/unit-3-7-transform.html) (the capacity to transform development pathways). Used this way, the case lets students watch the ideas of successive units accumulate around a single place — and practice the essential work of fitting general ideas to context.
+The Appalachia case is first assigned in [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html) (actors, institutions, and power) — the unit its themes speak to most directly — and returns in [Unit 3.2](/course/part-3-capacities/unit-3-2-equity.html) (the capacity to promote equity) and [Unit 3.7](/course/part-3-capacities/unit-3-7-transform.html) (the capacity to transform development pathways). Used this way, the case lets students watch the ideas of successive units accumulate around a single place — and practice the essential work of fitting general ideas to context. Sustainable development is a long, intergenerational process; cases that span generations let students watch development pathways — and efforts to bend them — unfold at the time scales that matter.
 
 ## Download
 
