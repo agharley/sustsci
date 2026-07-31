@@ -20,7 +20,7 @@ written since that book was published.
 <div class="case-grid">
 
   <div class="case-card">
-    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-alaska.pdf' | relative_url }}">
+    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-alaska.html' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/alaska.jpg' | relative_url }}" alt="Salmon fishing sailboat at Clark's Point, Bristol Bay, Alaska"></div>
       <div class="case-info-head"><h3>The Alaskan Salmon Fishery: Managing Resources in a Globalizing World</h3></div>
     </a>
@@ -32,7 +32,7 @@ written since that book was published.
   </div>
 
   <div class="case-card">
-    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-appalachia.pdf' | relative_url }}">
+    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-appalachia.html' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/appalachia.jpg' | relative_url }}" alt="Child coal miners with mine mules in a West Virginia coal mine, 1908"></div>
       <div class="case-info-head"><h3>The Struggle for Sustainable Development in Appalachia’s Mineral Rich Mountains</h3></div>
     </a>
@@ -44,7 +44,7 @@ written since that book was published.
   </div>
 
   <div class="case-card">
-    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-london.pdf' | relative_url }}">
+    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-london.html' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/london.jpg' | relative_url }}" alt="The Great Fire of London, 1666, anonymous painting"></div>
       <div class="case-info-head"><h3>London: A Multi-Century Struggle for Sustainable Development in an Urban Environment</h3></div>
     </a>
@@ -56,7 +56,7 @@ written since that book was published.
   </div>
 
   <div class="case-card">
-    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-london-addendum.pdf' | relative_url }}">
+    <a class="case-link" href="{{ '/course/course-library/teaching-cases/case-london-addendum.html' | relative_url }}">
       <div class="case-thumb"><img src="{{ '/assets/images/cases/london-addendum.jpg' | relative_url }}" alt="West India Docks, London, 1810 — ships from the colonial trade"></div>
       <div class="case-info-head"><h3>Looking Outward: Refocusing Attention on London’s Hinterland</h3></div>
     </a>
