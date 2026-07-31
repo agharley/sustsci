@@ -28,7 +28,7 @@ To prepare for this Unit, please:
 
 **a) Read:**  
 Clark, W. C., & Harley, A. G. (2020). Sustainability Science: Toward a Synthesis. Annual Review of Environment and Resources, 45(1), 331–386. [https://doi.org/10.1146/annurev-environ-012420-043621](https://doi.org/10.1146/annurev-environ-012420-043621)  
-> This review synthesizes two decades of sustainability science research and introduces the six-capacities framework that structures Part III of this course. You began this paper in Unit 2.8, where you read pages 331-342 covering the Framework for Research in Sustainability Science. Now complete the paper by reading pages 343-372, which detail the six capacities for sustainable development that will guide Part III of this course.
+> This review synthesizes two decades of sustainability science research and introduces the six-capacities framework that structures Part III of this course. You began this paper in [Unit 2.8](/course/part-2-anthropocene/unit-2-8-synthesis.html), where you read pages 331-342 covering the Framework for Research in Sustainability Science. Now complete the paper by reading pages 343-372, which detail the six capacities for sustainable development that will guide Part III of this course.
 
 **b) Read:**  
 Sen, A. (2000). Development as Freedom (1st Anchor Books ed.). Anchor Books. ([publisher](https://www.penguinrandomhouse.com/books/163962/development-as-freedom-by-amartya-sen/))  
@@ -49,7 +49,7 @@ United Nations Department of Economic and Social Affairs. (n.d.). Capacity Devel
 
 **IV. Capacity trade-offs and tensions:** Reading ‘a’ emphasizes that the six capacities are interdependent—they often function as complements but can also exist in tension with one another. Can you think of examples where building one capacity might conflict with building another? How might practitioners navigate such trade-offs?
 
-**V. Capacities in Appalachia:** Reflecting on the Appalachia case assigned earlier in the course in Unit 2.6: Given the region's history of resource extraction, power imbalances, and community resistance movements, which of the six capacities are most needed to be strengthened by local actors to better foster sustainable development in the region today? Explain your reasoning.
+**V. Capacities in Appalachia:** Reflecting on the Appalachia case assigned earlier in the course in [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html): Given the region's history of resource extraction, power imbalances, and community resistance movements, which of the six capacities are most needed to be strengthened by local actors to better foster sustainable development in the region today? Explain your reasoning.
 
 **VI. Your own case:** Consider a sustainability challenge you're familiar with (it could be from your hometown, a case study from earlier in this course, or current events). Which of the six capacities seem most relevant to addressing that challenge? Which of the capacities seem least developed among the relevant actors?
 

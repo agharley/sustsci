@@ -26,7 +26,7 @@ To prepare for the class:
 
 **a) Read:**  
 Matson, P., Clark, W. C., & Andersson, K. (2016). Pursuing Sustainability: A Guide to the Science and Practice. Princeton University Press. Review pp. 14-20, Read “The determinants of well-being…  Natural capital (pp. 32-37); and “Farmer-managed Irrigation Systems in Nepal” (pp. 163-172).  
-> An introduction to resources (here called “assets”) as the determinants of well-being, and an overview of some of the natural resources most relevant to the pursuit of sustainability. And a fuller version of the Nepal case introduced in Unit 0.1.
+> An introduction to resources (here called “assets”) as the determinants of well-being, and an overview of some of the natural resources most relevant to the pursuit of sustainability. And a fuller version of the Nepal case introduced in [Unit 0.1](/course/part-0-introduction/unit-0-1-challenges.html).
 
 **b) Read:**  
 United Nations Environment Programme. (2024). Global Resources Outlook 2024: Bend the Trend – Pathways to a liveable planet as resource use spikes. International Resource Panel. [https://www.resourcepanel.org/reports/global-resources-outlook-2024](https://www.resourcepanel.org/reports/global-resources-outlook-2024).  
@@ -37,7 +37,7 @@ United Nations Environment Programme. (2024). Global Resources Outlook 2024: Ben
 ## Study Questions to help you get the most out of the readings
 
 **I.**  
-Efforts to provision the constituents of well-being draw on many natural resources. For example, meeting needs for consumption of food involves agricultural production processes that draw on multiple natural resources including (at least) land, water, energy, and biodiversity. Consider another constituent of well-being identified in your work with the OECD “Better Life” effort (Unit 1.2): “housing.” Which natural resources are most needed to provide the housing you have recently used? Think back to the housing of your grandparents' generation: How did the resource demands needed for provisioning their housing differ from those of today?
+Efforts to provision the constituents of well-being draw on many natural resources. For example, meeting needs for consumption of food involves agricultural production processes that draw on multiple natural resources including (at least) land, water, energy, and biodiversity. Consider another constituent of well-being identified in your work with the OECD “Better Life” effort ([Unit 1.2](/course/part-1-conceptual-challenge/unit-1-2-goals.html)): “housing.” Which natural resources are most needed to provide the housing you have recently used? Think back to the housing of your grandparents' generation: How did the resource demands needed for provisioning their housing differ from those of today?
 
 **II.**  
 What are the stocks of natural resources that played central roles in the Fishbanks game? In the Nepal case from the Matson et al. book? What are the flows from those stocks that affect the servicing or provisioning of key constituents of well-being for people in the Nepal case?

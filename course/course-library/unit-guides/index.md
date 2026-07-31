@@ -1,9 +1,53 @@
-# Part IV: What's Next for the World and for You
+---
+layout: course
+title: "Unit Guides"
+description: "Downloadable PDF guides for each unit of the Sustainable Development course."
+---
 
-Part IV of the course turns from analysis to action. Having examined in Part III the capacities that societies need in order to pursue sustainability, we ask here what individual actors can actually do, from wherever they sit, to help build and maintain those capacities and take concrete action in pursuit of sustainability. We focus on: i) envisioning sustainable futures and identifying the leverage points at which purposeful intervention can move development pathways toward them; ii) choosing policy instruments that build capacities for sustainability, and writing policy analysis in ways that decision-makers can act on; and iii) the qualities of leadership (empathy, systems thinking, adaptiveness, and patient persistence) that have proven especially effective at achieving progress on the ground.
+# Unit Guides
+
+This page provides links to all PDFs of the unit guides. It's an easier way to download all PDFs at once. To navigate to the webpages for each of the units, please use the navigation menu on the left. The final link downloads all unit guides as a single PDF.
 
 ---
 
-## Units
+## Part 0: Introduction
 
-- [Unit 4.1: What's Next](unit-4-1-whats-next.md)
+- [Unit 0.1: The Challenge of Sustainable Development](unit-0-1.pdf)
+- [Unit 0.2: Tragedies of the Commons](unit-0-2.pdf)
+
+## Part I: Sustainable Development as a Conceptual Challenge
+
+- [Unit 1.1: Framework](unit-1-1.pdf)
+- [Unit 1.2: Goals](unit-1-2.pdf)
+- [Unit 1.3: Natural Resources](unit-1-3.pdf)
+- [Unit 1.4: Anthropogenic Resources](unit-1-4.pdf)
+- [Unit 1.5: Integrated Assessment](unit-1-5.pdf)
+
+## Part II: The Anthropocene as a Complex Adaptive System
+
+- [Unit 2.1: System Dynamics](unit-2-1.pdf)
+- [Unit 2.2: Stocks & Flows](unit-2-2.pdf)
+- [Unit 2.3: Complexity](unit-2-3.pdf)
+- [Unit 2.4: Horizontal Connections](unit-2-4.pdf)
+- [Unit 2.5: Vertical Connections](unit-2-5.pdf)
+- [Unit 2.6: Actors, Institutions & Power](unit-2-6.pdf)
+- [Unit 2.7: Inequality](unit-2-7.pdf)
+- [Unit 2.8: Synthesis](unit-2-8.pdf)
+
+## Part III: Capacities Needed for the Pursuit of Sustainability
+
+- [Unit 3.1: Capacities Overview](unit-3-1.pdf)
+- [Unit 3.2: Equity](unit-3-2.pdf)
+- [Unit 3.3: Measure](unit-3-3.pdf)
+- [Unit 3.4: Adapt](unit-3-4.pdf)
+- [Unit 3.5: Govern](unit-3-5.pdf)
+- [Unit 3.6: Knowledge & Action](unit-3-6.pdf)
+- [Unit 3.7: Transform](unit-3-7.pdf)
+
+## Part IV: What's Next
+
+- [Unit 4.1: What's Next](unit-4-1.pdf)
+
+## Consolidated Reading Guides 
+
+- [All units](allunits-sustdev.pdf)

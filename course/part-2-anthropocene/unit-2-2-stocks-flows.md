@@ -64,7 +64,7 @@ What simplifications made in the NetLogo climate model might lead you to draw co
 
 ## Digging deeper (optional materials for further exploring frontiers in the pursuit of sustainability):
 
-**e) Continue to browse the two classic primers in general systems thinking and modeling originally listed in the “Digging Deeper” section of Unit 2.1:**  
+**e) Continue to browse the two classic primers in general systems thinking and modeling originally listed in the “Digging Deeper” section of [Unit 2.1](/course/part-2-anthropocene/unit-2-1-system-dynamics.html):**  
 - Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing. ([publisher](https://www.chelseagreen.com/product/thinking-in-systems/))  
 - Sterman, J. (2000). *Business dynamics: Systems thinking and modeling for a complex world*. Irwin/McGraw-Hill. ([publisher](https://www.mheducation.com/highered/product/business-dynamics-sterman.html))
 

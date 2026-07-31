@@ -79,7 +79,7 @@ Review the original text but focus on the Addendum from the assigned readings fo
 - What role did connections play?  
 - What were the consequences for the places to which London connected?
 
-**IV. For the case study of the Alaska fishery introduced in Unit 1.1:**  
+**IV. For the case study of the Alaska fishery introduced in [Unit 1.1](/course/part-1-conceptual-challenge/unit-1-1-framework.html):**  
 a) Identify **one connection** that is highly relevant to the pursuit of sustainability between the place that is the focus of the teaching case and some other place(s) in the world. Describe the connection in terms of both the flows involved (what is being moved, e.g., people, pollution, ideas, etc.) and the stocks that are thereby changed. Note that the impacts on stocks caused by the connection can be at either end of the flow, or both. Explain why you picked the connection you did.  
 b) What is the **system structure or process** through which the connection occurs (e.g., migration, air movement, communication)?  
 c) What modification of the structures or processes you identified in (b) could best advance the pursuit of sustainability? Explain your answer.
