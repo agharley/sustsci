@@ -29,4 +29,4 @@ The London case is first assigned in [Unit 1.4](/course/part-1-conceptual-challe
 
 Clark, W. C. (2015). *London: A Multi-Century Struggle for Sustainable Development in an Urban Environment.* HKS Faculty Research Working Paper Series No. RWP15-047, Harvard Kennedy School. Available from the [Harvard Kennedy School](https://www.hks.harvard.edu/publications/london-multi-century-struggle-sustainable-development-urban-environment).
 
-This case is Open Access under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Instructors are welcome to use and adapt it for their own classrooms, free of charge.
+© William C. Clark. Like any published paper, the case is under copyright by its author and provided open access — free to read, download, and assign in your own courses.

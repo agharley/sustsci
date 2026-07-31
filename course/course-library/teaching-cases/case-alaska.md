@@ -29,4 +29,4 @@ The Alaska case is the first case students meet: it is assigned in [Unit 1.1](/c
 
 Thompson, M. (2021). *The Alaskan Salmon Fishery: Managing Resources in a Globalizing World.* Course Library for Sustainable Development, Sustainability Science Program, Harvard University.
 
-This case is Open Access under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Instructors are welcome to use and adapt it for their own classrooms, free of charge.
+© Michaela Thompson. Like any published paper, the case is under copyright by its author and provided open access — free to read, download, and assign in your own courses.

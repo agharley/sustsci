@@ -29,4 +29,4 @@ The Appalachia case is first assigned in [Unit 2.6](/course/part-2-anthropocene/
 
 Harley, A. G., & Wexner, H. (2022). *The Struggle for Sustainable Development in Appalachia's Mineral Rich Mountains.* M-RCBG Associate Working Paper No. 184, Mossavar-Rahmani Center for Business & Government, Harvard Kennedy School. Available from the [Harvard Kennedy School](https://www.hks.harvard.edu/centers/mrcbg/publications/awp/awp184).
 
-This case is Open Access under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Instructors are welcome to use and adapt it for their own classrooms, free of charge.
+© Alicia G. Harley and Hannah Wexner. Like any published paper, the case is under copyright by its authors and provided open access — free to read, download, and assign in your own courses.

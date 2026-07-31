@@ -26,8 +26,7 @@ written since that book was published.
     </a>
     <div class="case-info-body">
       <p class="case-author"><a href="https://www.michaelathompson.net/">Michaela Thompson</a></p>
-      <p class="case-desc">The Alaskan salmon fishery is often held up as a model of successful, sustainable resource management — one of the few to have avoided catastrophic collapse. This case looks at the harder story beneath that reputation: how a place long seen as a land of inexhaustible resources has navigated globalization, consumption demands, and the long-term challenge of managing extraction.</p>
-      <span class="case-credit"><span class="credit-label">Image credit:</span> Alaska State Library, John E. Thwaites Photograph Collection, J.E. Thwaites, P18-118</span>
+      <p class="case-desc">The Alaskan salmon fishery is often held up as a model of successful, sustainable resource management — one of the few to have avoided catastrophic collapse. This case looks at the harder story beneath that reputation.</p>
     </div>
   </div>
 
@@ -39,7 +38,6 @@ written since that book was published.
     <div class="case-info-body">
       <p class="case-author">Alicia G. Harley and Hannah Wexner</p>
       <p class="case-desc">This teaching case examines the paradox of poverty amidst plenty, exploring the co-evolving history of nature and society in Central Appalachia from the Native American period to the present. It is a history of inequality and the maldistribution of power — but also a history of resistance and struggle.</p>
-      <span class="case-credit"><span class="credit-label">Image credit:</span> Library of Congress</span>
     </div>
   </div>
 
@@ -51,7 +49,6 @@ written since that book was published.
     <div class="case-info-body">
       <p class="case-author">William C. Clark</p>
       <p class="case-desc">Key episodes in the two-thousand-year history of the City of London and its immediate hinterlands — an empirical puzzle for studying how a city and the places around it change over the very long run.</p>
-      <span class="case-credit"><span class="credit-label">Image credit:</span> The Great Fire of London (anon., c. 1675), via Wikimedia Commons — public domain</span>
     </div>
   </div>
 
@@ -63,7 +60,6 @@ written since that book was published.
     <div class="case-info-body">
       <p class="case-author">Alicia G. Harley</p>
       <p class="case-desc">A short companion to the London case, about the distant places and resources London relied on as it grew.</p>
-      <span class="case-credit"><span class="credit-label">Image credit:</span> West India Docks (1810), The Met Collection — public domain</span>
     </div>
   </div>
 

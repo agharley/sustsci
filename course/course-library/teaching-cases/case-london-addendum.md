@@ -29,4 +29,4 @@ The addendum is assigned in [Unit 2.4](/course/part-2-anthropocene/unit-2-4-hori
 
 Harley, A. G. (2021). *Looking Outward: Refocusing Attention on London's Hinterland.* Addendum to Clark, W. C., "London: A Multi-Century Struggle for Sustainable Development in an Urban Environment." Course Library for Sustainable Development, Sustainability Science Program, Harvard University.
 
-This case is Open Access under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Instructors are welcome to use and adapt it for their own classrooms, free of charge.
+© Alicia G. Harley. Like any published paper, the addendum is under copyright by its author and provided open access — free to read, download, and assign in your own courses.
