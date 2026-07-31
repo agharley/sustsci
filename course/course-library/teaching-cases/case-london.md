@@ -1,5 +1,6 @@
 ---
 layout: course
+hide_license: true
 title: "London Teaching Case | Sustainable Development Course"
 description: "A free teaching case on two thousand years of nature-society interactions in London — an empirical puzzle for studying sustainable development over the very long run. Download the PDF."
 ---

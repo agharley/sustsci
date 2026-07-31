@@ -1,5 +1,6 @@
 ---
 layout: course
+hide_license: true
 title: "London's Hinterland Teaching Case | Sustainable Development Course"
 description: "A companion to the London teaching case: the distant places and resources — the hinterland — on which London relied as it grew. Free PDF download."
 ---

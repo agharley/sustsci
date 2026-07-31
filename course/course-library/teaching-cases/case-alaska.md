@@ -1,5 +1,6 @@
 ---
 layout: course
+hide_license: true
 title: "Alaska Salmon Fishery Teaching Case | Sustainable Development Course"
 description: "A free teaching case on the Alaskan salmon fishery — a celebrated model of sustainable resource management, and the harder story beneath its reputation. Download the PDF."
 ---

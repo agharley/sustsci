@@ -176,9 +176,11 @@
       <a href="{{ '/course/course-library/unit-guides/' | append: page.pdf | relative_url }}" class="pdf-download-btn" target="_blank">{{ page.title | split: ':' | first }} Reading Guide (PDF)</a>
       {% endif %}
       
+      {% unless page.hide_license %}
       <footer class="course-unit-footer">
         <p>This material is Open Access under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>.</p>
       </footer>
+      {% endunless %}
     </main>
   </div>
 

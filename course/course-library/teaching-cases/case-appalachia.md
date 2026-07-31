@@ -1,5 +1,6 @@
 ---
 layout: course
+hide_license: true
 title: "Appalachia Teaching Case | Sustainable Development Course"
 description: "A free teaching case on sustainable development in Central Appalachia: the paradox of poverty amidst plenty, from the Native American period to the present. Download the PDF."
 ---
