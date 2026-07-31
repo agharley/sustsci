@@ -38,7 +38,7 @@ Klein, N., & Crabapple, M. (2019, April 17). A message from the future with Alex
 
 **e) Review:**  
 The Appalachia case from [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html), i.e. Harley, A., & Wexner, H. (2022). The Struggle for Sustainable Development in Appalachia’s Mineral Rich Mountains. Sustainability Science Program Working Paper, 2022(1), 65. Also available in the course library [HERE](../course-library/teaching-cases/case-appalachia.pdf).  
-> As you re-read, consider how the institutional arrangements and power structures you analyzed in [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-institutions-power.html) create lock-in that prevents transformation away from extractive industries.
+> As you re-read, consider how the institutional arrangements and power structures you analyzed in Unit 2.6 create lock-in that prevents transformation away from extractive industries.
 
 ---
 

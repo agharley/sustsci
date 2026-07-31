@@ -71,7 +71,7 @@ Use the NetLogo fire model described in (c) above to explore how thresholds aris
 - What other nature-society interactions display relationships like those found in the simple fire model?
 
 **III. Fishbanks game ([Unit 0.2](/course/part-0-introduction/unit-0-2-tragedies.html)):**  
-Think back to the system dynamics of the Fishbanks game that you played in [Unit 0.2](/course/part-0-introduction/unit-0-2-tragedies.html). Describe the role of trial-and-error in your management of that complex adaptive system, with special attention to your goal, the trial of your action intended to achieve the goal, the measurement of the actual impact of your action, your assessment of what worked vs. what turned out to be an error, and what adaptation you adopted for the next round of play.  
+Think back to the system dynamics of the Fishbanks game that you played in Unit 0.2. Describe the role of trial-and-error in your management of that complex adaptive system, with special attention to your goal, the trial of your action intended to achieve the goal, the measurement of the actual impact of your action, your assessment of what worked vs. what turned out to be an error, and what adaptation you adopted for the next round of play.  
 - What were the successes of your approach to adaptive management?  
 - Where and why did it fall short?  
 - How could modeling the system help to improve your trial and error management?
