@@ -1,5 +1,6 @@
 ---
 layout: course
+hide_license: true
 title: Teaching Cases
 ---
 
