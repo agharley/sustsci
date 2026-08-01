@@ -110,11 +110,11 @@ What does SKY mean for intra-generational equity? Less than one might hope, beca
 | Who pays for the pump | Farmer, full price, in cash | Government pays up to 90%; farmer the rest | Local enterprise, financed by IDCOL | Farmer, with subsidy and loan, grid-tied |
 | How a small farmer benefits | Sharing or renting panels (anecdotal) | Rarely: slots go to larger farmers | Buys water per irrigation, no capital needed | Rarely: must already own a grid-connected pump |
 | Groundwater use | Solar adopters pump ~25% more than diesel farms | Solar adopters' water use up ~25% (Rajasthan) | No increase: farmers pay per irrigation | Growth slowed: selling power pays better than pumping |
-| Adoption to date | ≈960,000 pumps | ≈1.5 million pumps | ≈2,800 pumps (each serves many water buyers) | ≈4,300 pumps (one per enrolled farmer) |
+| Adoption to date | ≈960,000 pumps: over half of all farm pumping, reached in about three years | ≈1.5 million pumps: about 5% of the pump stock, after fifteen years | ≈2,800 pumps, each serving many water buyers | ≈4,300 pumps, one per enrolled farmer |
 
 *Table 1: The same technology under four institutional arrangements.*
 
-![Solar irrigation pumps plotted in sustainability space: Pakistan and India shown with carbon-only and with-groundwater positions, Bangladesh holding the line on groundwater, and an arrow showing Gujarat SKY moving India's pump upward]({{ site.baseurl }}/assets/images/solar-irrigation-sustainability-space.svg)
+<img src="{{ site.baseurl }}/assets/images/solar-irrigation-sustainability-space.svg" alt="Solar irrigation pumps plotted in sustainability space: Pakistan and India shown with carbon-only and with-groundwater positions, Bangladesh holding the line on groundwater, and an arrow showing Gujarat SKY moving India's pump upward" style="margin-top: 3rem;">
 
 *Figure 2: One basic technology, four sociotechnical arrangements. Solar irrigation plotted in "sustainability space." Hollow circles show where Pakistan's and India's off-grid rollouts would sit counting carbon alone; filled dots also count the drawn-down water table. Bangladesh's service model holds the line on groundwater and reaches the smallest farmers. Gujarat's SKY pilot rewards conservation outright, but its enrollment still skews to larger farms, so the arrow rises far more than it moves right. Counts show adoption to date; positions show who benefits and when, not how many. Positions are illustrative, not measured.*
 
