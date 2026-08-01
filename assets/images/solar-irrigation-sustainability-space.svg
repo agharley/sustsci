@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="axisArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="innoArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="gwArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8a8a84"/>
+    </marker>
+  </defs>
+  <rect width="900" height="640" fill="white"/>
+
+  <!-- Figure title -->
+  <text x="512" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">Solar Irrigation Pumps in “Sustainability Space”</text>
+
+  <!-- Copyright -->
+  <text x="825" y="625" text-anchor="end" font-size="10.5" fill="#8a8a8a">© 2026 Alicia G. Harley · sustainabilityscience.org</text>
+
+  <!-- Vertical axis line -->
+  <line x1="200" y1="450" x2="200" y2="65" stroke="#1a1a1a" stroke-width="2.5" marker-end="url(#axisArrow)"/>
+
+  <!-- Horizontal axis line -->
+  <line x1="200" y1="450" x2="825" y2="450" stroke="#1a1a1a" stroke-width="2.5" marker-end="url(#axisArrow)"/>
+
+  <!-- Vertical axis rotated header (far left) -->
+  <text x="40" y="255" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2.5" fill="#1a1a1a" transform="rotate(-90 40 255)">BENEFITS ACROSS FUTURE GENERATIONS</text>
+
+  <!-- Vertical endpoint descriptors (just inside axis) -->
+  <text x="188" y="56" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="70" text-anchor="end" font-size="11.5" fill="#1a1a1a">in the Future</text>
+  <text x="188" y="442" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="456" text-anchor="end" font-size="11.5" fill="#1a1a1a">in the Present</text>
+
+  <!-- Horizontal axis header -->
+  <text x="510.0" y="485" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2.5" fill="#1a1a1a">BENEFITS WITHIN CURRENT GENERATION</text>
+
+  <!-- Horizontal endpoint descriptors -->
+  <text x="200" y="512" text-anchor="start" font-size="11.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="200" y="526" text-anchor="start" font-size="11.5" fill="#1a1a1a">Few/Near/Wealthy</text>
+  <text x="820" y="512" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="820" y="526" text-anchor="end" font-size="11.5" fill="#1a1a1a">Many/Far/Poor</text>
+
+  <!-- Faint sun: the upper-right aspiration, echoing Figure 1 -->
+  <g opacity="0.22">
+    <line x1="709.6" y1="145.8" x2="725.6" y2="145.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="706.1" y1="158.8" x2="720.0" y2="166.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="696.6" y1="168.3" x2="704.6" y2="182.2" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="683.6" y1="171.8" x2="683.6" y2="187.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="670.6" y1="168.3" x2="662.6" y2="182.2" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="661.1" y1="158.8" x2="647.2" y2="166.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="657.6" y1="145.8" x2="641.6" y2="145.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="661.1" y1="132.8" x2="647.2" y2="124.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="670.6" y1="123.3" x2="662.6" y2="109.4" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="683.6" y1="119.8" x2="683.6" y2="103.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="696.6" y1="123.3" x2="704.6" y2="109.4" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="706.1" y1="132.8" x2="720.0" y2="124.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="683.6" cy="145.8" r="20" fill="#d4a24a"/>
+  </g>
+
+  <!-- === Two readings legend === -->
+  <circle cx="252" cy="315" r="5" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
+  <text x="264" y="319" font-size="11" fill="#8a8a84" font-style="italic">counting carbon alone</text>
+  <circle cx="252" cy="335" r="5" fill="#1a1a1a"/>
+  <text x="264" y="339" font-size="11" fill="#8a8a84" font-style="italic">also counting the drawn-down water table</text>
+
+  <!-- === The four cases: same basic technology, four sociotechnical arrangements === -->
+  <!-- Pakistan: hollow = carbon-only reading, filled = counting groundwater -->
+  <circle cx="320" cy="185" r="6" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
+  <line x1="320" y1="193" x2="320" y2="242" stroke="#8a8a84" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <circle cx="320" cy="250" r="6" fill="#1a1a1a"/>
+  <text x="308" y="236" text-anchor="end" font-size="11.5" font-weight="700" fill="#1a1a1a">Pakistan</text>
+  <text x="308" y="250" text-anchor="end" font-size="11" fill="#4a4a4a">off-grid, self-financed:</text>
+  <text x="308" y="264" text-anchor="end" font-size="11" fill="#4a4a4a">wealthier farmers first</text>
+  <text x="308" y="278" text-anchor="end" font-size="10.5" font-style="italic" fill="#8a8a84">≈960,000 pumps</text>
+
+  <!-- India: hollow = carbon-only reading, filled = counting groundwater -->
+  <circle cx="370" cy="185" r="6" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
+  <line x1="370" y1="193" x2="370" y2="242" stroke="#8a8a84" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <circle cx="370" cy="250" r="6" fill="#1a1a1a"/>
+  <text x="384" y="266" text-anchor="start" font-size="11.5" font-weight="700" fill="#1a1a1a">India</text>
+  <text x="384" y="280" text-anchor="start" font-size="11" fill="#4a4a4a">off-grid, 90% subsidy:</text>
+  <text x="384" y="294" text-anchor="start" font-size="11" fill="#4a4a4a">captured by larger farmers</text>
+  <text x="384" y="308" text-anchor="start" font-size="10.5" font-style="italic" fill="#8a8a84">≈1.5 million pumps</text>
+
+  <!-- Bangladesh: no extra pumping, so one dot -->
+  <circle cx="640" cy="217" r="6" fill="#1a1a1a"/>
+  <text x="654" y="212" text-anchor="start" font-size="11.5" font-weight="700" fill="#1a1a1a">Bangladesh</text>
+  <text x="654" y="226" text-anchor="start" font-size="11" fill="#4a4a4a">shared pump; water sold as a service:</text>
+  <text x="654" y="240" text-anchor="start" font-size="11" fill="#4a4a4a">small farmers buy water, not pumps</text>
+  <text x="654" y="254" text-anchor="start" font-size="10.5" font-style="italic" fill="#8a8a84">solar plots pump no more water than diesel plots</text>
+  <text x="654" y="268" text-anchor="start" font-size="10.5" font-style="italic" fill="#8a8a84">≈2,800 pumps</text>
+
+  <!-- Intervention arrow: India's pump under SKY-style institutions -->
+  <line x1="374" y1="240" x2="424" y2="122" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#innoArrow)"/>
+  <text x="408" y="185" text-anchor="start" font-size="11" fill="#8a8a84" font-style="italic">same technology,</text>
+  <text x="408" y="200" text-anchor="start" font-size="11" fill="#8a8a84" font-style="italic">new institutions (rules and incentives)</text>
+
+  <!-- Gujarat SKY -->
+  <circle cx="430" cy="112" r="6" fill="#1a1a1a"/>
+  <text x="546" y="93" text-anchor="end" font-size="11.5" font-weight="700" fill="#1a1a1a">Gujarat's SKY pilot</text>
+  <text x="444" y="107" text-anchor="start" font-size="11" fill="#4a4a4a">grid-tied, surplus power bought back:</text>
+  <text x="444" y="121" text-anchor="start" font-size="11" fill="#4a4a4a">rewarding water left in the ground</text>
+  <text x="444" y="135" text-anchor="start" font-size="10.5" font-style="italic" fill="#8a8a84">(enrollment still skews to larger farms)</text>
+  <text x="444" y="149" text-anchor="start" font-size="10.5" font-style="italic" fill="#8a8a84">≈4,300 farmers</text>
+
+  <!-- Note on schematic placement -->
+  <text x="820" y="435" text-anchor="end" font-size="10.5" fill="#8a8a84" font-style="italic">positions are illustrative, not measured</text>
+</svg>

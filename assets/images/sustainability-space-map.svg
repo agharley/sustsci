@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="axisArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="innoArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="sweepArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#4a4a4a"/>
+    </marker>
+  </defs>
+  <rect width="900" height="640" fill="white"/>
+
+  <!-- Figure title -->
+  <text x="512" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a1a">&#8220;Sustainability Space&#8221;</text>
+
+  <!-- Copyright -->
+  <text x="825" y="625" text-anchor="end" font-size="10.5" fill="#8a8a8a">&#169; 2026 Alicia G. Harley &#183; sustainabilityscience.org</text>
+
+  <!-- Vertical axis line -->
+  <line x1="200" y1="450" x2="200" y2="65" stroke="#1a1a1a" stroke-width="2.5" marker-end="url(#axisArrow)"/>
+
+  <!-- Horizontal axis line -->
+  <line x1="200" y1="450" x2="825" y2="450" stroke="#1a1a1a" stroke-width="2.5" marker-end="url(#axisArrow)"/>
+
+  <!-- Vertical axis rotated header (far left) -->
+  <text x="40" y="255" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2.5" fill="#1a1a1a" transform="rotate(-90 40 255)">BENEFITS ACROSS FUTURE GENERATIONS</text>
+
+  <!-- Vertical endpoint descriptors (just inside axis) -->
+  <text x="188" y="56" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="70" text-anchor="end" font-size="11.5" fill="#1a1a1a">in the Future</text>
+  <text x="188" y="442" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="456" text-anchor="end" font-size="11.5" fill="#1a1a1a">in the Present</text>
+
+  <!-- Horizontal axis header -->
+  <text x="510.0" y="485" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2.5" fill="#1a1a1a">BENEFITS WITHIN CURRENT GENERATION</text>
+
+  <!-- Horizontal endpoint descriptors -->
+  <text x="200" y="512" text-anchor="start" font-size="11.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="200" y="526" text-anchor="start" font-size="11.5" fill="#1a1a1a">Few/Near/Wealthy</text>
+  <text x="820" y="512" text-anchor="end" font-size="11.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="820" y="526" text-anchor="end" font-size="11.5" fill="#1a1a1a">Many/Far/Poor</text>
+
+  <!-- Symbolic sun / anchor in upper-right quadrant -->
+  <g opacity="0.92">
+    <line x1="709.6" y1="145.8" x2="725.6" y2="145.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="706.1" y1="158.8" x2="720.0" y2="166.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="696.6" y1="168.3" x2="704.6" y2="182.2" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="683.6" y1="171.8" x2="683.6" y2="187.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="670.6" y1="168.3" x2="662.6" y2="182.2" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="661.1" y1="158.8" x2="647.2" y2="166.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="657.6" y1="145.8" x2="641.6" y2="145.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="661.1" y1="132.8" x2="647.2" y2="124.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="670.6" y1="123.3" x2="662.6" y2="109.4" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="683.6" y1="119.8" x2="683.6" y2="103.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="696.6" y1="123.3" x2="704.6" y2="109.4" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="706.1" y1="132.8" x2="720.0" y2="124.8" stroke="#d4a24a" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="683.6" cy="145.8" r="20" fill="#d4a24a"/>
+  </g>
+</svg>
