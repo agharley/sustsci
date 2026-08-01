@@ -28,19 +28,19 @@
   <text x="40" y="255" text-anchor="middle" font-size="14.5" font-weight="700" letter-spacing="2.5" fill="#1a1a1a" transform="rotate(-90 40 255)">BENEFITS ACROSS FUTURE GENERATIONS</text>
 
   <!-- Vertical endpoint descriptors (just inside axis) -->
-  <text x="188" y="56" text-anchor="end" font-size="13.5" fill="#1a1a1a">Benefits Accrue</text>
-  <text x="188" y="70" text-anchor="end" font-size="13.5" fill="#1a1a1a">in the Future</text>
-  <text x="188" y="442" text-anchor="end" font-size="13.5" fill="#1a1a1a">Benefits Accrue</text>
-  <text x="188" y="456" text-anchor="end" font-size="13.5" fill="#1a1a1a">in the Present</text>
+  <text x="188" y="56" text-anchor="end" font-size="12.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="70" text-anchor="end" font-size="12.5" fill="#1a1a1a">in the Future</text>
+  <text x="188" y="442" text-anchor="end" font-size="12.5" fill="#1a1a1a">Benefits Accrue</text>
+  <text x="188" y="456" text-anchor="end" font-size="12.5" fill="#1a1a1a">in the Present</text>
 
   <!-- Horizontal axis header -->
   <text x="510.0" y="485" text-anchor="middle" font-size="14.5" font-weight="700" letter-spacing="2.5" fill="#1a1a1a">BENEFITS WITHIN CURRENT GENERATION</text>
 
   <!-- Horizontal endpoint descriptors -->
-  <text x="200" y="512" text-anchor="start" font-size="13.5" fill="#1a1a1a">Benefits Accrue to the</text>
-  <text x="200" y="526" text-anchor="start" font-size="13.5" fill="#1a1a1a">Few/Near/Wealthy</text>
-  <text x="820" y="512" text-anchor="end" font-size="13.5" fill="#1a1a1a">Benefits Accrue to the</text>
-  <text x="820" y="526" text-anchor="end" font-size="13.5" fill="#1a1a1a">Many/Far/Poor</text>
+  <text x="200" y="512" text-anchor="start" font-size="12.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="200" y="526" text-anchor="start" font-size="12.5" fill="#1a1a1a">Few/Near/Wealthy</text>
+  <text x="820" y="512" text-anchor="end" font-size="12.5" fill="#1a1a1a">Benefits Accrue to the</text>
+  <text x="820" y="526" text-anchor="end" font-size="12.5" fill="#1a1a1a">Many/Far/Poor</text>
 
   <!-- Faint sun: the upper-right aspiration, echoing Figure 1 -->
   <g opacity="0.22">
@@ -60,50 +60,50 @@
   </g>
 
   <!-- === Two readings legend === -->
-  <circle cx="252" cy="315" r="5" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
-  <text x="264" y="319" font-size="13" fill="#8a8a84" font-style="italic">counting carbon alone</text>
-  <circle cx="252" cy="335" r="5" fill="#1a1a1a"/>
-  <text x="264" y="339" font-size="13" fill="#8a8a84" font-style="italic">also counting the drawn-down water table</text>
+  <circle cx="252" cy="352" r="5" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
+  <text x="264" y="356" font-size="12" fill="#8a8a84" font-style="italic">counting carbon alone</text>
+  <circle cx="252" cy="372" r="5" fill="#1a1a1a"/>
+  <text x="264" y="376" font-size="12" fill="#8a8a84" font-style="italic">also counting the drawn-down water table</text>
 
   <!-- === The four cases: same basic technology, four sociotechnical arrangements === -->
   <!-- Pakistan: hollow = carbon-only reading, filled = counting groundwater -->
   <circle cx="320" cy="185" r="6" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
   <line x1="320" y1="193" x2="320" y2="242" stroke="#8a8a84" stroke-width="1.2" stroke-dasharray="4 4"/>
   <circle cx="320" cy="250" r="6" fill="#1a1a1a"/>
-  <text x="308" y="236" text-anchor="end" font-size="13.5" font-weight="700" fill="#1a1a1a">Pakistan</text>
-  <text x="308" y="250" text-anchor="end" font-size="13" fill="#4a4a4a">off-grid, self-financed:</text>
-  <text x="308" y="264" text-anchor="end" font-size="13" fill="#4a4a4a">wealthier farmers first</text>
-  <text x="308" y="278" text-anchor="end" font-size="12.5" font-style="italic" fill="#8a8a84">≈960,000 pumps</text>
+  <text x="205" y="274" text-anchor="start" font-size="12.5" font-weight="700" fill="#1a1a1a">Pakistan</text>
+  <text x="205" y="289" text-anchor="start" font-size="12" fill="#4a4a4a">off-grid, self-financed:</text>
+  <text x="205" y="303" text-anchor="start" font-size="12" fill="#4a4a4a">wealthier farmers first</text>
+  <text x="205" y="317" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">≈960,000 pumps</text>
 
   <!-- India: hollow = carbon-only reading, filled = counting groundwater -->
   <circle cx="370" cy="185" r="6" fill="white" stroke="#8a8a84" stroke-width="1.5"/>
   <line x1="370" y1="193" x2="370" y2="242" stroke="#8a8a84" stroke-width="1.2" stroke-dasharray="4 4"/>
   <circle cx="370" cy="250" r="6" fill="#1a1a1a"/>
-  <text x="384" y="266" text-anchor="start" font-size="13.5" font-weight="700" fill="#1a1a1a">India</text>
-  <text x="384" y="280" text-anchor="start" font-size="13" fill="#4a4a4a">off-grid, 90% subsidy:</text>
-  <text x="384" y="294" text-anchor="start" font-size="13" fill="#4a4a4a">captured by larger farmers</text>
-  <text x="384" y="308" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a8a84">≈1.5 million pumps</text>
+  <text x="384" y="266" text-anchor="start" font-size="12.5" font-weight="700" fill="#1a1a1a">India</text>
+  <text x="384" y="280" text-anchor="start" font-size="12" fill="#4a4a4a">off-grid, 90% subsidy:</text>
+  <text x="384" y="294" text-anchor="start" font-size="12" fill="#4a4a4a">captured by larger farmers</text>
+  <text x="384" y="308" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">≈1.5 million pumps</text>
 
   <!-- Bangladesh: no extra pumping, so one dot -->
   <circle cx="640" cy="217" r="6" fill="#1a1a1a"/>
-  <text x="654" y="212" text-anchor="start" font-size="13.5" font-weight="700" fill="#1a1a1a">Bangladesh</text>
-  <text x="654" y="226" text-anchor="start" font-size="13" fill="#4a4a4a">shared pump; water sold as a service:</text>
-  <text x="654" y="240" text-anchor="start" font-size="13" fill="#4a4a4a">small farmers buy water, not pumps</text>
-  <text x="654" y="254" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a8a84">solar plots pump no more water than diesel plots</text>
-  <text x="654" y="268" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a8a84">≈2,800 pumps</text>
+  <text x="654" y="212" text-anchor="start" font-size="12.5" font-weight="700" fill="#1a1a1a">Bangladesh</text>
+  <text x="654" y="226" text-anchor="start" font-size="12" fill="#4a4a4a">shared pump; water sold as a service:</text>
+  <text x="654" y="240" text-anchor="start" font-size="12" fill="#4a4a4a">small farmers buy water, not pumps</text>
+  <text x="654" y="254" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">solar plots pump no more water than diesel plots</text>
+  <text x="654" y="268" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">≈2,800 pumps</text>
 
   <!-- Intervention arrow: India's pump under SKY-style institutions -->
   <line x1="374" y1="240" x2="424" y2="122" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#innoArrow)"/>
-  <text x="408" y="185" text-anchor="start" font-size="13" fill="#8a8a84" font-style="italic">same technology,</text>
-  <text x="408" y="200" text-anchor="start" font-size="13" fill="#8a8a84" font-style="italic">new institutions (rules and incentives)</text>
+  <text x="408" y="185" text-anchor="start" font-size="12" fill="#8a8a84" font-style="italic">same technology,</text>
+  <text x="408" y="200" text-anchor="start" font-size="12" fill="#8a8a84" font-style="italic">new institutions (rules and incentives)</text>
 
   <!-- Gujarat SKY -->
   <circle cx="430" cy="112" r="6" fill="#1a1a1a"/>
-  <text x="546" y="93" text-anchor="end" font-size="13.5" font-weight="700" fill="#1a1a1a">Gujarat's SKY pilot</text>
-  <text x="444" y="107" text-anchor="start" font-size="13" fill="#4a4a4a">grid-tied, surplus power bought back:</text>
-  <text x="444" y="121" text-anchor="start" font-size="13" fill="#4a4a4a">rewarding water left in the ground</text>
-  <text x="444" y="135" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a8a84">(enrollment still skews to larger farms)</text>
-  <text x="444" y="149" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a8a84">≈4,300 farmers</text>
+  <text x="546" y="93" text-anchor="end" font-size="12.5" font-weight="700" fill="#1a1a1a">Gujarat's SKY pilot</text>
+  <text x="444" y="107" text-anchor="start" font-size="12" fill="#4a4a4a">grid-tied, surplus power bought back:</text>
+  <text x="444" y="121" text-anchor="start" font-size="12" fill="#4a4a4a">rewarding water left in the ground</text>
+  <text x="444" y="135" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">(enrollment still skews to larger farms)</text>
+  <text x="444" y="149" text-anchor="start" font-size="11.5" font-style="italic" fill="#8a8a84">≈4,300 farmers</text>
 
   <!-- Note on schematic placement -->
   <text x="820" y="435" text-anchor="end" font-size="12.5" fill="#8a8a84" font-style="italic">positions are illustrative, not measured</text>

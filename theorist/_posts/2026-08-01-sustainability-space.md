@@ -110,7 +110,7 @@ What does SKY mean for intra-generational equity? Less than one might hope, beca
 | Who pays for the pump | Farmer, full price, in cash | Government pays up to 90%; farmer the rest | Local enterprise, financed by IDCOL | Farmer, with subsidy and loan, grid-tied |
 | How a small farmer benefits | Sharing or renting panels (anecdotal) | Rarely: slots go to larger farmers | Buys water per irrigation, no capital needed | Rarely: must already own a grid-connected pump |
 | Groundwater use | Solar adopters pump ~25% more than diesel farms | Solar adopters' water use up ~25% (Rajasthan) | No increase: farmers pay per irrigation | Growth slowed: selling power pays better than pumping |
-| Adoption to date | ≈960,000 pumps: over half of all farm pumping, reached in about three years | ≈1.5 million pumps: about 5% of the pump stock, after fifteen years | ≈2,800 pumps, each serving many water buyers | ≈4,300 pumps, one per enrolled farmer |
+| Adoption to date | ≈960,000 pumps (>50% of farm pumping, in ~3 years) | ≈1.5 million pumps (~5% of pump stock, over 15 years) | ≈2,800 pumps (each serves many buyers) | ≈4,300 pumps (one per farmer) |
 
 *Table 1: The same technology under four institutional arrangements.*
 
