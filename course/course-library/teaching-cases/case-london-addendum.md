@@ -20,7 +20,7 @@ This short companion to the [London case](case-london.html) was written after we
 
 ## Using this case in the course
 
-The addendum is assigned in [Unit 2.4](/course/part-2-anthropocene/unit-2-4-horizontal-connections.html) (horizontal connections), after students have worked with the main London case — the point in the course where the question "sustainable for whom, and at whose expense?" acquires its geographic edge.
+The addendum is assigned in [Unit 2.4](/course/part-2-anthropocene/unit-2-4-horizontal-connections.html) (horizontal connections), after students have worked with the main London case — the point in the course where the question becomes "sustainable for whom, and at whose expense?"
 
 ## Download
 

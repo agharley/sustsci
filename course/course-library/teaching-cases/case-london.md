@@ -20,7 +20,7 @@ A companion piece, [Looking Outward: Refocusing Attention on London's Hinterland
 
 ## Using this case in the course
 
-The London case is first assigned in [Unit 1.4](/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources.html) (anthropogenic resources) and returns in [Unit 2.1](/course/part-2-anthropocene/unit-2-1-system-dynamics.html) (system dynamics), [Unit 2.4](/course/part-2-anthropocene/unit-2-4-horizontal-connections.html) (horizontal connections), [Unit 3.3](/course/part-3-capacities/unit-3-3-measure.html) (measuring progress), and [Unit 3.4](/course/part-3-capacities/unit-3-4-adapt.html) (adaptation). Used this way, the case lets students watch the ideas of successive units accumulate around a single place — and practice the essential work of fitting general ideas to context. Sustainable development is a long, intergenerational process; cases that span generations let students watch development pathways — and efforts to bend them — unfold at the time scales that matter.
+The London case is first assigned in [Unit 1.4](/course/part-1-conceptual-challenge/unit-1-4-anthropogenic-resources.html) (anthropogenic resources) and returns in [Unit 2.1](/course/part-2-anthropocene/unit-2-1-system-dynamics.html) (system dynamics), [Unit 2.4](/course/part-2-anthropocene/unit-2-4-horizontal-connections.html) (horizontal connections), [Unit 3.3](/course/part-3-capacities/unit-3-3-measure.html) (measuring progress), and [Unit 3.4](/course/part-3-capacities/unit-3-4-adapt.html) (adaptation). Each time we revisit the case, students see how new ideas from the course play out in a place they already know. And because the case spans generations, they see development on the time scale that sustainability actually involves.
 
 ## Download
 
