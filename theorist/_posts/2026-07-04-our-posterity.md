@@ -3,6 +3,7 @@ layout: blog
 title: "Our Posterity: The Human Rights of Future Generations"
 date: 2026-07-04
 author: Alicia G. Harley
+image: /assets/images/constitution-preamble-posterity-1787.jpg
 description: "Our obligation to Posterity must now be extended to hold in trust the natural resources and ecological systems future generations will depend on."
 keywords: future generations, intergenerational equity, human rights of future generations, inclusive wealth, conservation of options, sustainability science, Anthropocene, Edith Brown Weiss, Maastricht Principles, Declaration on Future Generations, posterity, Jefferson, Madison, Amartya Sen
 categories: [sustainability-theory]
