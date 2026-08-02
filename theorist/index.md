@@ -8,11 +8,19 @@ banner_image: /assets/images/theorist-banner.svg
 
 <ul class="post-list">
 {% for post in site.posts %}
-  <li>
-    <h3 class="post-list-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-    <p class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+  <li class="post-card">
+    {% if post.image %}
+    <a class="post-card-thumb" href="{{ post.url | relative_url }}" aria-hidden="true" tabindex="-1">
+      <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
+    </a>
+    {% endif %}
+    <div class="post-card-body">
+      <h3 class="post-list-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      <p class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      {% if post.description %}<p class="post-list-excerpt">{{ post.description }}</p>{% endif %}
+    </div>
   </li>
 {% endfor %}
 </ul>
