@@ -333,6 +333,11 @@ a:hover {
   border-radius: 4px;
 }
 
+/* Opt-in wider container for list/index pages (set `wide: true` in front matter) */
+.page-container-wide {
+  max-width: 940px;
+}
+
 /* ==========================================================================
    BLOG STYLES
    ========================================================================== */

@@ -4,6 +4,7 @@ title: The Sustainability Theorist
 subtitle: Essays on sustainability science theory and practice
 description: Essays on the conceptual foundations of sustainability science—clarifying frameworks, untangling debates, and developing theoretical tools for the field.
 banner_image: /assets/images/theorist-banner.svg
+wide: true
 ---
 
 <ul class="post-list">
