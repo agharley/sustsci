@@ -3,6 +3,7 @@ layout: blog
 title: "Towards a Theory of Power for Sustainability Science"
 author: Alicia G. Harley
 date: 2026-01-15
+image: /course/images/empowerment_gaventa.png
 description: "Power shapes why unsustainable patterns persist. A three-dimensional framework for analyzing how power operates—and how it can be contested—in sustainability science."
 ---
 

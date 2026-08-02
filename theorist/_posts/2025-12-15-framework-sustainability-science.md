@@ -3,6 +3,7 @@ layout: blog
 title: "A Framework for Research in Sustainability Science"
 date: 2025-12-15
 author: Alicia G. Harley
+image: /course/images/arer-framework.png
 description: "Sustainability science spans many diverse research traditions. A framework synthesizing their insights into a checklist for analyzing nature-society interactions."
 ---
 

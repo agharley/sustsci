@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: '"Sustainability Space": A Simple Map of Intra- and Inter-generational Equity and a Solar Irrigation Pump Worked Example'
+seo_title: 'Sustainability Space: Equity Within and Across Generations'
 date: 2026-08-01
 author: Alicia G. Harley
 description: "A simple two-axis map of sustainable development's equity commitments, within and across generations, with a worked example: solar irrigation pumps in South Asia."

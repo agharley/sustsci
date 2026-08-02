@@ -8,7 +8,7 @@ description: "Inequality and inequity aren't the same thing: one describes a dis
 keywords: inequality, inequity, sustainability science, environmental justice, theories of justice, equity frameworks, Rawls, Sen, capabilities approach, intergenerational equity
 categories: [sustainability-theory]
 tags: [inequality, inequity, justice, equity, sustainability-science, methodology]
-image: "{{ site.baseurl }}/assets/images/two-step.png"
+image: /assets/images/two-step.png
 ---
 
 Inequality and inequity sound alike and are often used interchangeably, but they answer different questions. Inequality is descriptive: it names a gap you can measure, in income, in health, in exposure to pollution. Inequity is a judgment: it says a particular gap is unfair. Not every inequality is inequitable, and deciding which ones are requires a theory of justice, not just better data. Getting this distinction right turns out to matter a great deal for how sustainability science does its work.
