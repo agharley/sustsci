@@ -77,19 +77,24 @@ The baseball fence illustration is effective because it makes this long debate i
 
 In other words, both panels are about equity in the sense this post uses the term: normative judgments about fairness. The image does not contrast a descriptive concept with a normative concept. It contrasts two conceptions of what fair treatment requires when people are differently situated.
 
-Notably, Froehle's original image, posted in December 2012, did not use "equity" at all. It contrasted "equality to a conservative" (same treatment) with "equality to a liberal" (differentiated treatment). His point was that equality itself is contested—people with different political orientations reach different judgments about what equal treatment requires. Later versions, not created by Froehle, relabeled the panels first as "Equality" and "Fairness," then as "Equality" and "Equity," stripping the political framing entirely and imposing a conceptual distinction Froehle never intended (Froehle, 2016). It was the "Equality vs. Equity" version that went viral, and the mislabeling turned an argument about contested conceptions of fairness into an apparent contrast between two different kinds of concepts.
+Notably, Froehle's original image, posted in December 2012, did not use "equity" at all. It contrasted "equality to a conservative" (same treatment) with "equality to a liberal" (differentiated treatment). His point was that equality itself is contested—people with different political orientations reach different judgments about what equal treatment requires. Later versions, not created by Froehle, relabeled the panels, first with "justice," then "fairness," and eventually as "Equality" and "Equity," stripping the political framing entirely and imposing a conceptual distinction Froehle never intended (Froehle, 2016). It was the "Equality vs. Equity" version that went viral, and the mislabeling turned an argument about contested conceptions of fairness into an apparent contrast between two different kinds of concepts.
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/froehle-original-2012.png" alt="Froehle's original 2012 image: two panels labeled 'Equality to a conservative' and 'Equality to a liberal,' showing three people of different heights on wooden crates watching a baseball game over a fence">
+  <figcaption>Froehle's original image, posted December 19, 2012: two political conceptions of "equality," not equality versus equity. Image: Craig Froehle, reproduced from his retrospective (Froehle, 2016).</figcaption>
+</figure>
 
 Froehle captured a real debate about fairness; the later re-labeling implied a conceptual distinction between equality and equity that does not map onto the philosophical tradition the image draws from.
 
 ### The Public Health Tradition: Whitehead and the WHO
 
-A second source of confusion comes from public health. In 1992, Margaret Whitehead published an influential paper, originally a background document for the World Health Organization, that defined health inequities as health inequalities that are "avoidable, unnecessary, and unfair" (Whitehead, 1992). This definition became canonical—cited over five thousand times and still the default starting point for health equity scholarship.
+A second source of confusion comes from public health. In 1992, Margaret Whitehead published an influential paper, originally a background document for the World Health Organization, that defined health inequities as health differences that are "unnecessary and avoidable" and, on top of that, "unfair and unjust" (Whitehead, 1992). This definition became canonical—cited thousands of times and still the default starting point for health equity scholarship.
 
 The Whitehead framing treats inequity as a subset of inequality: all health inequities are health inequalities, but only those that meet certain criteria—avoidable, unnecessary, unfair—count as inequities. The question becomes which inequalities belong in this subset.
 
 This approach builds moral urgency into the category of inequity itself. To call a health difference an inequity, on Whitehead's account, is already to have judged it unjust and actionable. 
 
-But the approach also embeds normative judgment into the term equity/inequity while leaving narrowing the space somewhat to deliberate on what justice looks like for different groups. What counts as "avoidable"—and who bears responsibility—depends on contested assumptions the definition leaves unresolved. The same is true of "unfair": the definition does not specify which theory of justice underwrites its criteria (Norheim & Asada, 2009; Vallgarda, 2006). Later refinements, such as Braveman and Gruskin's proposal to define inequity in terms of systematic disadvantage by social position (Braveman & Gruskin, 2003), resolve some ambiguities but build different normative commitments into the category.
+But the approach also embeds normative judgment into the term equity/inequity while leaving narrowing the space somewhat to deliberate on what justice looks like for different groups. What counts as "avoidable"—and who bears responsibility—depends on contested assumptions the definition leaves unresolved. The same is true of "unfair": the definition does not specify which theory of justice underwrites its criteria (Norheim & Asada, 2009; Vallgårda, 2006). Later refinements, such as Braveman and Gruskin's proposal to define inequity in terms of systematic disadvantage by social position (Braveman & Gruskin, 2003), resolve some ambiguities but build different normative commitments into the category.
 
 This tradition is closer to the approach proposed here than it might first appear—it is trying to be explicit about criteria for normative judgment. The difference is that the approach here keeps description and evaluation as separate steps, while the Whitehead tradition embeds evaluation into the category definition of (in)equity. For health policy within a single national context, the embedded approach may work well. Practitioners operating within the same political and legal system *may* share enough normative common ground that embedding judgments into definitions doesn't foreclose important debates—the debates have in some sense already been settled for that context. But sustainability science works across cultural contexts and therefore requires collaboration among people holding genuinely different theories of justice. The field also engages intergenerational questions where we have limited agreed upon norms for what qualifies as intergenerational justice. And it increasingly asks what justice requires for animals, species, and ecosystems (Nussbaum, 2023), where norms are thinner still: some legal systems now treat rivers and forests as rights-holders (Kauffman & Martin, 2021), but whether any of these count as subjects of justice at all remains contested across the traditions the field spans. Keeping the steps separate preserves space for deliberation; a definitionally resolved approach does not.
 
@@ -124,7 +129,7 @@ The approach I'm advocating here keeps the empirical and the normative connected
 
 This approach has limits. For many distributions—income, emissions, exposure to environmental hazard—reasonably neutral description remains tractable. But for some domains, the descriptive and evaluative are more thoroughly intertwined.
 
-Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Pierson & Lamont, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take the condition it names to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
+Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Lamont & Pierson, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take the condition it names to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
 
 Similarly, Hilary Putnam argued that the fact-value distinction, however useful, is not metaphysically clean—our choices about what to measure and how to categorize reflect normative commitments (Putnam, 2002). Science and technology studies has reached similar conclusions empirically: measurement categories and social order are co-produced, each shaping the other (Jasanoff, 2004).
 
@@ -154,7 +159,7 @@ Equality, equity, and non-discrimination appear as three parallel normative fram
 
 ### Explicit theorization
 
-Some scholars have already made this sequence explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, William Clark and I (Clark & Harley, 2020) also argued for this conceptual distinction: (in)equality as "a positive or descriptive concept referring to the distribution of assets or freedoms among actors," and (in)equity as "a normative concept referring to the qualities of justness and fairness." Giang and colleagues (2024) created a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness (equity) without requiring consensus on which normative position is correct.
+Some scholars have already made this sequence explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, William Clark and I (Clark & Harley, 2020) also argued for this conceptual distinction: (in)equality as "a positive or descriptive concept referring to the distribution of assets or freedoms among actors," and (in)equity as a normative concept concerned with justness and fairness. Giang and colleagues (2024) created a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness (equity) without requiring consensus on which normative position is correct.
 
 
 ## Why This Matters for Sustainability Science
@@ -163,7 +168,7 @@ There are several reasons why this approach to conceptualizing the relationship 
 
 ### Inequality can emerge without prior injustice
 
-One common assumption is that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence suggest that substantial inequality is an emergent property of all complex adaptive systems (Clark & Harley, 2020). Marten Scheffer and colleagues (2017) demonstrate this point compellingly. Imagine identical people foraging on a landscape where resources are unevenly distributed—some patches rich, others barren. Everyone has the same abilities; no one cheats. Yet inequality emerges anyway, because where you happen to start determines what you can harvest, and what you harvest determines where you can go next. Small advantages compound; small disadvantages trap. In a finite world with uneven resources, significant inequality arises from luck alone—from heterogeneity and chance, not from anyone's wrongdoing. Once it exists, inequality tends to be self-reinforcing: incumbent actors seek to fortify their dominant positions of wealth and power (Beckert, 2022), and cultural processes reflect and reproduce inequality (Lamont, Beljean, & Clair, 2014). But these dynamics of consolidation are not required to produce inequality in the first place.
+One common assumption is that inequality is caused by inequity—that unequal outcomes require upstream injustice to explain them. But both theory and empirical evidence suggest that substantial inequality is an emergent property of all complex adaptive systems (Clark & Harley, 2020). Marten Scheffer and colleagues (2017) demonstrate this point compellingly. Imagine identical people, none more able than the others and none cheating, in any setting where gains and losses compound: what you harvest this year determines what you can plant the next. Inequality emerges anyway. Scheffer and colleagues show that in such situations chance alone will drive 1% or less of a community to dominate half of all resources. Small advantages compound; small disadvantages trap. Significant inequality arises from luck alone—from chance, not from anyone's wrongdoing. Once it exists, inequality tends to be self-reinforcing: incumbent actors seek to fortify their dominant positions of wealth and power (Beckert, 2022), and cultural processes reflect and reproduce inequality (Lamont, Beljean, & Clair, 2014). But these dynamics of consolidation are not required to produce inequality in the first place.
 
 Iris Marion Young's work on structural injustice makes somewhat similar point: injustice can emerge from "normal" processes in which no individual actor does anything wrong. In global apparel supply chains, consumers, retailers, and manufacturers each follow standard market logic—yet the cumulative result is workers laboring under exploitative conditions that no single actor intended or directly caused (Young, 2006). 
 
@@ -240,6 +245,8 @@ Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reducti
 
 Lamont, M., Beljean, S., & Clair, M. (2014). What is Missing? Cultural Processes and Causal Pathways to Inequality. *Socio-Economic Review*, 12(3), 573–608. [https://doi.org/10.1093/ser/mwu011](https://doi.org/10.1093/ser/mwu011)
 
+Lamont, M., & Pierson, P. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
+
 Marx, K. (1875). Critique of the Gotha Programme. [Full text](https://www.marxists.org/archive/marx/works/1875/gotha/)
 
 Milanovic, B. (2016). *Global Inequality: A New Approach for the Age of Globalization*. Belknap Press of Harvard University Press.
@@ -252,11 +259,9 @@ Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definit
 
 Nussbaum, M. C. (2023). *Justice for Animals: Our Collective Responsibility*. Simon & Schuster.
 
-Pierson, P., & Lamont, M. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
-
 Piketty, T. (2014). *Capital in the Twenty-First Century* (A. Goldhammer, Trans.). Belknap Press of Harvard University Press.
 
-Piketty, T. (2020). *Capital and Ideology* (A. Goldhammer, Trans.). Harvard University Press.
+Piketty, T. (2020). *Capital and Ideology* (A. Goldhammer, Trans.). Belknap Press of Harvard University Press.
 
 Putnam, H. (2002). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
 
@@ -268,9 +273,9 @@ Sen, A. (1979). Equality of What? *Tanner Lectures on Human Values*, Stanford Un
 
 Sen, A. (1992). *Inequality Reexamined*. Harvard University Press.
 
-UN System Chief Executives Board for Coordination. (2017). *Leaving No One Behind: The UN System Shared Framework for Action*. United Nations. [https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf](https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf)
+UN System Chief Executives Board for Coordination. (2017). *Leaving No One Behind: Equality and Non-Discrimination at the Heart of Sustainable Development. The United Nations System Shared Framework for Action*. United Nations. [https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf](https://unsceb.org/sites/default/files/imported_files/CEB%20equality%20framework-A4-web-rev3.pdf)
 
-Vallgarda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. [https://doi.org/10.1093/eurpub/ckl047](https://doi.org/10.1093/eurpub/ckl047)
+Vallgårda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. [https://doi.org/10.1093/eurpub/ckl047](https://doi.org/10.1093/eurpub/ckl047)
 
 Whitehead, M. (1992). The Concepts and Principles of Equity and Health. *International Journal of Health Services*, 22(3), 429–445. [https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN](https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN)
 
