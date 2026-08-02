@@ -113,7 +113,7 @@ Causal conflation asks: *What causes what?* The answer assumes a fixed relations
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/inequality-inequity.svg" alt="Diagram of three framings of inequality and inequity, each posing a different question">
-  <figcaption>Figure 2: Three Framings, Three Different Questions.</figcaption>
+  <figcaption>Figure 2: Three framings of inequality vs. inequity, each asking a different question.</figcaption>
 </figure>
 
 These framings are all in circulation leaving a tangled muddle of confusion for anyone trying to quickly write a report or develop a research project that engages issues of distribution, justice and fairness. The result is often conceptual muddle. Ive been googling the relationship between inequality and inequity now for several weeks and Google's AI overview is constantly shifting slightly. One day the AI overview might assert that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).

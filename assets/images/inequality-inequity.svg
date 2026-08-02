@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 780">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 812">
   <!-- Background -->
-  <rect width="800" height="780" fill="#ffffff"/>
+  <rect width="800" height="812" fill="#ffffff"/>
   
   <!-- Main Title -->
-  <text x="400" y="40" font-family="Georgia, serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#2c2c2c">Three Framings, Three Different Questions</text>
+  <text x="400" y="40" font-family="Georgia, serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c2c2c">Inequality vs. Inequity: Three Framings, Three Questions</text>
   
   <!-- ==================== FROEHLE (Top) ==================== -->
   <text x="400" y="85" font-family="Georgia, serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c2c2c">FROEHLE</text>
@@ -101,4 +101,5 @@
   <text x="400" y="760" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Some say inequity causes inequality; some say the reverse.</text>
   <text x="400" y="778" font-family="Georgia, serif" font-size="13" font-style="italic" text-anchor="middle" fill="#555555">Neither is always true — the relationship is historically contingent.</text>
   
+  <text x="792" y="804" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#8a8a8a">&#169; 2026 Alicia G. Harley &#183; sustainabilityscience.org</text>
 </svg>
