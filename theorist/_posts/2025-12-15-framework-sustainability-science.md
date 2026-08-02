@@ -42,8 +42,10 @@ Think of the framework as a checklist: a set of building blocks that experience 
 
 The framework is best understood visually. Figure 1 synthesizes the key elements and relationships into a single image that deserves careful study.
 
-<img src="{{ '/course/images/arer-framework.png' | relative_url }}" alt="Framework for Research in Sustainability Science">
-*Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020), Annual Review of Environment and Resources.*
+<figure>
+  <img src="{{ '/course/images/arer-framework.png' | relative_url }}" alt="Diagram of the framework for research in sustainability science, synthesizing the elements of intertwined nature-society systems and their relationships">
+  <figcaption>Figure 1: Framework for Research in Sustainability Science. From Clark and Harley (2020), <em>Annual Review of Environment and Resources</em>.</figcaption>
+</figure>
 
 Let me walk you through it.
 

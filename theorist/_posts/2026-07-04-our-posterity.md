@@ -4,7 +4,7 @@ title: "Our Posterity: The Human Rights of Future Generations"
 date: 2026-07-04
 author: Alicia G. Harley
 image: /assets/images/constitution-preamble-posterity-1787.jpg
-description: "Our obligation to Posterity must now be extended to hold in trust the natural resources and ecological systems future generations will depend on."
+description: "What do we owe Posterity? The human rights of future generations, from the Jefferson–Madison debate to inclusive wealth and the conservation of options."
 keywords: future generations, intergenerational equity, human rights of future generations, inclusive wealth, conservation of options, sustainability science, Anthropocene, Edith Brown Weiss, Maastricht Principles, Declaration on Future Generations, posterity, Jefferson, Madison, Amartya Sen
 categories: [sustainability-theory]
 tags: [future-generations, intergenerational-equity, human-rights, inclusive-wealth, sustainability-science, posterity]
@@ -14,9 +14,10 @@ tags: [future-generations, intergenerational-equity, human-rights, inclusive-wea
 
 The U.S. Constitution's Preamble pledges to "secure the Blessings of Liberty to ourselves and our Posterity," giving voice to an old and, by 1787, widely shared idea that one generation owes something to those who follow (Ball, 2000). But the pledge was mainly rhetorical. The drafters never enumerated what current generations owed future ones, or how the obligation should be met (Hoffer, 2013). In 1789 Jefferson and Madison took up those questions in private correspondence. Neither doubted that an obligation existed; their disagreement was rather over what that obligation required. Jefferson held that [the earth belongs "in usufruct" to the living](https://founders.archives.gov/documents/Madison/01-12-02-0248): each generation holds it in trust and should not bind the next with its debts, laws, or constitutions, which he proposed should expire every nineteen years so each generation could govern itself. Madison replied that [generations overlap and build on one another](https://founders.archives.gov/documents/Madison/01-13-02-0020), and that the improvements one generation makes become part of what the next inherits (see Note 1).
 
-![The Preamble of the U.S. Constitution in engrossed calligraphy, 1787, beginning "We the People" and pledging the Blessings of Liberty to "ourselves and our Posterity"]({{ site.baseurl }}/assets/images/constitution-preamble-posterity-1787.jpg)
-
-*The Preamble and the opening of Article I, from the engrossed Constitution of the United States, 1787. Image: [National Archives](https://www.archives.gov/founding-docs/constitution).*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/constitution-preamble-posterity-1787.jpg" alt="The Preamble of the U.S. Constitution in engrossed calligraphy, 1787, beginning 'We the People' and pledging the Blessings of Liberty to 'ourselves and our Posterity'">
+  <figcaption>The Preamble and the opening of Article I, from the engrossed Constitution of the United States, 1787. Image: <a href="https://www.archives.gov/founding-docs/constitution">National Archives</a>.</figcaption>
+</figure>
 
 The inheritance they had in mind included debts, property, and the institutions of government. What neither Jefferson nor Madison imagined was that human action could alter the biosphere at a planetary scale. We now live in what is widely called the [Anthropocene](https://education.nationalgeographic.org/resource/age-man-enter-anthropocene/): a period in which humanity has become a primary driver of change in the earth's climate and ecosystems (Crutzen, 2002). Climate change, biodiversity loss, soil depletion, and ocean acidification will affect generations to come. Our obligation to Posterity must now be extended to hold in trust the natural resources and ecological systems future generations will depend on. How to meet this obligation is a question neither founder worked out, and one that has become even harder now that we know a single generation has the ability to damage nature beyond repair.
 

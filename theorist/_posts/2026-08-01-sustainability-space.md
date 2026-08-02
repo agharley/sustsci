@@ -21,9 +21,10 @@ I am certainly not suggesting we trade the SDGs in for the simple two-axis diagr
 
 In teaching, public speaking, or even in casual conversations introducing someone to the topic of sustainable development, I have for many years used a very simple diagram that puts the two equity commitments of sustainability into one visual: one axis for how broadly the benefits of whatever we are looking at are shared within the current generation, and a second for how far those benefits extend to the generations that follow. I call it "sustainability space." The term is a bit tongue in cheek, and I usually put quotation marks around it even when I am just talking, because it is not some kind of grand unifying theory, but rather what I have come to see as a powerful tool for explanation and even analysis.
 
-![Sustainability space diagram: horizontal axis shows benefits within the current generation from few to many; vertical axis shows benefits across future generations from present to future, with a sun in the upper right]({{ site.baseurl }}/assets/images/sustainability-space-map.svg)
-
-*Figure 1: "Sustainability space": the goals of sustainable development on two axes, the inclusiveness of benefits within the current generation (horizontal) and across generations (vertical).*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/sustainability-space-map.svg" alt="Sustainability space diagram: horizontal axis shows benefits within the current generation from few to many; vertical axis shows benefits across future generations from present to future, with a sun in the upper right">
+  <figcaption>Figure 1: "Sustainability space": the goals of sustainable development on two axes, the inclusiveness of benefits within the current generation (horizontal) and across generations (vertical).</figcaption>
+</figure>
 
 - **The horizontal axis** runs from "few" to "many." It asks: *within the current generation, how broadly are the benefits of whatever we're looking at distributed?* On the left, benefits accrue to the few, the near, the wealthy. On the right, to the many, the far, the poor.
 
@@ -51,9 +52,10 @@ In my experience, the answer is almost never "a particular technology" alone. Wh
 
 A few years ago, with colleagues in Pakistan, India, and Bangladesh, I spent a lot of time studying solar-powered irrigation pumps. Physically, these pumps do more or less exactly what diesel or electric pumps do: they lift water from a well or a pond to irrigate a crop. The differences lie in what powers them, what they cost, and when those costs are paid. Diesel pumps burn fossil fuel; solar pumps run on sunlight. In India alone, diesel irrigation pumps emit roughly 15 million metric tons of CO₂ a year (MNRE 2025); a solar pump, once installed, emits next to nothing. And because sunlight is free while diesel is not, solar is also substantially cheaper over the lifetime of the pump: payback periods of three to five years are common, and some farmers recoup the capital cost even faster (Bhattarai et al. 2025). The catch is that all of the costs of solar irrigation pumps arrive up front, and smaller and more vulnerable farmers usually cannot pay them.
 
-![Villagers gathered under the raised solar panel array of a solar irrigation pump beside a brick building in Gaya district, Bihar, India]({{ site.baseurl }}/assets/images/solar-pump-gaya-bihar-2013.jpg)
-
-*A solar irrigation pump in Gaya district, Bihar, India, December 2013, one of an early set of experimental installations the author worked on with Jain Irrigation. Photo: Alicia G. Harley.*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/solar-pump-gaya-bihar-2013.jpg" alt="Villagers gathered under the raised solar panel array of a solar irrigation pump beside a brick building in Gaya district, Bihar, India">
+  <figcaption>A solar irrigation pump in Gaya district, Bihar, India, December 2013, one of an early set of experimental installations the author worked on with Jain Irrigation. Photo: Alicia G. Harley.</figcaption>
+</figure>
 
 This is where thinking about this technology in terms of "sustainability space" becomes valuable. Over the past decade, the same technology for all intents and purposes (a groundwater pump and solar array) has been rolled out under (at least) four broad institutional arrangements in South Asia: Pakistan's open market, India's capital subsidies, Bangladesh's water-selling enterprises, and, later within India, an institutional experiment in Gujarat built around a grid buy-back. Each of the four institutional designs turns out to land the same technology in a different place in "sustainability space."
 
@@ -95,9 +97,10 @@ In contrast, under Bangladesh's model the incentive to over-pump is weak, becaus
 
 The fourth case is not a fourth country: it is a deliberate experiment inside India's own rollout. Gujarat, a state in western India, pairs some of the country's most depleted aquifers with a long history of experimenting with water institutions, and it is where a group of water researchers had been arguing for years that the way to fix solar's groundwater problem was to change what farmers are paid, not what they pump (Shah, Durga, and Verma 2014; Shah et al. 2018). In 2015, that group piloted the idea with a six-farmer cooperative in the village of Dhundi: connect the solar pumps to the electricity grid, and buy the farmers' surplus power at a guaranteed price. In 2018, the state government scaled the design into the Suryashakti Kisan Yojana (SKY), the world's first large-scale grid-connected solar irrigation scheme (Varshney et al. 2026). A farmer in SKY gets a subsidized solar array tied to the grid, and whatever power she does not use for pumping, the utility buys. (Arrangements like this are called feed-in tariffs; the same instrument drove rooftop solar booms in Germany and elsewhere.)
 
-![Five solar arrays above vegetable plots at the Dhundi solar pump irrigators' cooperative in Kheda district, Gujarat]({{ site.baseurl }}/assets/images/dhundi-cooperative-gujarat-2018.jpg)
-
-*The Dhundi solar pump irrigators' cooperative, Kheda district, Gujarat, December 2018: the pilot whose grid buy-back design SKY scaled statewide. Photo: Alicia G. Harley.*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/dhundi-cooperative-gujarat-2018.jpg" alt="Five solar arrays above vegetable plots at the Dhundi solar pump irrigators' cooperative in Kheda district, Gujarat">
+  <figcaption>The Dhundi solar pump irrigators' cooperative, Kheda district, Gujarat, December 2018: the pilot whose grid buy-back design SKY scaled statewide. Photo: Alicia G. Harley.</figcaption>
+</figure>
 
 The buy-back price gives the water left in the ground a value: an hour not spent pumping is an hour of solar power the farmer can sell back to the grid instead. In the recent evaluation of the scheme, farmers' net earnings (power sales plus savings on their own electricity bills, after loan repayments) averaged about $260 (₹22,000) a year, roughly two-fifths of an average Gujarati farmer's crop income. Meanwhile, their energy use for groundwater extraction grew significantly more slowly than that of comparable farmers outside the scheme, an effect confined to the dry season, when it matters most (Varshney et al. 2026). Because the surplus power is captured rather than wasted, a grid-connected pump also delivers more than twice the emissions benefit of an off-grid one.
 
@@ -114,10 +117,12 @@ What does SKY mean for intra-generational equity? Less than one might hope, beca
 | Adoption to date | ≈960,000 pumps (>50% of farm pumping, in ~3 years) | ≈1.5 million pumps (~5% of pump stock, over 15 years) | ≈2,800 pumps (each serves many buyers) | ≈4,300 pumps (one per farmer) |
 
 *Table 1: The same technology under four institutional arrangements.*
+{: .table-caption}
 
-<img src="{{ site.baseurl }}/assets/images/solar-irrigation-sustainability-space.svg" alt="Solar irrigation pumps plotted in sustainability space: Pakistan and India shown with carbon-only and with-groundwater positions, Bangladesh holding the line on groundwater, and an arrow showing Gujarat SKY moving India's pump upward" style="margin-top: 3rem;">
-
-*Figure 2: One basic technology, four sociotechnical arrangements. Solar irrigation plotted in "sustainability space." Hollow circles show where Pakistan's and India's off-grid rollouts would sit counting carbon alone; filled dots also count the drawn-down water table. Bangladesh's service model holds the line on groundwater and reaches the smallest farmers. Gujarat's SKY pilot rewards conservation outright, but its enrollment still skews to larger farms, so the arrow rises far more than it moves right. Counts show adoption to date; positions show who benefits and when, not how many. Positions are illustrative, not measured.*
+<figure style="margin-top: 3rem;">
+  <img src="{{ site.baseurl }}/assets/images/solar-irrigation-sustainability-space.svg" alt="Solar irrigation pumps plotted in sustainability space: Pakistan and India shown with carbon-only and with-groundwater positions, Bangladesh holding the line on groundwater, and an arrow showing Gujarat SKY moving India's pump upward">
+  <figcaption>Figure 2: One basic technology, four sociotechnical arrangements. Solar irrigation plotted in "sustainability space." Hollow circles show where Pakistan's and India's off-grid rollouts would sit counting carbon alone; filled dots also count the drawn-down water table. Bangladesh's service model holds the line on groundwater and reaches the smallest farmers. Gujarat's SKY pilot rewards conservation outright, but its enrollment still skews to larger farms, so the arrow rises far more than it moves right. Counts show adoption to date; positions show who benefits and when, not how many. Positions are illustrative, not measured.</figcaption>
+</figure>
 
 The same physical pump, under four different institutional arrangements, lands in four different places in "sustainability space," and reshaping the rules and incentives around it, as Gujarat did, can change where it lands. In Gujarat's case, institutions (rules and incentive structures) were redesigned to reduce threats to the groundwater resources that future generations will depend on. But it is not always the institutions that need redesign. The physical design of the technology matters too. In Nepal, small farmers could not devote an entire well to a solar pump: most own only one well, and on cloudy days they still need to irrigate. Engineers designed a solar irrigation pump that allowed a farmer to switch quickly between diesel and solar, so smallholders can run their well on solar when the sun is shining and still irrigate using diesel when clouds or fog (a frequent occurrence in Nepal's terai) make the solar pump inoperable (Harley 2018). The key takeaway is that whether a technology is pro-poor or pro-future-generations depends on both physical and institutional choices.
 

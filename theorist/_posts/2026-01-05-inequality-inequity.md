@@ -52,9 +52,10 @@ What does seem clear (I think) is that the pairs can come apart. A distribution 
 
 One important source of the current muddle that I run into a lot is a viral image. In 2012, Craig Froehle created a simple illustration showing three people of different heights trying to watch a baseball game over a fence (Froehle, 2016). In the "equality" panel, each stands on an identical box; the shortest still cannot see. In the "equity" panel, boxes are redistributed according to need; everyone watches the game.
 
-![Equality vs. Equity illustration showing three people of different heights watching a baseball game]({{ site.baseurl }}/assets/images/adapted_Froehle.png)
-
-*Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Note 1 for the image's evolution.*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/adapted_Froehle.png" alt="Equality vs. Equity illustration showing three people of different heights watching a baseball game">
+  <figcaption>Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Note 1 for the image's evolution.</figcaption>
+</figure>
 
 The virality of this image taught a generation to distinguish equality as identical treatment from equity as differentiated treatment aimed at equivalent outcomes. The image does capture something real: an important philosophical debate about what fairness requires. But it does not capture a relationship between equality and equity as concepts. Understanding both what the image gets right and where it misleads requires tracing a longer philosophical lineage.
 
@@ -110,9 +111,10 @@ The Whitehead/public health tradition asks: *Which inequalities demand action?* 
 
 Causal conflation asks: *What causes what?* The answer assumes a fixed relationship—either inequity causes inequality or vice versa—but no one seems sure which.
 
-![Three Framings, Three Different Questions diagram]({{ site.baseurl }}/assets/images/inequality-inequity.svg)
-
-*Figure 2: Three Framings, Three Different Questions*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/inequality-inequity.svg" alt="Diagram of three framings of inequality and inequity, each posing a different question">
+  <figcaption>Figure 2: Three Framings, Three Different Questions.</figcaption>
+</figure>
 
 These framings are all in circulation leaving a tangled muddle of confusion for anyone trying to quickly write a report or develop a research project that engages issues of distribution, justice and fairness. The result is often conceptual muddle. Ive been googling the relationship between inequality and inequity now for several weeks and Google's AI overview is constantly shifting slightly. One day the AI overview might assert that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
 
@@ -191,9 +193,10 @@ Researchers can measure distributions of environmental burdens, resource access,
 
 When inequity is treated as a separate normative judgment rather than a property embedded in certain inequalities, multiple theories of justice can engage the same empirical findings. For a field that works across diverse cultural and political contexts, this flexibility is essential.
 
-![Same Inequality, Different Equity Judgments - air pollution exposure by income with different theories of justice]({{ site.baseurl }}/assets/images/two-step.png)
-
-*Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. The two-step creates space for deliberation about which framework applies and why.*
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/two-step.png" alt="Chart of air pollution exposure by income quintile, annotated with different equity verdicts from different theories of justice">
+  <figcaption>Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. The two-step creates space for deliberation about which framework applies and why.</figcaption>
+</figure>
 
 The two-step also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined and contested. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
 

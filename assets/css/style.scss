@@ -402,6 +402,31 @@ a:hover {
   font-size: 0.95rem;
 }
 
+/* Figure captions inside blog posts — visually distinct from body text */
+.post-content figure {
+  margin: 2.5rem 0;
+}
+
+.post-content figure img {
+  display: block;
+  width: 100%;
+}
+
+.post-content figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  margin-top: 0.6rem;
+  line-height: 1.5;
+}
+
+.post-content .table-caption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  line-height: 1.5;
+}
+
 /* Post cards with thumbnail (theorist index) */
 .post-list .post-card {
   display: flex;
