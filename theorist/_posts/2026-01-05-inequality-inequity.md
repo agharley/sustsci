@@ -19,13 +19,13 @@ This work gets harder when we fail to use consistent terminology and even worse 
 
 In both the scholarship sustainability science draws on, as well as in formal writing on sustainable development from sources as varied as the UN system, international NGOs and corporate sustainability programs, the terms in(equality) and (in)equity are often used interchangeably, or linked causally, or treated as if one is a subset of the other. Some of this confusion traces to scholarly traditions asking different questions and some emerges from how the terms get used in practice. 
 
-This post traces where that confusion comes from and argues for a cleaner framework for their use in sustainability science: First describe the distribution (equality or inequality), then evaluate whether it’s fair (equity or inequity). This framing is neither unique nor rocket science, but it’s surprising how often it does not seem to be used in either sustainability scholarship or practical efforts to foster sustainable development. The advantage of this approach, which I call the two-step, is that it creates space for people holding different theories of justice or stemming from different religious, moral and philosophical traditions to share empirical ground while preserving space for deliberation about what fairness requires. 
+This post traces where that confusion comes from and argues for a cleaner framework for their use in sustainability science: First describe the distribution (equality or inequality), then evaluate whether it’s fair (equity or inequity). This framing is neither unique nor rocket science, but it’s surprising how often it does not seem to be used in either sustainability scholarship or practical efforts to foster sustainable development. The value of this approach is not the distinction itself, which is old, but the discipline of taking the two steps in sequence and out loud, so that the theory of justice being applied is visible and contestable rather than smuggled into the categories. That discipline lets people holding different theories of justice, or coming from different religious, moral and philosophical traditions, share empirical ground while preserving space for deliberation about what fairness requires. 
 
 
 
-## The Two-Step Framework
+## Describe First, Evaluate Second
 
-My proposal which as I said before is neither entirely original nor rocket science, is a way to clearly distinguish important work that is descriptive of the world as it is, for the normative work of deliberating on the world as it *should* be.  
+My proposal which as I said before is neither entirely original nor rocket science, is a way to clearly distinguish important work that is descriptive of the world as it is, from the normative work of deliberating on the world as it *should* be.  
 
 **(In)equality is a descriptive concept.** It refers to measured distributions—of income, resources, health outcomes, environmental burdens, capabilities. Inequalities can be observed, quantified, and compared without yet making any judgment about their fairness.
 
@@ -33,13 +33,13 @@ My proposal which as I said before is neither entirely original nor rocket scien
 
 The same empirical inequality might be judged equitable or inequitable depending on the normative framework applied. A society with significant income inequality might be judged fair by a libertarian who emphasizes procedural justice and unfair by an egalitarian who emphasizes outcomes. The inequality is the same; the equity judgments differ.
 
-The two-step locates normative disagreement where it belongs—in the open, as a site of deliberation—rather than hiding it inside measurement categories. This matters for sustainability science because we work across contexts where theories of justice genuinely diverge.
+Working in this sequence locates normative disagreement where it belongs—in the open, as a site of deliberation—rather than hiding it inside measurement categories. This matters for sustainability science because we work across contexts where theories of justice genuinely diverge.
 
 ## Why the Confusion Exists
 
 ### A Starting Point: Two Pairs of Concepts
 
-Before examining these sources of confusion, it helps to establish what we are working with. We are dealing with two pairs of terms appear to be grammatical opposites:
+Before examining these sources of confusion, it helps to establish what we are working with. We are dealing with two pairs of terms that appear to be grammatical opposites:
 
 - Equality ↔ Inequality: sameness versus difference
 - Equity ↔ Inequity: fairness versus unfairness
@@ -54,7 +54,7 @@ One important source of the current muddle that I run into a lot is a viral imag
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/adapted_Froehle.png" alt="Equality vs. Equity illustration showing three people of different heights watching a baseball game">
-  <figcaption>Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Note 1 for the image's evolution.</figcaption>
+  <figcaption>Figure 1: "Equality vs. Equity" illustration, adapted from Froehle (2016). See Froehle (2016) for the image's evolution.</figcaption>
 </figure>
 
 The virality of this image taught a generation to distinguish equality as identical treatment from equity as differentiated treatment aimed at equivalent outcomes. The image does capture something real: an important philosophical debate about what fairness requires. But it does not capture a relationship between equality and equity as concepts. Understanding both what the image gets right and where it misleads requires tracing a longer philosophical lineage.
@@ -77,7 +77,7 @@ The baseball fence illustration is effective because it makes this long debate i
 
 In other words, both panels are about equity in the sense this post uses the term: normative judgments about fairness. The image does not contrast a descriptive concept with a normative concept. It contrasts two conceptions of what fair treatment requires when people are differently situated.
 
-Notably, Froehle's original image did not use "equity" at all. It contrasted "equality to a conservative" (same treatment) with "equality to a liberal" (differentiated treatment). His point was that equality itself is contested—people with different political orientations reach different judgments about what equal treatment requires. Later versions, not created by Froehle, relabeled the panels as "Equality" and "Equity," stripping the political framing entirely and imposing a conceptual distinction Froehle never intended (Froehle, 2016). The viral mislabeling turned an argument about contested conceptions of fairness into an apparent contrast between two different kinds of concepts.
+Notably, Froehle's original image, posted in December 2012, did not use "equity" at all. It contrasted "equality to a conservative" (same treatment) with "equality to a liberal" (differentiated treatment). His point was that equality itself is contested—people with different political orientations reach different judgments about what equal treatment requires. Later versions, not created by Froehle, relabeled the panels first as "Equality" and "Fairness," then as "Equality" and "Equity," stripping the political framing entirely and imposing a conceptual distinction Froehle never intended (Froehle, 2016). It was the "Equality vs. Equity" version that went viral, and the mislabeling turned an argument about contested conceptions of fairness into an apparent contrast between two different kinds of concepts.
 
 Froehle captured a real debate about fairness; the later re-labeling implied a conceptual distinction between equality and equity that does not map onto the philosophical tradition the image draws from.
 
@@ -91,7 +91,7 @@ This approach builds moral urgency into the category of inequity itself. To call
 
 But the approach also embeds normative judgment into the term equity/inequity while leaving narrowing the space somewhat to deliberate on what justice looks like for different groups. What counts as "avoidable"—and who bears responsibility—depends on contested assumptions the definition leaves unresolved. The same is true of "unfair": the definition does not specify which theory of justice underwrites its criteria (Norheim & Asada, 2009; Vallgarda, 2006). Later refinements, such as Braveman and Gruskin's proposal to define inequity in terms of systematic disadvantage by social position (Braveman & Gruskin, 2003), resolve some ambiguities but build different normative commitments into the category.
 
-This tradition is closer to the two-step proposed here than it might first appear—it is trying to be explicit about criteria for normative judgment. The difference is that the two-step keeps description and evaluation as separate steps, while the Whitehead tradition embeds evaluation into the category definition of (in)equity. For health policy within a single national context, the embedded approach may work well. Practitioners operating within the same political and legal system *may* share enough normative common ground that embedding judgments into definitions doesn't foreclose important debates—the debates have in some sense already been settled for that context. But sustainability science works across cultural contexts and therefore requires collaboration among people holding genuinely different theories of justice. The field also engages intergenerational questions where we have limited agreed upon norms for what qualifies as intergenerational justice, and [add non-human point here too]. The two-step preserves space for deliberation; a definitionally resolved approach does not.
+This tradition is closer to the approach proposed here than it might first appear—it is trying to be explicit about criteria for normative judgment. The difference is that the approach here keeps description and evaluation as separate steps, while the Whitehead tradition embeds evaluation into the category definition of (in)equity. For health policy within a single national context, the embedded approach may work well. Practitioners operating within the same political and legal system *may* share enough normative common ground that embedding judgments into definitions doesn't foreclose important debates—the debates have in some sense already been settled for that context. But sustainability science works across cultural contexts and therefore requires collaboration among people holding genuinely different theories of justice. The field also engages intergenerational questions where we have limited agreed upon norms for what qualifies as intergenerational justice. And it increasingly asks what justice requires for animals, species, and ecosystems (Nussbaum, 2023), where norms are thinner still: some legal systems now treat rivers and forests as rights-holders (Kauffman & Martin, 2021), but whether any of these count as subjects of justice at all remains contested across the traditions the field spans. Keeping the steps separate preserves space for deliberation; a definitionally resolved approach does not.
 
 ### Causal Conflation
 
@@ -99,7 +99,7 @@ A third source of confusion emerges not from any scholarly tradition but from ho
 
 Neither direction generalizes. The relationship is historically and contextually contingent (Hamann et al., 2018). Sometimes inequity causes inequality — discrimination produces unequal outcomes. Sometimes inequality causes inequity — material deprivation leads to unfair treatment. Sometimes they co-evolve, each reinforcing the other. And sometimes inequality emerges with no inequity involved at all — through luck, emergent dynamics, or the heterogeneous distribution of resources in complex systems.
 
-The two-step sidesteps this tangle. Describe the distribution; evaluate its fairness. The causal story — however layered — is a separate question.
+Describing first and evaluating second sidesteps this tangle. Describe the distribution; evaluate its fairness. The causal story — however layered — is a separate question.
 
 ### Three Framings, Three Different Questions
 
@@ -116,23 +116,23 @@ Causal conflation asks: *What causes what?* The answer assumes a fixed relations
   <figcaption>Figure 2: Three framings of inequality vs. inequity, each asking a different question.</figcaption>
 </figure>
 
-These framings are all in circulation leaving a tangled muddle of confusion for anyone trying to quickly write a report or develop a research project that engages issues of distribution, justice and fairness. The result is often conceptual muddle. Ive been googling the relationship between inequality and inequity now for several weeks and Google's AI overview is constantly shifting slightly. One day the AI overview might assert that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
+These framings are all in circulation leaving a tangled muddle of confusion for anyone trying to quickly write a report or develop a research project that engages issues of distribution, justice and fairness. The result is often conceptual muddle. I've been googling the relationship between inequality and inequity now for several weeks and Google's AI overview is constantly shifting slightly. One day the AI overview might assert that inequity causes inequality and another day that inequities are a subset of inequalities. Froehle's image gets paired with causal claims it never made. Even legal scholars have noted the terminological instability; Martha Minow's survey of the equality/equity debate in law and policy finds definitions shifting across contexts without clear resolution (Minow, 2021).
 
-The two-step approach I'm advocating here keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally. This approach uses the terms differently than many philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, the two-step aligns with a distinction already implicit in how many researchers and some major institutions actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open.  It's a proposal about how we might use these terms more clearly, not a claim about how philosophers have always used them."
+The approach I'm advocating here keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally. This approach uses the terms differently than many philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, it aligns with a distinction already implicit in how many researchers and some major institutions actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open.  It's a proposal about how we might use these terms more clearly, not a claim about how philosophers have always used them.
 
 ## The Limits of the Distinction
 
-The two-step framework has limits. For many distributions—income, emissions, exposure to environmental hazard—reasonably neutral description remains tractable. But for some domains, the descriptive and evaluative are more thoroughly intertwined.
+This approach has limits. For many distributions—income, emissions, exposure to environmental hazard—reasonably neutral description remains tractable. But for some domains, the descriptive and evaluative are more thoroughly intertwined.
 
-Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Pierson & Lamont, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take  concept to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
+Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Pierson & Lamont, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take the condition it names to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
 
 Similarly, Hilary Putnam argued that the fact-value distinction, however useful, is not metaphysically clean—our choices about what to measure and how to categorize reflect normative commitments (Putnam, 2002). Science and technology studies has reached similar conclusions empirically: measurement categories and social order are co-produced, each shaping the other (Jasanoff, 2004).
 
-The two-step framework does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry. In practice, this means that when working with recognition concepts, the two-step functions less as a method for separating description from evaluation and more as a reminder to be transparent that one's "description" already carries normative weight.
+The approach does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry. In practice, this means that when working with recognition concepts, the sequence functions less as a method for separating description from evaluation and more as a reminder to be transparent that one's "description" already carries normative weight.
 
 ## How Careful Practitioners Already Work
 
-The two-step is not a new invention. It appears most clearly in work on material distributions, where the descriptive task is tractable in ways it may not be for debates about justice itself.
+Describing first and evaluating second is not a new invention. It appears most clearly in work on material distributions, where the descriptive task is tractable in ways it may not be for debates about justice itself.
 
 ### Inequality economists
 
@@ -154,12 +154,12 @@ Equality, equity, and non-discrimination appear as three parallel normative fram
 
 ### Explicit theorization
 
-Some scholars have already proposed this two-step process. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, William Clark and I (Clark & Harley, 2020) also argued for this conceptual distinction: (in)equality as "a positive or descriptive concept referring to the distribution of assets or freedoms among actors," and (in)equity as "a normative concept referring to the qualities of justness and fairness." Giang and colleagues (2024) created a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness (equity) without requiring consensus on which normative position is correct.
+Some scholars have already made this sequence explicit. In the health literature, Kawachi and colleagues (2002) articulate it directly: inequality refers to measurable differences in health outcomes, while equity involves normative judgments about fairness. In sustainability science, William Clark and I (Clark & Harley, 2020) also argued for this conceptual distinction: (in)equality as "a positive or descriptive concept referring to the distribution of assets or freedoms among actors," and (in)equity as "a normative concept referring to the qualities of justness and fairness." Giang and colleagues (2024) created a framework for integrating equity into environmental modeling, showing how models can explore the implications of adopting different conceptions of fairness (equity) without requiring consensus on which normative position is correct.
 
 
 ## Why This Matters for Sustainability Science
 
-There are several reasons why this two-step approach to conceptualizing the relationship between (in)equality and (in)equity is important for the field of sustainability science. At the same time there are also some tradeoffs I will get into below. 
+There are several reasons why this approach to conceptualizing the relationship between (in)equality and (in)equity is important for the field of sustainability science. At the same time there are also some tradeoffs I will get into below. 
 
 ### Inequality can emerge without prior injustice
 
@@ -167,27 +167,27 @@ One common assumption is that inequality is caused by inequity—that unequal ou
 
 Iris Marion Young's work on structural injustice makes somewhat similar point: injustice can emerge from "normal" processes in which no individual actor does anything wrong. In global apparel supply chains, consumers, retailers, and manufacturers each follow standard market logic—yet the cumulative result is workers laboring under exploitative conditions that no single actor intended or directly caused (Young, 2006). 
 
-Both Scheffer and Young complicate the assumption that unequal or unjust outcomes require prior wrongdoing.These insights highlight why causal stories that describe inequality as a result of inequity are not supported by what we know about complex adaptive systems. They don't mean that there is no relationship between the two terms, but that generalizable assumptions about causality are not useful.
+Both Scheffer and Young complicate the assumption that unequal or unjust outcomes require prior wrongdoing. These insights highlight why causal stories that describe inequality as a result of inequity are not supported by what we know about complex adaptive systems. They don't mean that there is no relationship between the two terms, but that generalizable assumptions about causality are not useful.
 
 ### Different theories of justice need common ground
 
-People hold genuinely different theories of justice—libertarian, utilitarian, egalitarian, capabilities-based, relational, Indigenous, and more. If we embed one theory's verdicts into our empirical categories, we can only work productively with people who already share our commitments. The two-step creates common ground: we can agree on the facts of a distribution while openly contesting what justice requires in response.
+People hold genuinely different theories of justice—libertarian, utilitarian, egalitarian, capabilities-based, relational, Indigenous, and more. If we embed one theory's verdicts into our empirical categories, we can only work productively with people who already share our commitments. Keeping the steps separate creates common ground: we can agree on the facts of a distribution while openly contesting what justice requires in response.
 
-Consider the two dimensions of equity that have been central to sustainability discourse since the Brundtland Commission: intragenerational equity (fairness within the current generation) and intergenerational equity (fairness between current and future generations). Both require the two-step approach.
+Consider the two dimensions of equity that have been central to sustainability discourse since the Brundtland Commission: intragenerational equity (fairness within the current generation) and intergenerational equity (fairness between current and future generations). Both require the same sequence: describe first, evaluate second.
 
-For intragenerational equity, we can measure how environmental burdens—air pollution exposure, climate vulnerability, access to clean water—are distributed across communities and social groups. But determining whether those distributions are inequitable requires normative argument about what a fair or just distribution would look like or what theories of justice and fairness the actors involved in the situation chose to follow (ideally at least from my perspective through some sort of small-d democratic process. 
+For intragenerational equity, we can measure how environmental burdens—air pollution exposure, climate vulnerability, access to clean water—are distributed across communities and social groups. But determining whether those distributions are inequitable requires normative argument about what a fair or just distribution would look like or what theories of justice and fairness the actors involved in the situation chose to follow (ideally at least from my perspective through some sort of small-d democratic process). 
 
 For intergenerational equity, the case is even clearer. We can model projected climate impacts on future generations or track the depletion of natural capital over time. But what we owe future generations—the appropriate discount rate, whether natural capital can be substituted with other forms of wealth, how to weigh present needs against future ones—involves deep normative disagreement that cannot be resolved by measurement alone.
 
 ###  Tradeoffs with this approach
 
-I cannot argue that there are not tradeoffs to this two-step approach. Approaches that embed normative judgment into measurement categories have real mobilizing power. Each January, Oxfam releases a flagship inequality report timed to the World Economic Forum in Davos—reports with titles like "Inequality Inc." that generate global headlines with striking statistics about billionaire wealth. This work matters: it keeps inequality visible in public discourse when it might otherwise fade from view. But Oxfam rarely uses "inequity" at all. Instead, they build the normative judgment directly into "inequality"—framing it as a "choice," as "economic violence," as inherently unjust. The measurement is the indictment.
+I cannot argue that there are not tradeoffs to this approach. Approaches that embed normative judgment into measurement categories have real mobilizing power. Each January, Oxfam releases a flagship inequality report timed to the World Economic Forum in Davos—reports with titles like "Inequality Inc." that generate global headlines with striking statistics about billionaire wealth. This work matters: it keeps inequality visible in public discourse when it might otherwise fade from view. But Oxfam rarely uses "inequity" at all. Instead, they build the normative judgment directly into "inequality"—framing it as a "choice," as "economic violence," as inherently unjust. The measurement is the indictment.
 
-For advocacy aimed at audiences who already share certain commitments, this works. But sustainability science faces a different challenge: building coalitions across people who hold genuinely different theories of justice. For that work, the deliberative space the two-step creates matters more I believe.
+For advocacy aimed at audiences who already share certain commitments, this works. But sustainability science faces a different challenge: building coalitions across people who hold genuinely different theories of justice. For that work, the deliberative space this separation creates matters more, I believe.
 
-### Advantages of the two-step approach to (in)equality and (in)equity
+### Advantages of this approach to (in)equality and (in)equity
 
-For sustainability science, the two-step approach to conceptualizing (in)equality and (in)equity has important advantages: 
+For sustainability science, this approach to conceptualizing (in)equality and (in)equity has important advantages: 
 
 Researchers can measure distributions of environmental burdens, resource access, and adaptive capacity without first having to resolve contested normative questions. The descriptive and evaluative tasks remain connected but distinct. This matters because normative questions are genuinely hard, and waiting to resolve them before doing empirical work would paralyze research.
 
@@ -195,14 +195,14 @@ When inequity is treated as a separate normative judgment rather than a property
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/two-step.png" alt="Chart of air pollution exposure by income quintile, annotated with different equity verdicts from different theories of justice">
-  <figcaption>Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. The two-step creates space for deliberation about which framework applies and why.</figcaption>
+  <figcaption>Figure 3: Same Inequality, Different Equity Judgments. The same empirical finding about air pollution exposure by income quintile receives different verdicts depending on which theory of justice is applied. Keeping description and evaluation separate creates space for deliberation about which framework applies and why.</figcaption>
 </figure>
 
-The two-step also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined and contested. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
+Doing the second step out loud also makes values transparent. When researchers or practitioners claim that some distribution is inequitable, they are making an argument, one that can be examined and contested. The framing invites deliberation rather than smuggling normative conclusions into empirical categories.
 
-Finally, coalition-building may be easier with the two-step approach. People who disagree about theories of justice can still collaborate on establishing shared facts. 
+Finally, coalition-building may be easier with this approach. People who disagree about theories of justice can still collaborate on establishing shared facts. 
 
-## Using the two-step in practice
+## Using this approach in practice
 
 When describing sustainability outcomes, report inequalities as what they are: empirical findings about distributions. Who has access to clean water? How are climate risks distributed across populations? What are the patterns in environmental health burdens? These are questions that can be answered with data, and the answers do not require first settling contested normative debates.
 
@@ -211,12 +211,6 @@ When making claims about inequity, be explicit about the normative work you are 
 And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (which may be valid in a given context but is almost certainly not generalizable)? Its also worth remembering that the same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion.
 
 The goal is not terminological policing but analytical clarity in service of the intra- and inter-generational justice that sustainability science supports. 
-
----
-
-## Notes
-
-**Note 1:** Froehle's original image was posted to Google+ in December 2012. The panels were labeled "equality to a conservative" and "equality to a liberal." Later adaptations—not by Froehle—first relabeled them as "Equality" and "Fairness," then as "Equality" and "Equity." Froehle's own retrospective (2016) traces these mutations with bemusement but does not engage the terminological question directly, because the image was never about the relationship between (in)equality and (in)equity. It was about normative contestation over how different groups (in this case political parties) understand fairness. That said the "Equality vs. Equity" version is the one that went viral and therefore had this enormous influence on popular understanding of these terms. 
 
 ---
 
@@ -238,6 +232,8 @@ Hamann, M., Berry, K., Chaigneau, T., Curry, T., Heilmayr, R., Henriksson, P. J.
 
 Jasanoff, S. (2004). *States of Knowledge: The Co-Production of Science and the Social Order*. Routledge.
 
+Kauffman, C. M., & Martin, P. L. (2021). *The Politics of Rights of Nature: Strategies for Building a More Sustainable Future*. MIT Press.
+
 Kawachi, I., Subramanian, S. V., & Almeida-Filho, N. (2002). A glossary for health inequalities. *Journal of Epidemiology and Community Health*, 56(9), 647–652. [https://doi.org/10.1136/jech.56.9.647](https://doi.org/10.1136/jech.56.9.647)
 
 Lamont, M. (2018). Addressing Recognition Gaps: Destigmatization and the Reduction of Inequality. *American Sociological Review*, 83(3), 419–444. [https://doi.org/10.1177/0003122418773775](https://doi.org/10.1177/0003122418773775). [Open access](https://scholar.harvard.edu/files/lamont/files/asr_addressing_recognition_gaps.pdf)
@@ -253,6 +249,8 @@ Milanovic, B. (2023). *Visions of Inequality: From the French Revolution to the 
 Minow, M. (2021). Equality vs. Equity. *American Journal of Law and Equality*, 1, 167–193. [https://doi.org/10.1162/ajle_a_00019](https://doi.org/10.1162/ajle_a_00019)
 
 Norheim, O. F., & Asada, Y. (2009). The ideal of equal health revisited: Definitions and measures of inequity in health should be better integrated with theories of distributive justice. *International Journal for Equity in Health*, 8(1), 40. [https://doi.org/10.1186/1475-9276-8-40](https://doi.org/10.1186/1475-9276-8-40). [Open access](https://equityhealthj.biomedcentral.com/articles/10.1186/1475-9276-8-40)
+
+Nussbaum, M. C. (2023). *Justice for Animals: Our Collective Responsibility*. Simon & Schuster.
 
 Pierson, P., & Lamont, M. (Eds.). (2019). Inequality as a multidimensional process. *Special Issue of Daedalus: Journal of the American Academy of Arts and Sciences*, 148(3).
 
@@ -275,7 +273,5 @@ UN System Chief Executives Board for Coordination. (2017). *Leaving No One Behin
 Vallgarda, S. (2006). When are health inequalities a political problem? *European Journal of Public Health*, 16(6), 615–616. [https://doi.org/10.1093/eurpub/ckl047](https://doi.org/10.1093/eurpub/ckl047)
 
 Whitehead, M. (1992). The Concepts and Principles of Equity and Health. *International Journal of Health Services*, 22(3), 429–445. [https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN](https://doi.org/10.2190/986L-LHQ6-2VTE-YRRN)
-
-Willis, R., Curato, N., & Smith, G. (2022). Deliberative democracy and the climate crisis. *WIREs Climate Change*, 13(2), e759. [https://doi.org/10.1002/wcc.759](https://doi.org/10.1002/wcc.759)
 
 Young, I. M. (2006). Responsibility and Global Justice: A Social Connection Model. *Social Philosophy and Policy*, 23(1), 102–130. [https://doi.org/10.1017/S0265052506060043](https://doi.org/10.1017/S0265052506060043)
