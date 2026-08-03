@@ -7,6 +7,8 @@ banner_image: /assets/images/theorist-banner.svg
 wide: true
 ---
 
+Getting theory right matters for sustainability science. The essays here work through questions the field needs clearer thinking on: how should we think about the difference between inequality and inequity? How have people across centuries, cultures, and religious traditions understood what one generation owes the next? Some of this thinking is on its way to becoming journal articles; some of it will only ever live here. Either way, this is a place to have the discussion now, with less of the jargon and convention of academic prose: more accessible, and I hope more fun to read, for a wider audience. Roughly one essay a month; most are mine, with occasional guest essays. Reactions, disagreements, and ideas are very welcome.
+
 <ul class="post-list">
 {% for post in site.posts %}
   <li class="post-card">
