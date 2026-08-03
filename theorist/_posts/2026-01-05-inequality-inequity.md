@@ -11,21 +11,21 @@ tags: [inequality, inequity, justice, equity, sustainability-science, methodolog
 image: /assets/images/two-step.png
 ---
 
-Inequality and inequity sound alike and are often used interchangeably, but they answer different questions. Inequality is descriptive: it names a gap you can measure, in income, in health, in exposure to pollution. Inequity is a judgment: it says a particular gap is unfair. Not every inequality is inequitable, and deciding which ones are requires a theory of justice, not just better data. Getting this distinction right turns out to matter a great deal for how sustainability science does its work.
+Inequality and inequity sound alike and are often used interchangeably, but they answer different questions. Inequality is descriptive: it names a gap you can measure, in income, in health, in exposure to pollution. Inequity is a judgment: it says a particular gap is unfair. Not every inequality is inequitable, and deciding which ones are requires a theory of justice, not just better data. Getting this distinction right turns out to matter a great deal for research, for policy, and for everyday arguments about fairness.
 
-Strengthening the ability of sustainability science to grapple with issues of (in)equality and (in)equity requires working across deep differences in how people think about justice and fairness. Different philosophical traditions (e.g., libertarian, egalitarian, capabilities-based) come down differently on these questions. As do different religious and moral traditions. From the perspective of sustainability science, we are not here necessarily to adjudicate the ‘right’ answer to the question of what a fair or just distribution looks like, but as a field practically engaged with both intra- and inter-generational justice, we must find a way to talk about these concepts with as much clarity as possible. 
+Anyone who works on questions of distribution, whether in public health, education, climate policy, or a corporate equity program, has to work across deep differences in how people think about justice and fairness. Different philosophical traditions (libertarian, egalitarian, capabilities-based) come down differently on these questions. So do different religious and moral traditions. The task is rarely to settle what fairness requires in general. It is to reach workable judgments in specific settings, this policy, this program, this place, and that takes talking about these concepts clearly enough that people who disagree can deliberate their way to a decision. 
 
-This work gets harder when we fail to use consistent terminology and even worse when our terminology by virtue of the interdisciplinary nature of our field has been tangled that we often do not know how others understand the terms we are using for (in)equality and (in)equity. Untangling the meanings of these two terms and thinking through a pathway to using them consistently in our scholarship is well worth a try. Here is my own stab at figuring this out. 
+That work gets harder when the terminology itself is tangled, when we do not know how others understand the very terms we are using. I come at this from sustainability science, a field that spans disciplines and cultures and is practically engaged with justice both within and across generations, so I run into the tangle constantly. Untangling the meanings of these two terms, and thinking through a pathway to using them consistently, is well worth a try. Here is my own stab at figuring it out. 
 
 In both the scholarship sustainability science draws on, as well as in formal writing on sustainable development from sources as varied as the UN system, international NGOs and corporate sustainability programs, the terms in(equality) and (in)equity are often used interchangeably, or linked causally, or treated as if one is a subset of the other. Some of this confusion traces to scholarly traditions asking different questions and some emerges from how the terms get used in practice. 
 
-This post traces where that confusion comes from and argues for a cleaner framework for their use in sustainability science: First describe the distribution (equality or inequality), then evaluate whether it’s fair (equity or inequity). This framing is neither unique nor rocket science, but it’s surprising how often it does not seem to be used in either sustainability scholarship or practical efforts to foster sustainable development. The value of this approach is not the distinction itself, which is old, but the discipline of taking the two steps in sequence and out loud, so that the theory of justice being applied is visible and contestable rather than smuggled into the categories. That discipline lets people holding different theories of justice, or coming from different religious, moral and philosophical traditions, share empirical ground while preserving space for deliberation about what fairness requires. 
+This post traces where that confusion comes from and argues for a cleaner way of using the terms: first describe the distribution (equality or inequality), then evaluate whether it’s fair (equity or inequity). The distinction itself is old and not rocket science, yet it is surprising how often it goes unused, in scholarship and in practice. What does the work is the discipline of taking the two steps in order and being explicit at each: about what is being measured, and about the moral weight you are giving it and why. That way the judgment can be examined and contested instead of being built silently into the definitions of the words. That discipline lets people who hold different theories of justice, or who come from different religious, moral and philosophical traditions, share empirical ground while keeping open the deliberation over what fairness requires. 
 
 
 
 ## Describe First, Evaluate Second
 
-My proposal which as I said before is neither entirely original nor rocket science, is a way to clearly distinguish important work that is descriptive of the world as it is, from the normative work of deliberating on the world as it *should* be.  
+Used cleanly, the two terms divide the labor: description of the world as it is, and deliberation about the world as it *should* be.  
 
 **(In)equality is a descriptive concept.** It refers to measured distributions—of income, resources, health outcomes, environmental burdens, capabilities. Inequalities can be observed, quantified, and compared without yet making any judgment about their fairness.
 
@@ -125,19 +125,9 @@ These framings are all in circulation leaving a tangled muddle of confusion for 
 
 The approach I'm advocating here keeps the empirical and the normative connected but distinct, and it keeps normative disagreement visible rather than resolving it definitionally. This approach uses the terms differently than many philosophers do—philosophers have long framed normative debates about justice using "equality" language. But for applied work, it aligns with a distinction already implicit in how many researchers and some major institutions actually proceed. Making this convention explicit helps sustainability science. It preserves shared empirical ground for people who hold different theories of justice, while keeping normative deliberation visible and open.  It's a proposal about how we might use these terms more clearly, not a claim about how philosophers have always used them.
 
-## The Limits of the Distinction
-
-This approach has limits. For many distributions—income, emissions, exposure to environmental hazard—reasonably neutral description remains tractable. But for some domains, the descriptive and evaluative are more thoroughly intertwined.
-
-Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Lamont & Pierson, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take the condition it names to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
-
-Similarly, Hilary Putnam argued that the fact-value distinction, however useful, is not metaphysically clean—our choices about what to measure and how to categorize reflect normative commitments (Putnam, 2002). Science and technology studies has reached similar conclusions empirically: measurement categories and social order are co-produced, each shaping the other (Jasanoff, 2004).
-
-The approach does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry. In practice, this means that when working with recognition concepts, the sequence functions less as a method for separating description from evaluation and more as a reminder to be transparent that one's "description" already carries normative weight.
-
 ## How Careful Practitioners Already Work
 
-Describing first and evaluating second is not a new invention. It appears most clearly in work on material distributions, where the descriptive task is tractable in ways it may not be for debates about justice itself.
+Describing first and evaluating second is not a new invention. It appears most clearly in work on material distributions, where careful description is tractable.
 
 ### Inequality economists
 
@@ -207,11 +197,21 @@ Doing the second step out loud also makes values transparent. When researchers o
 
 Finally, coalition-building may be easier with this approach. People who disagree about theories of justice can still collaborate on establishing shared facts. 
 
+## The Limits of the Distinction
+
+This approach has limits. For many distributions—income, emissions, exposure to environmental hazard—reasonably neutral description remains tractable. But for some domains, the descriptive and evaluative are more thoroughly intertwined.
+
+Michèle Lamont has argued influentially that inequality scholarship has focused too narrowly on material distributions while neglecting what she calls "recognition gaps"—disparities in dignity, worth, and cultural membership between groups (Lamont, 2018; Lamont & Pierson, 2019). This is an important corrective. But when Lamont identifies a "recognition gap" or describes how groups experience "stigma," she is not making a purely descriptive claim the way Piketty does when he reports income shares. "Stigma" is not a neutral term. We use it because we already take the condition it names to be unjust. In other words the very thing we are measuring already carries its normative freight built in.
+
+Similarly, Hilary Putnam argued that the fact-value distinction, however useful, is not metaphysically clean—our choices about what to measure and how to categorize reflect normative commitments (Putnam, 2002). Science and technology studies has reached similar conclusions empirically: measurement categories and social order are co-produced, each shaping the other (Jasanoff, 2004).
+
+The approach does not rest on denying this entanglement. It claims that for many of the distributions central to sustainability science—who has access to clean water, how climate risks fall across populations, where environmental burdens concentrate—reasonably neutral description remains possible and valuable. For other domains—recognition, dignity, belonging—the framework helps us see that the descriptive and evaluative are more thoroughly intertwined, and marks those as requiring more explicit attention to the values our categories carry. In practice, this means that when working with recognition concepts, the sequence functions less as a method for separating description from evaluation and more as a reminder to be transparent that one's "description" already carries normative weight.
+
 ## Using this approach in practice
 
 When describing sustainability outcomes, report inequalities as what they are: empirical findings about distributions. Who has access to clean water? How are climate risks distributed across populations? What are the patterns in environmental health burdens? These are questions that can be answered with data, and the answers do not require first settling contested normative debates.
 
-When making claims about inequity, be explicit about the normative work you are doing. Why is this distribution unfair? According to what conception of justice? What would a more equitable distribution look like, and by what criteria? This transparency opens space for genuine deliberation about values rather than obscuring it.
+When making claims about inequity, be explicit about the normative work you are doing. Why is this distribution unfair? Unfair by what standard? What would a more equitable distribution look like, and by what criteria? This transparency opens space for genuine deliberation about values rather than obscuring it.
 
 And when encountering these terms in other literatures, pause to ask which framing is operating. Is the author treating equity as differentiated treatment aimed at equivalent outcomes (Froehle)? Using "inequity" to mean a subset of inequalities (Whitehead)? Assuming a causal relationship between inequality and inequity (which may be valid in a given context but is almost certainly not generalizable)? Its also worth remembering that the same words carry different meanings across fields, and recognizing this can prevent unnecessary confusion.
 
