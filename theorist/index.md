@@ -5,14 +5,17 @@ description: Essays on the conceptual foundations of sustainability science—cl
 banner_image: /assets/images/theorist-banner.svg
 wide: true
 intro: >-
-  Getting theory right matters for sustainability science. The essays here work through
-  questions the field needs clearer thinking on: how should we think about the difference
-  between inequality and inequity? How have people across centuries, cultures, and religious
-  traditions understood what one generation owes the next? Some of this thinking is on its
-  way to becoming journal articles; some of it will only ever live here. Either way, this is
-  a place to have the discussion now, with less of the jargon and convention of academic
-  prose: more accessible, and I hope more fun to read, for a wider audience. Roughly one
-  essay a month; most are mine, with occasional guest essays. Reactions, disagreements, and
+  Getting theory right matters for sustainability science: it is how a field built from
+  many research programs manages to work together, and how we stay clear about what we are
+  all working toward. The essays here take up the kinds of questions that sit underneath a
+  lot of work in the field. How should we think about the difference between inequality and
+  inequity? Why do unsustainable development pathways persist even when we have the data and
+  the public will to transform toward more sustainable ones? How have people across
+  centuries, cultures, and religious traditions understood what one generation owes the
+  next? Some of the thinking will end up in journal articles eventually; some of it won't.
+  Either way, the essays are a way to have the discussion now, with less academic jargon and
+  convention, accessible (and hopefully more fun to read) for a wider audience. Most are
+  mine, with occasional guest essays, roughly one a month. Reactions, disagreements, and
   ideas are [very welcome](/harley/).
 ---
 
