@@ -5,11 +5,12 @@ description: Essays on the conceptual foundations of sustainability science—cl
 banner_image: /assets/images/theorist-banner.svg
 wide: true
 intro: >-
-  Getting theory right matters for sustainability science: it is how a field built from
-  many research programs manages to work together, and how we stay clear about what we are
-  all working toward. The essays here take up the kinds of questions that sit underneath a
+  I think getting theory right for sustainability science is really important: it is how a
+  field built from many research programs manages to work together, and how we stay clear
+  about what we are all working toward. The essays here take up the kinds of questions that sit underneath a
   lot of work in the field. How should we think about the difference between inequality and
-  inequity? Why do unsustainable development pathways persist even when we have the data and
+  inequity? What does it mean to pursue equity within the current generation and equity
+  across generations at the same time? Why do unsustainable development pathways persist even when we have the data and
   the public will to transform toward more sustainable ones? How have people across
   centuries, cultures, and religious traditions understood what one generation owes the
   next? Some of the thinking will end up in journal articles eventually; some of it won't.
