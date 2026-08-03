@@ -338,6 +338,20 @@ a:hover {
   max-width: 940px;
 }
 
+/* Intro band between banner and content box (set `intro` in front matter) */
+.page-intro {
+  max-width: 1020px;
+  margin: 2.25rem auto 0.75rem;
+  padding: 0 var(--spacing);
+}
+
+.page-intro p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--color-text);
+  margin: 0 0 1rem;
+}
+
 .page-container-wide .page-content {
   max-width: none;
 }

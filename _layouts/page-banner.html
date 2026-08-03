@@ -66,6 +66,12 @@
   </div>
   {% endif %}
 
+  {% if page.intro %}
+  <div class="page-intro">
+    {{ page.intro | markdownify }}
+  </div>
+  {% endif %}
+
   <main id="main-content" class="page-container{% if page.wide %} page-container-wide{% endif %}">
     {% if page.subtitle %}
     <p class="page-subtitle">{{ page.subtitle }}</p>
