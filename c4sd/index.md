@@ -53,9 +53,27 @@ already built up considerable understanding of how to foster each one. Taken tog
 six capacities enable collaborative action for sustainability in the face of uncertainty.
 
 <figure>
-  <img src="{{ '/course/images/arer-capacities.png' | relative_url }}" alt="An integrated perspective on the six capacities necessary for sustainable development.">
-  <figcaption>An integrated perspective on capacities for sustainable development. Source: <a href="https://doi.org/10.1146/annurev-environ-012420-043621">Clark & Harley (2020)</a>.</figcaption>
+  <img src="{{ '/assets/images/capacity-building-for-sustainable-development-six-capacities.png' | relative_url }}" alt="Diagram of the six capacities necessary for sustainable development: the capacities to measure progress, promote equity, adapt to shocks, transform development pathways, govern cooperatively, and link knowledge with action. From Clark and Harley, 2020." width="708" height="794">
+  <figcaption>The six capacities at the center of capacity building for sustainable development. Source: <a href="https://doi.org/10.1146/annurev-environ-012420-043621">Clark & Harley (2020)</a>, <em>Annual Review of Environment and Resources</em>.</figcaption>
 </figure>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://sustainabilityscience.org/assets/images/capacity-building-for-sustainable-development-six-capacities.png",
+  "name": "Six capacities necessary for sustainable development",
+  "description": "Diagram of the six capacities necessary for sustainable development — measure progress, promote equity, adapt to shocks, transform development pathways, govern cooperatively, and link knowledge with action — from Clark and Harley (2020), Annual Review of Environment and Resources.",
+  "creator": [
+    { "@type": "Person", "name": "William C. Clark" },
+    { "@type": "Person", "name": "Alicia G. Harley" }
+  ],
+  "creditText": "Clark & Harley (2020), Annual Review of Environment and Resources",
+  "copyrightNotice": "© Clark & Harley 2020",
+  "width": 708,
+  "height": 794
+}
+</script>
 
 Each capacity is necessary. None is sufficient on its own. And they are interdependent: even
 well-developed capacities in one area — measurement, for example — routinely fall short when
