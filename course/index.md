@@ -101,7 +101,7 @@ The course seeks to understand how these ills can be remedied through collaborat
 </div>
 
 <div class="library-section">
-  <h3 class="library-heading">Course Library</h3>
+  <h3 class="library-heading"><a href="course-library/">Course Library</a></h3>
   <div class="library-links">
     <a href="course-library/teaching-cases/">Teaching Cases</a>
     <a href="course-library/student-cases/">Student Cases</a>

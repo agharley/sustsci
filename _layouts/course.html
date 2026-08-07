@@ -148,7 +148,7 @@
           <div class="sidebar-part" data-section="library">
             <div class="sidebar-part-header">
               <button type="button" class="sidebar-arrow" aria-expanded="false"><span aria-hidden="true">▸</span><span class="visually-hidden">Toggle section</span></button>
-              <span class="sidebar-part-title">Course Library</span>
+              <a href="{{ '/course/course-library/' | relative_url }}" class="sidebar-part-title {% if page.url contains 'course-library' and page.url contains 'index' %}active{% endif %}">Course Library</a>
             </div>
             <ul class="sidebar-units">
               <li><a href="{{ '/course/course-library/teaching-cases/' | relative_url }}" {% if page.url contains 'teaching-cases' %}class="active"{% endif %}>Teaching Cases</a></li>
