@@ -5,9 +5,9 @@ meta-description: Application-region case studies where you apply the course to 
 
 # Student Cases
 
-The student cases are where you put the course to work. Unit by unit, the course develops a framework for sustainability analysis—the elements of nature-society systems, and the relationships among them, that we have found most important. In the cases, you apply that framework to a real place.
+The student cases are where you put the course to work. Throught the course, you deepen your understanding of the dynamics of nature-society interactions and the capacities nessisary to re-orient development pathways toward sustainability. The student cases are your chance to apply what you have learned. 
 
-In this assignment, you choose a case and evaluate its pursuit of sustainability, setting out your conclusions in a short policy memo. We have prepared research guides for three cases—Uganda, the Brazilian state of Acre, and China's Pearl River Delta, with more planned—but you can choose nearly any; the guides simply give you a running start on the regions we have covered, and they are linked at the bottom of this page. The one requirement is that your case should be a region.
+In this assignment, you choose a case and evaluate its pursuit of sustainability, setting out your conclusions in a short policy memo. We have prepared research guides for three cases—the country of Uganda, the Brazilian state of Acre, and China's Pearl River Delta, but these cases are just ones that we provide a jumping off place for. Their is no reason that you cannot pick another case of your choosing. The one "requirement" is that your case should ideally be placed based (i.e. a city, region, country) rather than say a supply chain or a specific sustainability challenge like ocean plastics as it will be difficult to answer many of the 'your case' questions in each of the units if it is not place based.
 
 The student case material provided here serves two kinds of readers. If you are working through this course on your own, a case is how you practice applying what you are learning to a real place, and it will give your work through the units a destination. If you are teaching with this material, the cases are a complete applied assignment, ready to use or adapt. (A short note for instructors is linked at the bottom of this page.)
 
