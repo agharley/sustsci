@@ -11,7 +11,7 @@ description: "The library for the Sustainable Development course: the syllabus, 
     <a href="{{ '/course/sustainable-development-syllabus.pdf' | relative_url }}">Syllabus (PDF)</a>
   </div>
   <div class="part-card-units">
-    <p>The detailed course syllabus.</p>
+    <p>Detailed course syllabus.</p>
   </div>
 </div>
 
