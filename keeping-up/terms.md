@@ -6,7 +6,7 @@ keywords: sustainability science glossary, sustainability science definitions, c
 permalink: /keeping-up/terms/
 ---
 
-A glossary of key terms and definitions used in sustainability science.
+We built this glossery for a 2020 review of sustainability science (Clark & Harley 2020). Some new definitions have been added more recently. We welcome any feedback on this list and are the first to admit that its almost certainly incomplete. The value, we think, of such an effort is to help our intra-disiplnary field better communciate across research programs and disiplines. 
 
 ---
 
