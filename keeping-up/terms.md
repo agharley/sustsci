@@ -67,7 +67,7 @@ We built this glossery for a 2020 review of sustainability science (Clark & Harl
 
 **Polycentric:** systems with multiple sources of partial authority and semiautonomous decision-making that interact to create multi-level governance arrangements
 
-**Power:** the ability of actors to deploy their agency in ways that affect the beliefs or actions of other actors
+**Power:** the ability of actors to deploy their agency in ways that affect the actions, rights or beliefs of other actors
 {: #power}
 
 **Productive base:** the total set of resource stocks or capital assets on which society draws for its well-being
