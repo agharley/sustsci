@@ -51,7 +51,7 @@ A glossary of key terms and definitions used in sustainability science.
 
 **(In)equality:** a positive or descriptive concept referring to the distribution of assets or freedoms among actors
 
-**(In)equity:** a normative concept referring to the qualities of justness, fairness, and impartiality
+**(In)equity:** a normative concept referring to the qualities of justness and fairness.
 
 **Informed agitation:** the arousing of public concern about an issue, through the means of knowledge sharing, research, and deliberation, for the purpose of bringing about action ([Sen 2013](https://doi.org/10.1080/19452829.2012.747492))
 
