@@ -6,8 +6,6 @@ description: "The library for the Sustainable Development course: the syllabus, 
 
 # Course Library
 
-The course's supporting materials, all in one place.
-
 <div class="part-card">
   <div class="part-card-header">
     <a href="{{ '/course/sustainable-development-syllabus.pdf' | relative_url }}">Syllabus (PDF)</a>
