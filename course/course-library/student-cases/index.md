@@ -5,7 +5,7 @@ meta-description: Application-region case studies where you apply the course to 
 
 # Student Cases
 
-The student cases are where you put the course to work. Throught the course, you deepen your understanding of the dynamics of nature-society interactions and the capacities nessisary to re-orient development pathways toward sustainability. The student cases are your chance to apply what you have learned. 
+The student cases are where you put the course to work. Throughout the course, you deepen your understanding of the dynamics of nature-society interactions and the capacities necessary to re-orient development pathways toward sustainability. The student cases are your chance to apply what you have learned. 
 
 In this assignment, you choose a case and evaluate its pursuit of sustainability, setting out your conclusions in a short policy memo. We have prepared research guides for three cases—the country of Uganda, the Brazilian state of Acre, and China's Pearl River Delta, but these cases are just ones that we provide a jumping off place for. Their is no reason that you cannot pick another case of your choosing. The one "requirement" is that your case should ideally be placed based (i.e. a city, region, country) rather than say a supply chain or a specific sustainability challenge like ocean plastics as it will be difficult to answer many of the 'your case' questions in each of the units if it is not place based.
 
