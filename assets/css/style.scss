@@ -1849,3 +1849,10 @@ main .library-links a:hover,
 main .part-card-units a:hover {
   text-decoration: underline;
 }
+
+/* Descriptive cards (Course Library hub) */
+.part-card-units p {
+  margin: 0;
+  color: var(--color-text);
+  line-height: 1.55;
+}
