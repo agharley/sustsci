@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Conferences
-description: Upcoming conferences relevant to sustainability science and sustainable development, with themes, dates, locations, and submission deadlines.
+description: Conferences relevant to sustainability science and sustainable development, with themes, dates, locations, and submission deadlines.
 permalink: /keeping-up/conferences/
 ---
 
-Upcoming conferences relevant to sustainability science and sustainable development. Conferences are listed under the name of the organizing body or series rather than the title of a particular edition, with the current edition's theme given where one has been announced. Organized alphabetically. Past events are removed as they occur.
+Conferences relevant to sustainability science and sustainable development. Conferences are listed under the name of the organizing body or series rather than the title of a particular edition, with the current edition's theme given where one has been announced. Organized alphabetically. A conference remains listed after its most recent meeting has taken place, until the next edition is announced and the entry can be updated.
 
 | Conference | Theme | Dates | Location | Submissions |
 |---|---|---|---|---|
 | [Adaptation Futures](https://wasp-adaptation.org/core-initiatives/adaptation-futures-conference) | — | Sep–Nov 2027 (TBD) | Cancún, Mexico | Not yet open |
 | [Earth System Governance Conference (ESG)](https://www.earthsystemgovernance.org/2026-bath/) | Building just and sustainable futures for planetary integrity | Sep 7–11, 2026 | Bath, UK | Closed |
 | [Earth System Governance Conference (ESG)](https://www.uu.se/en/department/earth-sciences/events/archive/2027-09-20-2027-uppsala-conference-on-earth-system-governance) | — | Sep 20–24, 2027 | Uppsala, Sweden | Not yet open |
-| [Forests & Livelihoods (FLARE)](https://www.forestlivelihoods.org/annual-meeting-2026/) | Forests as Spaces of Hope and Solidarity | Oct 21–24, 2026 | Bilbao, Spain | Closed |
+| [Forests & Livelihoods: Assessment, Research, and Engagement (FLARE)](https://www.forestlivelihoods.org/annual-meeting-2026/) | Forests as Spaces of Hope and Solidarity | Oct 21–24, 2026 | Bilbao, Spain | Closed |
 | [International Association for the Study of the Commons (IASC)](https://2027.iasc-commons.org/) | Centering the Commons: Resilience, Resistance, and Collective Action | Jun 21–25, 2027 | Makassar, Indonesia | Panels due Sep 1, 2026 |
 | [International Conference on Sustainable Development (ICSD)](https://ecsdev.org/conference/14th-icsd-2026) | — | Sep 9–10, 2026 | Rome, Italy | Closed |
 | [International Sustainability Transitions Conference (IST)](https://www.transitionsnetwork.org/ist-2026/) | Hope – in challenging times | Aug 31–Sep 2, 2026 | Zurich, Switzerland | Closed |
