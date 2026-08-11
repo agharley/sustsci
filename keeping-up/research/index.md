@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Featured Research
+seo_title: Sustainability Science Research, Curated Monthly
 description: Featured research selections in sustainability science—papers we loved, updated monthly.
 permalink: /keeping-up/research/
 ---

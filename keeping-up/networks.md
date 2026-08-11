@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Networks
+title: Sustainability Science Networks
+seo_title: Research Networks and Societies in Sustainability Science
 description: A curated list of established research networks and professional societies in sustainability science and sustainable development.
 permalink: /keeping-up/networks/
 ---

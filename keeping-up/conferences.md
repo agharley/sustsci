@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Conferences
+title: Sustainability Science Conferences
+seo_title: Sustainability Science Conferences 2026–2027
 description: Conferences relevant to sustainability science and sustainable development, with themes, dates, locations, and submission deadlines.
 permalink: /keeping-up/conferences/
 full: true
