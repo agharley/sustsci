@@ -3,6 +3,7 @@ layout: page
 title: Conferences
 description: Conferences relevant to sustainability science and sustainable development, with themes, dates, locations, and submission deadlines.
 permalink: /keeping-up/conferences/
+full: true
 ---
 
 Conferences relevant to sustainability science and sustainable development. Conferences are listed under the name of the organizing body or series rather than the title of a particular edition, with the current edition's theme given where one has been announced. Organized alphabetically. A conference remains listed after its most recent meeting has taken place, until the next edition is announced and the entry can be updated.

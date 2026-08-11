@@ -338,6 +338,20 @@ a:hover {
   max-width: 940px;
 }
 
+/* Opt-in full-width container for pages built around a wide data table
+   (set `full: true` in front matter) */
+.page-container-full {
+  max-width: var(--max-width);
+}
+
+/* Prose inside a full-width page stays at a readable measure; only the
+   table is allowed to use the extra width. */
+.page-container-full > .page-content > p,
+.page-container-full > .page-content > ul,
+.page-container-full > .page-content > ol {
+  max-width: var(--content-width);
+}
+
 /* Intro band between banner and content box (set `intro` in front matter) */
 .page-intro {
   max-width: 1020px;
@@ -352,7 +366,8 @@ a:hover {
   margin: 0 0 1rem;
 }
 
-.page-container-wide .page-content {
+.page-container-wide .page-content,
+.page-container-full .page-content {
   max-width: none;
 }
 
@@ -1176,6 +1191,45 @@ th {
   background: var(--color-bg-alt);
   font-family: var(--font-sans);
   font-weight: 600;
+}
+
+/* Five-column listing tables on full-width pages (e.g. Conferences).
+   Column hints keep the name and theme columns from being squeezed, and
+   stop short date ranges from breaking across several lines. */
+.page-container-full table {
+  font-size: 0.88rem;
+}
+
+.page-container-full th:nth-child(1),
+.page-container-full td:nth-child(1) { width: 24%; }
+
+.page-container-full th:nth-child(2),
+.page-container-full td:nth-child(2) { width: 30%; }
+
+.page-container-full th:nth-child(3),
+.page-container-full td:nth-child(3) { width: 12%; white-space: nowrap; }
+
+.page-container-full th:nth-child(4),
+.page-container-full td:nth-child(4) { width: 16%; }
+
+.page-container-full th:nth-child(5),
+.page-container-full td:nth-child(5) { width: 18%; }
+
+/* Below the full-width breakpoint the table scrolls sideways rather than
+   collapsing into unreadable columns. */
+@media (max-width: 900px) {
+  .page-container-full {
+    padding: 1.25rem 1rem;
+  }
+
+  .page-container-full .page-content {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .page-container-full table {
+    min-width: 720px;
+  }
 }
 
 /* ==========================================================================
