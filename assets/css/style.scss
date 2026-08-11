@@ -790,11 +790,16 @@ a:hover {
   line-height: 1.65;
 }
 
+/* Give the title and subtitle the same box as .page-content below them
+   (same max-width plus the same horizontal padding) so their left edges
+   line up with the body text rather than sitting 54px to its left. */
 .page-container-tight > .page-title,
 .page-container-tight > .page-subtitle {
-  max-width: 780px;
+  max-width: var(--content-width);
   margin-left: auto;
   margin-right: auto;
+  padding-left: var(--spacing);
+  padding-right: var(--spacing);
 }
 
 .page-container-tight .page-title {
