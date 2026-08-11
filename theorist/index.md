@@ -4,20 +4,18 @@ title: The Sustainability Theorist
 description: Essays on the conceptual foundations of sustainability science—clarifying frameworks, untangling debates, and developing theoretical tools for the field.
 banner_image: /assets/images/theorist-banner.svg
 wide: true
-intro: >-
-  I think getting theory right for sustainability science is really important: it is how a
-  field built from many research programs manages to work together, and how we stay clear
-  about what we are all working toward. The essays here take up the kinds of questions that sit underneath a
-  lot of work in the field. How should we think about the difference between inequality and
-  inequity? What does it mean to pursue equity within the current generation and equity
-  across generations at the same time? Why do unsustainable development pathways persist even when we have the data and
-  the public will to transform toward more sustainable ones? How have people across
-  centuries, cultures, and religious traditions understood what one generation owes the
-  next? Some of the thinking will end up in journal articles eventually; some of it won't.
-  Either way, the essays are a way to have the discussion now, with less academic jargon and
-  convention, accessible (and hopefully more fun to read) for a wider audience. Most are
-  mine, with occasional guest essays, roughly one a month. Reactions, disagreements, and
-  ideas are [very welcome](/harley/).
+intro: |-
+  Getting theory right matters for sustainability science. The field is a "big tent" made
+  out of many different research programs and disciplinary perspectives. Working out the
+  theory is how those programs come to share a vocabulary, how they learn from one another
+  rather than talking past one another, and, I think, how the field as a whole gets
+  stronger.
+
+  The essays here are where I try to work some of that out, with less jargon than a journal
+  article allows and (hopefully) more fun to read. Some of the thinking will end up in
+  articles eventually; some of it won't. Either way, this is a way to have the discussion
+  now. Most are mine, with occasional guests, roughly one a month. Reactions,
+  disagreements, and ideas are [very welcome](/harley/).
 ---
 
 <ul class="post-list">

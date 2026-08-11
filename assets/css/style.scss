@@ -356,7 +356,11 @@ a:hover {
   font-size: 0.98rem;
   line-height: 1.55;
   color: var(--color-text);
-  margin: 0 0 1rem;
+  margin: 0 0 0.7rem;
+}
+
+.page-intro p:last-child {
+  margin-bottom: 0;
 }
 
 .page-container-wide .page-content,
