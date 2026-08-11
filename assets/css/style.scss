@@ -339,17 +339,10 @@ a:hover {
 }
 
 /* Opt-in full-width container for pages built around a wide data table
-   (set `full: true` in front matter) */
+   (set `full: true` in front matter). Prose runs the full width too, so the
+   intro lines up with the table beneath it. */
 .page-container-full {
   max-width: var(--max-width);
-}
-
-/* Prose inside a full-width page stays at a readable measure; only the
-   table is allowed to use the extra width. */
-.page-container-full > .page-content > p,
-.page-container-full > .page-content > ul,
-.page-container-full > .page-content > ol {
-  max-width: var(--content-width);
 }
 
 /* Intro band between banner and content box (set `intro` in front matter) */
