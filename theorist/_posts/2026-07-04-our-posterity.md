@@ -4,7 +4,7 @@ title: "Our Posterity: The Human Rights of Future Generations"
 date: 2026-07-04
 author: Alicia G. Harley
 image: /assets/images/constitution-preamble-posterity-1787.jpg
-description: "What do we owe Posterity? The human rights of future generations, from the Jefferson–Madison debate to inclusive wealth and the conservation of options."
+description: "What do we owe Posterity? Reflections on the unanswered commitment to future generations in America's founding document."
 keywords: future generations, intergenerational equity, human rights of future generations, inclusive wealth, conservation of options, sustainability science, Anthropocene, Edith Brown Weiss, Maastricht Principles, Declaration on Future Generations, posterity, Jefferson, Madison, Amartya Sen
 categories: [sustainability-theory]
 tags: [future-generations, intergenerational-equity, human-rights, inclusive-wealth, sustainability-science, posterity]
