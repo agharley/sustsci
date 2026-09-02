@@ -12,6 +12,7 @@ Conferences relevant to sustainability science and sustainable development. The 
 | Conference | Theme | Dates | Location | Submissions |
 |---|---|---|---|---|
 | [Adaptation Futures](https://wasp-adaptation.org/core-initiatives/adaptation-futures-conference) | — | Sep–Nov 2027 (TBD) | Cancún, Mexico | Not yet open |
+| [Agriculture, Food, and Human Values Society (AFHVS)](https://www.afhvs.org/) | Just Transformations: Food Systems and Cultures | Jun 7–10, 2026 | Burlington, VT | Closed |
 | [Earth System Governance Conference (ESG)](https://www.earthsystemgovernance.org/2026-bath/) | Building just and sustainable futures for planetary integrity | Sep 7–11, 2026 | Bath, UK *(next: [Uppsala, Sweden](https://www.uu.se/en/department/earth-sciences/events/archive/2027-09-20-2027-uppsala-conference-on-earth-system-governance), Sep 20–24, 2027)* | Closed |
 | [Forests & Livelihoods: Assessment, Research, and Engagement (FLARE)](https://www.forestlivelihoods.org/annual-meeting-2026/) | Forests as Spaces of Hope and Solidarity | Oct 21–24, 2026 | Bilbao, Spain | Closed |
 | [International Association for the Study of the Commons (IASC)](https://2027.iasc-commons.org/) | Centering the Commons: Resilience, Resistance, and Collective Action | Jun 21–25, 2027 | Makassar, Indonesia | Papers due Nov 10, 2026 |
