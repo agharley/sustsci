@@ -12,11 +12,9 @@ Conferences relevant to sustainability science and sustainable development. The 
 | Conference | Theme | Dates | Location | Submissions |
 |---|---|---|---|---|
 | [Adaptation Futures](https://wasp-adaptation.org/core-initiatives/adaptation-futures-conference) | — | Sep–Nov 2027 (TBD) | Cancún, Mexico | Not yet open |
-| [Earth System Governance Conference (ESG)](https://www.earthsystemgovernance.org/2026-bath/) | Building just and sustainable futures for planetary integrity | Sep 7–11, 2026 | Bath, UK | Closed |
-| [Earth System Governance Conference (ESG)](https://www.uu.se/en/department/earth-sciences/events/archive/2027-09-20-2027-uppsala-conference-on-earth-system-governance) | — | Sep 20–24, 2027 | Uppsala, Sweden | Not yet open |
+| [Earth System Governance Conference (ESG)](https://www.earthsystemgovernance.org/2026-bath/) | Building just and sustainable futures for planetary integrity | Sep 7–11, 2026 | Bath, UK *(next: [Uppsala, Sweden](https://www.uu.se/en/department/earth-sciences/events/archive/2027-09-20-2027-uppsala-conference-on-earth-system-governance), Sep 20–24, 2027)* | Closed |
 | [Forests & Livelihoods: Assessment, Research, and Engagement (FLARE)](https://www.forestlivelihoods.org/annual-meeting-2026/) | Forests as Spaces of Hope and Solidarity | Oct 21–24, 2026 | Bilbao, Spain | Closed |
 | [International Association for the Study of the Commons (IASC)](https://2027.iasc-commons.org/) | Centering the Commons: Resilience, Resistance, and Collective Action | Jun 21–25, 2027 | Makassar, Indonesia | Papers due Nov 10, 2026 |
-| [International Conference on Sustainable Development (ICSD)](https://ecsdev.org/conference/14th-icsd-2026) | — | Sep 9–10, 2026 | Rome, Italy | Closed |
 | [International Sustainability Transitions Conference (IST)](https://www.transitionsnetwork.org/ist-2027/) | Building Bridges | Jun 28–30, 2027 | Balneário Camboriú, Brazil | Abstracts due Jan 8, 2027 |
 | [International Transdisciplinarity Conference (ITD)](https://itd-alliance.org/itd-conference/itd27/) | Bridging Knowledge and Networks: Inter- and Transdisciplinarity for Transformative Change | May 31–Jun 4, 2027 | Évora, Portugal | Opening soon |
 | [National Sustainability Society Annual Conference (NSS)](https://www.thenss.org/2026conferencemain) | Courage, Credibility, and Collective Action in Sustainability | Aug 17–19, 2026 | Denver, CO | Closed |
@@ -25,6 +23,5 @@ Conferences relevant to sustainability science and sustainable development. The 
 | [Society for Social Studies of Science (4S)](https://www.4sonline.org/meeting.php) | TechnoPower • Technoscientific Futures | Oct 7–10, 2026 | Toronto, Canada | Closed |
 | [Sustainability Research and Innovation Congress (SRI)](https://sricongress.org/) | — | TBD | TBD | Not yet open |
 | [Transformations Conference](https://transformationscommunity.org/conferences/) | — | Oct 25–29, 2027 | Santiago de Compostela, Spain | Not yet open |
-| [World Sustainability Forum (WSF)](https://sciforum.net/event/WSF-13) | — | Jun 8–11, 2027 | Nice, France | Abstracts due Feb 1, 2027 |
 
 *Last updated: September 2026. Conference details change — confirm dates and deadlines on each event's own site before relying on them.*
