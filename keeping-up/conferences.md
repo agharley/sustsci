@@ -21,6 +21,7 @@ Conferences relevant to sustainability science and sustainable development. The 
 | [National Sustainability Society Annual Conference (NSS)](https://www.thenss.org/2026conferencemain) | Courage, Credibility, and Collective Action in Sustainability | Aug 17–19, 2026 | Denver, CO | Closed |
 | [Network for Education and Research on Peace and Sustainability (NERPS)](https://nerps.org/nerps2027-conference-in-jakarta/) | — | Mar 17–20, 2027 | Jakarta, Indonesia | Abstracts due Sep 30, 2026 |
 | [Planetary Health Annual Meeting (PHAM)](https://smartconf.jp/content/pham2027/) | Blending Wisdom for a Thriving Future: Solutions for a Changing Earth | Jun 7–11, 2027 | Tokyo, Japan | Abstracts due Sep 14, 2026 |
+| [Society for Social-Ecological Systems (SocSES)](https://socses.org/) | — | Aug 12–15, 2024 *(as PECS-3)* | Montréal, Canada | Closed |
 | [Society for Social Studies of Science (4S)](https://www.4sonline.org/meeting.php) | TechnoPower • Technoscientific Futures | Oct 7–10, 2026 | Toronto, Canada | Closed |
 | [Sustainability Research and Innovation Congress (SRI)](https://sricongress.org/) | — | Jun 22–26, 2026 *(Africa regional)* | Cape Town, South Africa | Closed |
 | [Transformations Conference](https://transformationscommunity.org/conferences/) | — | Oct 25–29, 2027 | Santiago de Compostela, Spain | Not yet open |

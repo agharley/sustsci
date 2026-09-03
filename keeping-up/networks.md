@@ -24,6 +24,9 @@ Organized alphabetically.
   sustainability, with an annual conference and professional-development programs.
 - **[Resilience Alliance](https://www.resalliance.org)** — A research network studying
   resilience in linked social-ecological systems as a foundation for sustainability.
+- **[Society for Social-Ecological Systems (SocSES)](https://socses.org)** — The scholarly
+  society for social-ecological systems research, launched in 2025 by the community behind
+  PECS and the Resilience Alliance to give the field a permanent institutional home.
 - **[Sustainability Transitions Research Network (STRN)](https://www.transitionsnetwork.org)** —
   The international network for sustainability transitions research; founded in 2009 with over
   3,000 members, it convenes the annual International Sustainability Transitions (IST)
