@@ -10,6 +10,10 @@ Some of the research networks and professional societies working across sustaina
 science and sustainable development. This list isn't exhaustive — suggestions welcome.
 Organized alphabetically.
 
+- **[Association for the Advancement of Sustainability in Higher Education (AASHE)](https://www.aashe.org)** —
+  The professional association for campus sustainability, connecting the staff and faculty who
+  lead sustainability efforts at colleges and universities; it runs the STARS rating system and
+  an annual global conference.
 - **[Earth System Governance Project](https://www.earthsystemgovernance.org)** — A global
   research alliance on the governance of global environmental change, and the largest
   social-science network in the field; it convenes an annual conference and publishes the
