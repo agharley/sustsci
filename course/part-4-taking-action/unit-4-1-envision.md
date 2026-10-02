@@ -30,7 +30,8 @@ Klein, Naomi, & Molly Crabapple. (2019). “A Message from the Future with Alexa
 > Short film, about seven minutes.
 
 **c) Read:**  
-Bennett, Elena M., et al. (2016). “Bright spots: seeds of a good Anthropocene.” *Frontiers in Ecology and the Environment* 14(8): 441–448. [https://doi.org/10.1002/fee.1309](https://doi.org/10.1002/fee.1309) ([free copy](https://eprints.soton.ac.uk/401154/1/fee1309.pdf))
+Bennett, Elena M., et al. (2016). “Bright spots: seeds of a good Anthropocene.” *Frontiers in Ecology and the Environment* 14(8): 441–448. [https://doi.org/10.1002/fee.1309](https://doi.org/10.1002/fee.1309)
+> The journal charges for access at the link above. A free copy of the published article is available from the [University of Southampton repository](https://eprints.soton.ac.uk/401154/1/fee1309.pdf).
 
 **d) Explore:**  
 Government Office for Science. (2024). *The Futures Toolkit: Tools for Futures Thinking and Foresight Across UK Government.* London: HM Government. [https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts](https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts)
