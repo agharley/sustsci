@@ -30,11 +30,11 @@ Klein, Naomi, & Molly Crabapple. (2019). “A Message from the Future with Alexa
 > Short film, about seven minutes.
 
 **c) Read:**  
-Bennett, Elena M., et al. (2016). “Bright spots: seeds of a good Anthropocene.” *Frontiers in Ecology and the Environment* 14(8): 441–448. [https://doi.org/10.1002/fee.1309](https://doi.org/10.1002/fee.1309)
+Bennett, Elena M., et al. (2016). “Bright spots: seeds of a good Anthropocene.” *Frontiers in Ecology and the Environment* 14(8): 441–448. [https://doi.org/10.1002/fee.1309](https://doi.org/10.1002/fee.1309) ([free copy](https://eprints.soton.ac.uk/401154/1/fee1309.pdf))
 
 **d) Explore:**  
 Government Office for Science. (2024). *The Futures Toolkit: Tools for Futures Thinking and Foresight Across UK Government.* London: HM Government. [https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts](https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts)
-> Work through the “Backcasting” tool only; it is the how-to for study question IV. This is the methods manual used across the UK civil service, and backcasting is one of twelve tools in it: the others, from Horizon Scanning and Three Horizons to Scenarios, Visioning, and Roadmapping, are worth exploring.
+> Work through the “Backcasting” tool only ([direct link to that section](https://www.gov.uk/government/publications/futures-toolkit-for-policy-makers-and-analysts/the-futures-toolkit-html#backcasting)); it is the how-to for study question IV. This is the methods manual used across the UK civil service, and backcasting is one of twelve tools in it: the others, from Horizon Scanning and Three Horizons to Scenarios, Visioning, and Roadmapping, are worth exploring.
 
 ---
 
