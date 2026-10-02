@@ -15,7 +15,7 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 - [Unit 0.1: The Challenge of Sustainable Development](unit-0-1.pdf)
 - [Unit 0.2: Tragedies of the Commons](unit-0-2.pdf)
 
-## Part I: Sustainable Development as a Conceptual Challenge
+## Part 1: Sustainable Development as a Conceptual Challenge
 
 - [Unit 1.1: Framework](unit-1-1.pdf)
 - [Unit 1.2: Goals](unit-1-2.pdf)
@@ -23,7 +23,7 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 - [Unit 1.4: Anthropogenic Resources](unit-1-4.pdf)
 - [Unit 1.5: Integrated Assessment](unit-1-5.pdf)
 
-## Part II: The Anthropocene as a Complex Adaptive System
+## Part 2: The Anthropocene as a Complex Adaptive System
 
 - [Unit 2.1: System Dynamics](unit-2-1.pdf)
 - [Unit 2.2: Stocks & Flows](unit-2-2.pdf)
@@ -34,7 +34,7 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 - [Unit 2.7: Inequality](unit-2-7.pdf)
 - [Unit 2.8: Synthesis](unit-2-8.pdf)
 
-## Part III: Capacities Needed for the Pursuit of Sustainability
+## Part 3: Capacities Needed for the Pursuit of Sustainability
 
 - [Unit 3.1: Capacities Overview](unit-3-1.pdf)
 - [Unit 3.2: Equity](unit-3-2.pdf)
@@ -44,9 +44,9 @@ This page provides links to all PDFs of the unit guides. It's an easier way to d
 - [Unit 3.6: Knowledge & Action](unit-3-6.pdf)
 - [Unit 3.7: Transform](unit-3-7.pdf)
 
-## Part IV: What's Next
+## Part 4: Taking Action
 
-- [Unit 4.1: What's Next](unit-4-1.pdf)
+- [Unit 4.1: Envisioning Sustainable Futures](unit-4-1.pdf)
 
 ## Consolidated Reading Guides 
 

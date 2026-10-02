@@ -41,7 +41,7 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 <div class="part-card">
   <div class="part-card-header">
-    <a href="part-1-conceptual-challenge/">Part I: Sustainable Development as a Conceptual Challenge</a>
+    <a href="part-1-conceptual-challenge/">Part 1: Sustainable Development as a Conceptual Challenge</a>
   </div>
   <div class="part-card-units">
     <ul>
@@ -56,7 +56,7 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 <div class="part-card">
   <div class="part-card-header">
-    <a href="part-2-anthropocene/">Part II: The Anthropocene as a Complex Adaptive System</a>
+    <a href="part-2-anthropocene/">Part 2: The Anthropocene as a Complex Adaptive System</a>
   </div>
   <div class="part-card-units">
     <ul>
@@ -74,7 +74,7 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 <div class="part-card">
   <div class="part-card-header">
-    <a href="part-3-capacities/">Part III: Capacities Needed for the Pursuit of Sustainability</a>
+    <a href="part-3-capacities/">Part 3: Capacities Needed for the Pursuit of Sustainability</a>
   </div>
   <div class="part-card-units">
     <ul>
@@ -91,11 +91,13 @@ The course seeks to understand how these ills can be remedied through collaborat
 
 <div class="part-card">
   <div class="part-card-header">
-    <a href="part-4-whats-next/">Part IV: What's Next for the World and for You</a>
+    <a href="part-4-taking-action/">Part 4: Taking Action in the Pursuit of Sustainability</a>
   </div>
   <div class="part-card-units">
     <ul>
-      <li><a href="part-4-whats-next/unit-4-1-whats-next.html">4.1 What's Next</a></li>
+      <li><a href="part-4-taking-action/unit-4-1-envision.html">4.1 Envisioning Sustainable Futures</a></li>
+      <li><a href="part-4-taking-action/unit-4-2-intervene.html">4.2 Intervening in Development Pathways</a></li>
+      <li><a href="part-4-taking-action/unit-4-3-lead.html">4.3 Leading the Pursuit of Sustainability</a></li>
     </ul>
   </div>
 </div>

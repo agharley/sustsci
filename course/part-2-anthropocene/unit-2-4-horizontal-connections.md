@@ -7,7 +7,7 @@ unit: "Unit 2.4"
 unit_title: "Horizontal Connections: How do linkages among places – e.g. pollution externalities, trade, and migration – affect the pursuit of sustainability?"
 ---
 
-The course so far has emphasized two perspectives on sustainable development: one broadly global (e.g., the resource trends of Part I), the other focused on particular places (e.g., our teaching cases for London, Alaska, and Appalachia). With this unit we seek to bridge these two perspectives, acknowledging that local places are connected with one another on a global stage.
+The course so far has emphasized two perspectives on sustainable development: one broadly global (e.g., the resource trends of Part 1), the other focused on particular places (e.g., our teaching cases for London, Alaska, and Appalachia). With this unit we seek to bridge these two perspectives, acknowledging that local places are connected with one another on a global stage.
 
 Those connections are ubiquitous, involving flows of people, pollution, trade, finance, information, and other things we review in the readings. But they are also incomplete: the Anthropocene System remains heterogeneous in the face of connections rather than becoming homogenized – for example, Vietnam and France remain distinct entities even though they are partially connected in many ways.
 

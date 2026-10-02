@@ -52,7 +52,7 @@ The Appalachia case from [Unit 2.6](/course/part-2-anthropocene/unit-2-6-actors-
 
 **IV. Mission-oriented transformation:** Reading ‘c’ presents mission-oriented policy as essential for sustainability transformations. How does their "market-shaping" approach differ fundamentally from traditional "market-fixing" policy? Consider the transformation in "A Message from the Future" (reading ‘d’) - what specific market-shaping interventions would be needed to achieve it? How do these interventions go beyond simply correcting market failures to actively creating new markets and directing innovation toward collective goals?
 
-**V. Your case:** Consider a specific transformation needed in your case—shifting from an unsustainable development pathway to a sustainable one. First, map how each of the six capacities from Part III would contribute to this transformation. Then analyze: Which capacities are currently strong or weak in your case? More importantly, what would it take to align these capacities toward a common mission as reading ‘c’ suggests? Is transformation failing because key capacities are missing, or because existing capacities aren't coordinated toward a shared purpose?
+**V. Your case:** Consider a specific transformation needed in your case—shifting from an unsustainable development pathway to a sustainable one. First, map how each of the six capacities from Part 3 would contribute to this transformation. Then analyze: Which capacities are currently strong or weak in your case? More importantly, what would it take to align these capacities toward a common mission as reading ‘c’ suggests? Is transformation failing because key capacities are missing, or because existing capacities aren't coordinated toward a shared purpose?
 
 ---
 
